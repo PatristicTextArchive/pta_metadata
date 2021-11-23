@@ -1,0 +1,2071 @@
+[
+    {
+        "ID": "https://pleiades.stoa.org/places/1001896",
+        "canonical": "Hellas",
+        "description": "An ancient place, cited: BAtlas 102 D4 no. 10 (Hellas)",
+        "coordinates": [
+            22.5,
+            37.5
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1",
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἑλλάδα",
+            "Ἑλλάδος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001943",
+        "canonical": "Aigyptos",
+        "description": "An ancient place, cited: BAtlas 102 F5 no. 57 (Aigyptos)",
+        "coordinates": [
+            32.5,
+            32.5
+        ],
+        "urns": [
+            "pta0001.pta007.pta-grc1",
+            "pta0001.pta026.pta-grc1",
+            "pta0001.pta002.pta-grc1",
+            "pta0001.pta019.pta-grc1",
+            "pta0001.pta004.pta-grc1",
+            "pta0001.pta005.pta-grc1",
+            "pta0001.pta018.pta-grc1"
+        ],
+        "orig_name": [
+            "Αἴγυπτον",
+            "Αἰγύπτου",
+            "Αἴγυπτος",
+            "Αἰγύπτῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001948",
+        "canonical": "Thebais Ano",
+        "description": "An ancient place, cited: BAtlas 102 F6 no. 62 (Thebais Ano)",
+        "coordinates": [
+            32.5,
+            27.5
+        ],
+        "urns": [
+            "pta0022.pta013.pta-grc1"
+        ],
+        "orig_name": [
+            "ἄνω Θηβαΐδι"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001950",
+        "canonical": "Libye he Kato",
+        "description": "An ancient place, cited: BAtlas 102 E5 no. 64 (Libye he Kato)",
+        "coordinates": [
+            27.5,
+            32.5
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "τῆς ἔγγιστα Λιβύης",
+            "Λιβύης",
+            "Λιβύαις"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1027",
+        "canonical": "Hispania",
+        "description": "An ancient place, cited: BAtlas 1 B2 Hispania",
+        "coordinates": [
+            -7.5,
+            42.5
+        ],
+        "urns": [
+            "pta0022.pta013.pta-grc1",
+            "pta0022.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Σπανίαν",
+            "Σπανίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1052",
+        "canonical": "Italia",
+        "description": "The Italian peninsula extending northward to the Alps as recognized by the Romans.",
+        "coordinates": [
+            11.0949512,
+            43.6941505
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta014.pta-grc1",
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἰταλίᾳ",
+            "Ἰταλίας",
+            "Ἰταλίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/108894",
+        "canonical": "Col. Augusta Treverorum",
+        "description": "The chief ancient city (civitas) of the Treveri. Modern Trier in Germany.",
+        "coordinates": [
+            6.639143061155274,
+            49.75225831037949
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Τριβέρεως",
+            "Τριβέροις"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1306",
+        "canonical": "Syria",
+        "description": "An ancient place, cited: BAtlas 1 K3 Syria",
+        "coordinates": [
+            37.5,
+            37.5
+        ],
+        "urns": [
+            "pta0001.pta006.pta-grc1",
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Συρίαν",
+            "Συρίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/156668177",
+        "canonical": "Bethania",
+        "description": "A village located near Jerusalem, at the Mount of Olives.",
+        "coordinates": [
+            35.259589,
+            31.7731513
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Βηθανίαν",
+            "Βηθανίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/187290",
+        "canonical": "Aquileia",
+        "description": "An ancient Roman city initially founded ca. 181/180 B.C., Aquileia is especially important in Late Antiquity and the Middle Ages.",
+        "coordinates": [
+            13.370946,
+            45.769631
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀκυληίας",
+            "Ἀκυληίᾳ",
+            "Ἀκυληΐᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/197446",
+        "canonical": "Poetovio",
+        "description": "Poetovio (Ptuj, Slovenia) was an ancient city in Pannonia that was the base-camp of Legio XIII Gemina.",
+        "coordinates": [
+            15.86998,
+            46.419985
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Πιτυβίωνα"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/20419",
+        "canonical": "Britannia/Albion (island)",
+        "description": "The island of Great Britain is located to the northwest of continental Europe and is the ninth largest island in the world.",
+        "coordinates": [
+            -2.422,
+            53.826
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Βρεττανίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/20468",
+        "canonical": "Germania",
+        "description": "An ancient place, cited: BAtlas 2 E3 Germania",
+        "coordinates": [
+            7.5,
+            52.5
+        ],
+        "urns": [
+            "pta0007.pta007.pta-grc1"
+        ],
+        "orig_name": [
+            "Γερμανίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/207065",
+        "canonical": "Dacia",
+        "description": "Dacia was a region inhabited by the Dacians or Getae. A Dacian kingdom existed from ca. the early first century BC until the Roman conquest under Trajan in AD 106.",
+        "coordinates": [
+            22.5,
+            45.5
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Δακίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/207303",
+        "canonical": "Naissus",
+        "description": "An ancient place, cited: BAtlas 21 D6 Naissus",
+        "coordinates": [
+            21.893884,
+            43.316295
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Ναισσῷ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/207439",
+        "canonical": "Serdica",
+        "description": "An ancient place, cited: BAtlas 21 F7 Serdica",
+        "coordinates": [
+            23.342891,
+            42.722826
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Σαρδικῆς",
+            "Σαρδικῇ",
+            "Σαρδικὴν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/207447",
+        "canonical": "Sirmium",
+        "description": "An ancient place, cited: BAtlas 21 B5 Sirmium",
+        "coordinates": [
+            19.610106,
+            44.966447
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Σιρμίῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/207549",
+        "canonical": "Viminacium",
+        "description": "An ancient city and Roman legionary base along the Danube, near modern Kostolac (Костолац, Caştelu) in Serbia.",
+        "coordinates": [
+            21.1913635,
+            44.7266235
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Βιμινακίῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/260940008",
+        "canonical": "Beitin",
+        "description": "A settlement which originally dates to the Chalcolithic period.",
+        "coordinates": [
+            35.238333,
+            31.928333
+        ],
+        "urns": [
+            "pta0001.pta019.pta-grc1"
+        ],
+        "orig_name": [
+            "Βεθὴλ",
+            "Βεθήλ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/29475",
+        "canonical": "Arabia",
+        "description": "An ancient place, cited: BAtlas 3 D4 Arabia",
+        "coordinates": [
+            42.5,
+            27.5
+        ],
+        "urns": [
+            "pta0001.pta013.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀραβίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/334481",
+        "canonical": "Aethiopia",
+        "description": "Aethiopia is a term used in the Classical sources to refer both to Upper Egypt and the regions south of the Sahara desert. It is employed as early as the time of Homer.",
+        "coordinates": [
+            3.5,
+            32.5
+        ],
+        "urns": [
+            "pta0007.pta007.pta-grc1"
+        ],
+        "orig_name": [
+            "Αἰθιοπίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/383706",
+        "canonical": "Mediolan(i)um",
+        "description": "A Celtic settlement and crossroads, later a Western Roman capital. Now modern Milan, Italy.",
+        "coordinates": [
+            9.18806,
+            45.463746
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1",
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Μεδιόλανον",
+            "Μεδιολάνῳ",
+            "Μεδιολάνου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/383815",
+        "canonical": "Vercellae",
+        "description": "Originally a captial of the Libici, a tribe of Ligurians, Vercellae became an important Roman municipium.",
+        "coordinates": [
+            8.426374,
+            45.321094
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Βιργίλλων τῆς Γαλλίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/383816",
+        "canonical": "Verona",
+        "description": "Verona was an ancient settlement that became a Roman colonia in 89 BC and a municipium in 49 BC.",
+        "coordinates": [
+            10.995626206088797,
+            45.441780855604314
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Βερωνὶ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/39303",
+        "canonical": "A(u)xoume",
+        "description": "Present-day Aksum in Ethiopia. The center of the Aksumite Kingdom, a maritime trading power that flourished from the first to the tenth centuries AD. The city was listed as UNESCO World Heritage Site in 1980.",
+        "coordinates": [
+            38.721522,
+            14.125005
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Αὐξούμει",
+            "Αὔξουμιν",
+            "Αὐξούμεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/393379",
+        "canonical": "Ariminum",
+        "description": "Ariminum (Rimini) is a Roman colony founded on the Adriatic coast in 268 BC.",
+        "coordinates": [
+            12.5631945,
+            44.0589565
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀρίμηνον",
+            "Ἀρι­μήνῳ",
+            "ἡ Ἀρίμηνος",
+            "Ἀρί­μηνον",
+            "Ἀριμήνῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/393473",
+        "canonical": "Patavium",
+        "description": "An ancient settlement of the Veneti, Patavium became a Roman municipium in 45 BC. It was the birthplace of several famous Romans including Titus Livius, Valerius Flaccus, Asconius Pedianus and Thrasea Paetus.",
+        "coordinates": [
+            11.876975,
+            45.409561
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Πατάβων"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/423025",
+        "canonical": "Roma",
+        "description": "The capital of the Roman Republic and Empire.",
+        "coordinates": [
+            12.486137,
+            41.891775
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1",
+            "pta0001.pta011.pta-grc1",
+            "pta0022.pta013.pta-grc1",
+            "pta0022.pta014.pta-grc1",
+            "pta0001.pta018.pta-grc1"
+        ],
+        "orig_name": [
+            "Ῥώμης",
+            "Ῥώμην",
+            "Ῥώμῃ",
+            "Ῥώμη"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/432754",
+        "canonical": "Capua",
+        "description": "An important ancient city of Campania with Villanovan and Etruscan origins.",
+        "coordinates": [
+            14.250207,
+            41.0860925
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Καπύης",
+            "Καμπανίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/462492",
+        "canonical": "Sicilia (island)",
+        "description": "Sicily is the largest island in the Mediterranean Sea and has been the site of human habitation since ca. 8,000 BC. In historical terms Sicily has seen important settlement activity connected to numerous culture groups - Punic, Carthaginian, Greek, Roman, Vandalic, Ostrogothic, Byzantine, Arabic, and Norman. ",
+        "coordinates": [
+            14.130954889982146,
+            37.54396265585135
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Σικελίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/465843763",
+        "canonical": "Sharon plain",
+        "description": "Central coastal plain between the Carmel and Joppe in modern Israel.",
+        "coordinates": [
+            34.91667,
+            32.28333
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀσσαρών"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/472014",
+        "canonical": "Sardinia (island)",
+        "description": "The second largest island in the Mediterranean Sea",
+        "coordinates": [
+            8.957516889586618,
+            39.87108695332339
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Σαρδανίαν",
+            "Σαρδίας νήσου",
+            "Σαρδανίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/481865",
+        "canonical": "Illyricum",
+        "description": "Illyricum was a Roman province that existed from 167 BC until AD 10.",
+        "coordinates": [
+            17.965028033333333,
+            42.427291800000006
+        ],
+        "urns": [
+            "pta0022.pta013.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἰλλυρικοῦ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/491656",
+        "canonical": "Macedonia (region)",
+        "description": "The region of ancient Macedonia in the Balkan peninsula. The boundaries of the region have shifted significantly over time, and remain controversial.",
+        "coordinates": [
+            21.75,
+            41.25
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0001.pta008.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Μακεδονίας",
+            "Μακεδονίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/491740",
+        "canonical": "Therme",
+        "description": "An ancient place, cited: BAtlas 50 C3 Therme",
+        "coordinates": [
+            22.94402,
+            40.58155
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Θεσσαλονίκης"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/501482",
+        "canonical": "Krenides/Philippi/Col. Augusta Iulia Philippensis",
+        "description": "An ancient city founded as Philippi by the king of Macedon, Philip II of Macedon on the site of the Thasian colony of Krinides.",
+        "coordinates": [
+            24.283608333333333,
+            41.013317
+        ],
+        "urns": [
+            "pta0004.pta001.pta-grcBibex"
+        ],
+        "orig_name": [
+            "φιλίπποις"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/501638",
+        "canonical": "Thracia",
+        "description": "Thracia refers to a territory occupied by the Thraci (or Thracians), a human population of the northern Balkan Peninsula whose reach stretched from the north Aegean Sea to the Danube river. Parts of Thracia would eventually become incorporated into the Roman provinces of Moesia and Thracia.",
+        "coordinates": [
+            23.129408,
+            40.288041
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Θρᾴκῃ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/511268",
+        "canonical": "Helikore/Nicaea",
+        "description": "Helikore/Nicaea (modern İznik, Turkey) was a Greek city of northwestern Anatolia. It was the site of the First and Second Councils of Nicaea and was the interim capital city of the Byzantine Empire between 1204 and 1261.",
+        "coordinates": [
+            29.714681666666667,
+            40.42909366666667
+        ],
+        "urns": [
+            "pta0001.pta014.pta-grc1",
+            "pta0001.pta004.pta-grc1",
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Νίκαιαν",
+            "Νι­καίᾳ",
+            "Νικαίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/520998",
+        "canonical": "Constantinopolis",
+        "description": "Capital city of the Eastern Roman Empire, the Latin, and the Ottoman Empires founded by Constantine I in AD 330. ",
+        "coordinates": [
+            28.961291608299153,
+            41.00779080957012
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1",
+            "pta0200.pta001.pta-syc1"
+        ],
+        "orig_name": [
+            "Κωνσταντινουπόλει",
+            "ܕܡܕܝܢܬ ܡ̇ܠܟܘܬܐ:"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/530871",
+        "canonical": "Epirus",
+        "description": "An ancient region that included northwest parts of modern Greece and the southern tip of modern Albania.",
+        "coordinates": [
+            20.58983204704269,
+            39.57710600554139
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἠπείρους"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/540775",
+        "canonical": "Euboea (island)",
+        "description": "Euboea is the second largest Greek island by area and is separated from the Greek mainland by the Euripus Strait.",
+        "coordinates": [
+            23.87,
+            38.53
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Εὐβοίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/570220",
+        "canonical": "Elis (city)",
+        "description": "Elis was an ancient city that served as the capital of the district of the same name.",
+        "coordinates": [
+            21.375091,
+            37.891781
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἤλιδι"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/589748",
+        "canonical": "Creta (island)",
+        "description": "The island of Crete is the largest of the Greek islands and the fifth-largest island in the Mediterranean Sea.",
+        "coordinates": [
+            24.984579005240445,
+            35.219518451031014
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Κρήτην"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/599612",
+        "canonical": "Ephesus/Arsinoe(ia)",
+        "description": "Ephesus/Arsinoe(ia) was the most important ancient metropolis of Ionian Asia Minor.",
+        "coordinates": [
+            27.339722,
+            37.941944
+        ],
+        "urns": [
+            "pta0001.pta026.pta-grc1",
+            "pta0007.pta007.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἐφέσῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/628949",
+        "canonical": "Cappadocia (region)",
+        "description": "A region that stretched from Lake Tatta in the east to the upper Euphrates River and from the Black Sea southward to Cilicia. ",
+        "coordinates": [
+            35.75,
+            39.25
+        ],
+        "urns": [
+            "pta0022.pta017.pta-grc1",
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta012.pta-grc1"
+        ],
+        "orig_name": [
+            "Καππαδοκίᾳ",
+            "Καππαδοκίαν",
+            "Καππαδοκίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/629035",
+        "canonical": "Mazaka/Eusebeia/Caesarea",
+        "description": "Mazaka/Eusebeia/Caesarea was the chief town of Cappadocia, modern Kayseri.",
+        "coordinates": [
+            35.484989,
+            38.728033
+        ],
+        "urns": [
+            "pta0022.pta012.pta-grc1",
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Καισαρείᾳ",
+            "Καισαρείᾳ τῆς Καππαδοκίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/638965",
+        "canonical": "Lycia",
+        "description": "Lycia was a region of southwestern Asia Minor.",
+        "coordinates": [
+            29.129311,
+            36.5135325
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Λυκίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/639034",
+        "canonical": "Pamphylia (region)",
+        "description": "An ancient place, cited: BAtlas 65 E4 Pamphylia",
+        "coordinates": [
+            30.98638,
+            36.990721
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Παμφυ­λίαν",
+            "Παμφυλίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/648653",
+        "canonical": "Isauria",
+        "description": "A region of southern Asia Minor.",
+        "coordinates": [
+            32.25,
+            37.25
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἰσαυρίαν",
+            "Ἰσαυρίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/658381",
+        "canonical": "Antiochia/Theoupolis",
+        "description": "A city founded ca. 300 BC by Seleucus I Nicator, a successor of Alexander the Great. Antioch was a great trading center and numbered as one of the four cities of the Syrian tetrapolis. Justinian I renamed the city 'Theoupolis' in the sixth century AD.",
+        "coordinates": [
+            36.183214,
+            36.222551499999994
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1",
+            "pta0022.pta015.pta-grc1",
+            "pta0037.pta001.pta-grc1",
+            "pta0022.pta017.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀντιοχείᾳ",
+            "παλατίου",
+            "τῇ Παλαιᾷ",
+            "Ἀντιόχειαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/668190",
+        "canonical": "Antarados/Constantia",
+        "description": "An ancient place, cited: BAtlas 68 A4 Antarados/Constantia",
+        "coordinates": [
+            35.8836795,
+            34.897427500000006
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀνταράδου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/668332",
+        "canonical": "Paltos",
+        "description": "An ancient place, cited: BAtlas 68 A3 Paltos",
+        "coordinates": [
+            35.927407,
+            35.272667
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Παλτοῦ Κοίλης Συρίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678084",
+        "canonical": "Carmel",
+        "description": "A coastal mountain range in northern Israel.",
+        "coordinates": [
+            35.0466669,
+            32.7286111
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Κάρμηλος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678145",
+        "canonical": "Galilaea",
+        "description": "Galilaea was the northernmost region of Palaestina. Galilaea became a Seleucid territory after the conquests of Alexander the Great.",
+        "coordinates": [
+            35.25,
+            32.75
+        ],
+        "urns": [
+            "pta0001.pta014.pta-grc1",
+            "pta0001.pta003.pta-grc1",
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Γαλιλαία",
+            "Γαλιλαίαν",
+            "Γαλιλαίας",
+            "Γαλιλαίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678220",
+        "canonical": "Kana?",
+        "description": "An ancient place, cited: BAtlas 69 B4 Kana?",
+        "coordinates": [
+            35.25,
+            32.75
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Κανὰ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678267",
+        "canonical": "Libanus M.",
+        "description": "A mountain range of northern Syria that is between the Mediterranean coastline and the Antilibanos mountains of the interior.",
+        "coordinates": [
+            36.116667,
+            34.3
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Λίβανος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678299",
+        "canonical": "Nazareth",
+        "description": "An ancient place, cited: BAtlas 69 B4 Nazareth",
+        "coordinates": [
+            35.300148,
+            32.701029
+        ],
+        "urns": [
+            "pta0001.pta014.pta-grc1",
+            "pta0001.pta025.pta-grc1",
+            "pta0001.pta004.pta-grc1"
+        ],
+        "orig_name": [
+            "Ναζωραίου",
+            "Ναζαρέτ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678369",
+        "canonical": "Samaria (region)",
+        "description": "The ancient region of Samaria.",
+        "coordinates": [
+            35.228586,
+            32.331417
+        ],
+        "urns": [
+            "pta0001.pta007.pta-grc1",
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Σαμαρείας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678370",
+        "canonical": "Samaria/Sebaste",
+        "description": "Samaria/Sebaste was an ancient city of Iudaea. In 30 B.C. it passed under the control of Herod the Great and was renamed Sebaste in honor of the emperor Augustus.",
+        "coordinates": [
+            35.190436,
+            32.276529
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Σαμαρείᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678431",
+        "canonical": "Tiberias",
+        "description": "Tiberias was founded by Herod Antipas ca. 20 BC. ",
+        "coordinates": [
+            35.5421525,
+            32.781575000000004
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Τιβεριάδος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687856",
+        "canonical": "Bethlehem",
+        "description": "An ancient place, cited: BAtlas 70 G2 Bethlehem",
+        "coordinates": [
+            35.202123,
+            31.712291
+        ],
+        "urns": [
+            "pta0001.pta005.pta-grc1",
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Βηθλεὲμ",
+            "Βηθλεέμ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687891",
+        "canonical": "Emmaus/Nicopolis",
+        "description": "An ancient settlement of Judea that is mentioned in numerous ancient sources including the Gospel of Luke. Now situated within the modern Canada Park in the Israeli-occupied West Bank, the site was known in modern times as Imwas and was populated until 1967. ",
+        "coordinates": [
+            34.989428000000004,
+            31.839295
+        ],
+        "urns": [
+            "pta0001.pta025.pta-grc1",
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἐμμαοὺς",
+            "Ἐμμαοῦς"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687900",
+        "canonical": "Gabaon",
+        "description": "An ancient place, cited: BAtlas 70 G2 Gabaon",
+        "coordinates": [
+            35.184362,
+            31.849056
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Γαβαὼ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687917",
+        "canonical": "Hierichous",
+        "description": "An ancient site in the Jordan valley with occupation beginning ca. 11,000 years BP. The tell of Hierichous (Jericho) has more than 20 settlement horizons, ranging from Natufian Hunter-Gatherers to modern.",
+        "coordinates": [
+            35.443876,
+            31.8700465
+        ],
+        "urns": [
+            "pta0001.pta017.pta-grc1",
+            "pta0001.pta002.pta-grc1",
+            "pta0037.pta001.pta-grc1",
+            "pta0001.pta011.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἱεριχὼ",
+            "Ἱεριχώ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687927",
+        "canonical": "Idumaea",
+        "description": "Idumaea or the kingdom of Edom was an historical region of the Levant located south of Iudaea and the Dead Sea.",
+        "coordinates": [
+            34.75,
+            31.25
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἐδὼμ",
+            "Ἐδώμ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687928",
+        "canonical": "Ierusalem/Hierosolyma/Col. Aelia Capitolina",
+        "description": "The city of Jerusalem.",
+        "coordinates": [
+            35.234156,
+            31.776679
+        ],
+        "urns": [
+            "pta0001.pta006.pta-grc1",
+            "pta0001.pta007.pta-grc1",
+            "pta0001.pta014.pta-grc1",
+            "pta0001.pta026.pta-grc1",
+            "pta0001.pta010.pta-grc1",
+            "pta0001.pta004.pta-grc1",
+            "pta0001.pta011.pta-grc1",
+            "pta0004.pta001.pta-grcBibex",
+            "pta0001.pta005.pta-grc1",
+            "pta0001.pta008.pta-grc1",
+            "pta0001.pta017.pta-grc1",
+            "pta0022.pta011.pta-grc1",
+            "pta0001.pta003.pta-grc1",
+            "pta0007.pta007.pta-grc1",
+            "pta0007.pta012.pta-grcBibex",
+            "pta0037.pta001.pta-grc1",
+            "pta0001.pta025.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἱεροσολύμοις",
+            "\nἱεροσολύμων\nἰεροσολύμων\n",
+            "τοῦ ὄρους τῶν Ἐλαιῶν",
+            "Σιὼν ὄρος",
+            "Ἱερουσαλήμ",
+            "Ἱεροσόλυμα",
+            "Σιών",
+            "τὸ ὄρος τῶν Ἐλαιῶν",
+            "ἱεροσολύμοις",
+            "Ἰερουσαλήμ",
+            "\nἱερουσαλήμ\nἱερουσαλὴμ\nἰἱερουσαλὴμ\nιερουσαλὴμ\n",
+            "Σιών",
+            "Ἱεροσολύμων",
+            "Σιὼν",
+            "ἐξ ὄρους τοῦ λεγομένου ἐλαιῶνος",
+            "Ἱερουσαλὴμ",
+            "τὸ ὄρος τῶν ἐλαιῶν",
+            "Ὄρη Σιών",
+            "Ἰερουσαλήμ",
+            "τῷ ὄρει τῶν ἐλαιῶν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687931",
+        "canonical": "Ioppe",
+        "description": "Ioppe (Jaffa) is an ancient port city in Iudaea.",
+        "coordinates": [
+            34.7499295,
+            32.053079
+        ],
+        "urns": [
+            "pta0001.pta001.pta-grcBibex",
+            "pta0001.pta003.pta-grc1",
+            "pta0001.pta005.pta-grc1"
+        ],
+        "orig_name": [
+            "\nἸόππην\nἸόπην\n",
+            "\nἸόππης\nἸόππης\n",
+            "Ἰόππην",
+            "Ἰόππῃ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687932",
+        "canonical": "Iordanes (river)",
+        "description": "Iordanes fl. (the Jordan river).",
+        "coordinates": [
+            35.56436628865419,
+            32.3575815564599
+        ],
+        "urns": [
+            "pta0001.pta006.pta-grc1",
+            "pta0001.pta014.pta-grc1",
+            "pta0001.pta019.pta-grc1",
+            "pta0001.pta004.pta-grc1",
+            "pta0001.pta012.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἰορδάνῃ",
+            "Ἰορδάνην",
+            "Ἰορδάνου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687934",
+        "canonical": "Iudaea (region)",
+        "description": "Iudaea was an historical region of the Levant located in the mountainous southern part of the Land of Palestine, roughly corresponding to the southern West Bank. The region's name derives from the biblical tribe of Judah and the associated Kingdom of Judah (ca. 934 until 586 BC).",
+        "coordinates": [
+            35.06046495,
+            31.78422155
+        ],
+        "urns": [
+            "pta0001.pta006.pta-grc1",
+            "pta0001.pta007.pta-grc1",
+            "pta0001.pta014.pta-grc1",
+            "pta0001.pta002.pta-grc1",
+            "pta0001.pta008.pta-grc1",
+            "pta0001.pta003.pta-grc1",
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἰουδαίᾳ",
+            "Ἰουδαίας",
+            "Ἰουδαία",
+            "Ἰούδα"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687977",
+        "canonical": "Modiin",
+        "description": "An ancient place, cited: BAtlas 70 G2 Modiin",
+        "coordinates": [
+            35.000146,
+            31.930204
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Μωδεεὶμ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687995",
+        "canonical": "Palaestina (region)",
+        "description": "A region at the southeastern coast of the Mediterranean Sea, encompassing the coastal plain between Phoenicia and Gaza. The region's name derives from the Hebrew Plšth, \"the land of the Philistines.\"",
+        "coordinates": [
+            34.75,
+            31.25
+        ],
+        "urns": [
+            "pta0001.pta006.pta-grc1",
+            "pta0001.pta007.pta-grc1",
+            "pta0001.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Παλαιστίνην",
+            "Παλαιστίνη",
+            "Παλαιστίνης"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/697725",
+        "canonical": "Petra",
+        "description": "Capital city of the Nabataeans located on the slope of Mount Hor.",
+        "coordinates": [
+            35.441944,
+            30.328611
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Πετρῶν τῆς Ἀραβίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/707498",
+        "canonical": "Cyprus (island)",
+        "description": "Third largest island in the Mediterranean Sea.",
+        "coordinates": [
+            33.25778319195364,
+            35.03226569576321
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1",
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1",
+            "pta0001.pta011.pta-grc1"
+        ],
+        "orig_name": [
+            "Κύπρῳ",
+            "Κύπρον",
+            "Κύπρου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/716520",
+        "canonical": "Ammon",
+        "description": "The Siwa Oasis was, in antiquity, site of the oracular temple of Amun (Zeus Ammon).",
+        "coordinates": [
+            25.543529666666668,
+            29.205173333333335
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀμμωνιακὴν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/716524",
+        "canonical": "Antiphrai/Leukaspis",
+        "description": "",
+        "coordinates": [
+            29.012034,
+            30.823446
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀντίφρων"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/716588",
+        "canonical": "Libya",
+        "description": "An ancient place, cited: None",
+        "coordinates": [
+            26.5,
+            31.5
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Λιβύας",
+            "Λιβυῶν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/716615",
+        "canonical": "Paraetonium/Ammonia",
+        "description": "The westernmost town of ancient Egypt.",
+        "coordinates": [
+            27.236943,
+            31.350247
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Παραι"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/716657",
+        "canonical": "Zygris",
+        "description": "An ancient place, cited: None",
+        "coordinates": [
+            27.669215,
+            31.172448
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ζύγρων"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727070",
+        "canonical": "Alexandria",
+        "description": "The ancient port city in Egypt's Nile Delta, founded by Alexander the Great in 332/331 BCE.",
+        "coordinates": [
+            29.909773,
+            31.201435
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1",
+            "pta0022.pta013.pta-grc1",
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta017.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀλεξανδρέων χώρᾳ",
+            "Ἀλε­ξανδρείᾳ",
+            "ἐκκλησίαν τὴν καλουμένην Θεωνᾶ",
+            "Ἀλεξανδρείας",
+            "Ἀλεξανδρείᾳ",
+            "Ἀλεξάνδρειαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727071",
+        "canonical": "Andronpolis",
+        "description": "An ancient place, cited: BAtlas 74 D3 Andronpolis",
+        "coordinates": [
+            30.626467,
+            30.778076
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἄνδρω"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727078",
+        "canonical": "Athribis (Lower Egypt)",
+        "description": "An ancient city of Lower Egypt located at present-day Tell Atrib to the northeast of Benha on the hill of Kom Sidi Yusuf.",
+        "coordinates": [
+            31.184479,
+            30.47243
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀθρί­βεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727123",
+        "canonical": "Hermopolis Mikra",
+        "description": "An ancient place, cited: BAtlas 74 C2 Hermopolis Mikra",
+        "coordinates": [
+            30.471298,
+            31.033361
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἑρμουπόλεως μικρᾶς"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727183",
+        "canonical": "Pachnamounis",
+        "description": "An ancient place, cited: BAtlas 74 E2 Pachnamounis",
+        "coordinates": [
+            30.92746,
+            31.358242
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Παχνεμούνεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727201",
+        "canonical": "Phragonis",
+        "description": "An ancient place, cited: BAtlas 74 D2 Phragonis",
+        "coordinates": [
+            30.934522,
+            31.247944
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Φραγώνεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727217",
+        "canonical": "Sais",
+        "description": "Sais was an ancient Egyptian town located in the Western Nile Delta on the Canopic branch of the Nile river. It served as the provincial capital of Sap-Meh, the fifth nome of Lower Egypt, and became a capital during the Twenty-fourth Dynasty (ca. 732–720 BC) as well as during the Late Period. Herodotus claimed that Osiris was buried at Sais. Other Greek authors, including Plato, maintained a connection between Sais and the goddess Athena.",
+        "coordinates": [
+            30.774366999999998,
+            30.967149999999997
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Σάεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727221",
+        "canonical": "Schedia/Chaireon/Menelais?",
+        "description": "An ancient place, cited: BAtlas 74 C2 Schedia/Chaireon/Menelais?",
+        "coordinates": [
+            30.192032,
+            31.13965
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Σχεδίας καὶ Μενελαΐτου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727236",
+        "canonical": "Tanis",
+        "description": "An ancient place, cited: BAtlas 74 F2 Tanis",
+        "coordinates": [
+            31.874266000000002,
+            30.975840666666667
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Τάνεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/730110",
+        "canonical": [
+            "Ἑλεαρχίας",
+            "Ἑλεαρχίας"
+        ],
+        "description": "empty",
+        "coordinates": [
+            "0",
+            "0"
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἑλεαρχίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/730134",
+        "canonical": [
+            "Ὀνούφεως τῆς Λύχ­νων"
+        ],
+        "description": "empty",
+        "coordinates": [
+            "0",
+            "0"
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ὀνούφεως τῆς Λύχ­νων"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/736948",
+        "canonical": "Krokodilopolis/Ptolemais Euergetis",
+        "description": "An ancient city in the Heptanomis and the capital of Arsinoites nome. The ancient Egyptian name of the site was Shedyet and in Pharaonic times it was a major cult center for the god Sobek.",
+        "coordinates": [
+            30.8399565,
+            29.3149635
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀρσενοΐτου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/746711",
+        "canonical": "Arabia Petraia",
+        "description": "A province on the frontier of the Roman empire from the second century AD, Arabia Petraia comprised parts of the former kingdom of Nabataea, as well as southern Syria, the Sinai, and the northwestern part of the Arabian peninsula. Its capital was Petra.",
+        "coordinates": [
+            35.441944,
+            30.328611
+        ],
+        "urns": [
+            "pta0001.pta045.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀραβίαν",
+            "Ἀραβίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/766",
+        "canonical": [
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἴγυπτον",
+            "Αἴγυπτον"
+        ],
+        "description": "empty",
+        "coordinates": [
+            "0",
+            "0"
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Αἴγυπτον",
+            "Αἰγύπτου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/77402394",
+        "canonical": "İstanbul",
+        "description": "A place from the TAVO Index",
+        "coordinates": [
+            28.75,
+            41.25
+        ],
+        "urns": [
+            "pta0001.pta003.pta-grc1"
+        ],
+        "orig_name": [
+            "Κωνσταντινουπόλεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/775",
+        "canonical": "Africa (region)",
+        "description": "The region of modern North Africa to which the Romans referred as \"Africa\", effectively the majority of same with the exception of Egypt, later truncated to correspond to the Roman province of the same name.",
+        "coordinates": [
+            7.5,
+            32.5
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀφρικῇ",
+            "Ἀφρικὴν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/776210",
+        "canonical": "Oasis Magna/Thebaidos",
+        "description": "Kharga: one of the large oases of Egypt’s Western Desert.",
+        "coordinates": [
+            30.592282894102997,
+            25.74059722856505
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "μεγάλην Ὄασιν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/786059",
+        "canonical": "Latopolis",
+        "description": "An ancient place, cited: BAtlas 80 B3 Latopolis",
+        "coordinates": [
+            32.5531993,
+            25.2936689
+        ],
+        "urns": [
+            "pta0022.pta013.pta-grc1"
+        ],
+        "orig_name": [
+            "τῇ Λατῶν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/786089",
+        "canonical": "Philae",
+        "description": "An ancient island located just above the first cataract of the Nile that was flooded by the construction of the Aswan High Dam. The island was home to a multi-period temple complex, which was moved to the nearby island of Agilkia and declared a UNESCO World Heritage Site in the 1970s.",
+        "coordinates": [
+            32.884252,
+            24.025031
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1"
+        ],
+        "orig_name": [
+            "Φίλων"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/786123",
+        "canonical": "Syene",
+        "description": "The ancient city of Swenett in Egypt, called Syene by the Greeks.",
+        "coordinates": [
+            32.89804,
+            24.081158
+        ],
+        "urns": [
+            "pta0007.pta007.pta-grc1"
+        ],
+        "orig_name": [
+            "Συήνην"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/786131",
+        "canonical": "Thebais",
+        "description": "An ancient place, cited: BAtlas 80 B1 Thebais",
+        "coordinates": [
+            32.75,
+            26.25
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Θηβαίδος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/857287",
+        "canonical": "Pontus",
+        "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region. ",
+        "coordinates": [
+            34.7425505,
+            43.0786852
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Πόντον"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/874621",
+        "canonical": "Nineveh/Ninos",
+        "description": "This important Mesopotamian city flanks the eastern edge of the Tigris flood plain, opposite modern Mosul, of which it is now a suburb. From the third millennium B.C. onwards, Nineveh was the most important religious center of the goddess Ištar in the area that would become the Assyrian heartland. Starting in the Middle Assyrian period, the city came under the authority of the kings of Assyria, who often sponsored large-scale building activities there. However, it was not until 704 B.C. that Nineveh became the administrative capital of Assyria, when the Neo-Assyrian king Sennacherib moved the royal family and court there and transformed the city into a thriving imperial metropolis. Nineveh remained Assyria’s capital until 612 B.C., when it was captured and destroyed by a Babylonian-Median collation led by Nabopolassar and Cyaxares. The visible remains of the (7th-century) Assyrian city include the citadel mound Kuyunjik, the smaller mound of Nebi Yunus, and the twelve-kilometer-long city wall.",
+        "coordinates": [
+            43.155403,
+            36.366841
+        ],
+        "urns": [
+            "pta0004.pta001.pta-grcBibex",
+            "pta0001.pta002.pta-grc1"
+        ],
+        "orig_name": [
+            "Νινευὶ",
+            "\nΝινευὶ\nΝινευὴ\nΝινευεῖ\n",
+            "\nνινευῆ\nνινευη\nνινευῇ \nνινευῆι\nνινευὴ\nνινευὶ\n"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/893951",
+        "canonical": "Babylon",
+        "description": "The ancient city of Babylon began as an Akkadian city-state founded by Amorites in 1894 B.C. The city was also the seat of the Neo-Babylonian Empire from 608 to 539 B.C.",
+        "coordinates": [
+            44.42431303757361,
+            32.53778031300106
+        ],
+        "urns": [
+            "pta0001.pta007.pta-grc1",
+            "pta0001.pta011.pta-grc1",
+            "pta0004.pta001.pta-grcBibex",
+            "pta0001.pta005.pta-grc1",
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Βαβυλῶν‹ος",
+            "Βαβυλῶνι",
+            "\nβαβυλὼν\nβαβυλῶν\n",
+            "\nβαβυλῶνος\nβαβυλῶνος\n",
+            "\nβαβυλῶνος\nβαβυλῶνοας\nβαβυλῶνας\n",
+            "Βαβυλωνίας",
+            "βαβυλῶνα",
+            "\nβαβυλῶνα\nβαβυλωνίαν\n",
+            "\nβαβυλῶνος\n\n",
+            "Βαβυλών",
+            "Βαβυλῶνα",
+            "Βαβυλῶ›νος",
+            " βαβυλῶνος",
+            "βαβυλὼν",
+            "\nβαβυλῶνα\nτὴν βαβυλῶνα\n\n",
+            "βαβυλῶνος",
+            "\nβαβυλῶνος\nβαβυλώνος\n",
+            "Βαβυλῶνος",
+            "Βα›βυλῶνι",
+            "βαβυλῶνι",
+            "Βαβυλῶνός",
+            "Βα›βυλῶνα",
+            "Βαβυλὼν",
+            "\nβαβυλῶνος\nβαβλωνος\n"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/912816",
+        "canonical": "Babylonia",
+        "description": "An ancient Akkadian region in Mesopotamia.",
+        "coordinates": [
+            44.5,
+            32.5
+        ],
+        "urns": [
+            "pta0001.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Βαβυλωνίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/912842",
+        "canonical": "Elam",
+        "description": "An ancient Pre-Iranian civilization located in the west and southwest of modern-day Iran.",
+        "coordinates": [
+            49.5,
+            31.5
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Αἰλάμ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/912849",
+        "canonical": "Euphrates (river)",
+        "description": "The longest river of Western Asia, the Euphrates flows from the Kara Su and the Murat Su to the confluence with the Tigris river.",
+        "coordinates": [
+            39.606017877774164,
+            35.54331017895074
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Εὐφράτῃ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/912936",
+        "canonical": "Susa/Seleucia ad Eulaeum",
+        "description": "An ancient city of the Elamite, Persian, and Parthian empires of Iran. Located at modern Shush, Susa was inscribed on the UNESCO World Heritage List in 2015.",
+        "coordinates": [
+            48.2537285,
+            32.1887935
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Σούσοις"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/912986",
+        "canonical": "Uruk/Orchoe/Erech/Orikut",
+        "description": "Uruk was an ancient Sumerian (and later Babylonian) city located on the Euphrates river. At its height (ca. 2900 BC), Uruk's population may have topped 50,000 people and its walls enclosed an area of more than six square kilometers, making it the largest city in the world at that point in time.",
+        "coordinates": [
+            45.6277385,
+            31.3201079
+        ],
+        "urns": [
+            "pta0004.pta001.pta-grcBibex"
+        ],
+        "orig_name": [
+            "\nὀρὲχ\nὁρὲχ\nὀρεχ\nὁρεχ ̓\nὀρεχ ̓\n"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/981503",
+        "canonical": "Ancient Egypt (region)",
+        "description": "The ancient kingdom(s) and region of Egypt as understood by the Egyptians themselves, their neighbors, and their successors. Individual administrative districts, provinces, nomes, and the like have separate place resources in Pleiades.",
+        "coordinates": [
+            30.567329633333333,
+            19.211408766666665
+        ],
+        "urns": [
+            "pta0004.pta001.pta-grcBibex",
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta016.pta-grc1",
+            "pta0001.pta003.pta-grc1",
+            "pta0007.pta007.pta-grc1",
+            "pta0037.pta001.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Αἴγυπτον",
+            "Αἰγύπτου",
+            "Αἰγύπτῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/981508",
+        "canonical": "Armenia Minor (Roman eparcheia)",
+        "description": "Territory west of the Euphrates and Armenia (Roman province) included in the province of Cappadocia by Vespasian. ",
+        "coordinates": [
+            37.5,
+            42.5
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀρμενίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/981509",
+        "canonical": "Asia",
+        "description": "The Roman province of Asia, located on the eastern coast of the Aegean Sea. The region was bequeathed to the Roman Republic by Attalus III of Pergamum in 133 BCE. It was divided into seven smaller provinces by Diocletian in the 4th century CE.",
+        "coordinates": [
+            27.5,
+            37.5
+        ],
+        "urns": [
+            "pta0001.pta026.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀσίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/981514",
+        "canonical": "Cilicia",
+        "description": "An ancient place, cited: BAtlas 100 N4 Cilicia",
+        "coordinates": [
+            32.5,
+            37.5
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Κιλικίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/981522",
+        "canonical": "Dalmatia (province)",
+        "description": "A province of the Roman Empire at the death of Trajan (117 CE).",
+        "coordinates": [
+            17.5,
+            42.5
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Δαλματίας",
+            "Δαλματίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/981534",
+        "canonical": "Mesopotamia",
+        "description": "An ancient place, cited: BAtlas 100 P4 Mesopotamia",
+        "coordinates": [
+            37.5,
+            37.5
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Μεσοποταμίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/982261",
+        "canonical": "Isauria",
+        "description": "An ancient place, cited: BAtlas 100 N4 no. 5 (Isauria)",
+        "coordinates": [
+            32.5,
+            37.5
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἰσαυρίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/991367",
+        "canonical": "Dardania",
+        "description": "An ancient place, cited: BAtlas 101 L3 Dardania",
+        "coordinates": [
+            22.5,
+            42.5
+        ],
+        "urns": [
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Δαρδανίαν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/991375",
+        "canonical": [
+            "Λιβύης",
+            "Λιβύας",
+            "Λιβύης",
+            "Λιβύης"
+        ],
+        "description": "empty",
+        "coordinates": [
+            "0",
+            "0"
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Λιβύας",
+            "Λιβύης"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/991398",
+        "canonical": "Thebais",
+        "description": "An ancient place, cited: BAtlas 101 N6 Thebais",
+        "coordinates": [
+            32.5,
+            27.5
+        ],
+        "urns": [
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Θηβαίδος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/991408",
+        "canonical": "Arabia (late Roman province)",
+        "description": "The post-Diocletianic province of Arabia according to the Verona List (ca. AD 303-324). It was assigned to the diocese of Oriens.",
+        "coordinates": [
+            37.5,
+            32.5
+        ],
+        "urns": [
+            "pta0022.pta015.pta-grc1",
+            "pta0022.pta014.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἀραβίας",
+            "Ἀραβίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/992077",
+        "canonical": "Moesiae",
+        "description": "An ancient place, cited: BAtlas 101 L3 Moesiae",
+        "coordinates": [
+            22.5,
+            42.5
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1"
+        ],
+        "orig_name": [
+            "Μυσίας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/993",
+        "canonical": "Gallia",
+        "description": "The ancient region known to the Romans as \"Gallia\" (Gaul). Famously described by Caesar as the territory of the ancient Celts (Celtae), whom the Romans called Gauls (Galli in Latin).",
+        "coordinates": [
+            2.4909588190476195,
+            45.57717715
+        ],
+        "urns": [
+            "pta0022.pta016.pta-grc1",
+            "pta0022.pta014.pta-grc1",
+            "pta0022.pta010.pta-grc1"
+        ],
+        "orig_name": [
+            "Γαλλίας",
+            "Γαλλίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/XXXXXX",
+        "canonical": [
+            "Αἰλῶν",
+            "Αἰλῶν",
+            "Ἐδὲμ",
+            "Ἐδὲμ",
+            "Ἐδὲμ"
+        ],
+        "description": "empty",
+        "coordinates": [
+            "0",
+            "0"
+        ],
+        "urns": [
+            "pta0037.pta001.pta-grc1"
+        ],
+        "orig_name": [
+            "Ἐδὲμ",
+            "Αἰλῶν"
+        ]
+    }
+]
