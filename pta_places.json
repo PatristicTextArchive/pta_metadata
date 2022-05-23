@@ -1,81 +1,5 @@
 [
     {
-        "ID": "http://pleiades.stoa.org/places/678369",
-        "canonical": [
-            "Samaria"
-        ],
-        "description": "empty",
-        "coordinates": [
-            "0",
-            "0"
-        ],
-        "urns": [
-            "pta0005.pta001.pta-deuBibex"
-        ],
-        "orig_name": [
-            "Samaria"
-        ]
-    },
-    {
-        "ID": "http://pleiades.stoa.org/places/687928",
-        "canonical": [
-            "Jerusalem",
-            "Jerusalem",
-            "Jerusalem",
-            "Jerusalem",
-            "Jerusalem"
-        ],
-        "description": "empty",
-        "coordinates": [
-            "0",
-            "0"
-        ],
-        "urns": [
-            "pta0005.pta001.pta-deuBibex"
-        ],
-        "orig_name": [
-            "Jerusalem"
-        ]
-    },
-    {
-        "ID": "http://pleiades.stoa.org/places/727080",
-        "canonical": [
-            "Ramesses"
-        ],
-        "description": "empty",
-        "coordinates": [
-            "0",
-            "0"
-        ],
-        "urns": [
-            "pta0005.pta001.pta-deuBibex"
-        ],
-        "orig_name": [
-            "Ramesses"
-        ]
-    },
-    {
-        "ID": "http://pleiades.stoa.org/places/893951",
-        "canonical": [
-            "Babylon",
-            "Babylon",
-            "Babylons",
-            "Babylon"
-        ],
-        "description": "empty",
-        "coordinates": [
-            "0",
-            "0"
-        ],
-        "urns": [
-            "pta0005.pta001.pta-deuBibex"
-        ],
-        "orig_name": [
-            "Babylons",
-            "Babylon"
-        ]
-    },
-    {
         "ID": "https://pleiades.stoa.org/places/1001896",
         "canonical": "Hellas",
         "description": "An ancient place, cited: BAtlas 102 D4 no. 10 (Hellas)",
@@ -84,13 +8,14 @@
             37.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0022.pta014.pta-grc1:l11",
+            "pta0022.pta016.pta-grc1:l16",
+            "pta0037.pta001.pta-grc1:l124"
         ],
         "orig_name": [
             "Ἑλλάδα",
-            "Ἑλλάδος"
+            "Ἑλλάδος",
+            "Ἑλλάδα"
         ]
     },
     {
@@ -102,19 +27,30 @@
             32.5
         ],
         "urns": [
-            "pta0001.pta018.pta-grc1",
-            "pta0001.pta026.pta-grc1",
-            "pta0001.pta004.pta-grc1",
-            "pta0001.pta019.pta-grc1",
-            "pta0001.pta007.pta-grc1",
-            "pta0001.pta002.pta-grc1",
-            "pta0001.pta005.pta-grc1"
+            "pta0001.pta002.pta-grc1:l1",
+            "pta0001.pta002.pta-grc1:l5",
+            "pta0001.pta002.pta-grc1:l6",
+            "pta0001.pta004.pta-grc1:l2",
+            "pta0001.pta005.pta-grc1:l3",
+            "pta0001.pta007.pta-grc1:l12",
+            "pta0001.pta018.pta-grc1:l3",
+            "pta0001.pta019.pta-grc1:l1",
+            "pta0001.pta019.pta-grc1:l5",
+            "pta0001.pta026.pta-grc1:l2",
+            "pta0001.pta026.pta-grc1:l3"
         ],
         "orig_name": [
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτῳ",
             "Αἴγυπτος",
             "Αἰγύπτῳ",
             "Αἴγυπτον",
-            "Αἰγύπτου"
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἴγυπτος",
+            "Αἰγύπτῳ"
         ]
     },
     {
@@ -126,7 +62,7 @@
             27.5
         ],
         "urns": [
-            "pta0022.pta013.pta-grc1"
+            "pta0022.pta013.pta-grc1:l5"
         ],
         "orig_name": [
             "ἄνω Θηβαΐδι"
@@ -141,13 +77,16 @@
             32.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta014.pta-grc1:l63",
+            "pta0022.pta015.pta-grc1:l6",
+            "pta0022.pta015.pta-grc1:l32",
+            "pta0022.pta015.pta-grc1:l43"
         ],
         "orig_name": [
+            "Λιβύαις",
             "Λιβύης",
             "τῆς ἔγγιστα Λιβύης",
-            "Λιβύαις"
+            "τῆς ἔγγιστα Λιβύης"
         ]
     },
     {
@@ -159,8 +98,8 @@
             42.5
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1",
-            "pta0022.pta013.pta-grc1"
+            "pta0022.pta013.pta-grc1:l4",
+            "pta0022.pta016.pta-grc1:l8"
         ],
         "orig_name": [
             "Σπανίας",
@@ -176,14 +115,17 @@
             43.6941505
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0022.pta015.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l30",
+            "pta0022.pta010.pta-grc1:l38",
+            "pta0022.pta014.pta-grc1:l5",
+            "pta0022.pta015.pta-grc1:l3",
+            "pta0022.pta016.pta-grc1:l11"
         ],
         "orig_name": [
             "Ἰταλίαν",
+            "Ἰταλίας",
             "Ἰταλίᾳ",
+            "Ἰταλίας",
             "Ἰταλίας"
         ]
     },
@@ -192,15 +134,16 @@
         "canonical": "Col. Augusta Treverorum",
         "description": "The chief ancient city (civitas) of the Treveri. Modern Trier in Germany.",
         "coordinates": [
-            6.639143061155274,
-            49.75225831037949
+            6.64163827338633,
+            49.75232117245539
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l8",
+            "pta0022.pta010.pta-grc1:l27"
         ],
         "orig_name": [
-            "Τριβέροις",
-            "Τριβέρεως"
+            "Τριβέρεως",
+            "Τριβέροις"
         ]
     },
     {
@@ -212,13 +155,14 @@
             37.5
         ],
         "urns": [
-            "pta0001.pta006.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta015.pta-grc1"
+            "pta0001.pta006.pta-grc1:l7",
+            "pta0022.pta014.pta-grc1:l28",
+            "pta0022.pta015.pta-grc1:l57"
         ],
         "orig_name": [
-            "Συρίας",
-            "Συρίαν"
+            "Συρίαν",
+            "Συρίαν",
+            "Συρίας"
         ]
     },
     {
@@ -230,11 +174,12 @@
             31.7731513
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l28",
+            "pta0001.pta003.pta-grc1:l30"
         ],
         "orig_name": [
-            "Βηθανίας",
-            "Βηθανίαν"
+            "Βηθανίαν",
+            "Βηθανίας"
         ]
     },
     {
@@ -242,14 +187,22 @@
         "canonical": "Aquileia",
         "description": "An ancient Roman city initially founded ca. 181/180 B.C., Aquileia is especially important in Late Antiquity and the Middle Ages.",
         "coordinates": [
-            13.370946,
-            45.769631
+            13.3677735,
+            45.768945
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l2",
+            "pta0022.pta010.pta-grc1:l3",
+            "pta0022.pta010.pta-grc1:l18",
+            "pta0022.pta010.pta-grc1:l28",
+            "pta0022.pta010.pta-grc1:l29",
+            "pta0022.pta010.pta-grc1:l41"
         ],
         "orig_name": [
             "Ἀκυληίᾳ",
+            "Ἀκυληίας",
+            "Ἀκυληίᾳ",
+            "Ἀκυληΐᾳ",
             "Ἀκυληΐᾳ",
             "Ἀκυληίας"
         ]
@@ -263,7 +216,7 @@
             46.419985
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l1"
         ],
         "orig_name": [
             "Πιτυβίωνα"
@@ -278,7 +231,7 @@
             53.826
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta016.pta-grc1:l9"
         ],
         "orig_name": [
             "Βρεττανίαν"
@@ -293,7 +246,7 @@
             52.5
         ],
         "urns": [
-            "pta0007.pta007.pta-grc1"
+            "pta0007.pta007.pta-grc1:l8"
         ],
         "orig_name": [
             "Γερμανίᾳ"
@@ -308,7 +261,7 @@
             45.5
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta016.pta-grc1:l13"
         ],
         "orig_name": [
             "Δακίας"
@@ -323,7 +276,7 @@
             43.316295
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l17"
         ],
         "orig_name": [
             "Ναισσῷ"
@@ -338,13 +291,16 @@
             42.722826
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l16",
+            "pta0022.pta015.pta-grc1:l14",
+            "pta0022.pta015.pta-grc1:l16",
+            "pta0022.pta015.pta-grc1:l50"
         ],
         "orig_name": [
-            "Σαρδικῆς",
             "Σαρδικὴν",
-            "Σαρδικῇ"
+            "Σαρδικὴν",
+            "Σαρδικῇ",
+            "Σαρδικῆς"
         ]
     },
     {
@@ -356,7 +312,7 @@
             44.966447
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l68"
         ],
         "orig_name": [
             "Σιρμίῳ"
@@ -371,7 +327,7 @@
             44.7266235
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l20"
         ],
         "orig_name": [
             "Βιμινακίῳ"
@@ -386,11 +342,10 @@
             31.928333
         ],
         "urns": [
-            "pta0005.pta001.pta-deuBibex",
-            "pta0001.pta019.pta-grc1"
+            "pta0001.pta019.pta-grc1:l3",
+            "pta0001.pta019.pta-grc1:l4"
         ],
         "orig_name": [
-            "Bethel",
             "Βεθὴλ",
             "Βεθήλ"
         ]
@@ -404,7 +359,7 @@
             27.5
         ],
         "urns": [
-            "pta0001.pta013.pta-grc1"
+            "pta0001.pta013.pta-grc1:l1"
         ],
         "orig_name": [
             "Ἀραβίας"
@@ -419,41 +374,10 @@
             32.5
         ],
         "urns": [
-            "pta0007.pta007.pta-grc1"
+            "pta0007.pta007.pta-grc1:l3"
         ],
         "orig_name": [
             "Αἰθιοπίαν"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/373869",
-        "canonical": "Pentapolis",
-        "description": "An ancient place, cited: BAtlas 38 B1 Pentapolis",
-        "coordinates": [
-            20.5,
-            32.5
-        ],
-        "urns": [
-            "pta0022.pta004.pta-grc1"
-        ],
-        "orig_name": [
-            "Πενταπόλει",
-            "Πενταπόλει τῆς ἄνω Λιβύης"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/373879",
-        "canonical": "Ptolemais/Barkes Limen",
-        "description": "An ancient capital of Cyrenaica, Ptolemais was probably named after Ptolemy III Euergetes. The city was founded in either the seventh or sixth century BC.",
-        "coordinates": [
-            20.9507545,
-            32.708807
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Πτολεμαίδος"
         ]
     },
     {
@@ -465,13 +389,16 @@
             45.463746
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l9",
+            "pta0022.pta010.pta-grc1:l13",
+            "pta0022.pta010.pta-grc1:l14",
+            "pta0022.pta014.pta-grc1:l65"
         ],
         "orig_name": [
             "Μεδιολάνου",
             "Μεδιολάνῳ",
-            "Μεδιόλανον"
+            "Μεδιόλανον",
+            "Μεδιολάνῳ"
         ]
     },
     {
@@ -483,7 +410,7 @@
             45.321094
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l25"
         ],
         "orig_name": [
             "Βιργίλλων τῆς Γαλλίας"
@@ -494,11 +421,11 @@
         "canonical": "Verona",
         "description": "Verona was an ancient settlement that became a Roman colonia in 89 BC and a municipium in 49 BC.",
         "coordinates": [
-            10.995626206088797,
-            45.441780855604314
+            10.995736005073999,
+            45.44212954633693
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l5"
         ],
         "orig_name": [
             "Βερωνὶ"
@@ -513,11 +440,15 @@
             14.125005
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l46",
+            "pta0022.pta010.pta-grc1:l47",
+            "pta0022.pta010.pta-grc1:l48",
+            "pta0022.pta010.pta-grc1:l51"
         ],
         "orig_name": [
-            "Αὐξούμεως",
             "Αὐξούμει",
+            "Αὐξούμεως",
+            "Αὐξούμεως",
             "Αὔξουμιν"
         ]
     },
@@ -530,13 +461,35 @@
             44.0589565
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l22",
+            "pta0022.pta014.pta-grc1:l32",
+            "pta0022.pta014.pta-grc1:l34",
+            "pta0022.pta014.pta-grc1:l36",
+            "pta0022.pta014.pta-grc1:l37",
+            "pta0022.pta014.pta-grc1:l40",
+            "pta0022.pta014.pta-grc1:l42",
+            "pta0022.pta014.pta-grc1:l46",
+            "pta0022.pta014.pta-grc1:l48",
+            "pta0022.pta014.pta-grc1:l50",
+            "pta0022.pta014.pta-grc1:l56",
+            "pta0022.pta014.pta-grc1:l59",
+            "pta0022.pta014.pta-grc1:l60",
+            "pta0022.pta014.pta-grc1:l67"
         ],
         "orig_name": [
-            "Ἀρίμηνον",
             "Ἀρι­μήνῳ",
-            "ἡ Ἀρίμηνος",
+            "Ἀρίμηνον",
+            "Ἀρίμηνον",
+            "Ἀρίμηνον",
+            "Ἀρίμηνον",
+            "Ἀριμήνῳ",
+            "Ἀρίμηνον",
+            "Ἀριμήνῳ",
+            "Ἀριμήνῳ",
+            "Ἀρίμηνον",
+            "Ἀρίμηνον",
             "Ἀρί­μηνον",
+            "ἡ Ἀρίμηνος",
             "Ἀριμήνῳ"
         ]
     },
@@ -549,7 +502,7 @@
             45.409561
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l4"
         ],
         "orig_name": [
             "Πατάβων"
@@ -564,18 +517,30 @@
             41.891775
         ],
         "urns": [
-            "pta0001.pta018.pta-grc1",
-            "pta0022.pta013.pta-grc1",
-            "pta0001.pta011.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta004.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0001.pta011.pta-grc1:l10",
+            "pta0001.pta018.pta-grc1:l1",
+            "pta0001.pta018.pta-grc1:l2",
+            "pta0022.pta010.pta-grc1:l11",
+            "pta0022.pta010.pta-grc1:l23",
+            "pta0022.pta010.pta-grc1:l37",
+            "pta0022.pta013.pta-grc1:l3",
+            "pta0022.pta014.pta-grc1:l3",
+            "pta0022.pta014.pta-grc1:l54",
+            "pta0022.pta014.pta-grc1:l64",
+            "pta0022.pta014.pta-grc1:l66"
         ],
         "orig_name": [
-            "Ῥώμης",
+            "Ῥώμη",
+            "Ῥώμῃ",
             "Ῥώμῃ",
             "Ῥώμην",
-            "Ῥώμη"
+            "Ῥώμῃ",
+            "Ῥώμης",
+            "Ῥώμην",
+            "Ῥώμης",
+            "Ῥώμης",
+            "Ῥώμης",
+            "Ῥώμῃ"
         ]
     },
     {
@@ -587,7 +552,8 @@
             41.0860925
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l7",
+            "pta0022.pta010.pta-grc1:l40"
         ],
         "orig_name": [
             "Καμπανίᾳ",
@@ -597,13 +563,13 @@
     {
         "ID": "https://pleiades.stoa.org/places/462492",
         "canonical": "Sicilia (island)",
-        "description": "Sicily is the largest island in the Mediterranean Sea and has been the site of human habitation since ca. 8,000 BC. In historical terms Sicily has seen important settlement activity connected to numerous culture groups - Punic, Carthaginian, Greek, Roman, Vandalic, Ostrogothic, Byzantine, Arabic, and Norman. ",
+        "description": "Sicily is the largest island in the Mediterranean Sea and has been the site of human habitation since ca. 8,000 BC. In historical terms Sicily has seen important settlement activity connected to numerous culture groups - Punic, Carthaginian, Greek, Roman, Vandalic, Ostrogothic, Byzantine, Arabic, and Norman.",
         "coordinates": [
-            14.130954889982146,
-            37.54396265585135
+            13.932017688866832,
+            37.643296840510146
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l13"
         ],
         "orig_name": [
             "Σικελίαν"
@@ -618,7 +584,7 @@
             32.28333
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l38"
         ],
         "orig_name": [
             "Ἀσσαρών"
@@ -633,14 +599,16 @@
             39.87108695332339
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1",
-            "pta0022.pta015.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l39",
+            "pta0022.pta015.pta-grc1:l24",
+            "pta0022.pta015.pta-grc1:l26",
+            "pta0022.pta016.pta-grc1:l18"
         ],
         "orig_name": [
-            "Σαρδανίαν",
+            "Σαρδανίας",
             "Σαρδίας νήσου",
-            "Σαρδανίας"
+            "Σαρδίας νήσου",
+            "Σαρδανίαν"
         ]
     },
     {
@@ -652,7 +620,7 @@
             42.427291800000006
         ],
         "urns": [
-            "pta0022.pta013.pta-grc1"
+            "pta0022.pta013.pta-grc1:l2"
         ],
         "orig_name": [
             "Ἰλλυρικοῦ"
@@ -667,13 +635,14 @@
             41.25
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0001.pta008.pta-grc1"
+            "pta0001.pta008.pta-grc1:l5",
+            "pta0022.pta014.pta-grc1:l9",
+            "pta0022.pta016.pta-grc1:l15"
         ],
         "orig_name": [
-            "Μακεδονίας",
-            "Μακεδονίαν"
+            "Μακεδονίαν",
+            "Μακεδονίαν",
+            "Μακεδονίας"
         ]
     },
     {
@@ -685,7 +654,7 @@
             40.58155
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l42"
         ],
         "orig_name": [
             "Θεσσαλονίκης"
@@ -700,7 +669,7 @@
             41.013317
         ],
         "urns": [
-            "pta0004.pta001.pta-grcBibex"
+            "pta0004.pta001.pta-grcBibex:l35"
         ],
         "orig_name": [
             "φιλίπποις"
@@ -715,9 +684,13 @@
             40.288041
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l41",
+            "pta0022.pta014.pta-grc1:l44",
+            "pta0022.pta014.pta-grc1:l70"
         ],
         "orig_name": [
+            "Θρᾴκῃ",
+            "Θρᾴκῃ",
             "Θρᾴκῃ"
         ]
     },
@@ -730,51 +703,115 @@
             40.42909366666667
         ],
         "urns": [
-            "pta0001.pta014.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0001.pta004.pta-grc1",
-            "pta0022.pta003.pta-grc1",
-            "pta0022.pta015.pta-grc1"
+            "pta0001.pta004.pta-grc1:l5",
+            "pta0001.pta014.pta-grc1:l3",
+            "pta0001.pta014.pta-grc1:l5",
+            "pta0022.pta014.pta-grc1:l6",
+            "pta0022.pta014.pta-grc1:l21",
+            "pta0022.pta014.pta-grc1:l23",
+            "pta0022.pta014.pta-grc1:l24",
+            "pta0022.pta014.pta-grc1:l25",
+            "pta0022.pta014.pta-grc1:l26",
+            "pta0022.pta014.pta-grc1:l27",
+            "pta0022.pta014.pta-grc1:l31",
+            "pta0022.pta014.pta-grc1:l33",
+            "pta0022.pta014.pta-grc1:l35",
+            "pta0022.pta014.pta-grc1:l38",
+            "pta0022.pta014.pta-grc1:l39",
+            "pta0022.pta014.pta-grc1:l43",
+            "pta0022.pta014.pta-grc1:l45",
+            "pta0022.pta014.pta-grc1:l47",
+            "pta0022.pta014.pta-grc1:l49",
+            "pta0022.pta014.pta-grc1:l51",
+            "pta0022.pta014.pta-grc1:l55",
+            "pta0022.pta014.pta-grc1:l57",
+            "pta0022.pta014.pta-grc1:l58",
+            "pta0022.pta014.pta-grc1:l61",
+            "pta0022.pta014.pta-grc1:l73",
+            "pta0022.pta014.pta-grc1:l74",
+            "pta0022.pta015.pta-grc1:l9",
+            "pta0022.pta015.pta-grc1:l10",
+            "pta0022.pta015.pta-grc1:l13",
+            "pta0022.pta015.pta-grc1:l15",
+            "pta0022.pta015.pta-grc1:l17",
+            "pta0022.pta015.pta-grc1:l18",
+            "pta0022.pta015.pta-grc1:l20",
+            "pta0022.pta015.pta-grc1:l21",
+            "pta0022.pta015.pta-grc1:l22",
+            "pta0022.pta015.pta-grc1:l51",
+            "pta0022.pta015.pta-grc1:l52",
+            "pta0022.pta015.pta-grc1:l54",
+            "pta0022.pta015.pta-grc1:l55",
+            "pta0022.pta016.pta-grc1:l4",
+            "pta0022.pta016.pta-grc1:l5",
+            "pta0022.pta016.pta-grc1:l6",
+            "pta0022.pta016.pta-grc1:l7",
+            "pta0022.pta016.pta-grc1:l28",
+            "pta0022.pta016.pta-grc1:l29",
+            "pta0022.pta016.pta-grc1:l30"
         ],
         "orig_name": [
+            "Νίκαιαν",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
             "Νι­καίᾳ",
             "Νικαίᾳ",
-            "τῆς Νικαέων πόλεως",
-            "Νικαέων πόλιν",
-            "Νίκαιαν"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/511337",
-        "canonical": "Nicomedia",
-        "description": "Nicomedia was founded in 712/11 BC as a Megarian colony named Astacus and was rebuilt by Nicomedes I of Bithynia in 264 BC. The city was an important administrative center of the Roman Empire.",
-        "coordinates": [
-            29.919887000000003,
-            40.7651905
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Νικομηδέων"
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νίκαιαν",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νίκαιαν",
+            "Νικαίᾳ",
+            "Νίκαιαν",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ",
+            "Νικαίᾳ"
         ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/520998",
         "canonical": "Constantinopolis",
-        "description": "Capital city of the Eastern Roman Empire, the Latin, and the Ottoman Empires founded by Constantine I in AD 330. ",
+        "description": "Capital city of the Eastern Roman Empire, the Latin, and the Ottoman Empires founded by Constantine I in AD 330.",
         "coordinates": [
-            28.961291608299153,
-            41.00779080957012
+            28.965351736239814,
+            41.00637141163484
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0200.pta001.pta-syc1"
+            "pta0022.pta014.pta-grc1:l71"
         ],
         "orig_name": [
-            "Κωνσταντινουπόλει",
-            "ܕܡܕܝܢܬ ܡ̇ܠܟܘܬܐ:"
+            "Κωνσταντινουπόλει"
         ]
     },
     {
@@ -782,11 +819,11 @@
         "canonical": "Epirus",
         "description": "An ancient region that included northwest parts of modern Greece and the southern tip of modern Albania.",
         "coordinates": [
-            20.58983204704269,
-            39.57710600554139
+            20.787702141128076,
+            39.54648401662415
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l10"
         ],
         "orig_name": [
             "Ἠπείρους"
@@ -801,7 +838,7 @@
             38.53
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l29"
         ],
         "orig_name": [
             "Εὐβοίας"
@@ -810,31 +847,16 @@
     {
         "ID": "https://pleiades.stoa.org/places/570220",
         "canonical": "Elis (city)",
-        "description": "Elis was an ancient city that served as the capital of the district of the same name.",
+        "description": "Elis was an ancient Greek city of the northeast Peloponnese that served as the capital of the district of the same name.",
         "coordinates": [
             21.375091,
             37.891781
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l6"
         ],
         "orig_name": [
             "Ἤλιδι"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/579885",
-        "canonical": "Athenae",
-        "description": "A major Greek city-state and the principal city of Attika. Modern Athens in Greece.",
-        "coordinates": [
-            23.722746101726134,
-            37.972633872615816
-        ],
-        "urns": [
-            "pta0022.pta004.pta-grc1"
-        ],
-        "orig_name": [
-            "Ἀθήναις"
         ]
     },
     {
@@ -846,10 +868,11 @@
             35.219518451031014
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta014.pta-grc1:l12",
+            "pta0022.pta016.pta-grc1:l20"
         ],
         "orig_name": [
+            "Κρήτην",
             "Κρήτην"
         ]
     },
@@ -862,26 +885,12 @@
             37.941944
         ],
         "urns": [
-            "pta0007.pta007.pta-grc1",
-            "pta0001.pta026.pta-grc1"
+            "pta0001.pta026.pta-grc1:l4",
+            "pta0007.pta007.pta-grc1:l7"
         ],
         "orig_name": [
+            "Ἐφέσῳ",
             "Ἐφέσῳ"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/609307",
-        "canonical": "Antiochia/Col. Caesarea",
-        "description": "An ancient city in Pisidia.",
-        "coordinates": [
-            31.189435500000002,
-            38.305175000000006
-        ],
-        "urns": [
-            "pta0022.pta004.pta-grc1"
-        ],
-        "orig_name": [
-            "ἐν Ἀντιοχείᾳ τῆς Πισιδίας"
         ]
     },
     {
@@ -893,14 +902,14 @@
             39.25
         ],
         "urns": [
-            "pta0022.pta012.pta-grc1",
-            "pta0022.pta017.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta012.pta-grc1:l2",
+            "pta0022.pta016.pta-grc1:l27",
+            "pta0022.pta017.pta-grc1:l5"
         ],
         "orig_name": [
+            "Καππαδοκίᾳ",
             "Καππαδοκίαν",
-            "Καππαδοκίας",
-            "Καππαδοκίᾳ"
+            "Καππαδοκίας"
         ]
     },
     {
@@ -912,12 +921,12 @@
             38.728033
         ],
         "urns": [
-            "pta0022.pta012.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l21",
+            "pta0022.pta012.pta-grc1:l1"
         ],
         "orig_name": [
-            "Καισαρείᾳ",
-            "Καισαρείᾳ τῆς Καππαδοκίας"
+            "Καισαρείᾳ τῆς Καππαδοκίας",
+            "Καισαρείᾳ"
         ]
     },
     {
@@ -929,10 +938,11 @@
             36.5135325
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta014.pta-grc1:l16",
+            "pta0022.pta016.pta-grc1:l22"
         ],
         "orig_name": [
+            "Λυκίαν",
             "Λυκίαν"
         ]
     },
@@ -945,12 +955,12 @@
             36.990721
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta014.pta-grc1:l15",
+            "pta0022.pta016.pta-grc1:l21"
         ],
         "orig_name": [
-            "Παμφυλίαν",
-            "Παμφυ­λίαν"
+            "Παμφυ­λίαν",
+            "Παμφυλίαν"
         ]
     },
     {
@@ -962,12 +972,12 @@
             37.25
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta014.pta-grc1:l69",
+            "pta0022.pta016.pta-grc1:l23"
         ],
         "orig_name": [
-            "Ἰσαυρίαν",
-            "Ἰσαυρίᾳ"
+            "Ἰσαυρίᾳ",
+            "Ἰσαυρίαν"
         ]
     },
     {
@@ -979,32 +989,28 @@
             36.222551499999994
         ],
         "urns": [
-            "pta0022.pta017.pta-grc1",
-            "pta0022.pta010.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta015.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0022.pta010.pta-grc1:l22",
+            "pta0022.pta014.pta-grc1:l72",
+            "pta0022.pta015.pta-grc1:l8",
+            "pta0022.pta015.pta-grc1:l11",
+            "pta0022.pta015.pta-grc1:l12",
+            "pta0022.pta017.pta-grc1:l1",
+            "pta0022.pta017.pta-grc1:l6",
+            "pta0037.pta001.pta-grc1:l165",
+            "pta0037.pta001.pta-grc1:l173",
+            "pta0037.pta001.pta-grc1:l183"
         ],
         "orig_name": [
-            "παλατίου",
+            "Ἀντιοχείᾳ",
+            "Ἀντιοχείᾳ",
+            "τῇ Παλαιᾷ",
+            "τῇ Παλαιᾷ",
             "τῇ Παλαιᾷ",
             "Ἀντιοχείᾳ",
+            "παλατίου",
+            "Ἀντιόχειαν",
+            "Ἀντιόχειαν",
             "Ἀντιόχειαν"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/658427",
-        "canonical": "Carrhae",
-        "description": "Carrhae is a major settlement of Upper Mesopotamia from the Bronze Age onward. The earliest mentions of the site are found in the Ebla tablets (ca. 2300 B.C.).",
-        "coordinates": [
-            39.031492,
-            36.864692
-        ],
-        "urns": [
-            "pta0005.pta001.pta-deuBibex"
-        ],
-        "orig_name": [
-            "Harran"
         ]
     },
     {
@@ -1016,7 +1022,7 @@
             34.897427500000006
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l56"
         ],
         "orig_name": [
             "Ἀνταράδου"
@@ -1031,25 +1037,10 @@
             35.272667
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l28"
         ],
         "orig_name": [
             "Παλτοῦ Κοίλης Συρίας"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/678060",
-        "canonical": "Beirut",
-        "description": "An ancient Phoenician city, known by various names in antiquity, in what is now Lebanon.",
-        "coordinates": [
-            35.511241,
-            33.898593500000004
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Βηρυτὸν"
         ]
     },
     {
@@ -1061,25 +1052,10 @@
             32.7286111
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l40"
         ],
         "orig_name": [
             "Κάρμηλος"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/678109",
-        "canonical": "Dan",
-        "description": "An ancient place, cited: BAtlas 69 C3 Dan",
-        "coordinates": [
-            35.652834,
-            33.242223
-        ],
-        "urns": [
-            "pta0022.pta004.pta-grc1"
-        ],
-        "orig_name": [
-            "Δὰν"
         ]
     },
     {
@@ -1091,15 +1067,26 @@
             32.75
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1",
-            "pta0037.pta001.pta-grc1",
-            "pta0001.pta014.pta-grc1"
+            "pta0001.pta003.pta-grc1:l9",
+            "pta0001.pta003.pta-grc1:l15",
+            "pta0001.pta003.pta-grc1:l17",
+            "pta0001.pta003.pta-grc1:l35",
+            "pta0001.pta003.pta-grc1:l36",
+            "pta0001.pta003.pta-grc1:l39",
+            "pta0001.pta003.pta-grc1:l42",
+            "pta0001.pta014.pta-grc1:l7",
+            "pta0037.pta001.pta-grc1:l130"
         ],
         "orig_name": [
             "Γαλιλαίας",
-            "Γαλιλαίᾳ",
+            "Γαλιλαίας",
+            "Γαλιλαίας",
+            "Γαλιλαίας",
             "Γαλιλαίαν",
-            "Γαλιλαία"
+            "Γαλιλαία",
+            "Γαλιλαία",
+            "Γαλιλαία",
+            "Γαλιλαίᾳ"
         ]
     },
     {
@@ -1111,7 +1098,7 @@
             32.75
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l34"
         ],
         "orig_name": [
             "Κανὰ"
@@ -1126,7 +1113,7 @@
             34.3
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l37"
         ],
         "orig_name": [
             "Λίβανος"
@@ -1141,15 +1128,14 @@
             32.701029
         ],
         "urns": [
-            "pta0001.pta025.pta-grc1",
-            "pta0001.pta004.pta-grc1",
-            "pta0022.pta004.pta-grc1",
-            "pta0001.pta014.pta-grc1"
+            "pta0001.pta004.pta-grc1:l3",
+            "pta0001.pta014.pta-grc1:l2",
+            "pta0001.pta025.pta-grc1:l2"
         ],
         "orig_name": [
-            "Ναζωραίου",
             "Ναζαρέτ",
-            "Ναζαρὲτ"
+            "Ναζαρέτ",
+            "Ναζωραίου"
         ]
     },
     {
@@ -1161,10 +1147,13 @@
             32.331417
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1",
-            "pta0001.pta007.pta-grc1"
+            "pta0001.pta007.pta-grc1:l14",
+            "pta0001.pta007.pta-grc1:l16",
+            "pta0037.pta001.pta-grc1:l131"
         ],
         "orig_name": [
+            "Σαμαρείας",
+            "Σαμαρείας",
             "Σαμαρείας"
         ]
     },
@@ -1177,7 +1166,7 @@
             32.276529
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l27"
         ],
         "orig_name": [
             "Σαμαρείᾳ"
@@ -1186,15 +1175,17 @@
     {
         "ID": "https://pleiades.stoa.org/places/678431",
         "canonical": "Tiberias",
-        "description": "Tiberias was founded by Herod Antipas ca. 20 BC. ",
+        "description": "Tiberias was founded by Herod Antipas ca. 20 BC.",
         "coordinates": [
-            35.5421525,
-            32.781575000000004
+            35.542294,
+            32.787692
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l10",
+            "pta0001.pta003.pta-grc1:l14"
         ],
         "orig_name": [
+            "Τιβεριάδος",
             "Τιβεριάδος"
         ]
     },
@@ -1207,10 +1198,16 @@
             31.712291
         ],
         "urns": [
-            "pta0001.pta005.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0001.pta005.pta-grc1:l1",
+            "pta0037.pta001.pta-grc1:l34",
+            "pta0037.pta001.pta-grc1:l46",
+            "pta0037.pta001.pta-grc1:l126",
+            "pta0037.pta001.pta-grc1:l137"
         ],
         "orig_name": [
+            "Βηθλεὲμ",
+            "Βηθλεὲμ",
+            "Βηθλεὲμ",
             "Βηθλεὲμ",
             "Βηθλεέμ"
         ]
@@ -1224,12 +1221,12 @@
             31.839295
         ],
         "urns": [
-            "pta0001.pta025.pta-grc1",
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l13",
+            "pta0001.pta025.pta-grc1:l3"
         ],
         "orig_name": [
-            "Ἐμμαοῦς",
-            "Ἐμμαοὺς"
+            "Ἐμμαοὺς",
+            "Ἐμμαοῦς"
         ]
     },
     {
@@ -1241,9 +1238,11 @@
             31.849056
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l29",
+            "pta0037.pta001.pta-grc1:l31"
         ],
         "orig_name": [
+            "Γαβαὼ",
             "Γαβαὼ"
         ]
     },
@@ -1256,14 +1255,16 @@
             31.8700465
         ],
         "urns": [
-            "pta0001.pta002.pta-grc1",
-            "pta0001.pta017.pta-grc1",
-            "pta0001.pta011.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0001.pta002.pta-grc1:l3",
+            "pta0001.pta011.pta-grc1:l6",
+            "pta0001.pta017.pta-grc1:l1",
+            "pta0037.pta001.pta-grc1:l13"
         ],
         "orig_name": [
-            "Ἱεριχώ",
-            "Ἱεριχὼ"
+            "Ἱεριχὼ",
+            "Ἱεριχὼ",
+            "Ἱεριχὼ",
+            "Ἱεριχώ"
         ]
     },
     {
@@ -1275,9 +1276,12 @@
             31.25
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l192",
+            "pta0037.pta001.pta-grc1:l202",
+            "pta0037.pta001.pta-grc1:l204"
         ],
         "orig_name": [
+            "Ἐδὼμ",
             "Ἐδὼμ",
             "Ἐδώμ"
         ]
@@ -1291,48 +1295,176 @@
             31.776679
         ],
         "urns": [
-            "pta0001.pta014.pta-grc1",
-            "pta0022.pta011.pta-grc1",
-            "pta0001.pta006.pta-grc1",
-            "pta0001.pta017.pta-grc1",
-            "pta0007.pta007.pta-grc1",
-            "pta0001.pta010.pta-grc1",
-            "pta0001.pta007.pta-grc1",
-            "pta0001.pta025.pta-grc1",
-            "pta0001.pta026.pta-grc1",
-            "pta0001.pta010.pta-grcBibex",
-            "pta0001.pta003.pta-grc1",
-            "pta0004.pta001.pta-grcBibex",
-            "pta0003.pta020.pta-grcBibex2",
-            "pta0001.pta005.pta-grc1",
-            "pta0037.pta001.pta-grc1",
-            "pta0007.pta012.pta-grcBibex",
-            "pta0001.pta008.pta-grc1",
-            "pta0001.pta011.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0001.pta004.pta-grc1"
+            "pta0001.pta003.pta-grc1:l2",
+            "pta0001.pta003.pta-grc1:l3",
+            "pta0001.pta003.pta-grc1:l4",
+            "pta0001.pta003.pta-grc1:l5",
+            "pta0001.pta003.pta-grc1:l6",
+            "pta0001.pta003.pta-grc1:l7",
+            "pta0001.pta003.pta-grc1:l8",
+            "pta0001.pta003.pta-grc1:l16",
+            "pta0001.pta003.pta-grc1:l18",
+            "pta0001.pta003.pta-grc1:l19",
+            "pta0001.pta003.pta-grc1:l21",
+            "pta0001.pta003.pta-grc1:l22",
+            "pta0001.pta003.pta-grc1:l23",
+            "pta0001.pta003.pta-grc1:l25",
+            "pta0001.pta003.pta-grc1:l29",
+            "pta0001.pta003.pta-grc1:l31",
+            "pta0001.pta003.pta-grc1:l32",
+            "pta0001.pta003.pta-grc1:l33",
+            "pta0001.pta003.pta-grc1:l41",
+            "pta0001.pta004.pta-grc1:l6",
+            "pta0001.pta005.pta-grc1:l2",
+            "pta0001.pta006.pta-grc1:l1",
+            "pta0001.pta006.pta-grc1:l3",
+            "pta0001.pta006.pta-grc1:l9",
+            "pta0001.pta006.pta-grc1:l10",
+            "pta0001.pta006.pta-grc1:l11",
+            "pta0001.pta006.pta-grc1:l12",
+            "pta0001.pta006.pta-grc1:l13",
+            "pta0001.pta006.pta-grc1:l14",
+            "pta0001.pta006.pta-grc1:l15",
+            "pta0001.pta006.pta-grc1:l16",
+            "pta0001.pta006.pta-grc1:l17",
+            "pta0001.pta007.pta-grc1:l4",
+            "pta0001.pta007.pta-grc1:l7",
+            "pta0001.pta007.pta-grc1:l10",
+            "pta0001.pta007.pta-grc1:l11",
+            "pta0001.pta007.pta-grc1:l15",
+            "pta0001.pta007.pta-grc1:l17",
+            "pta0001.pta008.pta-grc1:l1",
+            "pta0001.pta008.pta-grc1:l2",
+            "pta0001.pta010.pta-grc1:l1",
+            "pta0001.pta011.pta-grc1:l1",
+            "pta0001.pta011.pta-grc1:l2",
+            "pta0001.pta011.pta-grc1:l3",
+            "pta0001.pta011.pta-grc1:l4",
+            "pta0001.pta011.pta-grc1:l5",
+            "pta0001.pta011.pta-grc1:l7",
+            "pta0001.pta011.pta-grc1:l8",
+            "pta0001.pta014.pta-grc1:l8",
+            "pta0001.pta017.pta-grc1:l2",
+            "pta0001.pta017.pta-grc1:l3",
+            "pta0001.pta017.pta-grc1:l4",
+            "pta0001.pta017.pta-grc1:l5",
+            "pta0001.pta017.pta-grc1:l6",
+            "pta0001.pta025.pta-grc1:l1",
+            "pta0001.pta026.pta-grc1:l1",
+            "pta0004.pta001.pta-grcBibex:l5",
+            "pta0004.pta001.pta-grcBibex:l7",
+            "pta0004.pta001.pta-grcBibex:l12",
+            "pta0004.pta001.pta-grcBibex:l13",
+            "pta0007.pta007.pta-grc1:l1",
+            "pta0022.pta011.pta-grc1:l1",
+            "pta0022.pta014.pta-grc1:l52",
+            "pta0037.pta001.pta-grc1:l7",
+            "pta0037.pta001.pta-grc1:l24",
+            "pta0037.pta001.pta-grc1:l112",
+            "pta0037.pta001.pta-grc1:l113",
+            "pta0037.pta001.pta-grc1:l115",
+            "pta0037.pta001.pta-grc1:l120",
+            "pta0037.pta001.pta-grc1:l129",
+            "pta0037.pta001.pta-grc1:l132",
+            "pta0037.pta001.pta-grc1:l133",
+            "pta0037.pta001.pta-grc1:l145",
+            "pta0037.pta001.pta-grc1:l147",
+            "pta0037.pta001.pta-grc1:l148",
+            "pta0037.pta001.pta-grc1:l150",
+            "pta0037.pta001.pta-grc1:l151",
+            "pta0037.pta001.pta-grc1:l164",
+            "pta0037.pta001.pta-grc1:l176",
+            "pta0037.pta001.pta-grc1:l179",
+            "pta0037.pta001.pta-grc1:l184",
+            "pta0037.pta001.pta-grc1:l199",
+            "pta0037.pta001.pta-grc1:l200",
+            "pta0037.pta001.pta-grc1:l207"
         ],
         "orig_name": [
-            "Ἱεροσόλυμα",
-            "Σιών",
-            "Σιὼν ὄρος",
-            "Ἰερουσαλήμ",
-            "Ἱερουσαλήμ",
-            "ἐξ ὄρους τοῦ λεγομένου ἐλαιῶνος",
-            "Ἱεροσολύμων",
-            "ἱεροσολύμοις",
-            "\nἱεροσολύμων\nἰεροσολύμων\n",
+            "τὸ ὄρος τῶν Ἐλαιῶν",
+            "Ἰερουσαλήμ",
             "τοῦ ὄρους τῶν Ἐλαιῶν",
-            "Ἱεροσολύμοις",
+            "ἐξ ὄρους τοῦ λεγομένου ἐλαιῶνος",
+            "τὸ ὄρος τῶν Ἐλαιῶν",
+            "τὸ ὄρος τῶν Ἐλαιῶν",
+            "Ἰερουσαλήμ",
+            "τὸ ὄρος τῶν Ἐλαιῶν",
+            "τὸ ὄρος τῶν Ἐλαιῶν",
+            "Ἱεροσολύμων",
+            "Ἱεροσολύμων",
+            "Ἱεροσολύμων",
+            "Ἱεροσόλυμα",
+            "Ἱερουσαλὴμ",
             "τὸ ὄρος τῶν ἐλαιῶν",
-            "\nἱερουσαλήμ\nἱερουσαλὴμ\nἰἱερουσαλὴμ\nιερουσαλὴμ\n",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "τῷ ὄρει τῶν ἐλαιῶν",
+            "Ὄρη Σιών",
+            "Ἱερουσαλήμ",
+            "Ἱεροσολύμοις",
+            "Σιὼν ὄρος",
+            "Σιών",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλήμ",
             "Ἱερουσαλὴμ",
             "Σιών",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλήμ",
+            "Ἱεροσολύμοις",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλήμ",
+            "Σιών",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱερουσαλήμ",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱερουσαλήμ",
+            "Ἱεροσόλυμα",
+            "Ἱεροσόλυμα",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "ἱεροσολύμοις",
+            "ἱεροσολύμοις",
+            "\nἱερουσαλήμ\nἱερουσαλὴμ\nἰἱερουσαλὴμ\nιερουσαλὴμ\n",
+            "\nἱεροσολύμων\nἰεροσολύμων\n",
+            "Ἱεροσόλυμα",
+            "Ἱεροσολύμων",
             "Σιὼν",
-            "Ὄρη Σιών",
-            "τὸ ὄρος τῶν Ἐλαιῶν",
-            "τῷ ὄρει τῶν ἐλαιῶν",
-            "Ἰερουσαλήμ"
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλήμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ",
+            "Ἱερουσαλὴμ"
         ]
     },
     {
@@ -1344,14 +1476,15 @@
             32.053079
         ],
         "urns": [
-            "pta0001.pta005.pta-grc1",
-            "pta0001.pta001.pta-grcBibex",
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta001.pta-grcBibex:l1",
+            "pta0001.pta001.pta-grcBibex:l2",
+            "pta0001.pta003.pta-grc1:l24",
+            "pta0001.pta005.pta-grc1:l5"
         ],
         "orig_name": [
+            "\nἸόππην\nἸόπην\n",
             "\nἸόππης\nἸόππης\n",
             "Ἰόππῃ",
-            "\nἸόππην\nἸόπην\n",
             "Ἰόππην"
         ]
     },
@@ -1364,16 +1497,18 @@
             32.3575815564599
         ],
         "urns": [
-            "pta0001.pta012.pta-grc1",
-            "pta0001.pta014.pta-grc1",
-            "pta0001.pta006.pta-grc1",
-            "pta0001.pta019.pta-grc1",
-            "pta0001.pta004.pta-grc1"
+            "pta0001.pta004.pta-grc1:l4",
+            "pta0001.pta006.pta-grc1:l4",
+            "pta0001.pta012.pta-grc1:l1",
+            "pta0001.pta014.pta-grc1:l6",
+            "pta0001.pta019.pta-grc1:l2"
         ],
         "orig_name": [
-            "Ἰορδάνην",
+            "Ἰορδάνῃ",
             "Ἰορδάνου",
-            "Ἰορδάνῃ"
+            "Ἰορδάνῃ",
+            "Ἰορδάνου",
+            "Ἰορδάνην"
         ]
     },
     {
@@ -1385,22 +1520,58 @@
             31.78422155
         ],
         "urns": [
-            "pta0001.pta014.pta-grc1",
-            "pta0001.pta006.pta-grc1",
-            "pta0001.pta008.pta-grc1",
-            "pta0001.pta007.pta-grc1",
-            "pta0001.pta002.pta-grc1",
-            "pta0003.pta020.pta-grcBibex2",
-            "pta0001.pta003.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0001.pta002.pta-grc1:l2",
+            "pta0001.pta003.pta-grc1:l12",
+            "pta0001.pta003.pta-grc1:l26",
+            "pta0001.pta006.pta-grc1:l2",
+            "pta0001.pta007.pta-grc1:l5",
+            "pta0001.pta007.pta-grc1:l13",
+            "pta0001.pta008.pta-grc1:l3",
+            "pta0001.pta014.pta-grc1:l1",
+            "pta0037.pta001.pta-grc1:l18",
+            "pta0037.pta001.pta-grc1:l19",
+            "pta0037.pta001.pta-grc1:l22",
+            "pta0037.pta001.pta-grc1:l25",
+            "pta0037.pta001.pta-grc1:l27",
+            "pta0037.pta001.pta-grc1:l28",
+            "pta0037.pta001.pta-grc1:l45",
+            "pta0037.pta001.pta-grc1:l49",
+            "pta0037.pta001.pta-grc1:l64",
+            "pta0037.pta001.pta-grc1:l65",
+            "pta0037.pta001.pta-grc1:l118",
+            "pta0037.pta001.pta-grc1:l121",
+            "pta0037.pta001.pta-grc1:l149",
+            "pta0037.pta001.pta-grc1:l154",
+            "pta0037.pta001.pta-grc1:l156",
+            "pta0037.pta001.pta-grc1:l166",
+            "pta0037.pta001.pta-grc1:l189"
         ],
         "orig_name": [
             "Ἰούδα",
-            "Ἰουδαίαν",
-            "Ἰουδαίας",
+            "Ἰούδα",
+            "Ἰουδαίᾳ",
+            "Ἰουδαίᾳ",
             "Ἰουδαία",
             "Ἰουδαίᾳ",
-            "Ἰουδαίας"
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰούδα",
+            "Ἰουδαίας",
+            "Ἰουδαίας"
         ]
     },
     {
@@ -1412,7 +1583,7 @@
             31.930204
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l167"
         ],
         "orig_name": [
             "Μωδεεὶμ"
@@ -1427,14 +1598,20 @@
             31.25
         ],
         "urns": [
-            "pta0001.pta006.pta-grc1",
-            "pta0001.pta014.pta-grc1",
-            "pta0001.pta007.pta-grc1"
+            "pta0001.pta006.pta-grc1:l5",
+            "pta0001.pta006.pta-grc1:l6",
+            "pta0001.pta006.pta-grc1:l8",
+            "pta0001.pta007.pta-grc1:l1",
+            "pta0001.pta007.pta-grc1:l6",
+            "pta0001.pta014.pta-grc1:l4"
         ],
         "orig_name": [
             "Παλαιστίνης",
+            "Παλαιστίνην",
+            "Παλαιστίνην",
+            "Παλαιστίνης",
             "Παλαιστίνη",
-            "Παλαιστίνην"
+            "Παλαιστίνης"
         ]
     },
     {
@@ -1446,7 +1623,7 @@
             30.328611
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l27"
         ],
         "orig_name": [
             "Πετρῶν τῆς Ἀραβίας"
@@ -1461,15 +1638,16 @@
             35.03226569576321
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0001.pta011.pta-grc1",
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l11",
+            "pta0001.pta011.pta-grc1:l11",
+            "pta0022.pta014.pta-grc1:l14",
+            "pta0022.pta016.pta-grc1:l19"
         ],
         "orig_name": [
-            "Κύπρον",
             "Κύπρου",
-            "Κύπρῳ"
+            "Κύπρῳ",
+            "Κύπρον",
+            "Κύπρον"
         ]
     },
     {
@@ -1477,11 +1655,11 @@
         "canonical": "Ammon",
         "description": "The Siwa Oasis was, in antiquity, site of the oracular temple of Amun (Zeus Ammon).",
         "coordinates": [
-            25.543529666666668,
-            29.205173333333335
+            25.543500594753077,
+            29.20516448774955
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l55"
         ],
         "orig_name": [
             "Ἀμμωνιακὴν"
@@ -1496,7 +1674,7 @@
             30.823446
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l49"
         ],
         "orig_name": [
             "Ἀντίφρων"
@@ -1511,29 +1689,14 @@
             31.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0022.pta003.pta-grc1"
+            "pta0022.pta014.pta-grc1:l19",
+            "pta0022.pta016.pta-grc1:l3",
+            "pta0022.pta016.pta-grc1:l25"
         ],
         "orig_name": [
             "Λιβύας",
-            "Λιβύη",
-            "Λιβυῶν"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/716595",
-        "canonical": "Marmarica",
-        "description": "Marmarica was an ancient region of the North African coast between Cyrenaica and Aegyptus.",
-        "coordinates": [
-            23.5,
-            31.5
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Μαρμαρικῆς"
+            "Λιβυῶν",
+            "Λιβύας"
         ]
     },
     {
@@ -1545,7 +1708,7 @@
             31.350247
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l31"
         ],
         "orig_name": [
             "Παραι"
@@ -1560,7 +1723,7 @@
             31.172448
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l42"
         ],
         "orig_name": [
             "Ζύγρων"
@@ -1575,22 +1738,38 @@
             31.201435
         ],
         "urns": [
-            "pta0022.pta017.pta-grc1",
-            "pta0022.pta013.pta-grc1",
-            "pta0022.pta010.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta003.pta-grc1",
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta010.pta-grc1:l10",
+            "pta0022.pta010.pta-grc1:l12",
+            "pta0022.pta010.pta-grc1:l26",
+            "pta0022.pta010.pta-grc1:l31",
+            "pta0022.pta010.pta-grc1:l36",
+            "pta0022.pta010.pta-grc1:l45",
+            "pta0022.pta013.pta-grc1:l1",
+            "pta0022.pta014.pta-grc1:l1",
+            "pta0022.pta015.pta-grc1:l1",
+            "pta0022.pta015.pta-grc1:l2",
+            "pta0022.pta015.pta-grc1:l23",
+            "pta0022.pta015.pta-grc1:l30",
+            "pta0022.pta015.pta-grc1:l53",
+            "pta0022.pta017.pta-grc1:l2",
+            "pta0022.pta017.pta-grc1:l4"
         ],
         "orig_name": [
-            "Ἀλεξανδρέας",
+            "Ἀλεξανδρείας",
             "Ἀλεξανδρείᾳ",
-            "Ἀλε­ξανδρείᾳ",
             "ἐκκλησίαν τὴν καλουμένην Θεωνᾶ",
-            "Ἀλεξανδρέων",
+            "Ἀλεξάνδρειαν",
+            "Ἀλεξάνδρειαν",
+            "Ἀλεξανδρείᾳ",
             "Ἀλεξανδρέων χώρᾳ",
             "Ἀλεξανδρείας",
-            "Ἀλεξάνδρειαν"
+            "Ἀλεξανδρείας",
+            "Ἀλεξανδρείᾳ",
+            "Ἀλεξανδρείᾳ",
+            "Ἀλε­ξανδρείᾳ",
+            "Ἀλεξανδρείας",
+            "Ἀλεξανδρείας",
+            "Ἀλεξανδρείας"
         ]
     },
     {
@@ -1602,7 +1781,7 @@
             30.778076
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l48"
         ],
         "orig_name": [
             "Ἄνδρω"
@@ -1613,11 +1792,11 @@
         "canonical": "Athribis (Lower Egypt)",
         "description": "An ancient city of Lower Egypt located at present-day Tell Atrib to the northeast of Benha on the hill of Kom Sidi Yusuf.",
         "coordinates": [
-            31.184479,
-            30.47243
+            31.18425,
+            30.470701499999997
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l44"
         ],
         "orig_name": [
             "Ἀθρί­βεως"
@@ -1626,46 +1805,16 @@
     {
         "ID": "https://pleiades.stoa.org/places/727123",
         "canonical": "Hermopolis Mikra",
-        "description": "An ancient place, cited: BAtlas 74 C2 Hermopolis Mikra",
+        "description": "Hermopolis Mikra was an ancient city of Egypt that served as  he capital of Lower Egypt's 7th Nome (A-ment).",
         "coordinates": [
-            30.471298,
-            31.033361
+            30.4707825,
+            31.033655
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l39"
         ],
         "orig_name": [
             "Ἑρμουπόλεως μικρᾶς"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/727154",
-        "canonical": "Mareotis L.",
-        "description": "A brackish lake of Lower Egypt (now Lake Mariout).",
-        "coordinates": [
-            29.898889,
-            31.1575
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Μαρεώτου"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/727172",
-        "canonical": "Nilus (river)",
-        "description": "The Nile is a major river of northeastern Africa and is generally acknowledged as the longest river in the world, measuring some 6,650 km (4,130 miles) from source to mouth.",
-        "coordinates": [
-            30.567329633333333,
-            19.211408766666665
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Νείλῳ"
         ]
     },
     {
@@ -1677,7 +1826,7 @@
             31.358242
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l36"
         ],
         "orig_name": [
             "Παχνεμούνεως"
@@ -1692,7 +1841,7 @@
             31.247944
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l33"
         ],
         "orig_name": [
             "Φραγώνεως"
@@ -1707,7 +1856,7 @@
             30.967149999999997
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l46"
         ],
         "orig_name": [
             "Σάεως"
@@ -1722,7 +1871,7 @@
             31.13965
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l38"
         ],
         "orig_name": [
             "Σχεδίας καὶ Μενελαΐτου"
@@ -1737,7 +1886,7 @@
             30.975840666666667
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l41"
         ],
         "orig_name": [
             "Τάνεως"
@@ -1755,9 +1904,11 @@
             "0"
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l34",
+            "pta0022.pta015.pta-grc1:l37"
         ],
         "orig_name": [
+            "Ἑλεαρχίας",
             "Ἑλεαρχίας"
         ]
     },
@@ -1772,7 +1923,7 @@
             "0"
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l40"
         ],
         "orig_name": [
             "Ὀνούφεως τῆς Λύχ­νων"
@@ -1787,7 +1938,7 @@
             29.3149635
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l45"
         ],
         "orig_name": [
             "Ἀρσενοΐτου"
@@ -1802,35 +1953,17 @@
             30.328611
         ],
         "urns": [
-            "pta0001.pta045.pta-grc1"
+            "pta0001.pta045.pta-grc1:l1",
+            "pta0001.pta045.pta-grc1:l4"
         ],
         "orig_name": [
-            "Ἀραβίας",
-            "Ἀραβίαν"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/746815",
-        "canonical": "Syna M.",
-        "description": "An ancient place, cited: BAtlas 76 D4 Syna M.",
-        "coordinates": [
-            33.921682,
-            28.58771
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "τὸ Σινᾶ ὄρος"
+            "Ἀραβίαν",
+            "Ἀραβίας"
         ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/766",
         "canonical": [
-            "Αἴγυπτον",
-            "Αἴγυπτον",
-            "Αἰγύπτῳ",
-            "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
@@ -1845,13 +1978,22 @@
             "0"
         ],
         "urns": [
-            "pta0022.pta003.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l25",
+            "pta0022.pta010.pta-grc1:l32",
+            "pta0022.pta010.pta-grc1:l34",
+            "pta0022.pta010.pta-grc1:l35",
+            "pta0022.pta010.pta-grc1:l43",
+            "pta0022.pta010.pta-grc1:l49",
+            "pta0022.pta010.pta-grc1:l50"
         ],
         "orig_name": [
-            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
             "Αἴγυπτον",
-            "Αἰγύπτου"
+            "Αἴγυπτον",
+            "Αἴγυπτον"
         ]
     },
     {
@@ -1863,7 +2005,7 @@
             41.25
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1"
+            "pta0001.pta003.pta-grc1:l1"
         ],
         "orig_name": [
             "Κωνσταντινουπόλεως"
@@ -1878,8 +2020,8 @@
             32.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta014.pta-grc1:l2",
+            "pta0022.pta016.pta-grc1:l17"
         ],
         "orig_name": [
             "Ἀφρικῇ",
@@ -1895,7 +2037,7 @@
             25.74059722856505
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l53"
         ],
         "orig_name": [
             "μεγάλην Ὄασιν"
@@ -1910,7 +2052,7 @@
             25.2936689
         ],
         "urns": [
-            "pta0022.pta013.pta-grc1"
+            "pta0022.pta013.pta-grc1:l6"
         ],
         "orig_name": [
             "τῇ Λατῶν"
@@ -1925,7 +2067,7 @@
             24.025031
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta015.pta-grc1:l47"
         ],
         "orig_name": [
             "Φίλων"
@@ -1940,7 +2082,7 @@
             24.081158
         ],
         "urns": [
-            "pta0007.pta007.pta-grc1"
+            "pta0007.pta007.pta-grc1:l4"
         ],
         "orig_name": [
             "Συήνην"
@@ -1955,7 +2097,7 @@
             26.25
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta016.pta-grc1:l2"
         ],
         "orig_name": [
             "Θηβαίδος"
@@ -1970,7 +2112,7 @@
             43.0786852
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta016.pta-grc1:l26"
         ],
         "orig_name": [
             "Πόντον"
@@ -1981,16 +2123,17 @@
         "canonical": "Nineveh/Ninos",
         "description": "This important Mesopotamian city flanks the eastern edge of the Tigris flood plain, opposite modern Mosul, of which it is now a suburb. From the third millennium B.C. onwards, Nineveh was the most important religious center of the goddess Ištar in the area that would become the Assyrian heartland. Starting in the Middle Assyrian period, the city came under the authority of the kings of Assyria, who often sponsored large-scale building activities there. However, it was not until 704 B.C. that Nineveh became the administrative capital of Assyria, when the Neo-Assyrian king Sennacherib moved the royal family and court there and transformed the city into a thriving imperial metropolis. Nineveh remained Assyria’s capital until 612 B.C., when it was captured and destroyed by a Babylonian-Median collation led by Nabopolassar and Cyaxares. The visible remains of the (7th-century) Assyrian city include the citadel mound Kuyunjik, the smaller mound of Nebi Yunus, and the twelve-kilometer-long city wall.",
         "coordinates": [
-            43.155403,
-            36.366841
+            43.1588553345361,
+            36.36199228563663
         ],
         "urns": [
-            "pta0001.pta002.pta-grc1",
-            "pta0004.pta001.pta-grcBibex"
+            "pta0001.pta002.pta-grc1:l4",
+            "pta0004.pta001.pta-grcBibex:l1",
+            "pta0004.pta001.pta-grcBibex:l22"
         ],
         "orig_name": [
-            "\nΝινευὶ\nΝινευὴ\nΝινευεῖ\n",
             "Νινευὶ",
+            "\nΝινευὶ\nΝινευὴ\nΝινευεῖ\n",
             "\nνινευῆ\nνινευη\nνινευῇ \nνινευῆι\nνινευὴ\nνινευὶ\n"
         ]
     },
@@ -2003,37 +2146,208 @@
             32.53778031300106
         ],
         "urns": [
-            "pta0004.pta001.pta-grcBibex",
-            "pta0001.pta011.pta-grc1",
-            "pta0001.pta007.pta-grc1",
-            "pta0001.pta005.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0001.pta005.pta-grc1:l4",
+            "pta0001.pta007.pta-grc1:l2",
+            "pta0001.pta007.pta-grc1:l3",
+            "pta0001.pta011.pta-grc1:l9",
+            "pta0004.pta001.pta-grcBibex:l4",
+            "pta0004.pta001.pta-grcBibex:l6",
+            "pta0004.pta001.pta-grcBibex:l8",
+            "pta0004.pta001.pta-grcBibex:l9",
+            "pta0004.pta001.pta-grcBibex:l10",
+            "pta0004.pta001.pta-grcBibex:l11",
+            "pta0004.pta001.pta-grcBibex:l14",
+            "pta0004.pta001.pta-grcBibex:l15",
+            "pta0004.pta001.pta-grcBibex:l16",
+            "pta0004.pta001.pta-grcBibex:l17",
+            "pta0004.pta001.pta-grcBibex:l18",
+            "pta0004.pta001.pta-grcBibex:l19",
+            "pta0004.pta001.pta-grcBibex:l20",
+            "pta0004.pta001.pta-grcBibex:l21",
+            "pta0004.pta001.pta-grcBibex:l23",
+            "pta0004.pta001.pta-grcBibex:l24",
+            "pta0004.pta001.pta-grcBibex:l25",
+            "pta0004.pta001.pta-grcBibex:l26",
+            "pta0004.pta001.pta-grcBibex:l29",
+            "pta0004.pta001.pta-grcBibex:l30",
+            "pta0004.pta001.pta-grcBibex:l31",
+            "pta0004.pta001.pta-grcBibex:l32",
+            "pta0004.pta001.pta-grcBibex:l33",
+            "pta0004.pta001.pta-grcBibex:l34",
+            "pta0004.pta001.pta-grcBibex:l36",
+            "pta0037.pta001.pta-grc1:l1",
+            "pta0037.pta001.pta-grc1:l2",
+            "pta0037.pta001.pta-grc1:l3",
+            "pta0037.pta001.pta-grc1:l5",
+            "pta0037.pta001.pta-grc1:l6",
+            "pta0037.pta001.pta-grc1:l8",
+            "pta0037.pta001.pta-grc1:l9",
+            "pta0037.pta001.pta-grc1:l10",
+            "pta0037.pta001.pta-grc1:l12",
+            "pta0037.pta001.pta-grc1:l14",
+            "pta0037.pta001.pta-grc1:l16",
+            "pta0037.pta001.pta-grc1:l20",
+            "pta0037.pta001.pta-grc1:l21",
+            "pta0037.pta001.pta-grc1:l23",
+            "pta0037.pta001.pta-grc1:l33",
+            "pta0037.pta001.pta-grc1:l35",
+            "pta0037.pta001.pta-grc1:l36",
+            "pta0037.pta001.pta-grc1:l37",
+            "pta0037.pta001.pta-grc1:l38",
+            "pta0037.pta001.pta-grc1:l39",
+            "pta0037.pta001.pta-grc1:l40",
+            "pta0037.pta001.pta-grc1:l41",
+            "pta0037.pta001.pta-grc1:l42",
+            "pta0037.pta001.pta-grc1:l47",
+            "pta0037.pta001.pta-grc1:l48",
+            "pta0037.pta001.pta-grc1:l50",
+            "pta0037.pta001.pta-grc1:l51",
+            "pta0037.pta001.pta-grc1:l52",
+            "pta0037.pta001.pta-grc1:l54",
+            "pta0037.pta001.pta-grc1:l55",
+            "pta0037.pta001.pta-grc1:l56",
+            "pta0037.pta001.pta-grc1:l57",
+            "pta0037.pta001.pta-grc1:l58",
+            "pta0037.pta001.pta-grc1:l62",
+            "pta0037.pta001.pta-grc1:l68",
+            "pta0037.pta001.pta-grc1:l69",
+            "pta0037.pta001.pta-grc1:l70",
+            "pta0037.pta001.pta-grc1:l71",
+            "pta0037.pta001.pta-grc1:l72",
+            "pta0037.pta001.pta-grc1:l74",
+            "pta0037.pta001.pta-grc1:l75",
+            "pta0037.pta001.pta-grc1:l77",
+            "pta0037.pta001.pta-grc1:l78",
+            "pta0037.pta001.pta-grc1:l79",
+            "pta0037.pta001.pta-grc1:l82",
+            "pta0037.pta001.pta-grc1:l83",
+            "pta0037.pta001.pta-grc1:l84",
+            "pta0037.pta001.pta-grc1:l86",
+            "pta0037.pta001.pta-grc1:l88",
+            "pta0037.pta001.pta-grc1:l89",
+            "pta0037.pta001.pta-grc1:l90",
+            "pta0037.pta001.pta-grc1:l91",
+            "pta0037.pta001.pta-grc1:l92",
+            "pta0037.pta001.pta-grc1:l96",
+            "pta0037.pta001.pta-grc1:l98",
+            "pta0037.pta001.pta-grc1:l100",
+            "pta0037.pta001.pta-grc1:l101",
+            "pta0037.pta001.pta-grc1:l102",
+            "pta0037.pta001.pta-grc1:l104",
+            "pta0037.pta001.pta-grc1:l105",
+            "pta0037.pta001.pta-grc1:l106",
+            "pta0037.pta001.pta-grc1:l108",
+            "pta0037.pta001.pta-grc1:l109",
+            "pta0037.pta001.pta-grc1:l110",
+            "pta0037.pta001.pta-grc1:l114",
+            "pta0037.pta001.pta-grc1:l116",
+            "pta0037.pta001.pta-grc1:l117",
+            "pta0037.pta001.pta-grc1:l122",
+            "pta0037.pta001.pta-grc1:l152",
+            "pta0037.pta001.pta-grc1:l153",
+            "pta0037.pta001.pta-grc1:l155"
         ],
         "orig_name": [
-            "\nβαβυλῶνος\n\n",
+            "Βαβυλῶνός",
+            "Βαβυλῶνα",
             "Βαβυλῶνι",
-            " βαβυλῶνος",
-            "Βαβυλῶν‹ος",
+            "Βαβυλῶνα",
+            "\nβαβυλῶνα\nτὴν βαβυλῶνα\n\n",
+            "\nβαβυλῶνα\nβαβυλωνίαν\n",
+            "βαβυλῶνα",
+            "βαβυλῶνα",
+            "βαβυλῶνα",
+            "βαβυλῶνος",
+            "βαβυλῶνα",
+            "\nβαβυλῶνος\n\n",
+            "\nβαβυλῶνος\nβαβυλῶνοας\nβαβυλῶνας\n",
+            "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνι",
+            "βαβυλὼν",
+            "\nβαβυλὼν\nβαβυλῶν\n",
             "βαβυλὼν",
             "βαβυλῶνος",
-            "Βαβυλῶ›νος",
-            "\nβαβυλὼν\nβαβυλῶν\n",
+            " βαβυλῶνος",
+            "\nβαβυλῶνος\nβαβυλώνος\n",
             "\nβαβυλῶνος\nβαβυλῶνος\n",
-            "Βαβυλωνίας",
+            "βαβυλῶνος",
             "\nβαβυλῶνος\nβαβλωνος\n",
-            "βαβυλῶνα",
-            "Βα›βυλῶνα",
-            "Βαβυλὼν",
-            "\nβαβυλῶνα\nβαβυλωνίαν\n",
+            "βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνα",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
             "Βαβυλῶνα",
             "Βαβυλῶνος",
-            "\nβαβυλῶνα\nτὴν βαβυλῶνα\n\n",
+            "Βαβυλῶνα",
+            "Βαβυλῶνα",
+            "Βαβυλῶνα",
+            "Βαβυλῶνος",
+            "Βαβυλῶνα",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλωνίας",
+            "Βαβυλῶνος",
+            "Βαβυλῶνα",
+            "Βαβυλῶ›νος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνα",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλὼν",
+            "Βαβυλῶνι",
             "Βα›βυλῶνι",
-            "βαβυλῶνι",
-            "\nβαβυλῶνος\nβαβυλῶνοας\nβαβυλῶνας\n",
-            "Βαβυλῶνός",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶν‹ος",
+            "Βαβυλῶνι",
+            "Βα›βυλῶνα",
+            "Βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνα",
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βαβυλῶνι",
+            "Βαβυλῶνι",
+            "Βαβυλὼν",
+            "Βαβυλὼν",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος",
+            "Βα›βυλῶνι",
             "Βαβυλών",
-            "\nβαβυλῶνος\nβαβυλώνος\n"
+            "Βαβυλῶνι",
+            "Βαβυλῶνος",
+            "Βαβυλῶνος"
         ]
     },
     {
@@ -2045,7 +2359,7 @@
             32.5
         ],
         "urns": [
-            "pta0001.pta016.pta-grc1"
+            "pta0001.pta016.pta-grc1:l1"
         ],
         "orig_name": [
             "Βαβυλωνίας"
@@ -2060,7 +2374,7 @@
             31.5
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l139"
         ],
         "orig_name": [
             "Αἰλάμ"
@@ -2075,7 +2389,7 @@
             35.54331017895074
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l111"
         ],
         "orig_name": [
             "Εὐφράτῃ"
@@ -2090,7 +2404,7 @@
             32.1887935
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l138"
         ],
         "orig_name": [
             "Σούσοις"
@@ -2105,7 +2419,7 @@
             31.3201079
         ],
         "urns": [
-            "pta0004.pta001.pta-grcBibex"
+            "pta0004.pta001.pta-grcBibex:l27"
         ],
         "orig_name": [
             "\nὀρὲχ\nὁρὲχ\nὀρεχ\nὁρεχ ̓\nὀρεχ ̓\n"
@@ -2120,21 +2434,87 @@
             19.211408766666665
         ],
         "urns": [
-            "pta0004.pta001.pta-grcBibex",
-            "pta0022.pta003.pta-grc1",
-            "pta0005.pta001.pta-deuBibex",
-            "pta0007.pta007.pta-grc1",
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0001.pta003.pta-grc1",
-            "pta0022.pta015.pta-grc1",
-            "pta0037.pta001.pta-grc1"
+            "pta0001.pta003.pta-grc1:l20",
+            "pta0004.pta001.pta-grcBibex:l2",
+            "pta0004.pta001.pta-grcBibex:l3",
+            "pta0007.pta007.pta-grc1:l2",
+            "pta0007.pta007.pta-grc1:l5",
+            "pta0007.pta007.pta-grc1:l6",
+            "pta0022.pta014.pta-grc1:l18",
+            "pta0022.pta014.pta-grc1:l62",
+            "pta0022.pta015.pta-grc1:l5",
+            "pta0022.pta015.pta-grc1:l7",
+            "pta0022.pta015.pta-grc1:l35",
+            "pta0022.pta016.pta-grc1:l1",
+            "pta0022.pta016.pta-grc1:l24",
+            "pta0037.pta001.pta-grc1:l4",
+            "pta0037.pta001.pta-grc1:l11",
+            "pta0037.pta001.pta-grc1:l43",
+            "pta0037.pta001.pta-grc1:l66",
+            "pta0037.pta001.pta-grc1:l67",
+            "pta0037.pta001.pta-grc1:l73",
+            "pta0037.pta001.pta-grc1:l76",
+            "pta0037.pta001.pta-grc1:l80",
+            "pta0037.pta001.pta-grc1:l81",
+            "pta0037.pta001.pta-grc1:l93",
+            "pta0037.pta001.pta-grc1:l119",
+            "pta0037.pta001.pta-grc1:l128",
+            "pta0037.pta001.pta-grc1:l144",
+            "pta0037.pta001.pta-grc1:l157",
+            "pta0037.pta001.pta-grc1:l160",
+            "pta0037.pta001.pta-grc1:l162",
+            "pta0037.pta001.pta-grc1:l163",
+            "pta0037.pta001.pta-grc1:l170",
+            "pta0037.pta001.pta-grc1:l174",
+            "pta0037.pta001.pta-grc1:l175",
+            "pta0037.pta001.pta-grc1:l185",
+            "pta0037.pta001.pta-grc1:l187",
+            "pta0037.pta001.pta-grc1:l191",
+            "pta0037.pta001.pta-grc1:l194",
+            "pta0037.pta001.pta-grc1:l195",
+            "pta0037.pta001.pta-grc1:l198",
+            "pta0037.pta001.pta-grc1:l201"
         ],
         "orig_name": [
             "Αἰγύπτῳ",
+            "Αἰγύπτου",
             "Αἴγυπτον",
-            "Ägypten",
-            "Ägyptens",
+            "Αἴγυπτον",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἴγυπτον",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἴγυπτον",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἴγυπτον",
+            "Αἰγύπτου",
+            "Αἴγυπτον",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
+            "Αἰγύπτου",
             "Αἰγύπτου"
         ]
     },
@@ -2147,7 +2527,7 @@
             42.5
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l33"
         ],
         "orig_name": [
             "Ἀρμενίας"
@@ -2162,7 +2542,7 @@
             37.5
         ],
         "urns": [
-            "pta0001.pta026.pta-grc1"
+            "pta0001.pta026.pta-grc1:l5"
         ],
         "orig_name": [
             "Ἀσίας"
@@ -2177,7 +2557,7 @@
             37.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l29"
         ],
         "orig_name": [
             "Κιλικίαν"
@@ -2192,12 +2572,12 @@
             42.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta014.pta-grc1:l7",
+            "pta0022.pta016.pta-grc1:l12"
         ],
         "orig_name": [
-            "Δαλματίας",
-            "Δαλματίαν"
+            "Δαλματίαν",
+            "Δαλματίας"
         ]
     },
     {
@@ -2209,7 +2589,7 @@
             37.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l30"
         ],
         "orig_name": [
             "Μεσοποταμίαν"
@@ -2224,7 +2604,7 @@
             37.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l17"
         ],
         "orig_name": [
             "Ἰσαυρίαν"
@@ -2239,7 +2619,7 @@
             42.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1"
+            "pta0022.pta014.pta-grc1:l8"
         ],
         "orig_name": [
             "Δαρδανίαν"
@@ -2248,7 +2628,6 @@
     {
         "ID": "https://pleiades.stoa.org/places/991375",
         "canonical": [
-            "Λιβύας",
             "Λιβύης",
             "Λιβύας",
             "Λιβύης",
@@ -2260,27 +2639,16 @@
             "0"
         ],
         "urns": [
-            "pta0022.pta003.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l24",
+            "pta0022.pta010.pta-grc1:l44",
+            "pta0022.pta010.pta-grc1:l52",
+            "pta0022.pta010.pta-grc1:l56"
         ],
         "orig_name": [
+            "Λιβύης",
             "Λιβύας",
+            "Λιβύης",
             "Λιβύης"
-        ]
-    },
-    {
-        "ID": "https://pleiades.stoa.org/places/991388",
-        "canonical": "Libya Inferior",
-        "description": "An ancient place, cited: BAtlas 101 M5 Libya Inferior",
-        "coordinates": [
-            27.5,
-            32.5
-        ],
-        "urns": [
-            "pta0022.pta003.pta-grc1"
-        ],
-        "orig_name": [
-            "Λιβύας"
         ]
     },
     {
@@ -2292,7 +2660,7 @@
             27.5
         ],
         "urns": [
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l54"
         ],
         "orig_name": [
             "Θηβαίδος"
@@ -2307,8 +2675,8 @@
             32.5
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta015.pta-grc1"
+            "pta0022.pta014.pta-grc1:l20",
+            "pta0022.pta015.pta-grc1:l4"
         ],
         "orig_name": [
             "Ἀραβίᾳ",
@@ -2324,7 +2692,7 @@
             42.5
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1"
+            "pta0022.pta016.pta-grc1:l14"
         ],
         "orig_name": [
             "Μυσίας"
@@ -2335,17 +2703,20 @@
         "canonical": "Gallia",
         "description": "The ancient region known to the Romans as \"Gallia\" (Gaul). Famously described by Caesar as the territory of the ancient Celts (Celtae), whom the Romans called Gauls (Galli in Latin).",
         "coordinates": [
-            2.4909588190476195,
-            45.57717715
+            1.0137063666666668,
+            46.70543721666667
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1",
-            "pta0022.pta016.pta-grc1",
-            "pta0022.pta010.pta-grc1"
+            "pta0022.pta010.pta-grc1:l15",
+            "pta0022.pta010.pta-grc1:l19",
+            "pta0022.pta014.pta-grc1:l4",
+            "pta0022.pta016.pta-grc1:l10"
         ],
         "orig_name": [
             "Γαλλίας",
-            "Γαλλίᾳ"
+            "Γαλλίας",
+            "Γαλλίᾳ",
+            "Γαλλίας"
         ]
     },
     {
@@ -2363,10 +2734,17 @@
             "0"
         ],
         "urns": [
-            "pta0037.pta001.pta-grc1"
+            "pta0037.pta001.pta-grc1:l30",
+            "pta0037.pta001.pta-grc1:l32",
+            "pta0037.pta001.pta-grc1:l59",
+            "pta0037.pta001.pta-grc1:l60",
+            "pta0037.pta001.pta-grc1:l61"
         ],
         "orig_name": [
             "Αἰλῶν",
+            "Αἰλῶν",
+            "Ἐδὲμ",
+            "Ἐδὲμ",
             "Ἐδὲμ"
         ]
     }

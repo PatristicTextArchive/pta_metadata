@@ -1,0 +1,133 @@
+[
+    {
+        "org_id": "PTA_O00001",
+        "other_ids": [
+            {
+                "GND": "4032379-1"
+            },
+            {
+                "WIKIDATA": "Q133331"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Synod of Nicaea"
+            },
+            {
+                "deu": "Synode von Nizäa"
+            },
+            {
+                "lat": "Concilium Nicaenum"
+            },
+            {
+                "grc": "ἡ ἐν Νικαίᾳ σύνοδος"
+            }
+        ],
+        "type": "synod",
+        "date": "0325",
+        "urns": [
+            "pta0013.pta003.pta-deu1:g1",
+            "pta0013.pta003.pta-deu1:g2",
+            "pta0013.pta003.pta-grc1:g1",
+            "pta0013.pta003.pta-grc1:g2"
+        ],
+        "name_txts": [
+            "Die heilige Synode der Väter in Nicaea",
+            "die Väter in Nicaea",
+            "τὴν ἁγίαν σύνοδον τῶν πατέρων τῶν ἐν Νικαίᾳ σύνοδον",
+            "οἱ κατὰ Νίκαιαν πατέρες"
+        ]
+    },
+    {
+        "org_id": "PTA_O00002",
+        "other_ids": [
+            {
+                "WIKIDATA": "Q1194032"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Anomoeans, Eunomians, Heterousians"
+            },
+            {
+                "deu": "Anhomöer, Eunomianer, Heterousianer"
+            },
+            {
+                "lat": "Anomoei, Eunomiani"
+            },
+            {
+                "grc": "Ἀνόμοιοι, Εὐνομιανοί"
+            }
+        ],
+        "type": "faction",
+        "date": "",
+        "urns": [
+            "pta0013.pta003.pta-grc1:g3"
+        ],
+        "name_txts": [
+            "τῶν Ἀνομοίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00003",
+        "other_ids": [
+            {
+                "WIKIDATA": "Q83922"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Arians"
+            },
+            {
+                "deu": "Arianer"
+            },
+            {
+                "lat": "Ariani"
+            },
+            {
+                "grc": "Ἀρειανοί, Ἀρειομανῖται"
+            }
+        ],
+        "type": "faction",
+        "date": "",
+        "urns": [
+            "pta0013.pta003.pta-grc1:g4",
+            "pta0013.pta003.pta-grc1:g6"
+        ],
+        "name_txts": [
+            "τῶν Ἀρειανῶν",
+            "τοὺς Ἀρειανοὺς"
+        ]
+    },
+    {
+        "org_id": "PTA_O00004",
+        "other_ids": [
+            {
+                "WIKIDATA": "Q398180"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Macedonians, Pneumatomachi"
+            },
+            {
+                "deu": "Makedonianer, Pneumatomachen"
+            },
+            {
+                "lat": "Macedoniani, Pneumatomachi"
+            },
+            {
+                "grc": "Μακεδονιανοί, Πνευματομάχοι"
+            }
+        ],
+        "type": "faction",
+        "date": "",
+        "urns": [
+            "pta0013.pta003.pta-grc1:g5"
+        ],
+        "name_txts": [
+            "τῶν Πνευματομάχων"
+        ]
+    }
+]
