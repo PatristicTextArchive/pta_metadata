@@ -7,6 +7,12 @@
             22.5,
             37.5
         ],
+        "bbox": [
+            20.0,
+            35.0,
+            25.0,
+            40.0
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l11",
             "pta0022.pta016.pta-grc1:l16",
@@ -25,6 +31,12 @@
         "coordinates": [
             32.5,
             32.5
+        ],
+        "bbox": [
+            30.0,
+            30.0,
+            35.0,
+            35.0
         ],
         "urns": [
             "pta0001.pta002.pta-grc1:l1",
@@ -61,6 +73,12 @@
             32.5,
             27.5
         ],
+        "bbox": [
+            30.0,
+            25.0,
+            35.0,
+            30.0
+        ],
         "urns": [
             "pta0022.pta013.pta-grc1:l5"
         ],
@@ -75,6 +93,12 @@
         "coordinates": [
             27.5,
             32.5
+        ],
+        "bbox": [
+            25.0,
+            30.0,
+            30.0,
+            35.0
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l63",
@@ -97,6 +121,12 @@
             -7.5,
             42.5
         ],
+        "bbox": [
+            -10.0,
+            40.0,
+            -5.0,
+            45.0
+        ],
         "urns": [
             "pta0022.pta013.pta-grc1:l4",
             "pta0022.pta016.pta-grc1:l8"
@@ -111,6 +141,12 @@
         "canonical": "Italia",
         "description": "The Italian peninsula extending northward to the Alps as recognized by the Romans.",
         "coordinates": [
+            11.0949512,
+            43.6941505
+        ],
+        "bbox": [
+            11.0949512,
+            43.6941505,
             11.0949512,
             43.6941505
         ],
@@ -137,6 +173,12 @@
             6.64163827338633,
             49.75232117245539
         ],
+        "bbox": [
+            6.626667,
+            49.7469859,
+            6.649944,
+            49.759828
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l8",
             "pta0022.pta010.pta-grc1:l27"
@@ -153,6 +195,12 @@
         "coordinates": [
             37.5,
             37.5
+        ],
+        "bbox": [
+            35.0,
+            35.0,
+            40.0,
+            40.0
         ],
         "urns": [
             "pta0001.pta006.pta-grc1:l7",
@@ -173,6 +221,12 @@
             35.259589,
             31.7731513
         ],
+        "bbox": [
+            35.259589,
+            31.7731513,
+            35.259589,
+            31.7731513
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l28",
             "pta0001.pta003.pta-grc1:l30"
@@ -189,6 +243,12 @@
         "coordinates": [
             13.3677735,
             45.768945
+        ],
+        "bbox": [
+            13.364601,
+            45.768259,
+            13.370946,
+            45.769631
         ],
         "urns": [
             "pta0022.pta010.pta-grc1:l2",
@@ -215,6 +275,12 @@
             15.86998,
             46.419985
         ],
+        "bbox": [
+            15.86998,
+            46.419985,
+            15.86998,
+            46.419985
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l1"
         ],
@@ -227,6 +293,12 @@
         "canonical": "Britannia/Albion (island)",
         "description": "The island of Great Britain is located to the northwest of continental Europe and is the ninth largest island in the world.",
         "coordinates": [
+            -2.422,
+            53.826
+        ],
+        "bbox": [
+            -2.422,
+            53.826,
             -2.422,
             53.826
         ],
@@ -245,6 +317,12 @@
             7.5,
             52.5
         ],
+        "bbox": [
+            5.0,
+            50.0,
+            10.0,
+            55.0
+        ],
         "urns": [
             "pta0007.pta007.pta-grc1:l8"
         ],
@@ -259,6 +337,12 @@
         "coordinates": [
             22.5,
             45.5
+        ],
+        "bbox": [
+            22.0,
+            45.0,
+            23.0,
+            46.0
         ],
         "urns": [
             "pta0022.pta016.pta-grc1:l13"
@@ -275,6 +359,12 @@
             21.893884,
             43.316295
         ],
+        "bbox": [
+            21.893884,
+            43.316295,
+            21.893884,
+            43.316295
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l17"
         ],
@@ -287,6 +377,12 @@
         "canonical": "Serdica",
         "description": "An ancient place, cited: BAtlas 21 F7 Serdica",
         "coordinates": [
+            23.342891,
+            42.722826
+        ],
+        "bbox": [
+            23.342891,
+            42.722826,
             23.342891,
             42.722826
         ],
@@ -311,6 +407,12 @@
             19.610106,
             44.966447
         ],
+        "bbox": [
+            19.610106,
+            44.966447,
+            19.610106,
+            44.966447
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l68"
         ],
@@ -326,6 +428,12 @@
             21.1913635,
             44.7266235
         ],
+        "bbox": [
+            21.166605,
+            44.716471,
+            21.216122,
+            44.736776
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l20"
         ],
@@ -338,6 +446,12 @@
         "canonical": "Beitin",
         "description": "A settlement which originally dates to the Chalcolithic period.",
         "coordinates": [
+            35.238333,
+            31.928333
+        ],
+        "bbox": [
+            35.238333,
+            31.928333,
             35.238333,
             31.928333
         ],
@@ -358,6 +472,12 @@
             42.5,
             27.5
         ],
+        "bbox": [
+            40.0,
+            25.0,
+            45.0,
+            30.0
+        ],
         "urns": [
             "pta0001.pta013.pta-grc1:l1"
         ],
@@ -373,6 +493,12 @@
             3.5,
             32.5
         ],
+        "bbox": [
+            3.0,
+            32.0,
+            4.0,
+            33.0
+        ],
         "urns": [
             "pta0007.pta007.pta-grc1:l3"
         ],
@@ -385,6 +511,12 @@
         "canonical": "Mediolan(i)um",
         "description": "A Celtic settlement and crossroads, later a Western Roman capital. Now modern Milan, Italy.",
         "coordinates": [
+            9.18806,
+            45.463746
+        ],
+        "bbox": [
+            9.18806,
+            45.463746,
             9.18806,
             45.463746
         ],
@@ -409,6 +541,12 @@
             8.426374,
             45.321094
         ],
+        "bbox": [
+            8.426374,
+            45.321094,
+            8.426374,
+            45.321094
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l25"
         ],
@@ -424,6 +562,12 @@
             10.995736005073999,
             45.44212954633693
         ],
+        "bbox": [
+            10.5113661,
+            45.09558,
+            12.3316285,
+            46.8353293
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l5"
         ],
@@ -436,6 +580,12 @@
         "canonical": "A(u)xoume",
         "description": "Present-day Aksum in Ethiopia. The center of the Aksumite Kingdom, a maritime trading power that flourished from the first to the tenth centuries AD. The city was listed as UNESCO World Heritage Site in 1980.",
         "coordinates": [
+            38.721522,
+            14.125005
+        ],
+        "bbox": [
+            38.721522,
+            14.125005,
             38.721522,
             14.125005
         ],
@@ -459,6 +609,12 @@
         "coordinates": [
             12.5631945,
             44.0589565
+        ],
+        "bbox": [
+            12.563193,
+            44.058946,
+            12.563196,
+            44.058967
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l22",
@@ -501,6 +657,12 @@
             11.876975,
             45.409561
         ],
+        "bbox": [
+            11.876975,
+            45.409561,
+            11.876975,
+            45.409561
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l4"
         ],
@@ -513,6 +675,12 @@
         "canonical": "Roma",
         "description": "The capital of the Roman Republic and Empire.",
         "coordinates": [
+            12.486137,
+            41.891775
+        ],
+        "bbox": [
+            12.486137,
+            41.891775,
             12.486137,
             41.891775
         ],
@@ -551,6 +719,12 @@
             14.250207,
             41.0860925
         ],
+        "bbox": [
+            14.250057,
+            41.085943,
+            14.250357,
+            41.086242
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l7",
             "pta0022.pta010.pta-grc1:l40"
@@ -568,6 +742,12 @@
             13.932017688866832,
             37.643296840510146
         ],
+        "bbox": [
+            12.425278,
+            36.683441,
+            15.6516917,
+            38.2666667
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l13"
         ],
@@ -580,6 +760,12 @@
         "canonical": "Sharon plain",
         "description": "Central coastal plain between the Carmel and Joppe in modern Israel.",
         "coordinates": [
+            34.91667,
+            32.28333
+        ],
+        "bbox": [
+            34.91667,
+            32.28333,
             34.91667,
             32.28333
         ],
@@ -597,6 +783,12 @@
         "coordinates": [
             8.957516889586618,
             39.87108695332339
+        ],
+        "bbox": [
+            8.196389,
+            38.8643516,
+            9.747191,
+            41.240569
         ],
         "urns": [
             "pta0022.pta010.pta-grc1:l39",
@@ -619,6 +811,12 @@
             17.965028033333333,
             42.427291800000006
         ],
+        "bbox": [
+            16.483426,
+            41.3123828,
+            19.449834,
+            43.539561
+        ],
         "urns": [
             "pta0022.pta013.pta-grc1:l2"
         ],
@@ -633,6 +831,12 @@
         "coordinates": [
             21.75,
             41.25
+        ],
+        "bbox": [
+            21.5,
+            41.0,
+            22.0,
+            41.5
         ],
         "urns": [
             "pta0001.pta008.pta-grc1:l5",
@@ -653,6 +857,12 @@
             22.94402,
             40.58155
         ],
+        "bbox": [
+            22.94402,
+            40.58155,
+            22.94402,
+            40.58155
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l42"
         ],
@@ -668,6 +878,12 @@
             24.283608333333333,
             41.013317
         ],
+        "bbox": [
+            24.2803,
+            41.010981,
+            24.285343,
+            41.016949
+        ],
         "urns": [
             "pta0004.pta001.pta-grcBibex:l35"
         ],
@@ -680,6 +896,12 @@
         "canonical": "Thracia",
         "description": "Thracia refers to a territory occupied by the Thraci (or Thracians), a human population of the northern Balkan Peninsula whose reach stretched from the north Aegean Sea to the Danube river. Parts of Thracia would eventually become incorporated into the Roman provinces of Moesia and Thracia.",
         "coordinates": [
+            23.129408,
+            40.288041
+        ],
+        "bbox": [
+            23.129408,
+            40.288041,
             23.129408,
             40.288041
         ],
@@ -701,6 +923,12 @@
         "coordinates": [
             29.714681666666667,
             40.42909366666667
+        ],
+        "bbox": [
+            29.70918,
+            40.426679,
+            29.719422,
+            40.431774
         ],
         "urns": [
             "pta0001.pta004.pta-grc1:l5",
@@ -807,6 +1035,12 @@
             28.965351736239814,
             41.00637141163484
         ],
+        "bbox": [
+            28.9206407,
+            40.9922431,
+            28.979938,
+            41.0175222
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l71"
         ],
@@ -822,6 +1056,12 @@
             20.787702141128076,
             39.54648401662415
         ],
+        "bbox": [
+            20.056564,
+            39.271166,
+            20.925409,
+            39.913912
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l10"
         ],
@@ -834,6 +1074,12 @@
         "canonical": "Euboea (island)",
         "description": "Euboea is the second largest Greek island by area and is separated from the Greek mainland by the Euripus Strait.",
         "coordinates": [
+            23.87,
+            38.53
+        ],
+        "bbox": [
+            23.87,
+            38.53,
             23.87,
             38.53
         ],
@@ -852,6 +1098,12 @@
             21.375091,
             37.891781
         ],
+        "bbox": [
+            21.375091,
+            37.891781,
+            21.375091,
+            37.891781
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l6"
         ],
@@ -866,6 +1118,12 @@
         "coordinates": [
             24.984579005240445,
             35.219518451031014
+        ],
+        "bbox": [
+            23.570588,
+            34.933931,
+            26.27598,
+            35.6636578
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l12",
@@ -884,6 +1142,12 @@
             27.339722,
             37.941944
         ],
+        "bbox": [
+            27.339722,
+            37.939581,
+            27.340892,
+            37.941944
+        ],
         "urns": [
             "pta0001.pta026.pta-grc1:l4",
             "pta0007.pta007.pta-grc1:l7"
@@ -900,6 +1164,12 @@
         "coordinates": [
             35.75,
             39.25
+        ],
+        "bbox": [
+            35.5,
+            39.0,
+            36.0,
+            39.5
         ],
         "urns": [
             "pta0022.pta012.pta-grc1:l2",
@@ -920,6 +1190,12 @@
             35.484989,
             38.728033
         ],
+        "bbox": [
+            35.484989,
+            38.728033,
+            35.484989,
+            38.728033
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l21",
             "pta0022.pta012.pta-grc1:l1"
@@ -937,6 +1213,12 @@
             29.129311,
             36.5135325
         ],
+        "bbox": [
+            28.621536,
+            36.199973,
+            29.634935,
+            36.828275
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l16",
             "pta0022.pta016.pta-grc1:l22"
@@ -951,6 +1233,12 @@
         "canonical": "Pamphylia (region)",
         "description": "An ancient place, cited: BAtlas 65 E4 Pamphylia",
         "coordinates": [
+            30.98638,
+            36.990721
+        ],
+        "bbox": [
+            30.98638,
+            36.990721,
             30.98638,
             36.990721
         ],
@@ -971,6 +1259,12 @@
             32.25,
             37.25
         ],
+        "bbox": [
+            32.0,
+            37.0,
+            32.5,
+            37.5
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l69",
             "pta0022.pta016.pta-grc1:l23"
@@ -987,6 +1281,12 @@
         "coordinates": [
             36.183214,
             36.222551499999994
+        ],
+        "bbox": [
+            36.165318,
+            36.200663,
+            36.20111,
+            36.24444
         ],
         "urns": [
             "pta0022.pta010.pta-grc1:l22",
@@ -1021,6 +1321,12 @@
             35.8836795,
             34.897427500000006
         ],
+        "bbox": [
+            35.878069,
+            34.884894,
+            35.88929,
+            34.909961
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l56"
         ],
@@ -1033,6 +1339,12 @@
         "canonical": "Paltos",
         "description": "An ancient place, cited: BAtlas 68 A3 Paltos",
         "coordinates": [
+            35.927407,
+            35.272667
+        ],
+        "bbox": [
+            35.927407,
+            35.272667,
             35.927407,
             35.272667
         ],
@@ -1051,6 +1363,12 @@
             35.0466669,
             32.7286111
         ],
+        "bbox": [
+            35.0466669,
+            32.7286111,
+            35.0466669,
+            32.7286111
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l40"
         ],
@@ -1065,6 +1383,12 @@
         "coordinates": [
             35.25,
             32.75
+        ],
+        "bbox": [
+            35.0,
+            32.5,
+            35.5,
+            33.0
         ],
         "urns": [
             "pta0001.pta003.pta-grc1:l9",
@@ -1097,6 +1421,12 @@
             35.25,
             32.75
         ],
+        "bbox": [
+            35.0,
+            32.5,
+            35.5,
+            33.0
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l34"
         ],
@@ -1112,6 +1442,12 @@
             36.116667,
             34.3
         ],
+        "bbox": [
+            36.116667,
+            34.3,
+            36.116667,
+            34.3
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l37"
         ],
@@ -1124,6 +1460,12 @@
         "canonical": "Nazareth",
         "description": "An ancient place, cited: BAtlas 69 B4 Nazareth",
         "coordinates": [
+            35.300148,
+            32.701029
+        ],
+        "bbox": [
+            35.300148,
+            32.701029,
             35.300148,
             32.701029
         ],
@@ -1146,6 +1488,12 @@
             35.228586,
             32.331417
         ],
+        "bbox": [
+            35.190652,
+            32.276414,
+            35.26652,
+            32.38642
+        ],
         "urns": [
             "pta0001.pta007.pta-grc1:l14",
             "pta0001.pta007.pta-grc1:l16",
@@ -1165,6 +1513,12 @@
             35.190436,
             32.276529
         ],
+        "bbox": [
+            35.190436,
+            32.276529,
+            35.190436,
+            32.276529
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l27"
         ],
@@ -1177,6 +1531,12 @@
         "canonical": "Tiberias",
         "description": "Tiberias was founded by Herod Antipas ca. 20 BC.",
         "coordinates": [
+            35.542294,
+            32.787692
+        ],
+        "bbox": [
+            35.542294,
+            32.787692,
             35.542294,
             32.787692
         ],
@@ -1194,6 +1554,12 @@
         "canonical": "Bethlehem",
         "description": "An ancient place, cited: BAtlas 70 G2 Bethlehem",
         "coordinates": [
+            35.202123,
+            31.712291
+        ],
+        "bbox": [
+            35.202123,
+            31.712291,
             35.202123,
             31.712291
         ],
@@ -1220,6 +1586,12 @@
             34.989428000000004,
             31.839295
         ],
+        "bbox": [
+            34.989193,
+            31.83926,
+            34.989663,
+            31.83933
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l13",
             "pta0001.pta025.pta-grc1:l3"
@@ -1234,6 +1606,12 @@
         "canonical": "Gabaon",
         "description": "An ancient place, cited: BAtlas 70 G2 Gabaon",
         "coordinates": [
+            35.184362,
+            31.849056
+        ],
+        "bbox": [
+            35.184362,
+            31.849056,
             35.184362,
             31.849056
         ],
@@ -1253,6 +1631,12 @@
         "coordinates": [
             35.443876,
             31.8700465
+        ],
+        "bbox": [
+            35.443871,
+            31.870028,
+            35.443881,
+            31.870065
         ],
         "urns": [
             "pta0001.pta002.pta-grc1:l3",
@@ -1275,6 +1659,12 @@
             34.75,
             31.25
         ],
+        "bbox": [
+            34.5,
+            31.0,
+            35.0,
+            31.5
+        ],
         "urns": [
             "pta0037.pta001.pta-grc1:l192",
             "pta0037.pta001.pta-grc1:l202",
@@ -1291,6 +1681,12 @@
         "canonical": "Ierusalem/Hierosolyma/Col. Aelia Capitolina",
         "description": "The city of Jerusalem.",
         "coordinates": [
+            35.234156,
+            31.776679
+        ],
+        "bbox": [
+            35.234156,
+            31.776679,
             35.234156,
             31.776679
         ],
@@ -1475,6 +1871,12 @@
             34.7499295,
             32.053079
         ],
+        "bbox": [
+            34.74774,
+            32.052436,
+            34.752119,
+            32.053722
+        ],
         "urns": [
             "pta0001.pta001.pta-grcBibex:l1",
             "pta0001.pta001.pta-grcBibex:l2",
@@ -1495,6 +1897,12 @@
         "coordinates": [
             35.56436628865419,
             32.3575815564599
+        ],
+        "bbox": [
+            35.5189087,
+            31.7597753,
+            35.6309601,
+            33.1864496
         ],
         "urns": [
             "pta0001.pta004.pta-grc1:l4",
@@ -1518,6 +1926,12 @@
         "coordinates": [
             35.06046495,
             31.78422155
+        ],
+        "bbox": [
+            34.8491898,
+            31.5655212,
+            35.238333,
+            31.928333
         ],
         "urns": [
             "pta0001.pta002.pta-grc1:l2",
@@ -1582,6 +1996,12 @@
             35.000146,
             31.930204
         ],
+        "bbox": [
+            35.000146,
+            31.930204,
+            35.000146,
+            31.930204
+        ],
         "urns": [
             "pta0037.pta001.pta-grc1:l167"
         ],
@@ -1596,6 +2016,12 @@
         "coordinates": [
             34.75,
             31.25
+        ],
+        "bbox": [
+            34.5,
+            31.0,
+            35.0,
+            31.5
         ],
         "urns": [
             "pta0001.pta006.pta-grc1:l5",
@@ -1622,6 +2048,12 @@
             35.441944,
             30.328611
         ],
+        "bbox": [
+            35.441944,
+            30.328611,
+            35.441944,
+            30.328611
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l27"
         ],
@@ -1636,6 +2068,12 @@
         "coordinates": [
             33.25778319195364,
             35.03226569576321
+        ],
+        "bbox": [
+            32.276555,
+            34.5705294,
+            34.586367,
+            35.692703
         ],
         "urns": [
             "pta0001.pta003.pta-grc1:l11",
@@ -1658,6 +2096,12 @@
             25.543500594753077,
             29.20516448774955
         ],
+        "bbox": [
+            25.5427953,
+            29.2046556,
+            25.5439862,
+            29.2056019
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l55"
         ],
@@ -1670,6 +2114,12 @@
         "canonical": "Antiphrai/Leukaspis",
         "description": "",
         "coordinates": [
+            29.012034,
+            30.823446
+        ],
+        "bbox": [
+            29.012034,
+            30.823446,
             29.012034,
             30.823446
         ],
@@ -1687,6 +2137,12 @@
         "coordinates": [
             26.5,
             31.5
+        ],
+        "bbox": [
+            26.0,
+            31.0,
+            27.0,
+            32.0
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l19",
@@ -1707,6 +2163,12 @@
             27.236943,
             31.350247
         ],
+        "bbox": [
+            27.236746,
+            31.350025,
+            27.236943,
+            31.350247
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l31"
         ],
@@ -1722,6 +2184,12 @@
             27.669215,
             31.172448
         ],
+        "bbox": [
+            27.669215,
+            31.172448,
+            27.669215,
+            31.172448
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l42"
         ],
@@ -1734,6 +2202,12 @@
         "canonical": "Alexandria",
         "description": "The ancient port city in Egypt's Nile Delta, founded by Alexander the Great in 332/331 BCE.",
         "coordinates": [
+            29.909773,
+            31.201435
+        ],
+        "bbox": [
+            29.909773,
+            31.201435,
             29.909773,
             31.201435
         ],
@@ -1780,6 +2254,12 @@
             30.626467,
             30.778076
         ],
+        "bbox": [
+            30.626467,
+            30.778076,
+            30.626467,
+            30.778076
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l48"
         ],
@@ -1794,6 +2274,12 @@
         "coordinates": [
             31.18425,
             30.470701499999997
+        ],
+        "bbox": [
+            31.184021,
+            30.468973,
+            31.184479,
+            30.47243
         ],
         "urns": [
             "pta0022.pta015.pta-grc1:l44"
@@ -1810,6 +2296,12 @@
             30.4707825,
             31.033655
         ],
+        "bbox": [
+            30.470267,
+            31.033361,
+            30.471298,
+            31.033949
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l39"
         ],
@@ -1822,6 +2314,12 @@
         "canonical": "Pachnamounis",
         "description": "An ancient place, cited: BAtlas 74 E2 Pachnamounis",
         "coordinates": [
+            30.92746,
+            31.358242
+        ],
+        "bbox": [
+            30.92746,
+            31.358242,
             30.92746,
             31.358242
         ],
@@ -1840,6 +2338,12 @@
             30.934522,
             31.247944
         ],
+        "bbox": [
+            30.934522,
+            31.247944,
+            30.934522,
+            31.247944
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l33"
         ],
@@ -1855,6 +2359,12 @@
             30.774366999999998,
             30.967149999999997
         ],
+        "bbox": [
+            30.768333,
+            30.964722,
+            30.780401,
+            30.969578
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l46"
         ],
@@ -1867,6 +2377,12 @@
         "canonical": "Schedia/Chaireon/Menelais?",
         "description": "An ancient place, cited: BAtlas 74 C2 Schedia/Chaireon/Menelais?",
         "coordinates": [
+            30.192032,
+            31.13965
+        ],
+        "bbox": [
+            30.192032,
+            31.13965,
             30.192032,
             31.13965
         ],
@@ -1884,6 +2400,12 @@
         "coordinates": [
             31.874266000000002,
             30.975840666666667
+        ],
+        "bbox": [
+            31.870349,
+            30.974364,
+            31.881357,
+            30.978171
         ],
         "urns": [
             "pta0022.pta015.pta-grc1:l41"
@@ -1903,6 +2425,7 @@
             "0",
             "0"
         ],
+        "bbox": "empty",
         "urns": [
             "pta0022.pta015.pta-grc1:l34",
             "pta0022.pta015.pta-grc1:l37"
@@ -1922,6 +2445,7 @@
             "0",
             "0"
         ],
+        "bbox": "empty",
         "urns": [
             "pta0022.pta015.pta-grc1:l40"
         ],
@@ -1937,6 +2461,12 @@
             30.8399565,
             29.3149635
         ],
+        "bbox": [
+            30.835832,
+            29.309049,
+            30.844081,
+            29.320878
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l45"
         ],
@@ -1949,6 +2479,12 @@
         "canonical": "Arabia Petraia",
         "description": "A province on the frontier of the Roman empire from the second century AD, Arabia Petraia comprised parts of the former kingdom of Nabataea, as well as southern Syria, the Sinai, and the northwestern part of the Arabian peninsula. Its capital was Petra.",
         "coordinates": [
+            35.441944,
+            30.328611
+        ],
+        "bbox": [
+            35.441944,
+            30.328611,
             35.441944,
             30.328611
         ],
@@ -1977,6 +2513,7 @@
             "0",
             "0"
         ],
+        "bbox": "empty",
         "urns": [
             "pta0022.pta010.pta-grc1:l25",
             "pta0022.pta010.pta-grc1:l32",
@@ -2004,6 +2541,12 @@
             28.75,
             41.25
         ],
+        "bbox": [
+            28.5,
+            41.0,
+            29.0,
+            41.5
+        ],
         "urns": [
             "pta0001.pta003.pta-grc1:l1"
         ],
@@ -2018,6 +2561,12 @@
         "coordinates": [
             7.5,
             32.5
+        ],
+        "bbox": [
+            5.0,
+            30.0,
+            10.0,
+            35.0
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l2",
@@ -2036,6 +2585,12 @@
             30.592282894102997,
             25.74059722856505
         ],
+        "bbox": [
+            30.4217418,
+            25.5964149,
+            30.7308897,
+            25.8254918
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l53"
         ],
@@ -2048,6 +2603,12 @@
         "canonical": "Latopolis",
         "description": "An ancient place, cited: BAtlas 80 B3 Latopolis",
         "coordinates": [
+            32.5531993,
+            25.2936689
+        ],
+        "bbox": [
+            32.5531993,
+            25.2936689,
             32.5531993,
             25.2936689
         ],
@@ -2066,6 +2627,12 @@
             32.884252,
             24.025031
         ],
+        "bbox": [
+            32.884252,
+            24.025031,
+            32.884252,
+            24.025031
+        ],
         "urns": [
             "pta0022.pta015.pta-grc1:l47"
         ],
@@ -2080,6 +2647,12 @@
         "coordinates": [
             32.89804,
             24.081158
+        ],
+        "bbox": [
+            32.89804,
+            24.081158,
+            32.904942,
+            24.095991
         ],
         "urns": [
             "pta0007.pta007.pta-grc1:l4"
@@ -2096,6 +2669,12 @@
             32.75,
             26.25
         ],
+        "bbox": [
+            32.5,
+            26.0,
+            33.0,
+            26.5
+        ],
         "urns": [
             "pta0022.pta016.pta-grc1:l2"
         ],
@@ -2108,6 +2687,12 @@
         "canonical": "Pontus",
         "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region. ",
         "coordinates": [
+            34.7425505,
+            43.0786852
+        ],
+        "bbox": [
+            34.7425505,
+            43.0786852,
             34.7425505,
             43.0786852
         ],
@@ -2125,6 +2710,12 @@
         "coordinates": [
             43.1588553345361,
             36.36199228563663
+        ],
+        "bbox": [
+            43.1413339,
+            36.3362776,
+            43.1782687,
+            36.3778981
         ],
         "urns": [
             "pta0001.pta002.pta-grc1:l4",
@@ -2144,6 +2735,12 @@
         "coordinates": [
             44.42431303757361,
             32.53778031300106
+        ],
+        "bbox": [
+            44.407549,
+            32.525165,
+            44.4539733,
+            32.5696924
         ],
         "urns": [
             "pta0001.pta005.pta-grc1:l4",
@@ -2358,6 +2955,12 @@
             44.5,
             32.5
         ],
+        "bbox": [
+            44.0,
+            32.0,
+            45.0,
+            33.0
+        ],
         "urns": [
             "pta0001.pta016.pta-grc1:l1"
         ],
@@ -2372,6 +2975,12 @@
         "coordinates": [
             49.5,
             31.5
+        ],
+        "bbox": [
+            49.0,
+            31.0,
+            50.0,
+            32.0
         ],
         "urns": [
             "pta0037.pta001.pta-grc1:l139"
@@ -2388,6 +2997,12 @@
             39.606017877774164,
             35.54331017895074
         ],
+        "bbox": [
+            38.011987,
+            30.817254,
+            47.4533685,
+            38.4789039
+        ],
         "urns": [
             "pta0037.pta001.pta-grc1:l111"
         ],
@@ -2400,6 +3015,12 @@
         "canonical": "Susa/Seleucia ad Eulaeum",
         "description": "An ancient city of the Elamite, Persian, and Parthian empires of Iran. Located at modern Shush, Susa was inscribed on the UNESCO World Heritage List in 2015.",
         "coordinates": [
+            48.2537285,
+            32.1887935
+        ],
+        "bbox": [
+            48.2537285,
+            32.1887935,
             48.2537285,
             32.1887935
         ],
@@ -2418,6 +3039,12 @@
             45.6277385,
             31.3201079
         ],
+        "bbox": [
+            45.61715,
+            31.318603,
+            45.638327,
+            31.3216128
+        ],
         "urns": [
             "pta0004.pta001.pta-grcBibex:l27"
         ],
@@ -2432,6 +3059,12 @@
         "coordinates": [
             30.567329633333333,
             19.211408766666665
+        ],
+        "bbox": [
+            29.331389,
+            -2.282222,
+            31.2705999,
+            30.166667
         ],
         "urns": [
             "pta0001.pta003.pta-grc1:l20",
@@ -2526,6 +3159,12 @@
             37.5,
             42.5
         ],
+        "bbox": [
+            35.0,
+            40.0,
+            40.0,
+            45.0
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l33"
         ],
@@ -2540,6 +3179,12 @@
         "coordinates": [
             27.5,
             37.5
+        ],
+        "bbox": [
+            25.0,
+            35.0,
+            30.0,
+            40.0
         ],
         "urns": [
             "pta0001.pta026.pta-grc1:l5"
@@ -2556,6 +3201,12 @@
             32.5,
             37.5
         ],
+        "bbox": [
+            30.0,
+            35.0,
+            35.0,
+            40.0
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l29"
         ],
@@ -2570,6 +3221,12 @@
         "coordinates": [
             17.5,
             42.5
+        ],
+        "bbox": [
+            15.0,
+            40.0,
+            20.0,
+            45.0
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l7",
@@ -2588,6 +3245,12 @@
             37.5,
             37.5
         ],
+        "bbox": [
+            35.0,
+            35.0,
+            40.0,
+            40.0
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l30"
         ],
@@ -2603,6 +3266,12 @@
             32.5,
             37.5
         ],
+        "bbox": [
+            30.0,
+            35.0,
+            35.0,
+            40.0
+        ],
         "urns": [
             "pta0022.pta014.pta-grc1:l17"
         ],
@@ -2617,6 +3286,12 @@
         "coordinates": [
             22.5,
             42.5
+        ],
+        "bbox": [
+            20.0,
+            40.0,
+            25.0,
+            45.0
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l8"
@@ -2638,6 +3313,7 @@
             "0",
             "0"
         ],
+        "bbox": "empty",
         "urns": [
             "pta0022.pta010.pta-grc1:l24",
             "pta0022.pta010.pta-grc1:l44",
@@ -2659,6 +3335,12 @@
             32.5,
             27.5
         ],
+        "bbox": [
+            30.0,
+            25.0,
+            35.0,
+            30.0
+        ],
         "urns": [
             "pta0022.pta010.pta-grc1:l54"
         ],
@@ -2673,6 +3355,12 @@
         "coordinates": [
             37.5,
             32.5
+        ],
+        "bbox": [
+            35.0,
+            30.0,
+            40.0,
+            35.0
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l20",
@@ -2691,6 +3379,12 @@
             22.5,
             42.5
         ],
+        "bbox": [
+            20.0,
+            40.0,
+            25.0,
+            45.0
+        ],
         "urns": [
             "pta0022.pta016.pta-grc1:l14"
         ],
@@ -2705,6 +3399,12 @@
         "coordinates": [
             1.0137063666666668,
             46.70543721666667
+        ],
+        "bbox": [
+            -2.2086,
+            42.4395125,
+            8.672222,
+            51.981667
         ],
         "urns": [
             "pta0022.pta010.pta-grc1:l15",
@@ -2733,6 +3433,7 @@
             "0",
             "0"
         ],
+        "bbox": "empty",
         "urns": [
             "pta0037.pta001.pta-grc1:l30",
             "pta0037.pta001.pta-grc1:l32",
