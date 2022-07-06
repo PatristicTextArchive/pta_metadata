@@ -1,0 +1,34 @@
+[
+  {
+    "@id": "https://www.wikidata.org/wiki/Q398180",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00004"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1194032",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00002"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q83922",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00003"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q133331",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00001"
+      }
+    ]
+  }
+]

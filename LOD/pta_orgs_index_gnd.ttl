@@ -1,0 +1,4 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://d-nb.info/gnd/4032379-1> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00001> .
+

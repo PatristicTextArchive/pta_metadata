@@ -1,0 +1,22 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.wikidata.org/wiki/Q142999> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0003> .
+
+<https://www.wikidata.org/wiki/Q1499216> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0036> .
+
+<https://www.wikidata.org/wiki/Q170472> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007> .
+
+<https://www.wikidata.org/wiki/Q1845> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta9999> .
+
+<https://www.wikidata.org/wiki/Q207113> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0037> .
+
+<https://www.wikidata.org/wiki/Q317029> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0004> .
+
+<https://www.wikidata.org/wiki/Q44024> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0022> .
+
+<https://www.wikidata.org/wiki/Q44079> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0005> .
+
+<https://www.wikidata.org/wiki/Q474872> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0013> .
+
+<https://www.wikidata.org/wiki/Q722953> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001> .
+

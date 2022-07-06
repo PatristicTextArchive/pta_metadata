@@ -1,0 +1,36 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://d-nb.info/gnd/102386676> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00017> .
+
+<http://d-nb.info/gnd/102388156> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00016> .
+
+<http://d-nb.info/gnd/102388687> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00018> .
+
+<http://d-nb.info/gnd/102389071> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00002> .
+
+<http://d-nb.info/gnd/102406960> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00007> .
+
+<http://d-nb.info/gnd/1157159761> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00004> .
+
+<http://d-nb.info/gnd/118501828> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00008> .
+
+<http://d-nb.info/gnd/118504843> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00015> .
+
+<http://d-nb.info/gnd/118505122> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00010> .
+
+<http://d-nb.info/gnd/118521969> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00014> .
+
+<http://d-nb.info/gnd/118555340> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00006> .
+
+<http://d-nb.info/gnd/118557831> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00001> .
+
+<http://d-nb.info/gnd/118577069> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00005> .
+
+<http://d-nb.info/gnd/118593838> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00009> .
+
+<http://d-nb.info/gnd/118637797> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00012> .
+
+<http://d-nb.info/gnd/118645781> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00003> .
+
+<http://d-nb.info/gnd/118648888> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00013> .
+

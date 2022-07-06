@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687977">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687977"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/707498">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/707498"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/628949">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/628949"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/991375">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/991375"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1306">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1306"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727217">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727217"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678267">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/736948">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/736948"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/383706">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/383706"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678431">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678431"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/462492">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/462492"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/658381">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/658381"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/501482">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/501482"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/599612">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/599612"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727078">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727078"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/432754">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/432754"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/491656">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/491656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727236">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/981514">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/981514"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/260940008">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/260940008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/20468">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/20468"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/393379">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/393379"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/530871">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/530871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/786089">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/786089"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/648653">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/648653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/156668177">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/156668177"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/697725">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/697725"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/77402394">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/77402394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/912849">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/912849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/207065">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/207065"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727183">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727183"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687995">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687995"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/39303">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/39303"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/746711">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/746711"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/108894">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/108894"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727070">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727070"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/912936">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/912936"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687917">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687917"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1001943">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1001943"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/472014">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/472014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/465843763">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/465843763"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/511268">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/511268"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/991367">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/991367"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/207549">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/207549"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/XXXXXX">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/XXXXXX"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/981509">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/981509"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/912816">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/912816"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727123">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727123"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/991398">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/991398"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/730110">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/730110"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/982261">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/982261"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1001896">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1001896"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/423025">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/423025"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/776210">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/776210"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/629035">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/629035"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/981534">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/981534"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678145">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678145"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687927">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687927"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/207439">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/207439"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/716524">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/716524"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/481865">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/481865"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/991408">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/991408"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1001948">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1001948"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727201">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727201"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/491740">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/491740"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/893951">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/893951"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/29475">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/29475"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/786123">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/786123"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/393473">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/393473"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/874621">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/874621"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727071">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727071"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678369">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678369"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/981503">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/981503"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/501638">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/501638"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/187290">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/187290"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/786131">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/786131"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/207447">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/207447"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/786059">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/786059"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687856">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687856"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/383816">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/383816"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/383815">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/383815"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678220">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/992077">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/992077"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687900">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687934">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687934"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/857287">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/857287"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1052">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1052"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/912986">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/912986"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/727221">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/727221"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/334481">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/334481"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/668332">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/668332"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687931">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687931"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678299">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678299"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/730134">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/730134"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/981508">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/981508"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/716588">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/716588"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687891">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687891"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687928">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687928"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/687932">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/687932"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/668190">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/668190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/912842">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/912842"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/775">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/775"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/207303">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/207303"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/993">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/993"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/570220">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/570220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/520998">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/520998"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678370">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678370"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/716615">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/716615"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/981522">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/981522"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/716520">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/716520"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/540775">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/540775"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/678084">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/678084"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/197446">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/197446"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/716657">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/716657"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/639034">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/639034"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/766">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/20419">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/20419"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1001950">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1001950"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/638965">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/638965"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/589748">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/589748"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pleiades.stoa.org/places/1027">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/place/1027"/>
+  </rdf:Description>
+</rdf:RDF>

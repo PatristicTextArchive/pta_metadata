@@ -1,0 +1,20 @@
+#FORMAT: BEACON
+#PREFIX: https://www.wikidata.org/wiki/
+#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_authors_wikidata.txt
+#NAME: Patristisches Textarchiv (PTA)
+#DESCRIPTION: Alle mit WIKIDATA-ID versehenen Autoren
+#RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
+#CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
+#INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
+#TIMESTAMP: 2022-06-01T17:15:49.479050+00:00
+#UPDATE: monthly
+Q722953|https://pta.bbaw.de/text/urn:cts:pta:pta0001
+Q142999|https://pta.bbaw.de/text/urn:cts:pta:pta0003
+Q317029|https://pta.bbaw.de/text/urn:cts:pta:pta0004
+Q44079|https://pta.bbaw.de/text/urn:cts:pta:pta0005
+Q170472|https://pta.bbaw.de/text/urn:cts:pta:pta0007
+Q474872|https://pta.bbaw.de/text/urn:cts:pta:pta0013
+Q44024|https://pta.bbaw.de/text/urn:cts:pta:pta0022
+Q1499216|https://pta.bbaw.de/text/urn:cts:pta:pta0036
+Q207113|https://pta.bbaw.de/text/urn:cts:pta:pta0037
+Q1845|https://pta.bbaw.de/text/urn:cts:pta:pta9999

@@ -1,0 +1,22 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://d-nb.info/gnd/100942229> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0036> .
+
+<http://d-nb.info/gnd/118504843> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0022> .
+
+<http://d-nb.info/gnd/118523139> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0005> .
+
+<http://d-nb.info/gnd/118531425> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0003> .
+
+<http://d-nb.info/gnd/118551418> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0037> .
+
+<http://d-nb.info/gnd/118590235> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007> .
+
+<http://d-nb.info/gnd/118648888> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0013> .
+
+<http://d-nb.info/gnd/118756796> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0004> .
+
+<http://d-nb.info/gnd/118796771> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001> .
+
+<http://d-nb.info/gnd/4006406-2> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta9999> .
+

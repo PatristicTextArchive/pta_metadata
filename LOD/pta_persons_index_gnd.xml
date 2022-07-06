@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118521969">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118577069">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00005"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118645781">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102389071">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118557831">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118504843">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102406960">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118501828">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118637797">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102388687">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118648888">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118505122">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118593838">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/1157159761">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102386676">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118555340">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102388156">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/person/PTA_P00016"/>
+  </rdf:Description>
+</rdf:RDF>

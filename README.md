@@ -1,6 +1,6 @@
-# (Meta-)Data for PTA frontend
+# Patristic Text Archive (Meta-)Data
 
-This repository contains (meta-)data information used in the frontend of PTA at <https://pta.bbaw.de>.
+This repository contains (meta-)data information used in the frontend of PTA at <https://pta.bbaw.de> and information for Linked Open Data (see folder `LOD`). The scripts used to generate this data are in the folder `scripts`.
 
 ## pta_data.json
 
@@ -9,6 +9,13 @@ This file is built from metadata files conforming to the [Capitains guidelines](
 ## pta_manuscripts.json
 
 The file is built from metadata in the teiHeader of the files in the [pta_manuscripts-Respository](https://github.com/PatristicTextArchive/pta_manuscripts). It contains the metadata for all manuscript descriptions.
+
+## pta_biblereferences.json
+This file is built from all annotated biblical references in the PTA and enriched 
+- with the text of the biblical quotes from Rahlfs' Septuaginta at <https://pta.bbaw.de/texts/pta9999> (in case of quotes from LXX) 
+- with the text of the biblical quotes from SBLGNT at <https://pta.bbaw.de/texts/pta9999> (in case of quotes from the Greek New Testament)
+- with links to Fields' edition of Origen's Hexapla at <https://archive.org/details/origenhexapla01unknuoft> and <https://archive.org/details/origenhexapla02unknuoft> (in case of quotes from the Hexapla)
+- with links to Weber's/Gryson's edition of the Vulgata at <https://www.bibelwissenschaft.de> (in case of quotes from the Vulgata)
 
 ## pta_groups.json
 

@@ -1,0 +1,27 @@
+#FORMAT: BEACON
+#PREFIX: http://d-nb.info/gnd/
+#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_persons_index_gnd_beacon.txt
+#NAME: Patristisches Textarchiv (PTA)
+#DESCRIPTION: Alle mit GND-ID versehenen Datensätze im Personenregister
+#RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
+#CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
+#INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
+#TIMESTAMP: 2022-06-28T12:01:24.224382+00:00
+#UPDATE: monthly
+118557831|https://pta.bbaw.de/person/PTA_P00001
+102389071|https://pta.bbaw.de/person/PTA_P00002
+118645781|https://pta.bbaw.de/person/PTA_P00003
+1157159761|https://pta.bbaw.de/person/PTA_P00004
+118577069|https://pta.bbaw.de/person/PTA_P00005
+118555340|https://pta.bbaw.de/person/PTA_P00006
+102406960|https://pta.bbaw.de/person/PTA_P00007
+118501828|https://pta.bbaw.de/person/PTA_P00008
+118593838|https://pta.bbaw.de/person/PTA_P00009
+118505122|https://pta.bbaw.de/person/PTA_P00010
+118637797|https://pta.bbaw.de/person/PTA_P00012
+118648888|https://pta.bbaw.de/person/PTA_P00013
+118521969|https://pta.bbaw.de/person/PTA_P00014
+118504843|https://pta.bbaw.de/person/PTA_P00015
+102388156|https://pta.bbaw.de/person/PTA_P00016
+102386676|https://pta.bbaw.de/person/PTA_P00017
+102388687|https://pta.bbaw.de/person/PTA_P00018
