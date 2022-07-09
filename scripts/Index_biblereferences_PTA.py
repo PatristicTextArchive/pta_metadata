@@ -96,7 +96,7 @@ def index_reference(reference):
     """
     temp = reference.split(":")
     chap = temp[1]+":"+temp[2]
-    verstemp = ":".join(temp[3:])
+    verstemp = re.sub("[abcd]+","",":".join(temp[3:]))
     # sequence of verses
     if "-" in verstemp:
         if ":" in verstemp:
@@ -243,6 +243,22 @@ def enrich_referencetexts(files_path):
             extended["edition"] = quote["ID"].split(":")[0]
             extended["book"] = quote["ID"].split(":")[1]
             extended["reference"] = ":".join(quote["ID"].split(":")[2:])
+            extended["chapter"] = quote["ID"].split(":")[2]
+            try:
+                vers = re.sub("[abcd]+","",quote["ID"].split(":")[3])
+                if "." in vers:
+                    extended["versFrom"] = vers.split(".")[0]
+                    extended["versTo"] = vers.split(".")[1]
+                elif "-" in vers:
+                    extended["versFrom"] = vers.split("-")[0]
+                    extended["versTo"] = vers.split("-")[1]
+                else:
+                    extended["versFrom"] = vers
+                    extended["versTo"] = ""
+            except:
+                # only chapter, no verse
+                extended["versFrom"] = ""
+                extended["versTo"] = ""
             if "LXX" in quote["ID"] or "NA" in quote["ID"]:
                 print(quote["ID"]+" in use")
                 extended["CTS"] = ctsformat_reference(quote["ID"])
@@ -325,7 +341,7 @@ for reference in quotes_enriched:
     reference["new_ids"] = new_ids
     reference["index_urns"] = index_urns    
     reference["new_urns"] = new_urns
-    entries_to_remove = ('ID','book','reference','link','CTS','text')
+    entries_to_remove = ('ID','book','reference','chapter','versFrom','versTo','link','CTS','text')
     for k in entries_to_remove:
         reference.pop(k, None)
     min_references.append(reference)
