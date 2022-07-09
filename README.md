@@ -6,6 +6,10 @@ This repository contains (meta-)data information used in the frontend of PTA at 
 
 This file is built from metadata files conforming to the [Capitains guidelines](http://capitains.org/pages/guidelines). It is converted from ` __cts__.xml`-files in the [pta_data-Respository](https://github.com/PatristicTextArchive/pta_data) to json. It contains the metadata for all textgroups, works, and versions of works.
 
+## pta_statistics.json
+
+This file is generated using the [CLTK](https://www.cltk.org) Greek Backoff Lemmatizer. It contains statistical data on words (and their number of occurences) and lemmata (and their number of occurences) in each work (identified by its urn); please note that the [CLTK Greek stopword](Link) list was applied. 
+
 ## pta_manuscripts.json
 
 The file is built from metadata in the teiHeader of the files in the [pta_manuscripts-Respository](https://github.com/PatristicTextArchive/pta_manuscripts). It contains the metadata for all manuscript descriptions.

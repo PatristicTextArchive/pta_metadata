@@ -507,6 +507,50 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/373869",
+        "canonical": "Pentapolis",
+        "description": "An ancient place, cited: BAtlas 38 B1 Pentapolis",
+        "coordinates": [
+            20.5,
+            32.5
+        ],
+        "bbox": [
+            20.0,
+            32.0,
+            21.0,
+            33.0
+        ],
+        "urns": [
+            "pta0022.pta004.pta-grc1:l1",
+            "pta0022.pta004.pta-grc1:l7"
+        ],
+        "orig_name": [
+            "Πενταπόλει τῆς ἄνω Λιβύης",
+            "Πενταπόλει"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/373879",
+        "canonical": "Ptolemais/Barkes Limen",
+        "description": "An ancient capital of Cyrenaica, Ptolemais was probably named after Ptolemy III Euergetes. The city was founded in either the seventh or sixth century BC.",
+        "coordinates": [
+            20.9507545,
+            32.708807
+        ],
+        "bbox": [
+            20.950753,
+            32.708144,
+            20.950756,
+            32.70947
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l18"
+        ],
+        "orig_name": [
+            "Πτολεμαίδος"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/383706",
         "canonical": "Mediolan(i)um",
         "description": "A Celtic settlement and crossroads, later a Western Roman capital. Now modern Milan, Italy.",
@@ -688,6 +732,7 @@
             "pta0001.pta011.pta-grc1:l10",
             "pta0001.pta018.pta-grc1:l1",
             "pta0001.pta018.pta-grc1:l2",
+            "pta0022.pta004.pta-grc1:l8",
             "pta0022.pta010.pta-grc1:l11",
             "pta0022.pta010.pta-grc1:l23",
             "pta0022.pta010.pta-grc1:l37",
@@ -701,6 +746,7 @@
             "Ῥώμη",
             "Ῥώμῃ",
             "Ῥώμῃ",
+            "Ῥώμην",
             "Ῥώμην",
             "Ῥώμῃ",
             "Ῥώμης",
@@ -934,6 +980,8 @@
             "pta0001.pta004.pta-grc1:l5",
             "pta0001.pta014.pta-grc1:l3",
             "pta0001.pta014.pta-grc1:l5",
+            "pta0022.pta003.pta-grc1:l22",
+            "pta0022.pta003.pta-grc1:l26",
             "pta0022.pta014.pta-grc1:l6",
             "pta0022.pta014.pta-grc1:l21",
             "pta0022.pta014.pta-grc1:l23",
@@ -982,6 +1030,8 @@
             "Νίκαιαν",
             "Νικαίᾳ",
             "Νικαίᾳ",
+            "Νικαέων πόλιν",
+            "τῆς Νικαέων πόλεως",
             "Νικαίᾳ",
             "Νικαίᾳ",
             "Νικαίᾳ",
@@ -1025,6 +1075,27 @@
             "Νικαίᾳ",
             "Νικαίᾳ",
             "Νικαίᾳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/511337",
+        "canonical": "Nicomedia",
+        "description": "Nicomedia was founded in 712/11 BC as a Megarian colony named Astacus and was rebuilt by Nicomedes I of Bithynia in 264 BC. The city was an important administrative center of the Roman Empire.",
+        "coordinates": [
+            29.919887000000003,
+            40.7651905
+        ],
+        "bbox": [
+            29.916288,
+            40.76445,
+            29.923486,
+            40.765931
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l7"
+        ],
+        "orig_name": [
+            "Νικομηδέων"
         ]
     },
     {
@@ -1112,6 +1183,27 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/579885",
+        "canonical": "Athenae",
+        "description": "A major Greek city-state and the principal city of Attika. Modern Athens in Greece.",
+        "coordinates": [
+            23.722746101726134,
+            37.972633872615816
+        ],
+        "bbox": [
+            23.619913,
+            37.937222,
+            23.849968,
+            38.019497
+        ],
+        "urns": [
+            "pta0022.pta004.pta-grc1:l3"
+        ],
+        "orig_name": [
+            "Ἀθήναις"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/589748",
         "canonical": "Creta (island)",
         "description": "The island of Crete is the largest of the Greek islands and the fifth-largest island in the Mediterranean Sea.",
@@ -1155,6 +1247,27 @@
         "orig_name": [
             "Ἐφέσῳ",
             "Ἐφέσῳ"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/609307",
+        "canonical": "Antiochia/Col. Caesarea",
+        "description": "An ancient city in Pisidia.",
+        "coordinates": [
+            31.189435500000002,
+            38.305175000000006
+        ],
+        "bbox": [
+            31.189167,
+            38.304239,
+            31.189704,
+            38.306111
+        ],
+        "urns": [
+            "pta0022.pta004.pta-grc1:l2"
+        ],
+        "orig_name": [
+            "ἐν Ἀντιοχείᾳ τῆς\n                            Πισιδίας"
         ]
     },
     {
@@ -1356,6 +1469,27 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/678060",
+        "canonical": "Beirut",
+        "description": "An ancient Phoenician city, known by various names in antiquity, in what is now Lebanon.",
+        "coordinates": [
+            35.511241,
+            33.898593500000004
+        ],
+        "bbox": [
+            35.501176,
+            33.897902,
+            35.521306,
+            33.899285
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l6"
+        ],
+        "orig_name": [
+            "Βηρυτὸν"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/678084",
         "canonical": "Carmel",
         "description": "A coastal mountain range in northern Israel.",
@@ -1374,6 +1508,48 @@
         ],
         "orig_name": [
             "Κάρμηλος"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678106",
+        "canonical": "Damascus",
+        "description": "The ancient city of Damascus, located in modern Syria, with some 125 monuments dating back to the Roman period. Inscribed as a UNESCO World Heritage Site in 1979.",
+        "coordinates": [
+            36.309102,
+            33.511612
+        ],
+        "bbox": [
+            36.309102,
+            33.511612,
+            36.309102,
+            33.511612
+        ],
+        "urns": [
+            "pta0004.pta001.pta-grcBibex:l40"
+        ],
+        "orig_name": [
+            "δαμασκὸν"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678109",
+        "canonical": "Dan",
+        "description": "An ancient place, cited: BAtlas 69 C3 Dan",
+        "coordinates": [
+            35.652834,
+            33.242223
+        ],
+        "bbox": [
+            35.652834,
+            33.242223,
+            35.652834,
+            33.242223
+        ],
+        "urns": [
+            "pta0022.pta004.pta-grc1:l5"
+        ],
+        "orig_name": [
+            "Δὰν"
         ]
     },
     {
@@ -1472,12 +1648,14 @@
         "urns": [
             "pta0001.pta004.pta-grc1:l3",
             "pta0001.pta014.pta-grc1:l2",
-            "pta0001.pta025.pta-grc1:l2"
+            "pta0001.pta025.pta-grc1:l2",
+            "pta0022.pta004.pta-grc1:l4"
         ],
         "orig_name": [
             "Ναζαρέτ",
             "Ναζαρέτ",
-            "Ναζωραίου"
+            "Ναζωραίου",
+            "Ναζαρὲτ"
         ]
     },
     {
@@ -1520,10 +1698,16 @@
             32.276529
         ],
         "urns": [
-            "pta0001.pta003.pta-grc1:l27"
+            "pta0001.pta003.pta-grc1:l27",
+            "pta0004.pta001.pta-grcBibex:l43",
+            "pta0004.pta001.pta-grcBibex:l44",
+            "pta0004.pta001.pta-grcBibex:l54"
         ],
         "orig_name": [
-            "Σαμαρείᾳ"
+            "Σαμαρείᾳ",
+            "\nσαμαρείᾳ\nσαμαρείαι\nσαμαρεια\nσαμαρεία\n\n",
+            "\nσαμαρείᾳ\nσαμαρείαι\nσαμαρεία\nσαμάρεια\nσαμαρεια\n",
+            "\nσαμαρείᾳ\nσαμαρείαι\nσαμαρεία\nσαμάρειᾳ\nσαμάρειαν\n"
         ]
     },
     {
@@ -1747,10 +1931,28 @@
             "pta0001.pta017.pta-grc1:l6",
             "pta0001.pta025.pta-grc1:l1",
             "pta0001.pta026.pta-grc1:l1",
+            "pta0003.pta020.pta-grcBibex2:l3",
+            "pta0003.pta020.pta-grcBibex2:l5",
+            "pta0003.pta020.pta-grcBibex2:l7",
+            "pta0003.pta020.pta-grcBibex2:l9",
             "pta0004.pta001.pta-grcBibex:l5",
             "pta0004.pta001.pta-grcBibex:l7",
             "pta0004.pta001.pta-grcBibex:l12",
             "pta0004.pta001.pta-grcBibex:l13",
+            "pta0004.pta001.pta-grcBibex:l41",
+            "pta0004.pta001.pta-grcBibex:l42",
+            "pta0004.pta001.pta-grcBibex:l45",
+            "pta0004.pta001.pta-grcBibex:l46",
+            "pta0004.pta001.pta-grcBibex:l48",
+            "pta0004.pta001.pta-grcBibex:l49",
+            "pta0004.pta001.pta-grcBibex:l50",
+            "pta0004.pta001.pta-grcBibex:l51",
+            "pta0004.pta001.pta-grcBibex:l52",
+            "pta0004.pta001.pta-grcBibex:l53",
+            "pta0004.pta001.pta-grcBibex:l55",
+            "pta0004.pta001.pta-grcBibex:l57",
+            "pta0004.pta001.pta-grcBibex:l59",
+            "pta0004.pta001.pta-grcBibex:l60",
             "pta0007.pta007.pta-grc1:l1",
             "pta0022.pta011.pta-grc1:l1",
             "pta0022.pta014.pta-grc1:l52",
@@ -1833,10 +2035,28 @@
             "Ἱεροσόλυμα",
             "Ἱερουσαλὴμ",
             "Ἱερουσαλὴμ",
+            "Σιών",
+            "Σιὼν",
+            "Σιών",
+            "Σιὼν",
             "ἱεροσολύμοις",
             "ἱεροσολύμοις",
             "\nἱερουσαλήμ\nἱερουσαλὴμ\nἰἱερουσαλὴμ\nιερουσαλὴμ\n",
             "\nἱεροσολύμων\nἰεροσολύμων\n",
+            "\nἱερουσαλὴμ\nιερουσαλὴμ\nἱερουσαλήμ\n",
+            "\nἱερουσαλὴμ\nιερουσαλὴμ\nἱερουσαλήμ\n",
+            "\nἱερουσαλὴμ\nἰερουσαλὴμ\nἱερουσαλήμ\n",
+            "\nἱερουσαλὴμ\nιερουσαλημ\nἰερουσαλὴμ\nἱερουσαλήμ\n",
+            "\nἱερουσαλὴμ\nἱερουσαλήμ\nἱερουσαλήμι\nἰερουσαλὴμ\n(ἱερουσαλήμ)\n\n",
+            "\nἱερουσαλὴμ,\nιεροσαλημ\nιερουσαλὴμ\nἱερουσαλήμ\n",
+            "\nἱερουσαλὴμ\nιεροσαλημ\nἱερουσαλήμ\n\n",
+            "ἱερουσαλὴμ",
+            "\nἱερουσαλήμ\nἰερουσαλὴμ\nἱερουσαλὴμ\nιεροσαλημ\nἱερουσαλήμ\n",
+            "\nἱερουσαλήμ\nἱερουσαλὴμ\nιεροσαλημ\nἱερουσαλὴμ\nἰερουσαλὴμ\nἱερουσαλήμι\n",
+            "\nἱερουσαλὴμ\nιεροσαλημ\nιερουσαλὴμ\nἱερουσαλήμ\nἱερουσαλημι\n",
+            "\nἱεροσολύμοις\nιεροσολύμοις\n",
+            "\nἱερουσαλήμ\nἱερουσαλὴμ\nἰερουσαλήμ\n",
+            "\nἱερουσαλὴμ\nιερουσαλὴμ\nἱερουσαλήμ\n",
             "Ἱεροσόλυμα",
             "Ἱεροσολύμων",
             "Σιὼν",
@@ -1942,6 +2162,11 @@
             "pta0001.pta007.pta-grc1:l13",
             "pta0001.pta008.pta-grc1:l3",
             "pta0001.pta014.pta-grc1:l1",
+            "pta0003.pta020.pta-grcBibex2:l1",
+            "pta0003.pta020.pta-grcBibex2:l4",
+            "pta0003.pta020.pta-grcBibex2:l6",
+            "pta0003.pta020.pta-grcBibex2:l8",
+            "pta0003.pta020.pta-grcBibex2:l10",
             "pta0037.pta001.pta-grc1:l18",
             "pta0037.pta001.pta-grc1:l19",
             "pta0037.pta001.pta-grc1:l22",
@@ -1969,6 +2194,11 @@
             "Ἰουδαίᾳ",
             "Ἰούδα",
             "Ἰούδα",
+            "Ἰουδαίαν",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
             "Ἰούδα",
             "Ἰούδα",
             "Ἰούδα",
@@ -2145,14 +2375,37 @@
             32.0
         ],
         "urns": [
+            "pta0022.pta003.pta-grc1:l23",
             "pta0022.pta014.pta-grc1:l19",
             "pta0022.pta016.pta-grc1:l3",
             "pta0022.pta016.pta-grc1:l25"
         ],
         "orig_name": [
+            "Λιβύη",
             "Λιβύας",
             "Λιβυῶν",
             "Λιβύας"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/716595",
+        "canonical": "Marmarica",
+        "description": "Marmarica was an ancient region of the North African coast between Cyrenaica and Aegyptus.",
+        "coordinates": [
+            23.5,
+            31.5
+        ],
+        "bbox": [
+            23.0,
+            31.0,
+            24.0,
+            32.0
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l17"
+        ],
+        "orig_name": [
+            "Μαρμαρικῆς"
         ]
     },
     {
@@ -2212,6 +2465,11 @@
             31.201435
         ],
         "urns": [
+            "pta0022.pta003.pta-grc1:l3",
+            "pta0022.pta003.pta-grc1:l11",
+            "pta0022.pta003.pta-grc1:l13",
+            "pta0022.pta003.pta-grc1:l21",
+            "pta0022.pta003.pta-grc1:l27",
             "pta0022.pta010.pta-grc1:l10",
             "pta0022.pta010.pta-grc1:l12",
             "pta0022.pta010.pta-grc1:l26",
@@ -2229,6 +2487,11 @@
             "pta0022.pta017.pta-grc1:l4"
         ],
         "orig_name": [
+            "Ἀλεξανδρείας",
+            "Ἀλεξανδρείας",
+            "Ἀλεξανδρέων",
+            "Ἀλεξανδρέων",
+            "Ἀλεξανδρέας",
             "Ἀλεξανδρείας",
             "Ἀλεξανδρείᾳ",
             "ἐκκλησίαν τὴν καλουμένην Θεωνᾶ",
@@ -2307,6 +2570,52 @@
         ],
         "orig_name": [
             "Ἑρμουπόλεως μικρᾶς"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727154",
+        "canonical": "Mareotis L.",
+        "description": "A brackish lake of Lower Egypt (now Lake Mariout).",
+        "coordinates": [
+            29.898889,
+            31.1575
+        ],
+        "bbox": [
+            29.898889,
+            31.1575,
+            29.898889,
+            31.1575
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l4",
+            "pta0022.pta003.pta-grc1:l5",
+            "pta0022.pta003.pta-grc1:l12"
+        ],
+        "orig_name": [
+            "Μαρεώτου",
+            "Μαρεώτου",
+            "Μαρεώτου"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727172",
+        "canonical": "Nilus (river)",
+        "description": "The Nile is a major river of northeastern Africa and is generally acknowledged as the longest river in the world, measuring some 6,650 km (4,130 miles) from source to mouth.",
+        "coordinates": [
+            30.567329633333333,
+            19.211408766666665
+        ],
+        "bbox": [
+            29.331389,
+            -2.282222,
+            31.2705999,
+            30.166667
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l24"
+        ],
+        "orig_name": [
+            "Νείλῳ"
         ]
     },
     {
@@ -2498,8 +2807,33 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/746815",
+        "canonical": "Syna M.",
+        "description": "An ancient place, cited: BAtlas 76 D4 Syna M.",
+        "coordinates": [
+            33.921682,
+            28.58771
+        ],
+        "bbox": [
+            33.921682,
+            28.58771,
+            33.921682,
+            28.58771
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l2"
+        ],
+        "orig_name": [
+            "τὸ Σινᾶ ὄρος"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/766",
         "canonical": [
+            "Αἴγυπτον",
+            "Αἴγυπτον",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
@@ -2515,6 +2849,10 @@
         ],
         "bbox": "empty",
         "urns": [
+            "pta0022.pta003.pta-grc1:l8",
+            "pta0022.pta003.pta-grc1:l19",
+            "pta0022.pta003.pta-grc1:l20",
+            "pta0022.pta003.pta-grc1:l25",
             "pta0022.pta010.pta-grc1:l25",
             "pta0022.pta010.pta-grc1:l32",
             "pta0022.pta010.pta-grc1:l34",
@@ -2524,6 +2862,10 @@
             "pta0022.pta010.pta-grc1:l50"
         ],
         "orig_name": [
+            "Αἴγυπτον",
+            "Αἴγυπτον",
+            "Αἰγύπτῳ",
+            "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
@@ -2704,6 +3046,27 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/874334",
+        "canonical": "Arabia (region in Mesopotamia)",
+        "description": "Some texts of the late Roman Empire use the name \"Arabia\" for a region in Mesopotamia. The sources and scholarly speculation about origins of the name and the location of the reason are summarized by Dillemann. In BAtlas, T. Sinclair identifies this Arabia with \"Tektek Dağ and district of Viranşehir.\"",
+        "coordinates": [
+            39.31985027123915,
+            37.030069582737795
+        ],
+        "bbox": [
+            39.2295146,
+            36.850269,
+            39.406493,
+            37.1857538
+        ],
+        "urns": [
+            "pta0004.pta001.pta-grcBibex:l39"
+        ],
+        "orig_name": [
+            "ἀραβίαν,"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/874621",
         "canonical": "Nineveh/Ninos",
         "description": "This important Mesopotamian city flanks the eastern edge of the Tigris flood plain, opposite modern Mosul, of which it is now a suburb. From the third millennium B.C. onwards, Nineveh was the most important religious center of the goddess Ištar in the area that would become the Assyrian heartland. Starting in the Middle Assyrian period, the city came under the authority of the kings of Assyria, who often sponsored large-scale building activities there. However, it was not until 704 B.C. that Nineveh became the administrative capital of Assyria, when the Neo-Assyrian king Sennacherib moved the royal family and court there and transformed the city into a thriving imperial metropolis. Nineveh remained Assyria’s capital until 612 B.C., when it was captured and destroyed by a Babylonian-Median collation led by Nabopolassar and Cyaxares. The visible remains of the (7th-century) Assyrian city include the citadel mound Kuyunjik, the smaller mound of Nebi Yunus, and the twelve-kilometer-long city wall.",
@@ -2720,12 +3083,14 @@
         "urns": [
             "pta0001.pta002.pta-grc1:l4",
             "pta0004.pta001.pta-grcBibex:l1",
-            "pta0004.pta001.pta-grcBibex:l22"
+            "pta0004.pta001.pta-grcBibex:l22",
+            "pta0004.pta001.pta-grcBibex:l47"
         ],
         "orig_name": [
             "Νινευὶ",
             "\nΝινευὶ\nΝινευὴ\nΝινευεῖ\n",
-            "\nνινευῆ\nνινευη\nνινευῇ \nνινευῆι\nνινευὴ\nνινευὶ\n"
+            "\nνινευῆ\nνινευη\nνινευῇ \nνινευῆι\nνινευὴ\nνινευὶ\n",
+            "\nνινευὶ\nνινευὴ\nνινευῆ\n"
         ]
     },
     {
@@ -2772,6 +3137,13 @@
             "pta0004.pta001.pta-grcBibex:l33",
             "pta0004.pta001.pta-grcBibex:l34",
             "pta0004.pta001.pta-grcBibex:l36",
+            "pta0004.pta001.pta-grcBibex:l37",
+            "pta0004.pta001.pta-grcBibex:l38",
+            "pta0004.pta001.pta-grcBibex:l56",
+            "pta0004.pta001.pta-grcBibex:l58",
+            "pta0004.pta001.pta-grcBibex:l61",
+            "pta0004.pta001.pta-grcBibex:l62",
+            "pta0004.pta001.pta-grcBibex:l63",
             "pta0037.pta001.pta-grc1:l1",
             "pta0037.pta001.pta-grc1:l2",
             "pta0037.pta001.pta-grc1:l3",
@@ -2874,6 +3246,13 @@
             "βαβυλῶνος",
             "\nβαβυλῶνος\nβαβλωνος\n",
             "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνος",
+            "βαβυλῶνα",
+            "βαβυλῶνος",
+            "\nβαβυλῶνι\n\n",
+            "\nβαβυλὼν\nβαβυλῶν\n",
             "Βαβυλῶνι",
             "Βαβυλῶνα",
             "Βαβυλῶνι",
@@ -3073,6 +3452,7 @@
             "pta0007.pta007.pta-grc1:l2",
             "pta0007.pta007.pta-grc1:l5",
             "pta0007.pta007.pta-grc1:l6",
+            "pta0022.pta003.pta-grc1:l1",
             "pta0022.pta014.pta-grc1:l18",
             "pta0022.pta014.pta-grc1:l62",
             "pta0022.pta015.pta-grc1:l5",
@@ -3115,6 +3495,7 @@
             "Αἴγυπτον",
             "Αἰγύπτῳ",
             "Αἰγύπτου",
+            "Αἴγυπτον",
             "Αἴγυπτον",
             "Αἰγύπτῳ",
             "Αἰγύπτου",
@@ -3303,6 +3684,7 @@
     {
         "ID": "https://pleiades.stoa.org/places/991375",
         "canonical": [
+            "Λιβύας",
             "Λιβύης",
             "Λιβύας",
             "Λιβύης",
@@ -3315,16 +3697,39 @@
         ],
         "bbox": "empty",
         "urns": [
+            "pta0022.pta003.pta-grc1:l10",
             "pta0022.pta010.pta-grc1:l24",
             "pta0022.pta010.pta-grc1:l44",
             "pta0022.pta010.pta-grc1:l52",
             "pta0022.pta010.pta-grc1:l56"
         ],
         "orig_name": [
+            "Λιβύας",
             "Λιβύης",
             "Λιβύας",
             "Λιβύης",
             "Λιβύης"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/991388",
+        "canonical": "Libya Inferior",
+        "description": "An ancient place, cited: BAtlas 101 M5 Libya Inferior",
+        "coordinates": [
+            27.5,
+            32.5
+        ],
+        "bbox": [
+            25.0,
+            30.0,
+            30.0,
+            35.0
+        ],
+        "urns": [
+            "pta0022.pta003.pta-grc1:l9"
+        ],
+        "orig_name": [
+            "Λιβύας"
         ]
     },
     {

@@ -1,0 +1,52 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1189> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1191g> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1844c> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1910k> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1928> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1937> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=226f> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2345> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2351> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2475e> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=393g> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=414p-414s> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=415m> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=415t> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=420q> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=421> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=424u> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=428y> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=451h> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=488e> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=488f> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=809b> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939d> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939e> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939f> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047> .
+

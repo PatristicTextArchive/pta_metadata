@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-06-28T12:01:26.580142+00:00
+#TIMESTAMP: 2022-07-08T16:30:02.119903+00:00
 #UPDATE: monthly
 Q43706|https://pta.bbaw.de/person/PTA_P00001
 Q447451|https://pta.bbaw.de/person/PTA_P00002
@@ -22,6 +22,19 @@ Q44258|https://pta.bbaw.de/person/PTA_P00012
 Q474872|https://pta.bbaw.de/person/PTA_P00013
 Q46418|https://pta.bbaw.de/person/PTA_P00014
 Q44024|https://pta.bbaw.de/person/PTA_P00015
+Q142999|https://pta.bbaw.de/person/PTA_P00019
+Q337196|https://pta.bbaw.de/person/PTA_P00020
+Q2657803|https://pta.bbaw.de/person/PTA_P00021
+Q357771|https://pta.bbaw.de/person/PTA_P00022
+Q328736|https://pta.bbaw.de/person/PTA_P00026
+Q131162|https://pta.bbaw.de/person/PTA_P00027
+Q321639|https://pta.bbaw.de/person/PTA_P00030
+Q8413|https://pta.bbaw.de/person/PTA_P00031
+Q3526581|https://pta.bbaw.de/person/PTA_P00035
+Q11951531|https://pta.bbaw.de/person/PTA_P00036
+Q7901156|https://pta.bbaw.de/person/PTA_P00037
+Q24036366|https://pta.bbaw.de/person/PTA_P00038
+Q44794|https://pta.bbaw.de/person/PTA_P00041
 Q51676|https://pta.bbaw.de/person/Aaron_Exo.4.14
 Q313421|https://pta.bbaw.de/person/Abel_Gen.4.2
 Q1133337|https://pta.bbaw.de/person/Abner_1Sa.14.50
@@ -51,6 +64,7 @@ Q106084783|https://pta.bbaw.de/person/Hananiah_Dan.1.6
 Q2346367|https://pta.bbaw.de/person/Hannah_1Sa.1.2
 Q244912|https://pta.bbaw.de/person/Hezekiah_2Ki.16.20
 Q1563312|https://pta.bbaw.de/person/Hophni_1Sa.1.3
+Q16199754|https://pta.bbaw.de/person/Hymenaeus_1Ti.1.20
 Q671872|https://pta.bbaw.de/person/Isaac_Gen.17.19
 Q289957|https://pta.bbaw.de/person/Israel_Gen.25.26
 Q954820|https://pta.bbaw.de/person/Jael_Jdg.4.17

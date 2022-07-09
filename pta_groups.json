@@ -29,13 +29,31 @@
             "pta0013.pta003.pta-deu1:g1",
             "pta0013.pta003.pta-deu1:g2",
             "pta0013.pta003.pta-grc1:g1",
-            "pta0013.pta003.pta-grc1:g2"
+            "pta0013.pta003.pta-grc1:g2",
+            "pta0022.pta003.pta-grc1:g1",
+            "pta0022.pta003.pta-grc1:g5",
+            "pta0022.pta003.pta-grc1:g14",
+            "pta0022.pta003.pta-grc1:g26",
+            "pta0022.pta003.pta-grc1:g32",
+            "pta0022.pta003.pta-grc1:g33",
+            "pta0022.pta003.pta-grc1:g34",
+            "pta0022.pta003.pta-grc1:g35",
+            "pta0022.pta004.pta-grc1:g1"
         ],
         "name_txts": [
             "Die heilige Synode der Väter in Nicaea",
             "die Väter in Nicaea",
             "τὴν ἁγίαν σύνοδον τῶν πατέρων τῶν ἐν Νικαίᾳ σύνοδον",
-            "οἱ κατὰ Νίκαιαν πατέρες"
+            "οἱ κατὰ Νίκαιαν πατέρες",
+            "ἡ ἐν Νικαίᾳ",
+            "τῇ κατὰ Νίκαιαν συνόδῳ",
+            "οἱ",
+            "τὴν μεγάλην σύνοδον",
+            "τῆς ἐν Νικαίᾳ",
+            "οἱ ἐν Νικαίᾳ",
+            "ἡ μεγάλη καὶ",
+            "ἡ ἁγία",
+            "ἡ ἐν Νικαίᾳ"
         ]
     },
     {
@@ -93,11 +111,57 @@
         "date": "",
         "urns": [
             "pta0013.pta003.pta-grc1:g4",
-            "pta0013.pta003.pta-grc1:g6"
+            "pta0013.pta003.pta-grc1:g6",
+            "pta0022.pta003.pta-grc1:g3",
+            "pta0022.pta003.pta-grc1:g4",
+            "pta0022.pta003.pta-grc1:g8",
+            "pta0022.pta003.pta-grc1:g12",
+            "pta0022.pta003.pta-grc1:g15",
+            "pta0022.pta003.pta-grc1:g20",
+            "pta0022.pta003.pta-grc1:g24",
+            "pta0022.pta003.pta-grc1:g27",
+            "pta0022.pta003.pta-grc1:g28",
+            "pta0022.pta003.pta-grc1:g29",
+            "pta0022.pta003.pta-grc1:g30",
+            "pta0022.pta003.pta-grc1:g36",
+            "pta0022.pta003.pta-grc1:g37",
+            "pta0022.pta003.pta-grc1:g38",
+            "pta0022.pta004.pta-grc1:g2",
+            "pta0022.pta004.pta-grc1:g3",
+            "pta0022.pta004.pta-grc1:g5",
+            "pta0022.pta004.pta-grc1:g6",
+            "pta0022.pta004.pta-grc1:g7",
+            "pta0022.pta004.pta-grc1:g8",
+            "pta0022.pta004.pta-grc1:g9",
+            "pta0022.pta004.pta-grc1:g11",
+            "pta0022.pta004.pta-grc1:g12"
         ],
         "name_txts": [
             "τῶν Ἀρειανῶν",
-            "τοὺς Ἀρειανοὺς"
+            "τοὺς Ἀρειανοὺς",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "τοῖς περὶ",
+            "τῶν περὶ",
+            "τοῖς περὶ",
+            "τῶν",
+            "Οἱ ἐν Νικαίᾳ",
+            "τοὺς περὶ",
+            "Ἀρειανοῖς",
+            "οἱ",
+            "Ἀρειομανιτῶν",
+            "Ἀρειανῶν",
+            "Ἀρειομανίτας",
+            "οἱ μὲν",
+            "Ἀρειανοῖς",
+            "Ἀρειανός",
+            "Ἀρειομανίτας",
+            "Ἀρειομανῖται"
         ]
     },
     {
@@ -128,6 +192,94 @@
         ],
         "name_txts": [
             "τῶν Πνευματομάχων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00005",
+        "other_ids": [],
+        "orgname": [
+            {
+                "eng": "Eusebians"
+            },
+            {
+                "deu": "Eusebianer"
+            },
+            {
+                "lat": null
+            },
+            {
+                "grc": "οἱ περὶ Εὐσέβιον"
+            }
+        ],
+        "type": "faction",
+        "date": "",
+        "urns": [
+            "pta0022.pta003.pta-grc1:g2",
+            "pta0022.pta003.pta-grc1:g6",
+            "pta0022.pta003.pta-grc1:g7",
+            "pta0022.pta003.pta-grc1:g9",
+            "pta0022.pta003.pta-grc1:g10",
+            "pta0022.pta003.pta-grc1:g11",
+            "pta0022.pta003.pta-grc1:g13",
+            "pta0022.pta003.pta-grc1:g16",
+            "pta0022.pta003.pta-grc1:g17",
+            "pta0022.pta003.pta-grc1:g18",
+            "pta0022.pta003.pta-grc1:g19",
+            "pta0022.pta003.pta-grc1:g23",
+            "pta0022.pta003.pta-grc1:g31"
+        ],
+        "name_txts": [
+            "τῶν περὶ",
+            "τοῖς περὶ",
+            "οἱ περὶ",
+            "οἱ περὶ",
+            "τῶν περὶ",
+            "τοῖς περὶ",
+            "τῶν περὶ",
+            "τοὺς περὶ",
+            "Οἱ μὲν οὖν περὶ",
+            "οἱ περὶ",
+            "οἱ περὶ",
+            "τῶν περὶ",
+            "οἱ δὲ περὶ Εὐσέβιον"
+        ]
+    },
+    {
+        "org_id": "PTA_O00006",
+        "other_ids": [
+            {
+                "WIKIDATA": "Q1293300"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Sabellians"
+            },
+            {
+                "deu": "Sabellianer"
+            },
+            {
+                "lat": "Sabelliani"
+            },
+            {
+                "grc": "Σαβελλιανοί, Σαβελλίζοντες, οἱ τὰ Σαβελλίου φρονοῦντες"
+            }
+        ],
+        "type": "faction",
+        "date": "",
+        "urns": [
+            "pta0022.pta003.pta-grc1:g21",
+            "pta0022.pta003.pta-grc1:g22",
+            "pta0022.pta003.pta-grc1:g25",
+            "pta0022.pta004.pta-grc1:g4",
+            "pta0022.pta004.pta-grc1:g10"
+        ],
+        "name_txts": [
+            "τοὺς Σαβελλίζοντας",
+            "τῶν τὰ",
+            "Ἀρειανῶν",
+            "τούς",
+            "Σαβελλιανῶν"
         ]
     }
 ]

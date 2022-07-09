@@ -1,12 +1,12 @@
 #FORMAT: BEACON
 #PREFIX: http://d-nb.info/gnd/
-#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_authors_gnd.txt
+#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_authors_gnd_beacon.txt
 #NAME: Patristisches Textarchiv (PTA)
 #DESCRIPTION: Alle mit GND-ID versehenen Autoren
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-06-01T17:12:38.223961+00:00
+#TIMESTAMP: 2022-07-08T15:15:01.106274+00:00
 #UPDATE: monthly
 118796771|https://pta.bbaw.de/text/urn:cts:pta:pta0001
 118531425|https://pta.bbaw.de/text/urn:cts:pta:pta0003

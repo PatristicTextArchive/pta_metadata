@@ -1,12 +1,12 @@
 #FORMAT: BEACON
 #PREFIX: https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=
-#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_works_cpg.txt
+#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_works_cpg_beacon.txt
 #NAME: Patristisches Textarchiv (PTA)
 #DESCRIPTION: Alle mit CPG-Nummer versehenen Werke
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-06-02T09:22:58.105208+00:00
+#TIMESTAMP: 2022-07-08T14:54:54.173043+00:00
 #UPDATE: monthly
 4185|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta001
 4186|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta002
@@ -17,6 +17,9 @@
 4191|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007
 4192|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta008
 4193|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta009
+4195|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010
+4196|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011
+4270|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012
 4197|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta013
 4198|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014
 4199|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta015
@@ -37,31 +40,28 @@
 4214|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030
 4215|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta031
 4216|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta032
-4564.3CPG|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047
-4195|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010
-4196|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011
-4270|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012
+4220|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033
+4230|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta034
 4231|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta035
 4232|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta036
 4233|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta037
 4234|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta038
 4236.1|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040
+4236.2|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta041
 4236.3|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta042
 4236.4|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta043
 4236a.1|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta044
-4236a.9, 4872|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055
-4236a.8, 4728|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054
-4236a.7|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053
-4236a.6|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta052
-4236a.5|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051
-4236a.4|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050
-4236a.3|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049
 4564.1|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045
 4564.2CPG|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046
+4564.3CPG|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047
 4564.4CPG|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048
-4220|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033
-4230|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta034
-4236.2|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta041
+4236a.3|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049
+4236a.4|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050
+4236a.5|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051
+4236a.6|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta052
+4236a.7|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053
+4728; 4236a.8|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054
+4872; 4236a.9|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055
 4236a.10|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta056
 4194.1|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta057
 4194.2|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta058
@@ -75,6 +75,8 @@
 5200|https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001
 1475|https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007
 3243; 8596|https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003
+2120|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003
+2121|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta004
 2129|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010
 2130|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011
 2131|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012

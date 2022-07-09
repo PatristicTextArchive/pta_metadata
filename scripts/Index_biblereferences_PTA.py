@@ -1,15 +1,19 @@
 # %%
-import os,glob,re
+import os,glob,re,unicodedata
 import csv,json
 from bs4 import BeautifulSoup
 from lxml import etree
 import pandas as pd
 import subprocess
+import datetime
 # load capitains
 from MyCapytain.resources.texts.local.capitains.cts import CapitainsCtsText
 from MyCapytain.resolvers.cts.local import CtsCapitainsLocalResolver
 from MyCapytain.common.constants import Mimetypes, XPATH_NAMESPACES
 from lxml.etree import tostring
+# convert to xml
+from dicttoxml import dicttoxml
+from xml.dom.minidom import parseString
 # convert to rdf
 from rdflib import Graph, URIRef
 from rdflib.namespace import RDFS
@@ -30,7 +34,7 @@ ptaids_grc = "pta9999.pta001.pta-grc1, pta9999.pta002.pta-grc1, pta9999.pta003.p
 concordance = dict(zip(abbrev_grc,ptaids_grc))
 
 # %%
-resolver = CtsCapitainsLocalResolver(["/home/stockhausen/Dokumente/projekte/pta_data"])
+resolver = CtsCapitainsLocalResolver(["/home/stockhausen/Downloads/pta_data"])
 
 
 # %%
@@ -44,7 +48,7 @@ def ctsformat_reference(reference):
     temp = reference.split(":")
     prefix = ":".join(temp[:2])
     chap = temp[2]
-    verstemp = ":".join(temp[3:])
+    verstemp = re.sub("[abcd]+","",":".join(temp[3:]))
     # sequence of verses
     if "-" in verstemp:
         if ":" in verstemp:
@@ -175,9 +179,9 @@ def load_files(files_path):
     for xml_path in xml_paths:
         file_dict = {}
         short_path = "/".join(xml_path.split("/")[8:])
-        urn = "".join(short_path[7:]).split(".xml")[0]
+        urn = "".join(short_path).split(".xml")[0]
         with open(xml_path) as file_open:
-            soup = BeautifulSoup(file_open, 'lxml')
+            soup = BeautifulSoup(file_open, "lxml")
         strip_tags = ['said', 'gap', 'app'] # remove not needed tags to avoid problems
         for tag in strip_tags: 
             for match in soup.find_all(tag):
@@ -200,12 +204,12 @@ def extract_all_quotes(files_path):
     file_list = load_files(files_path)
     results = []
     for entry in file_list:
-        body = BeautifulSoup(str(entry["body"]), features="xml")
+        body = BeautifulSoup(str(entry["body"]), "lxml")
         counter = 0
         for quote in body.find_all("ref"):
-            counter = counter+1
-            quote_entry = {}
-            try:
+            if "cref" in quote.attrs:
+                counter = counter+1
+                quote_entry = {}
                 quote_entry["ID"] = quote["cref"]
                 quote_entry["urn"] = entry["urn"]+":b"+str(counter)
                 try:
@@ -213,8 +217,6 @@ def extract_all_quotes(files_path):
                 except:
                     quote_entry["corresp"] = ""
                 results.append(quote_entry)
-            except:
-                print(quote)
     return results
 
 # %%
@@ -234,54 +236,41 @@ def enrich_referencetexts(files_path):
     print("All biblical references extracted")
     results = []
     for quote in allquotes:
-        #print(quote)
-        extended = {}
-        extended["ID"] = quote["ID"]
-        extended["urn"] = quote["urn"]
-        extended["edition"] = quote["ID"].split(":")[0]
-        extended["book"] = quote["ID"].split(":")[1]
-        extended["reference"] = ":".join(quote["ID"].split(":")[2:])
-        extended["chapter"] = quote["ID"].split(":")[2]
-        try:
-            vers = quote["ID"].split(":")[3]
-            if "." in vers:
-                extended["versFrom"] = vers.split(".")[0]
-                extended["versTo"] = vers.split(".")[1]
-            elif "-" in vers:
-                extended["versFrom"] = vers.split("-")[0]
-                extended["versTo"] = vers.split("-")[1]
-            else:
-                extended["versFrom"] = vers
-                extended["versTo"] = ""
-        except:
-            # only chapter, no verse
-            extended["versFrom"] = ""
-            extended["versTo"] = ""
-        if "LXX" in quote["ID"] or "NA" in quote["ID"]:
-            extended["CTS"] = ctsformat_reference(quote["ID"])
-            list = []
-            for cts in extended["CTS"]:
-                prefix,reference = cts.rsplit(":", 1)
+        if ":" in quote["ID"] and len(quote["ID"].split(":")) == 4:
+            extended = {}
+            extended["ID"] = quote["ID"]
+            extended["urn"] = quote["urn"]
+            extended["edition"] = quote["ID"].split(":")[0]
+            extended["book"] = quote["ID"].split(":")[1]
+            extended["reference"] = ":".join(quote["ID"].split(":")[2:])
+            if "LXX" in quote["ID"] or "NA" in quote["ID"]:
+                print(quote["ID"]+" in use")
+                extended["CTS"] = ctsformat_reference(quote["ID"])
+                list = []
+                for cts in extended["CTS"]:
+                    prefix,reference = cts.rsplit(":", 1)
+                    try:
+                        resolved = resolver.getTextualNode(prefix,subreference=reference)
+                        text = resolved.export(Mimetypes.PLAINTEXT, exclude=["tei:rdg"])
+                        list.append(clean(text))
+                    except:
+                        print("Error: "+quote["ID"]+" not found")
+                    extended["text"] = " … ".join(list)
+            elif "Hexapla" in quote["ID"]:
                 try:
-                    resolved = resolver.getTextualNode(prefix,subreference=reference)
-                    text = resolved.export(Mimetypes.PLAINTEXT, exclude=["tei:rdg"])
-                    list.append(clean(text))
+                    extended["link"] = hexapla_reference("".join(set(quote["corresp"])))
                 except:
-                    print("Error: "+quote["ID"]+" not found")
-                extended["text"] = " … ".join(list)
-        elif "Hexapla" in quote["ID"]:
-            try:
-                extended["link"] = hexapla_reference("".join(set(quote["corresp"])))
-            except:
+                    print(quote["ID"]+" no corresp")
+                    continue
+            elif "Vg" in quote["ID"]:
+                try:
+                    extended["link"] = vulg_reference(quote["ID"])
+                except:
+                    print(quote["ID"]+" no corresp")
+            else:
                 print(quote["ID"])
-        elif "Vg" in quote["ID"]:
-            try:
-                extended["link"] = vulg_reference(quote["ID"])
-            except:
-                print(quote["ID"])
-        else:
-            print(quote["ID"])
-        results.append(extended)
+                continue
+            results.append(extended)
     return results
 
 # %% [markdown]
@@ -290,7 +279,7 @@ def enrich_referencetexts(files_path):
 
 # %%
 # add files path here
-files_path = "/home/stockhausen/Dokumente/projekte/pta_data/data/pta0001/pta001/*.xml"
+files_path = "/home/stockhausen/Downloads/pta_data/data/*/*/*.xml"
 this_path = "/".join(files_path.split("/")[:6])
 
 # %%
@@ -336,7 +325,7 @@ for reference in quotes_enriched:
     reference["new_ids"] = new_ids
     reference["index_urns"] = index_urns    
     reference["new_urns"] = new_urns
-    entries_to_remove = ('ID','edition','book','reference','chapter','versFrom','versTo','link','CTS','text')
+    entries_to_remove = ('ID','book','reference','link','CTS','text')
     for k in entries_to_remove:
         reference.pop(k, None)
     min_references.append(reference)
@@ -349,9 +338,9 @@ df.drop(['urn','index_urns'], axis=1, inplace=True)
 df.replace("", float("NaN"), inplace=True)
 s = df.explode('new_urns')
 s = s.explode('new_ids')
-s = s[['new_urns','new_ids']]
+s = s[['new_urns','edition','new_ids']]
 # write to csv
-s.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_biblereferences.csv', index=False, header=['Quotation-URL','Reference'])
+s.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_biblereferences.csv', index=False, header=['Quotation-URL','Edition','Reference'])
 
 
 # %%
@@ -361,9 +350,9 @@ df.drop(['urn','new_urns'], axis=1, inplace=True)
 df.replace("", float("NaN"), inplace=True)
 s = df.explode('index_urns')
 s = s.explode('new_ids')
-s = s[['new_ids','index_urns']]
+s = s[['edition','new_ids','index_urns']]
 # write to csv
-s.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_biblereferences_index.csv', index=False, header=['Reference','Reference in Index'])
+s.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_biblereferences_index.csv', index=False, header=['Edition','Reference','Reference in Index'])
 
 
 
