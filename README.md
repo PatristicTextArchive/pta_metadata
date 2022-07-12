@@ -8,7 +8,7 @@ This file is built from metadata files conforming to the [Capitains guidelines](
 
 ## pta_statistics.json
 
-This file is generated using the [CLTK](https://www.cltk.org) Greek Backoff Lemmatizer. It contains statistical data on words (and their number of occurences) and lemmata (and their number of occurences) in each work (identified by its urn); please note that the [CLTK Greek stopword](Link) list was applied. 
+This file is generated using the [CLTK](https://www.cltk.org) lemmatizer. It contains statistical data on words (and their number of occurences) and lemmata (and their number of occurences) in each work (identified by its urn); currently only the Greek works are analyzed. Please note that the [CLTK stopword](Link) list was applied.
 
 ## pta_manuscripts.json
 
