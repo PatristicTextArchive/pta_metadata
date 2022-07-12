@@ -1,4 +1,5 @@
 # Patristic Text Archive (Meta-)Data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6822080.svg)](https://doi.org/10.5281/zenodo.6822080)
 
 This repository contains (meta-)data information used in the frontend of PTA at <https://pta.bbaw.de> and information for Linked Open Data (see folder `LOD`). The scripts used to generate this data are in the folder `scripts`.
 
