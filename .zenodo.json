@@ -1,0 +1,20 @@
+{
+  "creators": [{
+    "name": "von Stockhausen, Annette",
+    "affiliation": "Berlin-Brandenburgische Akademie der Wissenschaften",
+    "orcid": "0000-0001-5382-6322",
+    "gnd": "124321291"
+  }],
+  "title": "Metadaten für das Patristische Textarchiv (PTA)",
+  "description": "This dataset contains metadata and linked open data to the Patristic Text Archive (PTA)",
+  "keywords": [
+    "Metdata",
+    "Linked Open Data",
+    "Christianity",
+    "Antiquity",
+    "Open Access"
+  ],
+  "upload_type": "dataset",
+  "access_right": "open"
+}
+
