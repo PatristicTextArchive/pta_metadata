@@ -62,7 +62,7 @@ def load_files(files_path):
     for xml_path in xml_paths:
         file_dict = {}
         short_path = "/".join(xml_path.split("/")[8:])
-        urn = "".join(short_path[7:]).split(".xml")[0]
+        urn = "".join(short_path).split(".xml")[0]
         with open(xml_path) as file_open:
             soup = BeautifulSoup(file_open, 'lxml')
         strip_tags = ['cit', 'ref', 'quote', 'said', 'gap', 'app'] # remove not needed tags to avoid problems
@@ -101,13 +101,16 @@ def extract_places(files_path):
     return results
 
 # %%
+data = load_pleiades_data()
+
+# %%
 def enrich_data(file_path):
     '''Enrich extracted places with pleiades data'''
     results = extract_places(file_path)
     df = pd.DataFrame(results)
     allplaces = [{**g.to_dict(orient='list'), **{'ID': k}} for k, g in df.groupby('ID')]
     print("Places extracted")
-    data = load_pleiades_data()
+    #data = load_pleiades_data()
     print("Pleiades data loaded")
     enriched_data = []
     for result in allplaces:
@@ -170,10 +173,16 @@ def write_beacon_file(prefix,filename,description):
 
 # %%
 # add files path here
-files_path = "/home/stockhausen/Dokumente/projekte/pta_data/data/*/*/*.xml"
+files_path = "/home/stockhausen/Downloads/pta_data/data/*/*/*.xml"
 this_path = "/".join(files_path.split("/")[:6])
+
+
+# %%
 # do the heavy work...
 all_places = enrich_data(files_path)
+
+
+# %%
 # get current githash
 githash = get_git_revision_short_hash(this_path)
 
@@ -223,18 +232,27 @@ s.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_places.csv',
 df = pd.DataFrame(min_places)
 df.drop(['urns','new_urns'], axis=1, inplace=True)
 # write to csv
-df.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_place_index.csv', index=False, header=['Place','Place in index'])
+df.to_csv('/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_places_index.csv', index=False, header=['Place','Place in index'])
 
 # %%
 # BEACON for place index
 df = pd.DataFrame(min_places)
 df.drop(['urns','new_urns'], axis=1, inplace=True)
 df["ID"] = df.ID.replace('https://pleiades.stoa.org/places/','', regex=True)
-file_path = write_beacon_file("https://pleiades.stoa.org/places/","pta_places","Alle mit Pleiades-ID versehenen Datensätze im Ortsregister")
+file_path = write_beacon_file("https://pleiades.stoa.org/places/","pta_places_index","Alle mit Pleiades-ID versehenen Datensätze im Ortsregister")
 df.to_csv(file_path, header=None, index=None, sep='|', mode='a')
 
 # %%
-filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_places"
+# BEACON for place mentioned
+df = pd.DataFrame(min_places)
+df.drop(['urns','index_urn'], axis=1, inplace=True)
+df["ID"] = df.ID.replace('https://pleiades.stoa.org/places/','', regex=True)
+s = df.explode('new_urns')
+file_path = write_beacon_file("https://pleiades.stoa.org/places/","pta_places","Alle mit Pleiades-ID versehenen Erwähnungen von Orten")
+s.to_csv(file_path, header=None, index=None, sep='|', mode='a')
+
+# %%
+filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_places_index"
 formats = ["xml","ttl","json-ld"]
 g = Graph()
 for entry in min_places:
@@ -243,4 +261,17 @@ for entry in min_places:
     g.add((pleiades, RDFS.seeAlso, urn))
 for format in formats:
     g.serialize(format=format,destination=filename+"."+format)
+
+# %%
+filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_places"
+formats = ["xml","ttl","json-ld"]
+g = Graph()
+for entry in min_places:
+    for x in entry["new_urns"]:
+        pleiades = URIRef(entry["ID"])
+        urn = URIRef(x)
+        g.add((pleiades, RDFS.seeAlso, urn))
+for format in formats:
+    g.serialize(format=format,destination=filename+"."+format)
+
 

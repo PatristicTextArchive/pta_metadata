@@ -1,5 +1,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<http://d-nb.info/gnd/100008429> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00024> .
+
 <http://d-nb.info/gnd/102386528> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00040> .
 
 <http://d-nb.info/gnd/102386676> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00017> .
@@ -46,6 +48,8 @@
 <http://d-nb.info/gnd/118565184> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00031> .
 
 <http://d-nb.info/gnd/118577069> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00005> .
+
+<http://d-nb.info/gnd/118590235> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00023> .
 
 <http://d-nb.info/gnd/118593838> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00009> .
 

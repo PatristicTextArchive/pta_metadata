@@ -1,268 +1,9 @@
 [
   {
-    "@id": "https://www.wikidata.org/wiki/Q204797",
+    "@id": "https://www.wikidata.org/wiki/Q7734",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Canaan_Gen.9.18"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q106084783",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Hananiah_Dan.1.6"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q62788",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jethro_Exo.2.18"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q6577515",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Samuel_1Sa.1.20"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1771963",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Naphtali_Gen.30.8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q2712606",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Arioch_Dan.2.14"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1686571",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jehu_1Ki.19.16"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q158825",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jeremiah_2Ch.35.25"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q43706",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00001"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q2346367",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Hannah_1Sa.1.2"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1135632",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Rahab_Jos.2.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q107626",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Seth_Gen.4.25"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q313421",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Abel_Gen.4.2"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q328736",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00026"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q830183",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Eve_Gen.3.20"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q954820",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jael_Jdg.4.17"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1384449",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Theophilus_Luk.1.3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1938388",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Miriam_Exo.15.20"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q3526581",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00035"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1981722",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Nahum_Nam.1.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q755316",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Midian_Gen.25.2"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q976765",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Sisera_Jdg.4.2"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q203251",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Ephraim_Gen.41.52"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q8413",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00031"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q220822",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Esau_Gen.25.25"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q142999",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00019"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q321639",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00030"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q313216",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Azariah_Dan.1.6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/person/Uzziah_2Ki.14.21"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q81422",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Noah_Gen.5.29"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q131162",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00027"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q362021",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Eli_1Sa.1.3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q205365",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Cain_Gen.4.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q106026",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00003"
+        "@id": "https://pta.bbaw.de/person/Joshua_Exo.17.9"
       }
     ]
   },
@@ -275,197 +16,10 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q37085",
+    "@id": "https://www.wikidata.org/wiki/Q6577515",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Solomon_2Sa.5.14"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q128847",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Leah_Gen.29.16"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1563312",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Hophni_1Sa.1.3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q219395",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Melchizedek_Gen.14.18"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q295084",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Nicodemus_Jhn.3.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q191787",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Ezra_Neh.12.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q2657803",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00021"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q45090",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jesse_Rut.4.17"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q2090113",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Shemaiah_Jer.26.20"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q6176509",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jozadak_Ezr.10.18"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1141064",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Joab_1Sa.26.6"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q171724",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Daniel_Ezk.14.14"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1341397",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Michal_1Sa.14.49"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q474872",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00013"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q184273",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Zedekiah_2Ki.24.17"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q721295",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Jezebel_1Ki.16.31"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q130650",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00009"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q16199754",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Hymenaeus_1Ti.1.20"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q20888416",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Joel_Jol.1.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q46418",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00014"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q81018",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Judas_Act.5.37"
-      },
-      {
-        "@id": "https://pta.bbaw.de/person/Judas_Mat.10.4"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q28730",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Saul_1Sa.9.2"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q7734",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Joshua_Exo.17.9"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q447451",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00002"
+        "@id": "https://pta.bbaw.de/person/Samuel_1Sa.1.20"
       }
     ]
   },
@@ -478,10 +32,18 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q207389",
+    "@id": "https://www.wikidata.org/wiki/Q319034",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Rachel_Gen.29.6"
+        "@id": "https://pta.bbaw.de/person/Jehoiakim_2Ki.23.34"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q830183",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Eve_Gen.3.20"
       }
     ]
   },
@@ -494,18 +56,18 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q1133523",
+    "@id": "https://www.wikidata.org/wiki/Q4748020",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Jephthah_Jdg.11.1"
+        "@id": "https://pta.bbaw.de/person/Amoz_2Ki.19.2"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q43600",
+    "@id": "https://www.wikidata.org/wiki/Q313228",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Matthew_Mat.9.9"
+        "@id": "https://pta.bbaw.de/person/Josiah_1Ki.13.2"
       }
     ]
   },
@@ -518,34 +80,10 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q211246",
+    "@id": "https://www.wikidata.org/wiki/Q302",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Caiaphas_Mat.26.3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q8409",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00008"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q214648",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Samson_Jdg.13.24"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q244912",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Hezekiah_2Ki.16.20"
+        "@id": "https://pta.bbaw.de/person/Jesus_Mat.1.1"
       }
     ]
   },
@@ -558,6 +96,46 @@
     ]
   },
   {
+    "@id": "https://www.wikidata.org/wiki/Q171724",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Daniel_Ezk.14.14"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q194064",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Ezekiel_Ezk.1.3"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q106084783",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Hananiah_Dan.1.6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q201861",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Nimrod_Gen.10.8"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q8413",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00031"
+      }
+    ]
+  },
+  {
     "@id": "https://www.wikidata.org/wiki/Q840401",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -566,10 +144,618 @@
     ]
   },
   {
+    "@id": "https://www.wikidata.org/wiki/Q1133523",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jephthah_Jdg.11.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q43669",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Thomas_Mat.10.3"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q2346367",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Hannah_1Sa.1.2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q2712606",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Arioch_Dan.2.14"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q2090113",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Shemaiah_Jer.26.20"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q954820",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jael_Jdg.4.17"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q650680",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Haman_Est.3.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q16199754",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Hymenaeus_1Ti.1.20"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q244912",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Hezekiah_2Ki.16.20"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q671872",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Isaac_Gen.17.19"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q219395",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Melchizedek_Gen.14.18"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q11343582",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Mishael_Dan.1.6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q211246",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Caiaphas_Mat.26.3"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q28730",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Saul_1Sa.9.2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q474872",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00013"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q321639",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00030"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q372091",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Amalek_Gen.36.12"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q205365",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Cain_Gen.4.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q447451",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00002"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1135632",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Rahab_Jos.2.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q179962",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Job_Job.1.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q106026",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00003"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q225198",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Belshazzar_Dan.5.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q289957",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Israel_Gen.25.26"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q44258",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00012"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q20888416",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Joel_Jol.1.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q43399",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Andrew_Mat.4.18"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q204797",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Canaan_Gen.9.18"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q976765",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Sisera_Jdg.4.2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q295084",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Nicodemus_Jhn.3.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q319049",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jehoiachin_2Ki.24.6"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q8409",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00008"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q604259",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Zechariah_Ezr.5.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q46418",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00014"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q184273",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Zedekiah_2Ki.24.17"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q62788",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jethro_Exo.2.18"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q51676",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Aaron_Exo.4.14"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1771963",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Naphtali_Gen.30.8"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q44794",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00041"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q614575",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Zebulun_Gen.30.20"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q37085",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Solomon_2Sa.5.14"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q2657803",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00021"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1458645",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00007"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q220822",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Esau_Gen.25.25"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q203251",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Ephraim_Gen.41.52"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q43600",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Matthew_Mat.9.9"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q755316",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Midian_Gen.25.2"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q7901156",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00037"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q45090",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jesse_Rut.4.17"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q9181",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Abraham_Gen.11.26"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q130650",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00009"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q43706",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00001"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q70899",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Adam_Gen.2.19"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q9077",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Moses_Exo.2.10"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q191787",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Ezra_Neh.12.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1341397",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Michal_1Sa.14.49"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q11951531",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00036"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q459774",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00024"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q357771",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00022"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q44024",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00015"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q3526581",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00035"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q214648",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Samson_Jdg.13.24"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1938388",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Miriam_Exo.15.20"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q44203",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Naboth_1Ki.21.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1133337",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Abner_1Sa.14.50"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q33923",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Peter_Mat.4.18"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1141064",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Joab_1Sa.26.6"
+      }
+    ]
+  },
+  {
     "@id": "https://www.wikidata.org/wiki/Q313219",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/person/Jeroboam_1Ki.11.26"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1981722",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Nahum_Nam.1.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q452225",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00004"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q6176509",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jozadak_Ezr.10.18"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1686571",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Jehu_1Ki.19.16"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q328736",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00026"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q142999",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00019"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q107626",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Seth_Gen.4.25"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1405",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00010"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q81422",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/Noah_Gen.5.29"
       }
     ]
   },
@@ -585,122 +771,80 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q659203",
+    "@id": "https://www.wikidata.org/wiki/Q81018",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Pharaoh_Exo.3.10"
+        "@id": "https://pta.bbaw.de/person/Judas_Act.5.37"
+      },
+      {
+        "@id": "https://pta.bbaw.de/person/Judas_Mat.10.4"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q452225",
+    "@id": "https://www.wikidata.org/wiki/Q313216",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00004"
+        "@id": "https://pta.bbaw.de/person/Azariah_Dan.1.6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/person/Uzziah_2Ki.14.21"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q4748020",
+    "@id": "https://www.wikidata.org/wiki/Q721295",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Amoz_2Ki.19.2"
+        "@id": "https://pta.bbaw.de/person/Jezebel_1Ki.16.31"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q319049",
+    "@id": "https://www.wikidata.org/wiki/Q313421",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Jehoiachin_2Ki.24.6"
+        "@id": "https://pta.bbaw.de/person/Abel_Gen.4.2"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q313228",
+    "@id": "https://www.wikidata.org/wiki/Q158825",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Josiah_1Ki.13.2"
+        "@id": "https://pta.bbaw.de/person/Jeremiah_2Ch.35.25"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q9077",
+    "@id": "https://www.wikidata.org/wiki/Q128847",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Moses_Exo.2.10"
+        "@id": "https://pta.bbaw.de/person/Leah_Gen.29.16"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q650680",
+    "@id": "https://www.wikidata.org/wiki/Q170472",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Haman_Est.3.1"
+        "@id": "https://pta.bbaw.de/person/PTA_P00023"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q319034",
+    "@id": "https://www.wikidata.org/wiki/Q1563312",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Jehoiakim_2Ki.23.34"
+        "@id": "https://pta.bbaw.de/person/Hophni_1Sa.1.3"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q44258",
+    "@id": "https://www.wikidata.org/wiki/Q362021",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00012"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q225198",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Belshazzar_Dan.5.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q671872",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Isaac_Gen.17.19"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q24036366",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00038"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q9181",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Abraham_Gen.11.26"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q201861",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Nimrod_Gen.10.8"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q179962",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Job_Job.1.1"
+        "@id": "https://pta.bbaw.de/person/Eli_1Sa.1.3"
       }
     ]
   },
@@ -713,90 +857,42 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q289957",
+    "@id": "https://www.wikidata.org/wiki/Q131162",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Israel_Gen.25.26"
+        "@id": "https://pta.bbaw.de/person/PTA_P00027"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q44024",
+    "@id": "https://www.wikidata.org/wiki/Q24036366",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00015"
+        "@id": "https://pta.bbaw.de/person/PTA_P00038"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q1405",
+    "@id": "https://www.wikidata.org/wiki/Q207389",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00010"
+        "@id": "https://pta.bbaw.de/person/Rachel_Gen.29.6"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q614575",
+    "@id": "https://www.wikidata.org/wiki/Q1384449",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Zebulun_Gen.30.20"
+        "@id": "https://pta.bbaw.de/person/Theophilus_Luk.1.3"
       }
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q302",
+    "@id": "https://www.wikidata.org/wiki/Q659203",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/Jesus_Mat.1.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1458645",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00007"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q44203",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Naboth_1Ki.21.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q51676",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Aaron_Exo.4.14"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q194064",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Ezekiel_Ezk.1.3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q372091",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Amalek_Gen.36.12"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1133337",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Abner_1Sa.14.50"
+        "@id": "https://pta.bbaw.de/person/Pharaoh_Exo.3.10"
       }
     ]
   },
@@ -805,86 +901,6 @@
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/person/PTA_P00005"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q33923",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Peter_Mat.4.18"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q43399",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Andrew_Mat.4.18"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q604259",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Zechariah_Ezr.5.1"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q11343582",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Mishael_Dan.1.6"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q357771",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00022"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q43669",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Thomas_Mat.10.3"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q11951531",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00036"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q7901156",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00037"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q44794",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00041"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q70899",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/Adam_Gen.2.19"
       }
     ]
   }

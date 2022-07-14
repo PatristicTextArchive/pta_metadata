@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://d-nb.info/gnd/4032379-1> rdfs:seeAlso <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g1>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g2>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g1>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g2>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g1>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g14>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g26>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g32>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g33>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g34>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g35>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g5>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g1> .
+

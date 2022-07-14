@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4032379-1">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g5"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g14"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g26"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g32"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g33"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g34"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g35"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g1"/>
+  </rdf:Description>
+</rdf:RDF>

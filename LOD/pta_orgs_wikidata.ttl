@@ -1,0 +1,52 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.wikidata.org/wiki/Q1194032> rdfs:seeAlso <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g3> .
+
+<https://www.wikidata.org/wiki/Q1293300> rdfs:seeAlso <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g21>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g22>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g25>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g10>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g4> .
+
+<https://www.wikidata.org/wiki/Q133331> rdfs:seeAlso <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g1>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g2>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g1>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g2>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g1>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g14>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g26>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g32>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g33>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g34>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g35>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g5>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g1> .
+
+<https://www.wikidata.org/wiki/Q398180> rdfs:seeAlso <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g5> .
+
+<https://www.wikidata.org/wiki/Q83922> rdfs:seeAlso <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g4>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g6>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g12>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g15>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g20>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g24>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g27>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g28>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g29>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g3>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g30>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g36>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g37>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g38>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g4>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g8>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g11>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g12>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g2>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g3>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g5>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g6>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g7>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g8>,
+        <https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g9> .
+

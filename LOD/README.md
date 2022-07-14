@@ -41,28 +41,33 @@ using [Gemeinsame Normdatei](http://d-nb.info/gnd/) and [Wikidata](https://www.w
 
 ### linking to the texts
 - `pta_persons.csv` (columns: GND-ID,Wikidata-Entity,mentioned in)
+- `pta_persons_gnd_beacon.txt`, `pta_persons_gnd.xml`, `pta_persons_gnd.ttl`, `pta_persons_gnd.json-ld` (all persons identified by a GND-ID)
+- `pta_persons_wikidata_beacon.txt`, `pta_persons_wikidata.xml`, `pta_persons_wikidata.ttl`, `pta_persons_wikidata.json-ld` (all persons identified by a Wikidata-ID)
 
 ### linking to the index
 - `pta_persons_index.csv` (columns: GND-ID,Wikidata-Entity,Person in index)
 - `pta_persons_gnd_index_beacon.txt`, `pta_persons_index_gnd.xml`, `pta_persons_index_gnd.ttl`, `pta_persons_index_gnd.json-ld` (all entries in the persons index identified by a GND-ID)
-- `pta_persons_wikidata_index_beacon.txt`, `pta_persons_index_wikidata.xml`, `pta_persons_index_wikidata.ttl`, `pta_persons_index_wikidata.json-ld` (all entries in the person index identified by a Wikidata-ID)
+- `pta_persons_wikidata_index_beacon.txt`, `pta_persons_index_wikidata.xml`, `pta_persons_index_wikidata.ttl`, `pta_persons_index_wikidata.json-ld` (all entries in the persons index identified by a Wikidata-ID)
 
 ## Organisations and groups mentioned in texts in the PTA
 using [Gemeinsame Normdatei](http://d-nb.info/gnd/) and [Wikidata](https://www.wikidata.org/)
 
 ### linking to the texts
 - `pta_orgs.csv`(columns: GND-ID,Wikidata-Entity,mentioned in)
+- `pta_orgs_gnd_beacon.txt`, `pta_orgs_gnd.xml`, `pta_orgs_gnd.ttl`, `pta_orgs_gnd.json-ld` (all orgs identified by a GND-ID)
+- `pta_orgs_wikidata_beacon.txt`, `pta_orgs_wikidata.xml`, `pta_orgs_wikidata.ttl`, `pta_orgs_wikidata.json-ld` (all orgs identified by a Wikidata-ID)
 
 ### linking to the index
 - `pta_orgs_index.csv` (columns: GND-ID,Wikidata-Entity,Person in index)
-- `pta_orgs_gnd_index_beacon.txt`, `pta_orgs_index_gnd.xml`, `pta_orgs_index_gnd.ttl`, `pta_orgs_index_gnd.json-ld` (all entries in the persons index identified by a GND-ID)
-- `pta_orgs_wikidata_index_beacon.txt`, `pta_orgs_index_wikidata.xml`, `pta_orgs_index_wikidata.ttl`, `pta_orgs_index_wikidata.json-ld` (all entries in the person index identified by a Wikidata-ID)
+- `pta_orgs_gnd_index_beacon.txt`, `pta_orgs_index_gnd.xml`, `pta_orgs_index_gnd.ttl`, `pta_orgs_index_gnd.json-ld` (all entries in the orgs index identified by a GND-ID)
+- `pta_orgs_wikidata_index_beacon.txt`, `pta_orgs_index_wikidata.xml`, `pta_orgs_index_wikidata.ttl`, `pta_orgs_index_wikidata.json-ld` (all entries in the orgs index identified by a Wikidata-ID)
 
 ## Places mentioned in texts in the PTA
 using [Pleiades Gazetteer](https://pleiades.stoa.org/)
 
 ### linking to the texts
 - `pta_places.csv` (columns: Place,mentioned in)
+- `pta_places_beacon.txt`, `pta_places.xml`, `pta_places.ttl`, `pta_places.json-ld` (all places identified by a Pleiades Gazetteer ID)
 
 ### linking to the index
 - `pta_places_index.csv` (columns: Place,Place in index)

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102389071">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta005.pta-grc1:p24"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta005.pta-grc1:p83"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta006.pta-grc1:p57"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:p4"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:p4"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p60"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p15"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p48"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p53"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p57"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p70"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p74"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p76"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p86"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p126"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p132"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p133"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p135"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p136"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118645781">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta005.pta-grc1:p81"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:p3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:p3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p34"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p49"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p54"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p55"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p69"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p81"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p95"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p105"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p186"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p188"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p197"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p201"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p203"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p204"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p205"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p206"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p208"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p209"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p213"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p214"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p215"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p216"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p217"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p218"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p219"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p232"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p12"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p17"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p20"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p21"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p34"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p62"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p75"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p80"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p83"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p91"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p94"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p95"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p100"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p108"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p111"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p112"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p115"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p117"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p119"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p120"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p122"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118637797">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:p2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:p2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta011.pta-grc1:p6"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta012.pta-grc1:p5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/100008429">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p12"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p47"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p59"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p60"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p61"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118501828">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p154"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p173"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p176"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p179"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102388687">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta012.pta-grc1:p1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118525905">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p59"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p10"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p13"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p14"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p16"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p18"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p19"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p22"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p47"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p50"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p54"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p61"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p68"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p69"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p77"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p79"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p81"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p82"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p87"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p92"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p93"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p96"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p97"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p99"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p101"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p102"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p103"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p105"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p107"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p109"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p110"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p114"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p116"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p118"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p121"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p124"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p128"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p129"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p134"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p137"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118557831">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta001.pta-grcBibex:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta003.pta-grc1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta004.pta-grc1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta054.pta-grc1:p1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/119221616">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p61"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p62"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p73"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p78"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102408963">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta010.pta-grc1:p4"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta010.pta-grc1:p5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118648888">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:p1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102387362">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p51"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p55"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p64"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p65"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p71"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p130"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102388156">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta011.pta-grc1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta011.pta-grc1:p4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102393176">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p79"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p80"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p102"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p223"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p227"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p228"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p229"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p230"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p231"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p233"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p234"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p237"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118593838">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p174"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/11878997X">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p43"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118565184">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p187"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p189"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p196"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p200"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p207"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p225"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p235"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118644602">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p70"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p71"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p78"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p194"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p195"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/1157159761">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta005.pta-grc1:p82"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/1089599366">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102386528">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p23"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p52"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p56"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p63"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p66"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p72"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p131"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118555340">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta008.pta-grc1:p44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118504843">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta010.pta-grc1:p6"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta011.pta-grc1:p3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta012.pta-grc1:p2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102386676">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta011.pta-grc1:p2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta011.pta-grc1:p5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118505122">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p181"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102389411">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p236"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102407835">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p224"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p238"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118531425">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p6"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p8"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p65"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118521969">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta010.pta-grc1:p1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta010.pta-grc1:p3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118577069">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta004.pta-grc1:p81"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0001.pta004.pta-grc1:p83"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/102406960">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0004.pta001.pta-grcBibex:p70"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/118590235">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0007.pta007.pta-grc1:p1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/119163977">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:p7"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -44,6 +44,8 @@
 
 <https://www.wikidata.org/wiki/Q1686571> rdfs:seeAlso <https://pta.bbaw.de/person/Jehu_1Ki.19.16> .
 
+<https://www.wikidata.org/wiki/Q170472> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00023> .
+
 <https://www.wikidata.org/wiki/Q171724> rdfs:seeAlso <https://pta.bbaw.de/person/Daniel_Ezk.14.14> .
 
 <https://www.wikidata.org/wiki/Q1771963> rdfs:seeAlso <https://pta.bbaw.de/person/Naphtali_Gen.30.8> .
@@ -167,6 +169,8 @@
 <https://www.wikidata.org/wiki/Q45090> rdfs:seeAlso <https://pta.bbaw.de/person/Jesse_Rut.4.17> .
 
 <https://www.wikidata.org/wiki/Q452225> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00004> .
+
+<https://www.wikidata.org/wiki/Q459774> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00024> .
 
 <https://www.wikidata.org/wiki/Q46418> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00014> .
 

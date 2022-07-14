@@ -268,5 +268,3 @@
 
 <https://pleiades.stoa.org/places/993> rdfs:seeAlso <https://pta.bbaw.de/place/993> .
 
-<https://pleiades.stoa.org/places/XXXXXX> rdfs:seeAlso <https://pta.bbaw.de/place/XXXXXX> .
-

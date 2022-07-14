@@ -1,0 +1,55 @@
+#FORMAT: BEACON
+#PREFIX: https://www.wikidata.org/wiki/
+#FEED: https://raw.githubusercontent.com/PatristicTextArchive/pta_metadata/main/LOD/pta_orgs_wikidata_beacon.txt
+#NAME: Patristisches Textarchiv (PTA)
+#DESCRIPTION: Alle mit WIKIDATA-ID identifizierten Erwähnungen der Organisationen und Gruppen
+#RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
+#CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
+#INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
+#TIMESTAMP: 2022-07-14T13:20:52.877194+00:00
+#UPDATE: monthly
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g1
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g2
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g1
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g2
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g1
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g5
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g14
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g26
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g32
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g33
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g34
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g35
+Q133331|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g1
+Q1194032|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g3
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g4
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g6
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g3
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g4
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g8
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g12
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g15
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g20
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g24
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g27
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g28
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g29
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g30
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g36
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g37
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g38
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g2
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g3
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g5
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g6
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g7
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g8
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g9
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g11
+Q83922|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g12
+Q398180|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g5
+Q1293300|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g21
+Q1293300|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g22
+Q1293300|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g25
+Q1293300|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g4
+Q1293300|https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g10

@@ -70,9 +70,9 @@ def load_files(files_path):
     for xml_path in xml_paths:
         file_dict = {}
         short_path = "/".join(xml_path.split("/")[8:])
-        urn = "".join(short_path[7:]).split(".xml")[0]
+        urn = "".join(short_path).split(".xml")[0]
         with open(xml_path) as file_open:
-            soup = BeautifulSoup(file_open, 'lxml')
+            soup = BeautifulSoup(file_open, "lxml")
         strip_tags = ['cit', 'ref', 'quote', 'said', 'gap', 'app'] # remove not needed tags to avoid problems
         for tag in strip_tags: 
             for match in soup.find_all(tag):
@@ -108,7 +108,8 @@ def extract_all_persons(files_path):
                 pers_entry["urn"] = entry["urn"]+":p"+str(counter)
                 results.append(pers_entry)
             except:
-                refs = "no ref found"
+                pass
+                #print(person)
     return results
 
 # %%
@@ -374,7 +375,7 @@ def write_beacon_file(prefix,filename,description):
 
 # %%
 # add files path here
-files_path = "/home/stockhausen/Dokumente/projekte/pta_data/data/*/*/*.xml"
+files_path = "/home/stockhausen/Downloads/pta_data/data/*/*/*.xml"
 this_path = "/".join(files_path.split("/")[:6])
 
 # %%
@@ -476,6 +477,16 @@ file_path = write_beacon_file("http://d-nb.info/gnd/","pta_persons_index_gnd","A
 df.to_csv(file_path, header=None, index=None, sep='|', mode='a')
 
 # %%
+# GND BEACON for persons
+df = pd.DataFrame(min_persons)
+df.drop(['person_id','other_ids','urns','index_urn','WIKIDATA'], axis=1, inplace=True)
+df.replace("", float("NaN"), inplace=True)
+df.dropna(subset=['GND'], how="all", inplace=True)
+s = df.explode('new_urns')
+file_path = write_beacon_file("http://d-nb.info/gnd/","pta_persons_gnd","Alle mit GND-ID identifizierten Erwähnungen von Personen")
+s.to_csv(file_path, header=None, index=None, sep='|', mode='a')
+
+# %%
 # WIKIDATA BEACON for persons index
 df = pd.DataFrame(min_persons)
 df.drop(['person_id','other_ids','urns','new_urns','GND'], axis=1, inplace=True)
@@ -483,6 +494,16 @@ df.replace("", float("NaN"), inplace=True)
 df.dropna(subset=['WIKIDATA'], how="all", inplace=True)
 file_path = write_beacon_file("https://www.wikidata.org/wiki/","pta_persons_index_wikidata","Alle mit WIKIDATA-ID versehenen Datensätze im Personenregister")
 df.to_csv(file_path, header=None, index=None, sep='|', mode='a')
+
+# %%
+# WIKIDATA BEACON for persons index
+df = pd.DataFrame(min_persons)
+df.drop(['person_id','other_ids','urns','index_urn','GND'], axis=1, inplace=True)
+df.replace("", float("NaN"), inplace=True)
+df.dropna(subset=['WIKIDATA'], how="all", inplace=True)
+s = df.explode('new_urns')
+file_path = write_beacon_file("https://www.wikidata.org/wiki/","pta_persons_wikidata","Alle mit WIKIDATA-ID identifizierten Erwähnungen von Personen")
+s.to_csv(file_path, header=None, index=None, sep='|', mode='a')
 
 # %%
 filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_persons_index_gnd"
@@ -497,6 +518,19 @@ for format in formats:
     g.serialize(format=format,destination=filename+"."+format)
 
 # %%
+filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_persons_gnd"
+formats = ["xml","ttl","json-ld"]
+g = Graph()
+for entry in min_persons:
+    if entry["GND"]:
+        for x in entry["new_urns"]:
+            gnd = URIRef("http://d-nb.info/gnd/"+entry["GND"])
+            urn = URIRef(x)
+            g.add((gnd, RDFS.seeAlso, urn))
+for format in formats:
+    g.serialize(format=format,destination=filename+"."+format)
+
+# %%
 filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_persons_index_wikidata"
 formats = ["xml","ttl","json-ld"]
 g = Graph()
@@ -505,6 +539,19 @@ for entry in min_persons:
         wd = URIRef("https://www.wikidata.org/wiki/"+entry["WIKIDATA"])
         urn = URIRef(entry["index_urn"])
         g.add((wd, RDFS.seeAlso, urn))
+for format in formats:
+    g.serialize(format=format,destination=filename+"."+format)
+
+# %%
+filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_persons_wikidata"
+formats = ["xml","ttl","json-ld"]
+g = Graph()
+for entry in min_persons:
+    if entry["WIKIDATA"]:
+        for x in entry["new_urns"]:
+            wd = URIRef("https://www.wikidata.org/wiki/"+entry["WIKIDATA"])
+            urn = URIRef(x)
+            g.add((wd, RDFS.seeAlso, urn))
 for format in formats:
     g.serialize(format=format,destination=filename+"."+format)
 
@@ -566,6 +613,16 @@ file_path = write_beacon_file("http://d-nb.info/gnd/","pta_orgs_index_gnd","Alle
 df.to_csv(file_path, header=None, index=None, sep='|', mode='a')
 
 # %%
+# GND BEACON for orgs
+df = pd.DataFrame(min_orgs)
+df.drop(['org_id','other_ids','urns','index_urn','WIKIDATA'], axis=1, inplace=True)
+df.replace("", float("NaN"), inplace=True)
+df.dropna(subset=['GND'], how="all", inplace=True)
+s = df.explode('new_urns')
+file_path = write_beacon_file("http://d-nb.info/gnd/","pta_orgs_gnd","Alle mit GND-ID identifizierten Erwähnungen der Organisationen und Gruppen")
+s.to_csv(file_path, header=None, index=None, sep='|', mode='a')
+
+# %%
 # WIKIDATA BEACON for orgs index
 df = pd.DataFrame(min_orgs)
 df.drop(['org_id','other_ids','urns','new_urns','GND'], axis=1, inplace=True)
@@ -573,6 +630,16 @@ df.replace("", float("NaN"), inplace=True)
 df.dropna(subset=['WIKIDATA'], how="all", inplace=True)
 file_path = write_beacon_file("https://www.wikidata.org/wiki/","pta_orgs_index_wikidata","Alle mit WIKIDATA-ID versehenen Datensätze im Register der Organisationen und Gruppen")
 df.to_csv(file_path, header=None, index=None, sep='|', mode='a')
+
+# %%
+# WIKIDATA BEACON for orgs 
+df = pd.DataFrame(min_orgs)
+df.drop(['org_id','other_ids','urns','index_urn','GND'], axis=1, inplace=True)
+df.replace("", float("NaN"), inplace=True)
+df.dropna(subset=['WIKIDATA'], how="all", inplace=True)
+s = df.explode('new_urns')
+file_path = write_beacon_file("https://www.wikidata.org/wiki/","pta_orgs_wikidata","Alle mit WIKIDATA-ID identifizierten Erwähnungen der Organisationen und Gruppen")
+s.to_csv(file_path, header=None, index=None, sep='|', mode='a')
 
 # %%
 filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_orgs_index_gnd"
@@ -583,6 +650,19 @@ for entry in min_orgs:
         gnd = URIRef("http://d-nb.info/gnd/"+entry["GND"])
         urn = URIRef(entry["index_urn"])
         g.add((gnd, RDFS.seeAlso, urn))
+for format in formats:
+    g.serialize(format=format,destination=filename+"."+format)
+
+# %%
+filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_orgs_gnd"
+formats = ["xml","ttl","json-ld"]
+g = Graph()
+for entry in min_orgs:
+    if entry["GND"]:
+        for x in entry["new_urns"]:
+            gnd = URIRef("http://d-nb.info/gnd/"+entry["GND"])
+            urn = URIRef(x)
+            g.add((gnd, RDFS.seeAlso, urn))
 for format in formats:
     g.serialize(format=format,destination=filename+"."+format)
 
@@ -598,5 +678,16 @@ for entry in min_orgs:
 for format in formats:
     g.serialize(format=format,destination=filename+"."+format)
 
-
+# %%
+filename = "/home/stockhausen/Dokumente/projekte/pta_metadata/LOD/pta_orgs_wikidata"
+formats = ["xml","ttl","json-ld"]
+g = Graph()
+for entry in min_orgs:
+    if entry["WIKIDATA"]:
+        for x in entry["new_urns"]:
+            wd = URIRef("https://www.wikidata.org/wiki/"+entry["WIKIDATA"])
+            urn = URIRef(x)
+            g.add((wd, RDFS.seeAlso, urn))
+for format in formats:
+    g.serialize(format=format,destination=filename+"."+format)
 

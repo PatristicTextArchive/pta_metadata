@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q83922">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g4"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g6"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g4"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g8"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g12"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g15"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g20"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g24"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g27"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g28"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g29"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g30"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g36"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g37"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g38"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g3"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g5"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g6"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g7"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g8"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g9"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g11"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q133331">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-deu1:g2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g2"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g1"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g5"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g14"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g26"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g32"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g33"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g34"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g35"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1194032">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q398180">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0013.pta003.pta-grc1:g5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1293300">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g21"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g22"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta003.pta-grc1:g25"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g4"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/a24c583/urn:cts:pta:pta0022.pta004.pta-grc1:g10"/>
+  </rdf:Description>
+</rdf:RDF>
