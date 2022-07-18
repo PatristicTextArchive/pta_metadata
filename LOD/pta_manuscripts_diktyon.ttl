@@ -90,8 +90,7 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/18587> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00086> .
 
-<https://pinakes.irht.cnrs.fr/notices/cote/18744> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00541>,
-        <https://pta.bbaw.de/manuscripts/PTAMS00577> .
+<https://pinakes.irht.cnrs.fr/notices/cote/18744> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00563> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/18774> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00087> .
 

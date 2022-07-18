@@ -1,23 +1,5 @@
 [
     {
-        "id": "PTAMS00001",
-        "status": "draft",
-        "diktyon": "287",
-        "manuscript": "Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 43",
-        "settlement": "Andros",
-        "repository": "Monê Hagias (Zôodochou Pêgês)",
-        "collection": "fonds principal",
-        "idno": "43",
-        "origDate": "s. 13",
-        "origDate_notbefore": "1201-01-01",
-        "origDate_notafter": "1300-12-31",
-        "images": "http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32648",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta004"
-        ]
-    },
-    {
         "id": "PTAMS00002",
         "status": "draft",
         "diktyon": "344",
@@ -113,7 +95,7 @@
     },
     {
         "id": "PTAMS00007",
-        "status": "draft",
+        "status": "",
         "diktyon": "2508",
         "manuscript": "Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 212",
         "settlement": "Athêna",
@@ -124,16 +106,36 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digitalcollections.nlg.gr/nlg-repo/dl/el/browse/3611",
-        "iiif_manifest": "",
+        "iiif_manifest": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/iiifmetadata/3611",
         "contents": [
+            "dbbe:2176",
+            "bhg:1617y",
             "urn:cts:pta:pta0001.pta026",
             "urn:cts:pta:pta0001.pta011",
+            "cpg:2082",
+            "cpg:2083",
+            "cpg:4325",
             "urn:cts:pta:pta0001.pta005",
+            "cpg:4629",
             "urn:cts:pta:pta0001.pta029",
+            "cpg:4419",
+            "cpg:4660",
+            "cpg:4329",
+            "cpg:4329",
+            "cpg:4329",
+            "cpg:4329",
+            "bhg:939r",
+            "bhg:939s",
+            "cpg:4417.4",
+            "cpg:4417.5",
+            "cpg:4417.6",
+            "cpg:4528",
             "urn:cts:pta:pta0001.pta018",
+            "cpg:4546",
             "urn:cts:pta:pta0001.pta008",
             "urn:cts:pta:pta0001.pta014",
             "urn:cts:pta:pta0001.pta025",
+            "cpg:4563",
             "urn:cts:pta:pta0001.pta020"
         ]
     },
@@ -210,7 +212,7 @@
         "origDate_notbefore": "1054-01-01",
         "origDate_notafter": "1054-12-31",
         "images": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/3001",
-        "iiif_manifest": "",
+        "iiif_manifest": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/iiifmetadata/3001",
         "contents": [
             "urn:cts:pta:pta0002.pta001",
             "urn:cts:pta:pta0002.pta002",
@@ -274,6 +276,7 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "urn:cts:pta:pta0002.pta001",
             "urn:cts:pta:pta0001.pta015"
         ]
     },
@@ -437,7 +440,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/2997",
-        "iiif_manifest": "",
+        "iiif_manifest": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/iiifmetadata/2997",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta015"
@@ -463,25 +466,45 @@
     },
     {
         "id": "PTAMS00023",
-        "status": "draft",
+        "status": "",
         "diktyon": "2751",
         "manuscript": "Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Fonds principal 455",
         "settlement": "Athêna",
         "repository": "Ethnikê Bibliothêkê tês Hellados (EBE)",
         "collection": "Fonds principal",
         "idno": "455",
-        "origDate": "s. 12–13",
-        "origDate_notbefore": "1101-01-01",
+        "origDate": "s. 13",
+        "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/browse/3011",
-        "iiif_manifest": "",
+        "iiif_manifest": "http://digitalcollections.nlg.gr/nlg-repo/dl/en/iiifmetadata/3011",
         "contents": [
+            "bhg:1984b",
+            "cpg:4661",
             "urn:cts:pta:pta0001.pta016",
             "urn:cts:pta:pta0001.pta050",
-            "urn:cts:pta:pta0001.pta011",
-            "urn:cts:pta:pta0001.pta006",
+            "cpg:4942",
+            "cpg:4663",
+            "cpg:4659",
+            "cpg:2815.5",
+            "cpg:4330",
+            "bhg:433c",
+            "cpg:4539",
+            "cpg:4718",
+            "cpg:4615",
             "urn:cts:pta:pta0001.pta020",
+            "cpg:4413.2",
             "urn:cts:pta:pta0001.pta026",
+            "urn:cts:pta:pta0001.pta006",
+            "urn:cts:pta:pta0001.pta011",
+            "cpg:4548",
+            "cpg:4546",
+            "cpg:4547",
+            "cpg:4513",
+            "cpg:4417.3",
+            "cpg:4417.5",
+            "cpg:4417.6",
+            "cpg:4319",
             "urn:cts:pta:pta0001.pta025"
         ]
     },
@@ -912,7 +935,7 @@
         "id": "PTAMS00046",
         "status": "draft",
         "diktyon": "9341",
-        "manuscript": "Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1438 (034)",
+        "manuscript": "Berlin, Staatsbibliothek zu Berlin (Preussischer Kulturbesitz), Phillipps 1438 (34)",
         "settlement": "Berlin",
         "repository": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
         "collection": "Phillipps",
@@ -1030,7 +1053,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.7",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.7/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049",
             "urn:cts:pta:pta0001.pta010"
@@ -1049,7 +1072,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.8",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.8/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta002"
         ]
@@ -1067,7 +1090,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.11",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.8.11/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta008"
         ]
@@ -1085,7 +1108,7 @@
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.33/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta002"
         ]
@@ -1352,11 +1375,11 @@
         "id": "PTAMS00069",
         "status": "draft",
         "diktyon": "16068",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana, Plut. 08. 10",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana, Plut. 8. 10",
         "settlement": "Firenze",
         "repository": "Biblioteca Medicea Laurenziana",
         "collection": "Plut.",
-        "idno": "08. 10",
+        "idno": "8. 10",
         "origDate": "s. 11",
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
@@ -1651,7 +1674,7 @@
         "diktyon": "18584",
         "manuscript": "Hagion Oros, Monê Vatopediou, Fonds principal 440",
         "settlement": "Hagion Oros",
-        "repository": "Monê Vatopediou",
+        "repository": "Monê Batopediou",
         "collection": "Fonds principal",
         "idno": "440",
         "origDate": "s. 15",
@@ -2214,11 +2237,11 @@
         "settlement": "Hagion Oros",
         "repository": "Monê Karakallou",
         "collection": "fonds principal",
-        "idno": "063 (Lambros 1576), Mon. 168",
+        "idno": "63 (Lambros 1576), Mon. 168",
         "origDate": "s. 15",
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
-        "images": "",
+        "images": "http://hdl.handle.net/20.500.11957/129779",
         "iiif_manifest": "",
         "contents": [
             "urn:cts:pta:pta0001.pta019",
@@ -3241,7 +3264,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://www.loc.gov/item/00279393430-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279393430-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032",
@@ -3261,7 +3284,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://www.loc.gov/item/00279393697-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279393697-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta007",
             "urn:cts:pta:pta0001.pta019"
@@ -3280,7 +3303,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://www.loc.gov/item/00279393673-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279393673-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta002",
             "urn:cts:pta:pta0001.pta042",
@@ -3303,7 +3326,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://www.loc.gov/item/00279393739-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279393739-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032",
             "urn:cts:pta:pta0001.pta054"
@@ -3322,7 +3345,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://www.loc.gov/item/00279393752-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279393752-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta042",
             "urn:cts:pta:pta0001.pta051",
@@ -3343,7 +3366,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://www.loc.gov/item/00279394653-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279394653-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -3361,7 +3384,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://www.loc.gov/item/00279394859-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279394859-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049"
         ]
@@ -3379,7 +3402,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "https://www.loc.gov/item/00279394847-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279394847-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta011"
         ]
@@ -3397,7 +3420,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://www.loc.gov/item/00279395013-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279395013-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -3451,7 +3474,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://www.loc.gov/item/00279389219-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279389219-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -3469,7 +3492,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://www.loc.gov/item/00279389463-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279389463-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta032"
@@ -3488,7 +3511,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://www.loc.gov/item/00279391457-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279391457-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -3506,7 +3529,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://www.loc.gov/item/00279392048-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279392048-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049"
         ]
@@ -3524,7 +3547,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://www.loc.gov/item/00279392036-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279392036-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032"
@@ -3543,7 +3566,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://www.loc.gov/item/00279395621-jo",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279395621-jo/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta062"
         ]
@@ -4759,7 +4782,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://daten.digitale-sammlungen.de/~db/0007/bsb00072399/images/index.html",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00072399/manifest",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta048"
@@ -4778,7 +4801,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://daten.digitale-sammlungen.de/~db/0007/bsb00076424/images/index.html",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00076424/manifest",
         "contents": [
             "urn:cts:pta:pta0001.pta010",
             "urn:cts:pta:pta0001.pta004"
@@ -4851,7 +4874,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://daten.digitale-sammlungen.de/~db/0007/bsb00077176/images/index.html",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00077176/manifest",
         "contents": [
             "urn:cts:pta:pta0001.pta036"
         ]
@@ -5100,7 +5123,7 @@
         "id": "PTAMS00266",
         "status": "draft",
         "diktyon": "47001",
-        "manuscript": "Oxford, Bodleian Library, Auct. E. 2. 06 (Misc. 034)",
+        "manuscript": "Oxford, Bodleian Library, Auct. E. 2. 6 (Misc. 034)",
         "settlement": "Oxford",
         "repository": "Bodleian Library",
         "collection": "Auct.",
@@ -5200,11 +5223,11 @@
         "id": "PTAMS00271",
         "status": "draft",
         "diktyon": "47029",
-        "manuscript": "Oxford, Bodleian Library, Auct. E. 3. 12 (Misc. 051.12)",
+        "manuscript": "Oxford, Bodleian Library, Auct. E. 3. 12 (Misc. 51.12)",
         "settlement": "Oxford",
         "repository": "Bodleian Library",
         "collection": "Auct.",
-        "idno": "E. 3. 12 (Misc. 051.12)",
+        "idno": "E. 3. 12 (Misc. 51.12)",
         "origDate": "a. 1612 ante",
         "origDate_notbefore": "",
         "origDate_notafter": "",
@@ -5365,11 +5388,11 @@
         "id": "PTAMS00279",
         "status": "draft",
         "diktyon": "47169",
-        "manuscript": "Oxford, Bodleian Library, Auct. T. 3. 04 (Misc. 221)",
+        "manuscript": "Oxford, Bodleian Library, Auct. T. 3. 4 (Misc. 221)",
         "settlement": "Oxford",
         "repository": "Bodleian Library",
         "collection": "Auct.",
-        "idno": "T. 3. 04 (Misc. 221)",
+        "idno": "T. 3. 4 (Misc. 221)",
         "origDate": "s. 16",
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
@@ -5395,7 +5418,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/3a4f26f8-45fd-482a-9f03-2567333f1597",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3a4f26f8-45fd-482a-9f03-2567333f1597.json",
         "contents": [
             "urn:cts:pta:pta0001.pta056"
         ]
@@ -5413,7 +5436,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/6ebb5bd6-9e3a-45af-b1f6-bd8c54709b50",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/6ebb5bd6-9e3a-45af-b1f6-bd8c54709b50.json",
         "contents": [
             "urn:cts:pta:pta0001.pta019"
         ]
@@ -5431,7 +5454,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/0689e6b4-4eb8-4094-9888-f9e72159921e",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/0689e6b4-4eb8-4094-9888-f9e72159921e.json",
         "contents": [
             "urn:cts:pta:pta0001.pta006"
         ]
@@ -5449,7 +5472,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/de88edef-d764-490a-a233-ea88b71586e5",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/de88edef-d764-490a-a233-ea88b71586e5.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016"
         ]
@@ -5467,7 +5490,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/94b35cfd-5bd9-4a01-837b-0ffed015cd7b",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/94b35cfd-5bd9-4a01-837b-0ffed015cd7b.json",
         "contents": [
             "urn:cts:pta:pta0001.pta020",
             "urn:cts:pta:pta0001.pta007",
@@ -5487,7 +5510,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/4d8fd54c-c3af-4ff3-a141-964b275cc5bc",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/4d8fd54c-c3af-4ff3-a141-964b275cc5bc.json",
         "contents": [
             "urn:cts:pta:pta0001.pta020",
             "urn:cts:pta:pta0001.pta006",
@@ -5507,7 +5530,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/3263f480-a2b6-4f93-aef4-b8487830e115",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3263f480-a2b6-4f93-aef4-b8487830e115.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032",
@@ -5527,7 +5550,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/29e41c2f-5a99-4576-95d8-1932e3f13397",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/29e41c2f-5a99-4576-95d8-1932e3f13397.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016",
             "urn:cts:pta:pta0001.pta011",
@@ -5550,7 +5573,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/3d40b698-15c0-4695-8826-fd9255bacf17",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3d40b698-15c0-4695-8826-fd9255bacf17.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -5568,18 +5591,67 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "http://digital.bodleian.ox.ac.uk/inquire/p/78ba30ef-a13a-4bd0-a8f1-84660fc58b2b",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/78ba30ef-a13a-4bd0-a8f1-84660fc58b2b.json",
         "contents": [
             "urn:cts:pta:pta0001.pta046",
+            "urn:cts:pta:pta0001.pta046",
             "urn:cts:pta:pta0001.pta047",
+            "cpg:4566 BHG 2200z-2201 Aldama 293",
+            "cpg:4567 BHG 2406 Aldama 176",
+            "cpg:4415",
+            "cpg:4588 Aldama 372",
+            "cpg:4333",
+            "cpg:4580 Aldama 341",
+            "cpg:4640",
             "urn:cts:pta:pta0001.pta015",
+            "cpg:3952 BHG 1162d Aldama 433",
+            "cpg:4579 Aldama 113",
+            "cpg:4336 BHG 0415t, 0418u, 0426d-e Aldama 313",
+            "cpg:4654 BHG 0427v Aldama 355",
             "urn:cts:pta:pta0001.pta054",
+            "cpg:4424",
+            "cpg:4338 BHG 0438m",
+            "cpg:BHG 1139",
+            "cpg:3768 BHG 0808e",
+            "cpg:7384 Aldama 116",
+            "cpg:4719 Aldama 093",
+            "cpg:8031",
+            "cpg:3010.01 3010.45",
+            "cpg:3010.01",
+            "cpg:4605 Aldama 089",
+            "cpg:5527 BHG 0635u-0635uc Aldama 028",
+            "cpg:4341",
+            "cpg:4957",
             "urn:cts:pta:pta0001.pta013",
             "urn:cts:pta:pta0001.pta026",
+            "cpg:4930",
+            "cpg:3010.44 BHG 1021",
+            "cpg:4408",
+            "cpg:6658 BHG 1837a",
+            "cpg:7035",
+            "cpg:5832 BHG 1839-1841 Aldama 181",
+            "cpg:4325",
+            "cpg:4630 Aldama 566",
+            "cpg:4652",
+            "cpg:7888 BHG 1488e",
+            "cpg:7912 4581 Aldama 457",
             "urn:cts:pta:pta0001.pta040",
+            "cpg:6659 2280",
+            "cpg:4534",
+            "cpg:4739 Aldama 186",
+            "cpg:5528 BHG 0635t Aldama 126",
+            "cpg:4342 BHG 1191n Aldama 206",
+            "cpg:BHG 1280",
+            "cpg:4620 BHG 2103x Aldama 536",
+            "cpg:4536 Aldama 363",
+            "cpg:4343.2",
+            "cpg:4343.1",
+            "cpg:4365 BHG 1188-1188aa",
+            "cpg:3953 BHG 1183 Aldama 524",
             "urn:cts:pta:pta0001.pta017",
             "urn:cts:pta:pta0001.pta003",
-            "urn:cts:pta:pta0001.pta045"
+            "cpg:3010.41",
+            "cpg:4529"
         ]
     },
     {
@@ -5726,11 +5798,11 @@
         "id": "PTAMS00297",
         "status": "draft",
         "diktyon": "48110",
-        "manuscript": "Oxford, Bodleian Library, Holkham gr. 042",
+        "manuscript": "Oxford, Bodleian Library, Holkham gr. 42",
         "settlement": "Oxford",
         "repository": "Bodleian Library",
         "collection": "Holkham",
-        "idno": "gr. 042",
+        "idno": "gr. 42",
         "origDate": "s. 16",
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
@@ -6026,7 +6098,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b100376294",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100376294/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta027"
         ]
@@ -6044,7 +6116,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b100376349?rk=1652368;4",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100376349?rk=1652368;4/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -6062,7 +6134,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10037957m?rk=1115885;2",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037957m?rk=1115885;2/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta011"
         ]
@@ -6080,7 +6152,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b100379726?rk=321890;0",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100379726?rk=321890;0/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -6098,7 +6170,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b110045630?rk=85837;2",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110045630?rk=85837;2/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta027"
         ]
@@ -6116,7 +6188,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b110043832?rk=2231770;4",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110043832?rk=2231770;4/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta027"
         ]
@@ -6134,7 +6206,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b110049533?rk=1094426;0",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110049533?rk=1094426;0/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -6152,7 +6224,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721471d",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721471d/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta046",
@@ -6173,7 +6245,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721449r",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721449r/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta046",
@@ -6194,7 +6266,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107219575",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107219575/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016",
             "urn:cts:pta:pta0001.pta045"
@@ -6213,7 +6285,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107225803",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107225803/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -6231,7 +6303,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723111g",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723111g/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta047",
             "urn:cts:pta:pta0001.pta015",
@@ -6255,7 +6327,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107217631",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107217631/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -6273,7 +6345,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723973w",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723973w/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta046",
@@ -6295,7 +6367,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107220823",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107220823/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta007"
         ]
@@ -6313,7 +6385,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b110002767",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110002767/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta010"
         ]
@@ -6331,7 +6403,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722119q",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722119q/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta014",
             "urn:cts:pta:pta0001.pta005",
@@ -6357,7 +6429,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721893n",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721893n/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta006",
             "urn:cts:pta:pta0001.pta004",
@@ -6379,7 +6451,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722092h",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722092h/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta020",
             "urn:cts:pta:pta0001.pta026",
@@ -6402,7 +6474,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721900z",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721900z/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta012",
             "urn:cts:pta:pta0001.pta055"
@@ -6421,7 +6493,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b105109948",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105109948/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta019"
         ]
@@ -6439,7 +6511,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723688d",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723688d/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta020",
             "urn:cts:pta:pta0001.pta006",
@@ -6464,7 +6536,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723819q",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723819q/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016"
         ]
@@ -6482,7 +6554,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107234122",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107234122/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta038",
             "urn:cts:pta:pta0001.pta057",
@@ -6506,7 +6578,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722013n",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722013n/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta011",
             "urn:cts:pta:pta0001.pta029",
@@ -6533,7 +6605,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721918z",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721918z/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -6551,7 +6623,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722588p",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722588p/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta008",
             "urn:cts:pta:pta0001.pta014",
@@ -6576,7 +6648,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b11000266t",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000266t/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta046",
@@ -6597,7 +6669,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721755h",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721755h/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016",
             "urn:cts:pta:pta0001.pta002"
@@ -6616,7 +6688,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723659m",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723659m/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta019"
         ]
@@ -6634,7 +6706,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723790m",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723790m/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta047",
             "urn:cts:pta:pta0001.pta048"
@@ -6653,7 +6725,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721937b",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721937b/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -6671,7 +6743,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723952m",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723952m/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -6689,7 +6761,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723792h",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723792h/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta022",
             "urn:cts:pta:pta0001.pta054",
@@ -6704,12 +6776,12 @@
         "settlement": "Paris",
         "repository": "Bibliothèque nationale de France (BNF)",
         "collection": "grec",
-        "idno": "0777A",
+        "idno": "777A",
         "origDate": "s. 14 (2/2)",
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107221042",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107221042/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta057",
             "urn:cts:pta:pta0001.pta059",
@@ -6733,7 +6805,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107226022",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107226022/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta009",
             "urn:cts:pta:pta0001.pta026",
@@ -6754,7 +6826,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b85143990",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85143990/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta014",
             "urn:cts:pta:pta0001.pta008",
@@ -6774,7 +6846,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722603h",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722603h/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta047"
@@ -6793,7 +6865,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723136j",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723136j/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta018",
             "urn:cts:pta:pta0001.pta055"
@@ -6812,7 +6884,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107231319",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107231319/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta046",
@@ -6875,12 +6947,51 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721751q",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721751q/manifest.json",
         "contents": [
-            "",
             "cpg:3010.38",
             "cpg:3010.39",
-            "urn:cts:pta:pta0001.pta035"
+            "cpg:4522",
+            "cpg:5806",
+            "cpg:3771",
+            "cpg:4875",
+            "cpg:5816",
+            "cpg:4638",
+            "cpg:3253 BHG 0246y-0260ab",
+            "cpg:3592 BHG 1973-1973b",
+            "cpg:1778 BHG 1960",
+            "cpg:7751",
+            "cpg:3945 BHG 2102y",
+            "cpg:1776 BHG 1092w",
+            "cpg:8008 BHG 1104 Aldama 193",
+            "urn:cts:pta:pta0001.pta035",
+            "cpg:BHG 1201-1201d, 1201f",
+            "cpg:4519 BHG 1128f Aldama 389 CCG Appendix VIII, 10",
+            "cpg:4681 BHG 2231-2231c Aldama 567",
+            "cpg:3767",
+            "cpg:7898 BHG 2216-2216c",
+            "cpg:7894 BHG 0939i",
+            "cpg:4046 BHG 1162e",
+            "cpg:3234 BHG 1162h Aldama 196",
+            "cpg:4025 BHG 0450k",
+            "cpg:7754 BHG 0416c",
+            "cpg:3768 BHG 0808e",
+            "cpg:5527 BHG 0635u-0635uc Aldama 028",
+            "cpg:3010.01,45",
+            "cpg:3010.44 BHG 1021",
+            "cpg:4513 BHG 1488 Aldama 314",
+            "cpg:4651 BHG 2269ba-2269bd Aldama 450",
+            "cpg:7899b BHG 2103eb",
+            "cpg:4597 BHG 0820 Aldama 185",
+            "cpg:CANT 193.2 BHG 1490",
+            "cpg:3939 BHG 1982",
+            "cpg:8182 BHG 1115-1115a",
+            "cpg:8181-8183",
+            "cpg:BHG 0396-0409z",
+            "cpg:BHG 0396-0409z",
+            "cpg:4300 BHG 1768",
+            "cpg:BHG 0743",
+            "cpg:CANT 050 BHG 1046, 1046b-1046g"
         ]
     },
     {
@@ -6896,7 +7007,7 @@
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107219323",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107219323/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta053"
         ]
@@ -6932,7 +7043,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107217364",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107217364/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032"
@@ -6951,7 +7062,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107224921",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107224921/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -6969,7 +7080,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721766c",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721766c/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta053"
         ]
@@ -6987,7 +7098,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722833h",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722833h/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016"
         ]
@@ -7023,7 +7134,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722182g",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722182g/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta046",
             "urn:cts:pta:pta0001.pta047",
@@ -7050,7 +7161,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721848t",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721848t/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049"
         ]
@@ -7068,7 +7179,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107228735",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107228735/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -7104,7 +7215,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723326w",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723326w/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -7122,7 +7233,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723089k",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723089k/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta003"
         ]
@@ -7140,7 +7251,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b11000006k",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000006k/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta016"
         ]
@@ -7158,7 +7269,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722849m",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722849m/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta007",
             "urn:cts:pta:pta0001.pta014",
@@ -7178,7 +7289,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b107238383",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b107238383/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -7196,7 +7307,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722265c",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722265c/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta051"
         ]
@@ -7214,7 +7325,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10724055w",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10724055w/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -7232,7 +7343,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b100840763",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b100840763/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -7250,7 +7361,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721862z",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721862z/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -7268,7 +7379,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10722791q",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722791q/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -7286,7 +7397,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b11004911j?rk=686698;4",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004911j?rk=686698;4/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta045"
@@ -7305,7 +7416,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b110041337?rk=879832;4",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b110041337?rk=879832;4/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta018"
         ]
@@ -7323,7 +7434,7 @@
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b11004867x",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004867x/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta010"
         ]
@@ -7899,7 +8010,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "https://www.loc.gov/item/00279382341-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279382341-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta028"
         ]
@@ -8010,8 +8121,8 @@
         "origDate": "a. 1655",
         "origDate_notbefore": "",
         "origDate_notafter": "",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH003890932/NLI",
+        "iiif_manifest": "http://iiif.nli.org.il/IIIFv21/990038909320205171/manifest",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta011"
@@ -8421,8 +8532,8 @@
         "origDate": "a. 1327",
         "origDate_notbefore": "",
         "origDate_notafter": "",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "http://digi.vatlib.it/view/MSS_Barb.gr.332",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Barb.gr.332/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta002"
         ]
@@ -8440,7 +8551,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Barb.gr.455",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Barb.gr.455/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032"
@@ -8459,7 +8570,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digi.vatlib.it/view/MSS_Barb.gr.519",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Barb.gr.519/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -8495,7 +8606,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digi.vatlib.it/view/MSS_Barb.gr.547",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Barb.gr.547/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049",
             "urn:cts:pta:pta0001.pta056"
@@ -8514,7 +8625,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Barb.gr.555",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Barb.gr.555/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049"
         ]
@@ -8532,7 +8643,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Barb.gr.583",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Barb.gr.583/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta055",
             "urn:cts:pta:pta0001.pta049"
@@ -8551,7 +8662,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Chig.R.IV.12",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Chig.R.IV.12/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta008"
         ]
@@ -8569,7 +8680,7 @@
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.8",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.8/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -8587,7 +8698,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.13",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.13/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta002",
             "urn:cts:pta:pta0001.pta037",
@@ -8607,7 +8718,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.14.pt.2",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.14.pt.2/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta011",
             "urn:cts:pta:pta0001.pta052",
@@ -8630,7 +8741,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.85",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.85/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032"
@@ -8649,7 +8760,7 @@
         "origDate_notbefore": "1601-01-01",
         "origDate_notafter": "1700-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.101",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.101/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta018",
             "urn:cts:pta:pta0001.pta005",
@@ -8669,7 +8780,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.179",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.179/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032",
             "urn:cts:pta:pta0001.pta054"
@@ -8688,7 +8799,7 @@
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.264",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.264/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049"
         ]
@@ -8706,7 +8817,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Ott.gr.411.pt.1",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Ott.gr.411.pt.1/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -8742,7 +8853,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digi.vatlib.it/view/MSS_Pal.gr.27",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Pal.gr.27/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -8796,7 +8907,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Pal.gr.364.pt.1",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Pal.gr.364.pt.1/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -8925,7 +9036,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.419",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.419/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -8943,7 +9054,7 @@
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.438",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.438/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -8961,7 +9072,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.450",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.450/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta019"
         ]
@@ -9062,7 +9173,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.562.pt.1",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.562.pt.1/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -9312,7 +9423,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1255",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1255/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015",
             "urn:cts:pta:pta0001.pta032"
@@ -9331,7 +9442,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1587.pt.2",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1587.pt.2/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta015"
         ]
@@ -9389,7 +9500,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1633",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1633/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049",
             "urn:cts:pta:pta0001.pta056",
@@ -9409,7 +9520,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1636",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1636/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049",
             "urn:cts:pta:pta0001.pta056",
@@ -9475,7 +9586,7 @@
         "origDate_notbefore": "1101-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1652",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1652/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049",
             "urn:cts:pta:pta0001.pta002"
@@ -9494,7 +9605,7 @@
         "origDate_notbefore": "",
         "origDate_notafter": "",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1774",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1774/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -9554,7 +9665,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.1990",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1990/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta007"
         ]
@@ -9572,7 +9683,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.2013",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.2013/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta056",
             "urn:cts:pta:pta0001.pta015",
@@ -9610,7 +9721,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.2048",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.2048/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta049",
             "urn:cts:pta:pta0001.pta056"
@@ -9666,7 +9777,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.2220",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.2220/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -9790,7 +9901,7 @@
         "settlement": "Venezia",
         "repository": "Biblioteca Nazionale Marciana",
         "collection": "gr. Z.",
-        "idno": "569 (coll. 0332)",
+        "idno": "569 (coll. 332)",
         "origDate": "s. 10 med.",
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1000-12-31",
@@ -9924,11 +10035,11 @@
         "id": "PTAMS00514",
         "status": "draft",
         "diktyon": "70221",
-        "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. II. 059 (coll. 1149)",
+        "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. II. 59 (coll. 1149)",
         "settlement": "Venezia",
         "repository": "Biblioteca Nazionale Marciana",
         "collection": "gr.",
-        "idno": "II. 059 (coll. 1149)",
+        "idno": "II. 59 (coll. 1149)",
         "origDate": "a. 1579",
         "origDate_notbefore": "",
         "origDate_notafter": "",
@@ -10499,9 +10610,10 @@
         "images": "https://amshistorica.unibo.it/293",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6206",
+            "cpg:C66",
+            "cpg:C65",
+            "cpg:6205",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
@@ -10520,8 +10632,8 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6206",
+            "cpg:4447",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
@@ -10540,40 +10652,40 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "cpg:6285",
+            "",
+            "cpg:2249",
+            "cpg:2257",
+            "cpg:7747",
+            "",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:6200",
+            "",
+            "",
+            "",
+            ""
         ]
     },
     {
         "id": "PTAMS00525",
         "status": "draft",
         "diktyon": "16157",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11. 03",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.3",
         "settlement": "Firenze",
         "repository": "Biblioteca Medicea Laurenziana (BML)",
         "collection": "Plut.",
-        "idno": "11. 03",
+        "idno": "11.3",
         "origDate": "s. 15",
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.3",
         "iiif_manifest": "",
         "contents": [
+            "cpg:6206",
+            "urn:cts:pta:pta9999.pta060",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:3778",
+            "cpg:6210"
         ]
     },
     {
@@ -10591,7 +10703,7 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6206",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
@@ -10610,36 +10722,36 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:6200",
+            "",
+            "",
+            "",
+            "",
+            "cpg:8048",
+            "cpg:8045"
         ]
     },
     {
         "id": "PTAMS00528",
         "status": "draft",
         "diktyon": "40315",
-        "manuscript": "Madrid, Biblioteca nacional de España (BNE), fonds principal 04843",
+        "manuscript": "Madrid, Biblioteca nacional de España (BNE), fonds principal 4843",
         "settlement": "Madrid",
         "repository": "Biblioteca nacional de España (BNE)",
         "collection": "fonds principal",
-        "idno": "04843",
+        "idno": "4843",
         "origDate": "s. 16",
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "cpg:5204",
+            "cpg:5204",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:5203"
         ]
     },
     {
@@ -10657,10 +10769,10 @@
         "images": "https://daten.digitale-sammlungen.de/~db/0007/bsb00070403/images/index.html",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6206",
+            "cpg:C66",
+            "cpg:C65",
+            "cpg:6205",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
@@ -10679,41 +10791,41 @@
         "images": "https://daten.digitale-sammlungen.de/~db/0013/bsb00131097/images/",
         "iiif_manifest": "",
         "contents": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ]
     },
     {
@@ -10731,19 +10843,19 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "cpg:6205.3",
+            "cpg:6200",
+            "cpg:6205",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:6201",
+            "cpg:6205"
         ]
     },
     {
         "id": "PTAMS00532",
         "status": "draft",
         "diktyon": "48116",
-        "manuscript": "Oxford, Bodleian Library, Holkham gr. 048",
+        "manuscript": "Oxford, Bodleian Library, Holkham gr. 48",
         "settlement": "Oxford",
         "repository": "Bodleian Library",
         "collection": "Holkham gr.",
@@ -10755,12 +10867,12 @@
         "iiif_manifest": "",
         "contents": [
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "",
+            "",
+            "",
+            "cpg:7431",
+            "cpg:6203",
+            ""
         ]
     },
     {
@@ -10778,72 +10890,72 @@
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10721668w",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6208",
+            "cpg:6208",
+            "",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
     {
-        "id": "PTAMS00534",
+        "id": "PTAMS00556",
         "status": "draft",
         "diktyon": "55983",
-        "manuscript": "Roma, Biblioteca Angelica, gr. 076",
+        "manuscript": "Roma, Biblioteca Angelica, gr. 76",
         "settlement": "Roma",
         "repository": "Biblioteca Angelica",
         "collection": "gr.",
-        "idno": "076",
+        "idno": "76",
         "origDate": "s. 11",
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://www.internetculturale.it/opencms/opencms/it/viewItemMag.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000117047",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6206",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
     {
-        "id": "PTAMS00535",
+        "id": "PTAMS00557",
         "status": "draft",
         "diktyon": "67252",
-        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 0621",
+        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 621",
         "settlement": "Vaticano",
         "repository": "Biblioteca Apostolica Vaticana (BAV)",
         "collection": "Vat. gr.",
-        "idno": "0621",
+        "idno": "621",
         "origDate": "s. 16",
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:6203",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
     {
-        "id": "PTAMS00536",
+        "id": "PTAMS00558",
         "status": "draft",
         "diktyon": "67306",
-        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 0675",
+        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 675",
         "settlement": "Vaticano",
         "repository": "Biblioteca Apostolica Vaticana (BAV)",
         "collection": "Vat. gr.",
-        "idno": "0675",
+        "idno": "675",
         "origDate": "s. 11-12",
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "cpg:7522",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:C75",
+            "cpg:C65",
+            "cpg:6205",
+            "cpg:6205",
+            "cpg:6205"
         ]
     },
     {
@@ -10858,22 +10970,21 @@
         "origDate": "s. 13",
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://digi.vatlib.it/view/MSS_Vat.gr.1887/",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1887/manifest.json",
         "contents": [
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "urn:cts:pta:pta9999.pta062",
+            "cpg:8041",
+            "cpg:8043",
+            ""
         ]
     },
     {
         "id": "PTAMS00538",
         "status": "draft",
         "diktyon": "70129",
-        "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. I. 033 (coll. 0977)",
+        "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. I. 33 (coll. 977)",
         "settlement": "Venezia",
         "repository": "Biblioteca Nazionale Marciana",
         "collection": "gr. I.",
@@ -10884,18 +10995,18 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "cpg:6200",
+            "cpg:6201",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "cpg:6208",
+            "cpg:2911"
         ]
     },
     {
         "id": "PTAMS00539",
         "status": "draft",
         "diktyon": "71703",
-        "manuscript": "Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 036",
+        "manuscript": "Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 36",
         "settlement": "Wien",
         "repository": "Österreichische Nationalbibliothek (ÖNB)",
         "collection": "theol. gr.",
@@ -10906,9 +11017,9 @@
         "images": "http://data.onb.ac.at/rec/AL00226889",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
+            "cpg:C66",
+            "cpg:C65",
+            "cpg:6205",
             "urn:cts:pta:pta0004.pta001"
         ]
     },
@@ -10916,272 +11027,272 @@
         "id": "PTAMS00540",
         "status": "draft",
         "diktyon": "287",
-        "manuscript": "Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 043",
+        "manuscript": "Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 43",
         "settlement": "Andros",
         "repository": "Monê Hagias (Zôodochou Pêgês)",
         "collection": "fonds principal",
-        "idno": "043",
-        "origDate": "s. 13",
-        "origDate_notbefore": "1201-01-01",
-        "origDate_notafter": "1300-12-31",
+        "idno": "43",
+        "origDate": "s. 15",
+        "origDate_notbefore": "1401-01-01",
+        "origDate_notafter": "1500-12-31",
         "images": "http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32648",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "",
+            "",
+            "",
+            "",
+            "urn:cts:pta:pta0001.pta004",
+            "",
+            "urn:cts:pta:pta0004.pta001",
+            "cpg:1730",
+            "urn:cts:pta:pta9999.pta003",
+            "cpg:2237",
+            "cpg:2237",
+            "cpg:4424",
+            "",
+            "cpg:2911",
+            "cpg:2247",
+            "cpg:4425",
+            "",
+            "cpg:1315",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "urn:cts:pta:pta0004.pta001",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "cpg:3010.29",
+            "cpg:4336",
+            "cpg:3010.29",
+            "",
+            "",
+            "cpg:5222",
+            "",
+            "",
+            "",
+            "cpg:3010.29",
+            "cpg:7697",
+            "cpg:7699",
+            "cpg:7697",
+            "",
+            "",
+            "",
+            "cpg:4336",
+            "urn:cts:pta:pta0005.pta001",
+            "",
+            "cpg:5216",
+            "cpg:5216",
+            "cpg:2926",
+            "cpg:3674",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "urn:cts:pta:pta0036.pta001",
+            "cpg:6944",
+            "cpg:3010.20",
+            "urn:cts:pta:pta9999.pta089",
+            "cpg:3010.27",
+            "cpg:3010.25",
+            "",
+            "cpg:8172",
+            "",
+            ""
         ]
     },
     {
-        "id": "PTAMS00541",
+        "id": "PTAMS00563",
         "status": "draft",
         "diktyon": "18744",
-        "manuscript": "Hagion Oros, Monê Batopediou, fonds principal 0600",
+        "manuscript": "Hagion Oros, Monê Batopediou, fonds principal 600",
         "settlement": "Hagion Oros",
         "repository": "Monê Batopediou",
-        "collection": "fonds principal",
-        "idno": "0600",
-        "origDate": "s. 11",
+        "collection": "Fonds principal",
+        "idno": "600",
+        "origDate": "a. 1021",
         "origDate_notbefore": "1021-01-01",
         "origDate_notafter": "1021-12-31",
         "images": "https://www.loc.gov/item/00271052017-ma/",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00271052017-ma/manifest.json",
         "contents": [
+            "urn:cts:pta:pta9999",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "urn:cts:pta:pta9999.pta060",
+            "cavt:105",
+            "urn:cts:pta:pta9999.pta062",
+            "urn:cts:pta:pta9999.pta061",
+            "",
+            ""
         ]
     },
     {
         "id": "PTAMS00542",
         "status": "draft",
         "diktyon": "33709",
-        "manuscript": "Istanbul, Patriarchikê Bibliothêkê, Panaghia 064",
+        "manuscript": "Istanbul, Patriarchikê Bibliothêkê, Panaghia 64",
         "settlement": "Istanbul",
         "repository": "Patriarchikê Bibliothêkê",
         "collection": "Panaghia",
-        "idno": "064",
+        "idno": "64",
         "origDate": "s. 13",
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
         "images": "",
         "iiif_manifest": "",
         "contents": [
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "urn:cts:pta:pta0004.pta001",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ]
     },
     {
@@ -11199,28 +11310,549 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "urn:cts:pta:pta0001.pta049",
+            "urn:cts:pta:pta9999.pta060",
+            "urn:cts:pta:pta9999.pta061",
+            "urn:cts:pta:pta9999.pta062",
             "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta0004.pta001"
+            "",
+            "",
+            "",
+            "urn:cts:pta:pta0001.pta061",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "PTAMS00566",
+        "status": "draft",
+        "diktyon": "15928",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut.04. 12",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "04. 12",
+        "origDate": "",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.4.12",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:2295",
+            "cpg:2804",
+            "",
+            "",
+            "",
+            "",
+            "cpg:6823",
+            "cpg:2900",
+            "cpg:2900",
+            "",
+            "",
+            "cpg:8049",
+            "cpg:8048",
+            "cpg:2886",
+            "cpg:2926",
+            "cpg:2094",
+            "cpg:2241",
+            ""
+        ]
+    },
+    {
+        "id": "PTAMS00567",
+        "status": "draft",
+        "diktyon": "50936",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), Grec1327",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "Grec",
+        "idno": "1327",
+        "origDate": "a. 1562",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b107218960",
+        "iiif_manifest": "",
+        "contents": [
+            "",
+            "",
+            "cpg:6210.1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "bhg:444n",
+            "",
+            "cpg:5215",
+            "cpg:TB II Gregory Palamas 1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "cpg:2250",
+            "cpg:2094",
+            "cpg:2106",
+            "cpg:2102.2",
+            "cpg:2107",
+            "cpg:2901",
+            "cpg:2901",
+            "cpg:2901",
+            "cpg:2839",
+            "cpg:2839",
+            "cpg:2295",
+            "cpg:2234",
+            "cpg:2804",
+            "cpg:8048"
+        ]
+    },
+    {
+        "id": "PTAMS00568",
+        "status": "draft",
+        "diktyon": "53665",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), Suppl. Grec 1020",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "Suppl. Grec",
+        "idno": "1020",
+        "origDate": "s. 11",
+        "origDate_notbefore": "001001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:3243",
+            "",
+            "cpg:2900",
+            "cpg:2907.01",
+            "cpg:3032"
+        ]
+    },
+    {
+        "id": "PTAMS00569",
+        "status": "draft",
+        "diktyon": "71857",
+        "manuscript": "Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 190",
+        "settlement": "Wien",
+        "repository": "Österreichische Nationalbibliothek (ÖNB)",
+        "collection": "theol. gr.",
+        "idno": "190",
+        "origDate": "s. 15 ex.",
+        "origDate_notbefore": "001401-01-01",
+        "origDate_notafter": "1500-12-31",
+        "images": "http://data.onb.ac.at/rec/AL00147759",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:6823",
+            "cpg:8048",
+            "cpg:2094",
+            "cpg:7697",
+            "cpg:3243",
+            "cpg:2900",
+            "cpg:2901",
+            "cpg:2914",
+            "cpg:2900",
+            "cpg:2900",
+            "cpg:2926",
+            "cpg:5216",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "cpg:2295",
+            "",
+            "cpg:2804",
+            "",
+            "",
+            "",
+            "",
+            "cpg:8041"
+        ]
+    },
+    {
+        "id": "PTAMS00570",
+        "status": "draft",
+        "diktyon": "49186",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), Coislin 44",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "Coislin",
+        "idno": "44",
+        "origDate": "s. 10 med.",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b11004562j",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004562j/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0003.pta020"
+        ]
+    },
+    {
+        "id": "PTAMS00571",
+        "status": "draft",
+        "diktyon": "49167",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), Coisl. 25",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "Coisl.",
+        "idno": "25",
+        "origDate": "10-11",
+        "origDate_notbefore": "0901-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b11000126s",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/12148/btv1b11000126s/manifest.json",
+        "contents": [
+            "bhg:1457",
+            "urn:cts:pta:pta9999.pta067",
+            "cpg:C150",
+            "urn:cts:pta:pta9999.pta082",
+            "urn:cts:pta:pta9999.pta083",
+            "urn:cts:pta:pta9999.pta084",
+            "urn:cts:pta:pta9999.pta085",
+            "urn:cts:pta:pta9999.pta086",
+            "urn:cts:pta:pta9999.pta087",
+            "urn:cts:pta:pta9999.pta088",
+            "cpg:C176"
+        ]
+    },
+    {
+        "id": "PTAMS00572",
+        "status": "draft",
+        "diktyon": "35921",
+        "manuscript": "Jerusalem, Patriarchikê bibliothêkê, Timiou Staurou 25",
+        "settlement": "Jerusalem",
+        "repository": "Patriarchikê bibliothêkê",
+        "collection": "Timiou Staurou",
+        "idno": "25",
+        "origDate": "10ex",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "https://www.loc.gov/item/00279395529-jo",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C175-C178",
+            "cpg:C150-C152"
+        ]
+    },
+    {
+        "id": "PTAMS00573",
+        "status": "draft",
+        "diktyon": "48716",
+        "manuscript": "Oxford, New College, fonds principal 58",
+        "settlement": "Oxford",
+        "repository": "New College",
+        "collection": "fonds principal",
+        "idno": "58",
+        "origDate": "12",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32818",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:3642 BHG 1453-1459a"
+        ]
+    },
+    {
+        "id": "PTAMS00574",
+        "status": "draft",
+        "diktyon": "49792",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), grec 221",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "grec",
+        "idno": "221",
+        "origDate": "0",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b10722831m",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10722831m/manifest.json",
+        "contents": [
+            "cpg:0"
+        ]
+    },
+    {
+        "id": "PTAMS00575",
+        "status": "draft",
+        "diktyon": "65122",
+        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Barb. gr.582",
+        "settlement": "Vaticano",
+        "repository": "Biblioteca Apostolica Vaticana (BAV)",
+        "collection": "Barb. gr.",
+        "idno": "582",
+        "origDate": "11",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=30453",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:3640",
+            "cpg:3640 BHG 1457-1457e",
+            "cpg:C150-C152"
+        ]
+    },
+    {
+        "id": "PTAMS00576",
+        "status": "draft",
+        "diktyon": "69967",
+        "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. Z. 496 (coll. 0843)",
+        "settlement": "Venezia",
+        "repository": "Biblioteca Nazionale Marciana",
+        "collection": "gr. Z.",
+        "idno": "496",
+        "origDate": "s. 11 ex",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:3144",
+            "cpg:3477",
+            "urn:cts:pta:pta0003.pta009",
+            "cpg:1726",
+            "cpg:6996",
+            "tlg:4001.001",
+            "cpg:1107"
+        ]
+    },
+    {
+        "id": "PTAMS00578",
+        "status": "draft",
+        "diktyon": "51093",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), grec 1476",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "grec",
+        "idno": "1476",
+        "origDate": "s. 9",
+        "origDate_notbefore": "0801-01-01",
+        "origDate_notafter": "0900-12-31",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b107238383",
+        "iiif_manifest": "https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b107238383",
+        "contents": [
+            "bhg:1209",
+            "bhg:1201",
+            "cpg:2863",
+            "cpg:8174",
+            "cpg:4425",
+            "cpg:4424",
+            "cpg:1775",
+            "urn:cts:pta:pta0002.pta001",
+            "cpg:4424",
+            "cpg:4424",
+            "cpg:4681",
+            "cpg:8177",
+            "cpg:7898",
+            "cpg:8178",
+            "cpg:4566",
+            "cpg:8058",
+            "cpg:4641",
+            "cpg:3234",
+            "cpg:4635",
+            "cpg:2247",
+            "cpg:6662",
+            "cpg:3768",
+            "cpg:7384"
+        ]
+    },
+    {
+        "id": "PTAMS00579",
+        "status": "draft",
+        "diktyon": "54459",
+        "manuscript": "Patmos, Monê tou Hagiou Iôannou tou Theologou 215",
+        "settlement": "Patmos",
+        "repository": "Monê tou Hagiou Iôannou tou Theologou",
+        "collection": "fonds principal",
+        "idno": "215",
+        "origDate": "s. 12-13",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C24"
+        ]
+    },
+    {
+        "id": "PTAMS00580",
+        "status": "draft",
+        "diktyon": "42781",
+        "manuscript": "Milano, Biblioteca Ambrosiana, fonds principal F 126 sup. (Martini-Bassi 368)",
+        "settlement": "Milano",
+        "repository": "Biblioteca Ambrosiana",
+        "collection": "fonds principal",
+        "idno": "F 126 sup. (Martini-Bassi 368)",
+        "origDate": "13",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C24"
+        ]
+    },
+    {
+        "id": "PTAMS00581",
+        "status": "draft",
+        "diktyon": "49706",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), grec 139",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "grec",
+        "idno": "139",
+        "origDate": "10",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b10515446x",
+        "iiif_manifest": "https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b10515446x",
+        "contents": [
+            "cpg:C16"
+        ]
+    },
+    {
+        "id": "PTAMS00582",
+        "status": "draft",
+        "diktyon": "69488",
+        "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. Z. 17 (coll. 0421)",
+        "settlement": "Venezia",
+        "repository": "Biblioteca Nazionale Marciana",
+        "collection": "gr. Z.",
+        "idno": "17 (coll. 0421)",
+        "origDate": "10 ex.",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.240.9608",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C16",
+            "cpg:C46"
+        ]
+    },
+    {
+        "id": "PTAMS00583",
+        "status": "draft",
+        "diktyon": "49329",
+        "manuscript": "Paris, Bibliothèque nationale de France (BNF), Coisl. 190",
+        "settlement": "Paris",
+        "repository": "Bibliothèque nationale de France (BNF)",
+        "collection": "Coisl.",
+        "idno": "190",
+        "origDate": "14",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://gallica.bnf.fr/ark:/12148/btv1b11004697d",
+        "iiif_manifest": "https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b11004697d",
+        "contents": [
+            "cpg:C21"
+        ]
+    },
+    {
+        "id": "PTAMS00584",
+        "status": "draft",
+        "diktyon": "39686",
+        "manuscript": "London, British Library, Harley 5791",
+        "settlement": "London",
+        "repository": "British Library",
+        "collection": "Harley",
+        "idno": "5791",
+        "origDate": "17",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_5791",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C21"
+        ]
+    },
+    {
+        "id": "PTAMS00585",
+        "status": "draft",
+        "diktyon": "15962",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. V 14",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "V 14",
+        "origDate": "12",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.5.14",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C21"
+        ]
+    },
+    {
+        "id": "PTAMS00586",
+        "status": "draft",
+        "diktyon": "67385",
+        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 0754",
+        "settlement": "Vaticano",
+        "repository": "Biblioteca Apostolica Vaticana (BAV)",
+        "collection": "Vat. gr. 0754",
+        "idno": "754",
+        "origDate": "10",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://digi.vatlib.it/view/MSS_Vat.gr.754",
+        "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.754/manifest.json",
+        "contents": [
+            "cpg:",
+            "cpg:",
+            "cpg:1425",
+            "cpg:2097",
+            "cpg:3155",
+            "cpg:1426",
+            "cpg:C32",
+            "cpg:C46"
+        ]
+    },
+    {
+        "id": "PTAMS00587",
+        "status": "draft",
+        "diktyon": "71675",
+        "manuscript": "Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 8",
+        "settlement": "Wien",
+        "repository": "Österreichische Nationalbibliothek (ÖNB)",
+        "collection": "theol. gr.",
+        "idno": "8",
+        "origDate": "11",
+        "origDate_notbefore": "",
+        "origDate_notafter": "",
+        "images": "http://data.onb.ac.at/rec/AL00226374",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:C18"
         ]
     }
 ]
