@@ -5655,29 +5655,6 @@
         ]
     },
     {
-        "id": "PTAMS00290",
-        "status": "draft",
-        "diktyon": "47649",
-        "manuscript": "Oxford, Bodleian Library, Canon. gr. 99",
-        "settlement": "Oxford",
-        "repository": "Bodleian Library",
-        "collection": "Canon. gr.",
-        "idno": "99",
-        "origDate": "s. 16",
-        "origDate_notbefore": "1501-01-01",
-        "origDate_notafter": "1600-12-31",
-        "images": "",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta026",
-            "urn:cts:pta:pta0001.pta011",
-            "urn:cts:pta:pta0001.pta005",
-            "urn:cts:pta:pta0001.pta008",
-            "urn:cts:pta:pta0001.pta014",
-            "urn:cts:pta:pta0001.pta025"
-        ]
-    },
-    {
         "id": "PTAMS00291",
         "status": "draft",
         "diktyon": "47650",
@@ -7606,24 +7583,6 @@
         ]
     },
     {
-        "id": "PTAMS00387",
-        "status": "draft",
-        "diktyon": "55434",
-        "manuscript": "Philadelphia, Free Library, Rare Book Department, Lewis Lewis E 156 (de Ricci 2)",
-        "settlement": "Philadelphia",
-        "repository": "Free Library, Rare Book Department",
-        "collection": "Lewis",
-        "idno": "Lewis E 156 (de Ricci 2)",
-        "origDate": "s. 11",
-        "origDate_notbefore": "1001-01-01",
-        "origDate_notafter": "1100-12-31",
-        "images": "http://openn.library.upenn.edu/Data/0023/html/lewis_e_156.html",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta026"
-        ]
-    },
-    {
         "id": "PTAMS00388",
         "status": "draft",
         "diktyon": "55935",
@@ -9217,28 +9176,6 @@
         ]
     },
     {
-        "id": "PTAMS00473",
-        "status": "draft",
-        "diktyon": "67197",
-        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 566",
-        "settlement": "Vaticano",
-        "repository": "Biblioteca Apostolica Vaticana",
-        "collection": "Vat. gr.",
-        "idno": "566",
-        "origDate": "s. 11",
-        "origDate_notbefore": "1001-01-01",
-        "origDate_notafter": "1100-12-31",
-        "images": "",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta026",
-            "urn:cts:pta:pta0001.pta045",
-            "urn:cts:pta:pta0001.pta046",
-            "urn:cts:pta:pta0001.pta047",
-            "urn:cts:pta:pta0001.pta048"
-        ]
-    },
-    {
         "id": "PTAMS00474",
         "status": "draft",
         "diktyon": "67200",
@@ -10618,7 +10555,7 @@
         ]
     },
     {
-        "id": "PTAMS00523",
+        "id": "PTAMS00545",
         "status": "draft",
         "diktyon": "11729",
         "manuscript": "Budapest, Országos Széchényi Könyvtár, fonds principal 1° Gr. 6 (Kubinyi 6)",
@@ -10638,7 +10575,7 @@
         ]
     },
     {
-        "id": "PTAMS00524",
+        "id": "PTAMS00546",
         "status": "draft",
         "diktyon": "15590",
         "manuscript": "Eurutania, Monê Prousou, fonds principal 01",
@@ -10667,7 +10604,7 @@
         ]
     },
     {
-        "id": "PTAMS00525",
+        "id": "PTAMS00547",
         "status": "draft",
         "diktyon": "16157",
         "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.3",
@@ -10684,12 +10621,13 @@
             "cpg:6206",
             "urn:cts:pta:pta9999.pta060",
             "urn:cts:pta:pta0004.pta001",
+            "urn:cts:pta:pta9999.pta062",
             "cpg:3778",
             "cpg:6210"
         ]
     },
     {
-        "id": "PTAMS00526",
+        "id": "PTAMS00548",
         "status": "draft",
         "diktyon": "14686",
         "manuscript": "Escorial (El-), Real Biblioteca, fonds principal Ι. I. 14 (Andrés 482) [ms. détruit]",
@@ -10708,7 +10646,7 @@
         ]
     },
     {
-        "id": "PTAMS00527",
+        "id": "PTAMS00549",
         "status": "draft",
         "diktyon": "24911",
         "manuscript": "Hagion Oros, Monê Ibêrôn, fonds principal 1316 (Lambros 5436)",
@@ -10734,7 +10672,7 @@
         ]
     },
     {
-        "id": "PTAMS00528",
+        "id": "PTAMS00550",
         "status": "draft",
         "diktyon": "40315",
         "manuscript": "Madrid, Biblioteca nacional de España (BNE), fonds principal 4843",
@@ -10755,7 +10693,7 @@
         ]
     },
     {
-        "id": "PTAMS00529",
+        "id": "PTAMS00551",
         "status": "draft",
         "diktyon": "44561",
         "manuscript": "München, Bayerische Staatsbibliothek (BSB), Cod. graec. 117",
@@ -10777,7 +10715,7 @@
         ]
     },
     {
-        "id": "PTAMS00530",
+        "id": "PTAMS00552",
         "status": "draft",
         "diktyon": "45074",
         "manuscript": "München, Bayerische Staatsbibliothek (BSB), Cod.graec. 624",
@@ -10829,7 +10767,7 @@
         ]
     },
     {
-        "id": "PTAMS00531",
+        "id": "PTAMS00553",
         "status": "draft",
         "diktyon": "47204",
         "manuscript": "Oxford, Bodleian Library, Auct. T. 4. 18 (Misc. 256)",
@@ -10852,7 +10790,7 @@
         ]
     },
     {
-        "id": "PTAMS00532",
+        "id": "PTAMS00554",
         "status": "draft",
         "diktyon": "48116",
         "manuscript": "Oxford, Bodleian Library, Holkham gr. 48",
@@ -10876,7 +10814,7 @@
         ]
     },
     {
-        "id": "PTAMS00533",
+        "id": "PTAMS00555",
         "status": "draft",
         "diktyon": "50643",
         "manuscript": "Paris, Bibliothèque nationale de France (BNF), grec 1049",
@@ -10959,7 +10897,7 @@
         ]
     },
     {
-        "id": "PTAMS00537",
+        "id": "PTAMS00559",
         "status": "draft",
         "diktyon": "68516",
         "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Vat. gr. 1887",
@@ -10981,7 +10919,7 @@
         ]
     },
     {
-        "id": "PTAMS00538",
+        "id": "PTAMS00560",
         "status": "draft",
         "diktyon": "70129",
         "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. I. 33 (coll. 977)",
@@ -11003,7 +10941,7 @@
         ]
     },
     {
-        "id": "PTAMS00539",
+        "id": "PTAMS00561",
         "status": "draft",
         "diktyon": "71703",
         "manuscript": "Wien, Österreichische Nationalbibliothek (ÖNB), theol. gr. 36",
@@ -11024,7 +10962,7 @@
         ]
     },
     {
-        "id": "PTAMS00540",
+        "id": "PTAMS00562",
         "status": "draft",
         "diktyon": "287",
         "manuscript": "Andros, Monê Hagias (Zôodochou Pêgês), fonds principal 43",
@@ -11137,7 +11075,7 @@
         ]
     },
     {
-        "id": "PTAMS00542",
+        "id": "PTAMS00564",
         "status": "draft",
         "diktyon": "33709",
         "manuscript": "Istanbul, Patriarchikê Bibliothêkê, Panaghia 64",
@@ -11296,7 +11234,7 @@
         ]
     },
     {
-        "id": "PTAMS00543",
+        "id": "PTAMS00565",
         "status": "draft",
         "diktyon": "66381",
         "manuscript": "Vaticano, Biblioteca Apostolica Vaticana (BAV), Reg. gr. Pio II 22",
@@ -11580,7 +11518,7 @@
         "images": "http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=32818",
         "iiif_manifest": "",
         "contents": [
-            "cpg:3642 BHG 1453-1459a"
+            "cpg:3642"
         ]
     },
     {
@@ -11853,6 +11791,87 @@
         "iiif_manifest": "",
         "contents": [
             "cpg:C18"
+        ]
+    },
+    {
+        "id": "PTAMS00290",
+        "status": "draft",
+        "diktyon": "47649",
+        "manuscript": "Oxford, Bodleian Library, Canon. gr. 99",
+        "settlement": "Oxford",
+        "repository": "Bodleian Library",
+        "collection": "Canon. gr.",
+        "idno": "99",
+        "origDate": "s. 16",
+        "origDate_notbefore": "1501-01-01",
+        "origDate_notafter": "1600-12-31",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "urn:cts:pta:pta0001.pta026",
+            "urn:cts:pta:pta0001.pta011",
+            "urn:cts:pta:pta0001.pta005",
+            "urn:cts:pta:pta0001.pta008",
+            "urn:cts:pta:pta0001.pta014",
+            "urn:cts:pta:pta0001.pta025"
+        ]
+    },
+    {
+        "id": "PTAMS00387",
+        "status": "draft",
+        "diktyon": "55434",
+        "manuscript": "Philadelphia, Free Library, Rare Book Department, Lewis Lewis E 156 (de Ricci 2)",
+        "settlement": "Philadelphia",
+        "repository": "Free Library, Rare Book Department",
+        "collection": "Lewis",
+        "idno": "Lewis E 156 (de Ricci 2)",
+        "origDate": "s. 11",
+        "origDate_notbefore": "1001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "http://openn.library.upenn.edu/Data/0023/html/lewis_e_156.html",
+        "iiif_manifest": "",
+        "contents": [
+            "urn:cts:pta:pta0001.pta026"
+        ]
+    },
+    {
+        "id": "PTAMS00473",
+        "status": "draft",
+        "diktyon": "67197",
+        "manuscript": "Vaticano, Biblioteca Apostolica Vaticana, Vat. gr. 566",
+        "settlement": "Vaticano",
+        "repository": "Biblioteca Apostolica Vaticana",
+        "collection": "Vat. gr.",
+        "idno": "566",
+        "origDate": "s. 11",
+        "origDate_notbefore": "1001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "urn:cts:pta:pta0001.pta026",
+            "urn:cts:pta:pta0001.pta045",
+            "urn:cts:pta:pta0001.pta046",
+            "urn:cts:pta:pta0001.pta047",
+            "urn:cts:pta:pta0001.pta048"
+        ]
+    },
+    {
+        "id": "PTAMS00577",
+        "status": "draft",
+        "diktyon": "44762",
+        "manuscript": "München, Bayerische Staatsbibliothek (BSB), Cod.graec. 314",
+        "settlement": "München",
+        "repository": "Bayerische Staatsbibliothek (BSB)",
+        "collection": "Cod.graec.",
+        "idno": "314",
+        "origDate": "s. 12 in.",
+        "origDate_notbefore": "1101-01-01",
+        "origDate_notafter": "1120-12-31",
+        "images": "https://www.digitale-sammlungen.de/de/view/bsb00050972",
+        "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00050972/manifest",
+        "contents": [
+            "urn:cts:pta:pta0007.pta012"
         ]
     }
 ]
