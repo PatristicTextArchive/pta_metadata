@@ -23,7 +23,6 @@
                 "grc": "ἡ ἐν Νικαίᾳ σύνοδος"
             }
         ],
-        "type": "synod",
         "date": "0325",
         "urns": [
             "pta0013.pta003.pta-deu1:g1",
@@ -77,7 +76,6 @@
                 "grc": "Ἀνόμοιοι, Εὐνομιανοί"
             }
         ],
-        "type": "faction",
         "date": "",
         "urns": [
             "pta0013.pta003.pta-grc1:g3"
@@ -107,7 +105,6 @@
                 "grc": "Ἀρειανοί, Ἀρειομανῖται"
             }
         ],
-        "type": "faction",
         "date": "",
         "urns": [
             "pta0013.pta003.pta-grc1:g4",
@@ -185,7 +182,6 @@
                 "grc": "Μακεδονιανοί, Πνευματομάχοι"
             }
         ],
-        "type": "faction",
         "date": "",
         "urns": [
             "pta0013.pta003.pta-grc1:g5"
@@ -211,7 +207,6 @@
                 "grc": "οἱ περὶ Εὐσέβιον"
             }
         ],
-        "type": "faction",
         "date": "",
         "urns": [
             "pta0022.pta003.pta-grc1:g2",
@@ -265,7 +260,6 @@
                 "grc": "Σαβελλιανοί, Σαβελλίζοντες, οἱ τὰ Σαβελλίου φρονοῦντες"
             }
         ],
-        "type": "faction",
         "date": "",
         "urns": [
             "pta0022.pta003.pta-grc1:g21",
@@ -280,6 +274,571 @@
             "Ἀρειανῶν",
             "τούς",
             "Σαβελλιανῶν"
+        ]
+    },
+    {
+        "org_id": "PTA_O00008",
+        "other_ids": [
+            {
+                "GND": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Jews"
+            },
+            {
+                "deu": "Juden"
+            },
+            {
+                "lat": "Judaei"
+            },
+            {
+                "grc": "Ἰουδαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g1",
+            "pta0003.pta020.pta-grcBibex3:g2",
+            "pta0003.pta020.pta-grcBibex3:g4",
+            "pta0003.pta020.pta-grcBibex3:g13",
+            "pta0003.pta020.pta-grcBibex3:g34",
+            "pta0003.pta020.pta-grcBibex3:g37",
+            "pta0003.pta020.pta-grcBibex3:g43",
+            "pta0003.pta020.pta-grcBibex3:g45",
+            "pta0003.pta020.pta-grcBibex3:g47",
+            "pta0003.pta020.pta-grcBibex3:g49",
+            "pta0003.pta020.pta-grcBibex3:g50",
+            "pta0003.pta020.pta-grcBibex3:g51",
+            "pta0003.pta020.pta-grcBibex3:g52",
+            "pta0003.pta020.pta-grcBibex3:g53",
+            "pta0003.pta020.pta-grcBibex3:g55",
+            "pta0003.pta020.pta-grcBibex3:g57",
+            "pta0003.pta020.pta-grcBibex3:g60",
+            "pta0003.pta020.pta-grcBibex3:g64",
+            "pta0003.pta020.pta-grcBibex3:g65",
+            "pta0003.pta020.pta-grcBibex3:g68",
+            "pta0003.pta020.pta-grcBibex3:g69",
+            "pta0003.pta020.pta-grcBibex3:g70",
+            "pta0003.pta020.pta-grcBibex3:g71",
+            "pta0003.pta020.pta-grcBibex3:g72",
+            "pta0003.pta020.pta-grcBibex3:g73",
+            "pta0003.pta020.pta-grcBibex3:g74",
+            "pta0003.pta020.pta-grcBibex3:g75",
+            "pta0003.pta020.pta-grcBibex3:g81",
+            "pta0003.pta020.pta-grcBibex3:g100",
+            "pta0003.pta020.pta-grcBibex3:g101",
+            "pta0003.pta020.pta-grcBibex3:g119",
+            "pta0003.pta020.pta-grcBibex3:g142",
+            "pta0003.pta020.pta-grcBibex3:g153"
+        ],
+        "name_txts": [
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00009",
+        "other_ids": [
+            {
+                "GND": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Hebrews"
+            },
+            {
+                "deu": "Hebräer"
+            },
+            {
+                "lat": "Hebraei"
+            },
+            {
+                "grc": "Ἑβραῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g66",
+            "pta0003.pta020.pta-grcBibex3:g84",
+            "pta0003.pta020.pta-grcBibex3:g88",
+            "pta0003.pta020.pta-grcBibex3:g148",
+            "pta0003.pta020.pta-grcBibex3:g162",
+            "pta0003.pta020.pta-grcBibex3:g163",
+            "pta0003.pta020.pta-grcBibex3:g164",
+            "pta0003.pta020.pta-grcBibex3:g168",
+            "pta0003.pta020.pta-grcBibex3:g177",
+            "pta0003.pta020.pta-grcBibex3:g184"
+        ],
+        "name_txts": [
+            "Ἑβραίου",
+            "Ἑβραίων",
+            "Ἑβραίοις",
+            "Ἑβραίων",
+            "Ἑβραίοις",
+            "Ἑβραίοις",
+            "Ἑβραίοις",
+            "Ἑβραίων",
+            "Ἑβραίοις",
+            "Ἑβραίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00010",
+        "other_ids": [
+            {
+                "GND": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Apostels"
+            },
+            {
+                "deu": "Apostel"
+            },
+            {
+                "lat": "Apostoli"
+            },
+            {
+                "grc": "Ἀπόστολοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g185"
+        ],
+        "name_txts": [
+            "ἀποστόλων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00011",
+        "other_ids": [
+            {
+                "GND": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Greeks, Pagans"
+            },
+            {
+                "deu": "Griechen, Heiden"
+            },
+            {
+                "lat": "Hellenes"
+            },
+            {
+                "grc": "Ἕλληνες"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g44",
+            "pta0003.pta020.pta-grcBibex3:g144"
+        ],
+        "name_txts": [
+            "Ἕλληνες",
+            "Ἕλλησι"
+        ]
+    },
+    {
+        "org_id": "PTA_O00012",
+        "other_ids": [
+            {
+                "GND": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Israel"
+            },
+            {
+                "deu": "Israeliten, Volk Israel"
+            },
+            {
+                "lat": "Israel"
+            },
+            {
+                "grc": "Ἰσραήλ"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g3",
+            "pta0003.pta020.pta-grcBibex3:g5",
+            "pta0003.pta020.pta-grcBibex3:g7",
+            "pta0003.pta020.pta-grcBibex3:g9",
+            "pta0003.pta020.pta-grcBibex3:g10",
+            "pta0003.pta020.pta-grcBibex3:g11",
+            "pta0003.pta020.pta-grcBibex3:g12",
+            "pta0003.pta020.pta-grcBibex3:g14",
+            "pta0003.pta020.pta-grcBibex3:g16",
+            "pta0003.pta020.pta-grcBibex3:g17",
+            "pta0003.pta020.pta-grcBibex3:g18",
+            "pta0003.pta020.pta-grcBibex3:g20",
+            "pta0003.pta020.pta-grcBibex3:g29",
+            "pta0003.pta020.pta-grcBibex3:g33",
+            "pta0003.pta020.pta-grcBibex3:g41",
+            "pta0003.pta020.pta-grcBibex3:g42",
+            "pta0003.pta020.pta-grcBibex3:g48",
+            "pta0003.pta020.pta-grcBibex3:g54",
+            "pta0003.pta020.pta-grcBibex3:g56",
+            "pta0003.pta020.pta-grcBibex3:g58",
+            "pta0003.pta020.pta-grcBibex3:g59",
+            "pta0003.pta020.pta-grcBibex3:g61",
+            "pta0003.pta020.pta-grcBibex3:g62",
+            "pta0003.pta020.pta-grcBibex3:g63",
+            "pta0003.pta020.pta-grcBibex3:g67",
+            "pta0003.pta020.pta-grcBibex3:g76",
+            "pta0003.pta020.pta-grcBibex3:g77",
+            "pta0003.pta020.pta-grcBibex3:g78",
+            "pta0003.pta020.pta-grcBibex3:g79",
+            "pta0003.pta020.pta-grcBibex3:g80",
+            "pta0003.pta020.pta-grcBibex3:g82",
+            "pta0003.pta020.pta-grcBibex3:g83",
+            "pta0003.pta020.pta-grcBibex3:g85",
+            "pta0003.pta020.pta-grcBibex3:g86",
+            "pta0003.pta020.pta-grcBibex3:g87",
+            "pta0003.pta020.pta-grcBibex3:g89",
+            "pta0003.pta020.pta-grcBibex3:g90",
+            "pta0003.pta020.pta-grcBibex3:g91",
+            "pta0003.pta020.pta-grcBibex3:g92",
+            "pta0003.pta020.pta-grcBibex3:g93",
+            "pta0003.pta020.pta-grcBibex3:g94",
+            "pta0003.pta020.pta-grcBibex3:g95",
+            "pta0003.pta020.pta-grcBibex3:g96",
+            "pta0003.pta020.pta-grcBibex3:g97",
+            "pta0003.pta020.pta-grcBibex3:g98",
+            "pta0003.pta020.pta-grcBibex3:g102",
+            "pta0003.pta020.pta-grcBibex3:g103",
+            "pta0003.pta020.pta-grcBibex3:g104",
+            "pta0003.pta020.pta-grcBibex3:g105",
+            "pta0003.pta020.pta-grcBibex3:g106",
+            "pta0003.pta020.pta-grcBibex3:g107",
+            "pta0003.pta020.pta-grcBibex3:g108",
+            "pta0003.pta020.pta-grcBibex3:g109",
+            "pta0003.pta020.pta-grcBibex3:g110",
+            "pta0003.pta020.pta-grcBibex3:g111",
+            "pta0003.pta020.pta-grcBibex3:g112",
+            "pta0003.pta020.pta-grcBibex3:g113",
+            "pta0003.pta020.pta-grcBibex3:g114",
+            "pta0003.pta020.pta-grcBibex3:g115",
+            "pta0003.pta020.pta-grcBibex3:g116",
+            "pta0003.pta020.pta-grcBibex3:g118",
+            "pta0003.pta020.pta-grcBibex3:g120",
+            "pta0003.pta020.pta-grcBibex3:g121",
+            "pta0003.pta020.pta-grcBibex3:g122",
+            "pta0003.pta020.pta-grcBibex3:g123",
+            "pta0003.pta020.pta-grcBibex3:g124",
+            "pta0003.pta020.pta-grcBibex3:g125",
+            "pta0003.pta020.pta-grcBibex3:g126",
+            "pta0003.pta020.pta-grcBibex3:g127",
+            "pta0003.pta020.pta-grcBibex3:g128",
+            "pta0003.pta020.pta-grcBibex3:g129",
+            "pta0003.pta020.pta-grcBibex3:g130",
+            "pta0003.pta020.pta-grcBibex3:g131",
+            "pta0003.pta020.pta-grcBibex3:g132",
+            "pta0003.pta020.pta-grcBibex3:g133",
+            "pta0003.pta020.pta-grcBibex3:g134",
+            "pta0003.pta020.pta-grcBibex3:g135",
+            "pta0003.pta020.pta-grcBibex3:g136",
+            "pta0003.pta020.pta-grcBibex3:g137",
+            "pta0003.pta020.pta-grcBibex3:g138",
+            "pta0003.pta020.pta-grcBibex3:g139",
+            "pta0003.pta020.pta-grcBibex3:g140",
+            "pta0003.pta020.pta-grcBibex3:g141",
+            "pta0003.pta020.pta-grcBibex3:g143",
+            "pta0003.pta020.pta-grcBibex3:g145",
+            "pta0003.pta020.pta-grcBibex3:g150",
+            "pta0003.pta020.pta-grcBibex3:g152",
+            "pta0003.pta020.pta-grcBibex3:g154",
+            "pta0003.pta020.pta-grcBibex3:g155",
+            "pta0003.pta020.pta-grcBibex3:g156",
+            "pta0003.pta020.pta-grcBibex3:g158",
+            "pta0003.pta020.pta-grcBibex3:g160",
+            "pta0003.pta020.pta-grcBibex3:g161",
+            "pta0003.pta020.pta-grcBibex3:g166",
+            "pta0003.pta020.pta-grcBibex3:g167",
+            "pta0003.pta020.pta-grcBibex3:g169",
+            "pta0003.pta020.pta-grcBibex3:g170",
+            "pta0003.pta020.pta-grcBibex3:g171",
+            "pta0003.pta020.pta-grcBibex3:g172",
+            "pta0003.pta020.pta-grcBibex3:g173",
+            "pta0003.pta020.pta-grcBibex3:g174",
+            "pta0003.pta020.pta-grcBibex3:g175",
+            "pta0003.pta020.pta-grcBibex3:g176",
+            "pta0003.pta020.pta-grcBibex3:g178",
+            "pta0003.pta020.pta-grcBibex3:g179",
+            "pta0003.pta020.pta-grcBibex3:g180",
+            "pta0003.pta020.pta-grcBibex3:g181",
+            "pta0003.pta020.pta-grcBibex3:g182",
+            "pta0003.pta020.pta-grcBibex3:g183"
+        ],
+        "name_txts": [
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "ἰσραηλῖται",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραηλίτας",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ"
+        ]
+    },
+    {
+        "org_id": "PTA_O00014",
+        "other_ids": [
+            {
+                "GND": "4084746-9"
+            },
+            {
+                "WIKIDATA": "Q1061510"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Egyptians"
+            },
+            {
+                "deu": "Ägypter"
+            },
+            {
+                "lat": "Aegypti"
+            },
+            {
+                "grc": "Αἰγύπτιοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g6",
+            "pta0003.pta020.pta-grcBibex3:g8",
+            "pta0003.pta020.pta-grcBibex3:g15",
+            "pta0003.pta020.pta-grcBibex3:g19",
+            "pta0003.pta020.pta-grcBibex3:g21",
+            "pta0003.pta020.pta-grcBibex3:g22",
+            "pta0003.pta020.pta-grcBibex3:g23",
+            "pta0003.pta020.pta-grcBibex3:g24",
+            "pta0003.pta020.pta-grcBibex3:g25",
+            "pta0003.pta020.pta-grcBibex3:g26",
+            "pta0003.pta020.pta-grcBibex3:g27",
+            "pta0003.pta020.pta-grcBibex3:g28",
+            "pta0003.pta020.pta-grcBibex3:g30",
+            "pta0003.pta020.pta-grcBibex3:g31",
+            "pta0003.pta020.pta-grcBibex3:g32",
+            "pta0003.pta020.pta-grcBibex3:g35",
+            "pta0003.pta020.pta-grcBibex3:g36",
+            "pta0003.pta020.pta-grcBibex3:g38",
+            "pta0003.pta020.pta-grcBibex3:g39",
+            "pta0003.pta020.pta-grcBibex3:g40",
+            "pta0003.pta020.pta-grcBibex3:g117",
+            "pta0003.pta020.pta-grcBibex3:g146",
+            "pta0003.pta020.pta-grcBibex3:g147",
+            "pta0003.pta020.pta-grcBibex3:g149",
+            "pta0003.pta020.pta-grcBibex3:g151",
+            "pta0003.pta020.pta-grcBibex3:g157",
+            "pta0003.pta020.pta-grcBibex3:g159",
+            "pta0003.pta020.pta-grcBibex3:g165"
+        ],
+        "name_txts": [
+            "Αἰγυπτίων",
+            "Αἰγυπτίους",
+            "Αἰγυπτίων",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίων",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίων",
+            "Αἰγυπτίους",
+            "Αἰγυπτίων",
+            "Αἰγυπτίους",
+            "Αἰγύπτιοι",
+            "Αἰγύπτιοι",
+            "Αἰγυπτίων",
+            "Αἰγυπτίους",
+            "Αἰγυπτίων",
+            "Αἰγυπτίων",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίους",
+            "Αἰγυπτίων",
+            "Αἰγυπτίων",
+            "Αἰγυπτίων",
+            "Αἰγυπτίους",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίους",
+            "Αἰγυπτίων",
+            "Αἰγυπτίοις",
+            "Αἰγύπτιοι",
+            "Αἰγυπτίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00015",
+        "other_ids": [
+            {
+                "GND": "4122633-1"
+            },
+            {
+                "WIKIDATA": "Q1651392"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Romans"
+            },
+            {
+                "deu": "Römer"
+            },
+            {
+                "lat": "Romani"
+            },
+            {
+                "grc": "Ῥωμαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta020.pta-grcBibex3:g46",
+            "pta0003.pta020.pta-grcBibex3:g99"
+        ],
+        "name_txts": [
+            "Ῥωμαίων",
+            "Ῥωμαίων"
         ]
     }
 ]

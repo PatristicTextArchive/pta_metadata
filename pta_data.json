@@ -5647,10 +5647,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0003/pta020/pta0003.pta020.pta-grcBibex1.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/afb13896d701cf8257d4b6009ba4ad92cc04bbd4/data/pta0003/pta020/pta0003.pta020.pta-grcBibex1.xml",
-                                "dc:date": "2021-08-14",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0003/pta020/pta0003.pta020.pta-grcBibex1.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften / Sergey Kim (Editor), Berlin-Brandenburgische Akademie der Wissenschaften / Benjamin Gleede (Editor) / Magali Coullet (Editor), Eusebius Caesariensis: Commentarii in Psalmos (Tom. I: Ps 1–50). Patristic Text Archive 2020. Version: afb13896, committed on 2021-08-14, https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020.pta-grcBibex1.",
+                                "dct:bibliographicCitation": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften / Sergey Kim (Editor), Berlin-Brandenburgische Akademie der Wissenschaften / Benjamin Gleede (Editor) / Magali Coullet (Editor), Eusebius Caesariensis: Commentarii in Psalmos (Tom. I: Ps 1–50). Patristic Text Archive 2020. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020.pta-grcBibex1.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -5721,10 +5721,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0003/pta020/pta0003.pta020.pta-grcBibex3.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/afb13896d701cf8257d4b6009ba4ad92cc04bbd4/data/pta0003/pta020/pta0003.pta020.pta-grcBibex3.xml",
-                                "dc:date": "2021-08-14",
-                                "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Franz Xaver Risch (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Eusebius Caesariensis: Commentarii in Psalmos (Tom. III: Ps 101–150). Patristic Text Archive 2020. Version: afb13896, committed on 2021-08-14, https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020.pta-grcBibex3.",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/d049f3a1a810504fe5b890a3213901054f1a7364/data/pta0003/pta020/pta0003.pta020.pta-grcBibex3.xml",
+                                "dc:date": "2022-10-10",
+                                "dct:dateCopyrighted": "2022",
+                                "dct:bibliographicCitation": "Franz Xaver Risch (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Eusebius Caesariensis: Commentarii in Psalmos (Tom. III: Ps 101–150). Patristic Text Archive 2022. Version: d049f3a1, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020.pta-grcBibex3.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         }
@@ -5795,6 +5795,43 @@
                     },
                     "ti:edition": [
                         {
+                            "@urn": "urn:cts:pta:pta0004.pta001.pta-grcBibex",
+                            "@workUrn": "urn:cts:pta:pta0004.pta001",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Theodoretus, Interpretatio in Danielem"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Philip Schmitz (Editor)"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Theodoretus, Interpretatio in Danielem",
+                                "dc:creator": null,
+                                "dct:source": "Philip Schmitz (Editor)",
+                                "dc:contributor": "Philip Schmitz",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
+                                "dc:date": "2022-10-10",
+                                "dct:dateCopyrighted": "2020",
+                                "dct:bibliographicCitation": "Philip Schmitz (Editor), Theodoretus, Interpretatio in Danielem. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-grcBibex.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
                             "@urn": "urn:cts:pta:pta0004.pta001.pta-MsA",
                             "@workUrn": "urn:cts:pta:pta0004.pta001",
                             "ti:label": {
@@ -5824,10 +5861,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsA.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsA.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsA.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms A). Transcribed from Roma, Biblioteca Angelica, gr. 76 (PTAMS00556) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsA.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms A). Transcribed from Roma, Biblioteca Angelica, gr. 76 (PTAMS00556) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsA.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -5861,10 +5898,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsB.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsB.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsB.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms B). Transcribed from Bologna, Biblioteca Universitaria, gr. 2373 (PTAMS00544) by Sophia Luise Häberle / Yan Jin / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsB.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms B). Transcribed from Bologna, Biblioteca Universitaria, gr. 2373 (PTAMS00544) by Sophia Luise Häberle / Yan Jin / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsB.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -5884,7 +5921,7 @@
                                 "dc:title": "Theodoretus, Interpretatio in Danielem (Ms C)",
                                 "dc:creator": null,
                                 "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00559",
-                                "dc:contributor": "Sophia Luise Häberle / Philip Schmitz",
+                                "dc:contributor": "Sophia Luise Häberle / Philip Schmitz / Mathias Berger",
                                 "dc:publisher": [
                                     {
                                         "@xml:lang": "eng",
@@ -5898,10 +5935,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsC.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsC.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsC.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms C). Transcribed from Vaticano, Biblioteca Apostolica Vaticana, gr. 1887 (PTAMS00559) by Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsC.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms C). Transcribed from Vaticano, Biblioteca Apostolica Vaticana, gr. 1887 (PTAMS00559) by Sophia Luise Häberle / Philip Schmitz / Mathias Berger. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsC.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -5921,7 +5958,7 @@
                                 "dc:title": "Theodoretus, Interpretatio in Danielem (Ms E)",
                                 "dc:creator": null,
                                 "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00557",
-                                "dc:contributor": "Sonja Dorau / Sophia Luise Häberle / Philip Schmitz",
+                                "dc:contributor": "Sonja Dorau / Sophia Luise Häberle / Yan Jin / Philip Schmitz",
                                 "dc:publisher": [
                                     {
                                         "@xml:lang": "eng",
@@ -5935,10 +5972,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsE.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsE.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsE.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms E). Transcribed from Vaticano, Biblioteca Apostolica Vaticana, gr. 621 (PTAMS00557) by Sonja Dorau / Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsE.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms E). Transcribed from Vaticano, Biblioteca Apostolica Vaticana, gr. 621 (PTAMS00557) by Sonja Dorau / Sophia Luise Häberle / Yan Jin / Philip Schmitz. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsE.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -5972,10 +6009,47 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsF.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsF.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsF.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms F). Transcribed from Firenze, Biblioteca Medicea Laurenziana, Plut. 11.03 (PTAMS00547) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsF.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms F). Transcribed from Firenze, Biblioteca Medicea Laurenziana, Plut. 11.03 (PTAMS00547) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsF.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
+                            "@urn": "urn:cts:pta:pta0004.pta001.pta-MsH",
+                            "@workUrn": "urn:cts:pta:pta0004.pta001",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Theodoretus, Interpretatio in Danielem (Ms H)"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Oxford, Bodleian Library, Holkham gr. 48 (PTAMS00554)"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Theodoretus, Interpretatio in Danielem (Ms H)",
+                                "dc:creator": null,
+                                "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00554",
+                                "dc:contributor": "Mathias Berger / Philip Schmitz",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsH.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsH.xml",
+                                "dc:date": "2022-10-10",
+                                "dct:dateCopyrighted": "2020",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms H). Transcribed from Oxford, Bodleian Library, Holkham gr. 48 (PTAMS00554) by Mathias Berger / Philip Schmitz. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsH.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -6009,10 +6083,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsI.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsI.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsI.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms I). Transcribed from Hagion Oros, Monê Ibêrôn, 1316 (Lambros 5436) (PTAMS00549) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsI.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms I). Transcribed from Hagion Oros, Monê Ibêrôn, 1316 (Lambros 5436) (PTAMS00549) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsI.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -6046,10 +6120,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsM.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsM.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsM.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms M). Transcribed from München, Bayerische Staatsbibliothek, Cod.graec. 117 (PTAMS00551) by Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsM.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms M). Transcribed from München, Bayerische Staatsbibliothek, Cod.graec. 117 (PTAMS00551) by Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsM.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -6083,30 +6157,30 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsP.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsP.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsP.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms P). Transcribed from Paris, Paris, Bibliothèque nationale de France, Grec 1049 (PTAMS00555) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsP.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms P). Transcribed from Paris, Paris, Bibliothèque nationale de France, Grec 1049 (PTAMS00555) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsP.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
                         {
-                            "@urn": "urn:cts:pta:pta0004.pta001.pta-MsW",
+                            "@urn": "urn:cts:pta:pta0004.pta001.pta-MsU",
                             "@workUrn": "urn:cts:pta:pta0004.pta001",
                             "ti:label": {
                                 "@xml:lang": "eng",
-                                "#text": "Theodoretus, Interpretatio in Danielem (Ms W)"
+                                "#text": "Theodoretus, Interpretatio in Danielem (Ms U)"
                             },
                             "ti:description": {
                                 "@xml:lang": "eng",
-                                "#text": "Wien, Österreichische Nationalbibliothek, theol. gr. 36 (PTAMS00561)"
+                                "#text": "Hagion Oros, Monê Batopediou, 600 (PTAMS00563)"
                             },
                             "cpt:structured-metadata": {
                                 "@xml:lang": "deu",
-                                "dc:title": "Theodoretus, Interpretatio in Danielem (Ms W)",
+                                "dc:title": "Theodoretus, Interpretatio in Danielem (Ms U)",
                                 "dc:creator": null,
-                                "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00561",
-                                "dc:contributor": "Mathias Berger / Sophia Luise Häberle / Philip Schmitz",
+                                "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00563",
+                                "dc:contributor": "Eleni Pappa",
                                 "dc:publisher": [
                                     {
                                         "@xml:lang": "eng",
@@ -6119,11 +6193,11 @@
                                 ],
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsW.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsW.xml",
-                                "dc:date": "2021-11-25",
-                                "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms W). Transcribed from Wien, Österreichische Nationalbibliothek, theol. gr. 36 (PTAMS00561) by Mathias Berger / Sophia Luise Häberle / Philip Schmitz. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsW.",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsU.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsU.xml",
+                                "dc:date": "2022-10-10",
+                                "dct:dateCopyrighted": "2016",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms U). Transcribed from Hagion Oros, Monê Batopediou, 600 (PTAMS00563) by Eleni Pappa. Patristic Text Archive 2016. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsU.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -6157,30 +6231,30 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsV.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-MsV.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsV.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms V). Transcribed from Vaticano, Biblioteca Apostolica Vaticana, gr. 675 (PTAMS00558) by Yan Jin / Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsV.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms V). Transcribed from Vaticano, Biblioteca Apostolica Vaticana, gr. 675 (PTAMS00558) by Yan Jin / Sophia Luise Häberle / Philip Schmitz / Jennifer Teichmann. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsV.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
                         {
-                            "@urn": "urn:cts:pta:pta0004.pta001.pta-grcBibex",
+                            "@urn": "urn:cts:pta:pta0004.pta001.pta-MsW",
                             "@workUrn": "urn:cts:pta:pta0004.pta001",
                             "ti:label": {
                                 "@xml:lang": "eng",
-                                "#text": "Theodoretus, Interpretatio in Danielem"
+                                "#text": "Theodoretus, Interpretatio in Danielem (Ms W)"
                             },
                             "ti:description": {
                                 "@xml:lang": "eng",
-                                "#text": "Philip Schmitz (Editor)"
+                                "#text": "Wien, Österreichische Nationalbibliothek, theol. gr. 36 (PTAMS00561)"
                             },
                             "cpt:structured-metadata": {
                                 "@xml:lang": "deu",
-                                "dc:title": "Theodoretus, Interpretatio in Danielem",
+                                "dc:title": "Theodoretus, Interpretatio in Danielem (Ms W)",
                                 "dc:creator": null,
-                                "dct:source": "Philip Schmitz (Editor)",
-                                "dc:contributor": "Philip Schmitz",
+                                "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00561",
+                                "dc:contributor": "Mathias Berger / Sophia Luise Häberle / Yan Jin / Philip Schmitz",
                                 "dc:publisher": [
                                     {
                                         "@xml:lang": "eng",
@@ -6193,11 +6267,11 @@
                                 ],
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
-                                "dc:date": "2021-11-25",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-MsW.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-MsW.xml",
+                                "dc:date": "2022-10-10",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Philip Schmitz (Editor), Theodoretus, Interpretatio in Danielem. Patristic Text Archive 2020. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-grcBibex.",
+                                "dct:bibliographicCitation": "Theodoretus, Interpretatio in Danielem (Ms W). Transcribed from Wien, Österreichische Nationalbibliothek, theol. gr. 36 (PTAMS00561) by Mathias Berger / Sophia Luise Häberle / Yan Jin / Philip Schmitz. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-MsW.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         }
@@ -6394,10 +6468,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0007/pta007/pta0007.pta007.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0007/pta007/pta0007.pta007.pta-grc1.xml",
-                            "dc:date": "2021-11-25",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0007/pta007/pta0007.pta007.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "1899",
-                            "dct:bibliographicCitation": "Origenes: Exhortatio ad martyrium, edited according to Paul Koetschau (ed.), Origenes Werke 1. Leipzig, 1899, 3–47. Patristic Text Archive 2018. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007.pta-grc1.",
+                            "dct:bibliographicCitation": "Origenes: Exhortatio ad martyrium, edited according to Paul Koetschau (ed.), Origenes Werke 1. Leipzig, 1899, 3–47. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007.pta-grc1.",
                             "dct:isPartOf": "GCS-Retrodigitalisate"
                         }
                     }
@@ -6698,6 +6772,43 @@
                     },
                     "ti:edition": [
                         {
+                            "@urn": "urn:cts:pta:pta0013.pta003.pta-grc1",
+                            "@workUrn": "urn:cts:pta:pta0013.pta003",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Amphilochius Iconiensis: Epistula synodalis"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Annette von Stockhausen (Editor)"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Amphilochius Iconiensis: Epistula synodalis",
+                                "dc:creator": "Amphilochius Iconiensis",
+                                "dct:source": "Annette von Stockhausen (Editor)",
+                                "dc:contributor": null,
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0013/pta003/pta0013.pta003.pta-grc1.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0013/pta003/pta0013.pta003.pta-grc1.xml",
+                                "dc:date": "2022-10-10",
+                                "dct:dateCopyrighted": "2019",
+                                "dct:bibliographicCitation": "Amphilochius Iconiensis: Epistula synodalis, edited according to Annette von Stockhausen (Editor). Patristic Text Archive 2019. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003.pta-grc1.",
+                                "dct:isPartOf": null
+                            }
+                        },
+                        {
                             "@urn": "urn:cts:pta:pta0013.pta003.pta-MsLa",
                             "@workUrn": "urn:cts:pta:pta0013.pta003",
                             "ti:label": {
@@ -6844,43 +6955,6 @@
                                 "dct:bibliographicCitation": "Amphilochius Iconiensis: Epistula synodalis (Ms Vi). Transcribed from Wien, Österreichische Nationalbibliothek, theol. gr. 190 () by Annette von Stockhausen. Patristic Text Archive 2019. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003.pta-MsVi.",
                                 "dct:isPartOf": null
                             }
-                        },
-                        {
-                            "@urn": "urn:cts:pta:pta0013.pta003.pta-grc1",
-                            "@workUrn": "urn:cts:pta:pta0013.pta003",
-                            "ti:label": {
-                                "@xml:lang": "eng",
-                                "#text": "Amphilochius Iconiensis: Epistula synodalis"
-                            },
-                            "ti:description": {
-                                "@xml:lang": "eng",
-                                "#text": "Annette von Stockhausen (Editor)"
-                            },
-                            "cpt:structured-metadata": {
-                                "@xml:lang": "deu",
-                                "dc:title": "Amphilochius Iconiensis: Epistula synodalis",
-                                "dc:creator": "Amphilochius Iconiensis",
-                                "dct:source": "Annette von Stockhausen (Editor)",
-                                "dc:contributor": null,
-                                "dc:publisher": [
-                                    {
-                                        "@xml:lang": "eng",
-                                        "#text": "Patristic Text Archive (BBAW)"
-                                    },
-                                    {
-                                        "@xml:lang": "deu",
-                                        "#text": "Patristisches Textarchiv (BBAW)"
-                                    }
-                                ],
-                                "dc:format": "application/tei+xml",
-                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0013/pta003/pta0013.pta003.pta-grc1.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/99660d11159e345ec14c2c53eb4799ebe00f2038/data/pta0013/pta003/pta0013.pta003.pta-grc1.xml",
-                                "dc:date": "2022-07-08",
-                                "dct:dateCopyrighted": "2019",
-                                "dct:bibliographicCitation": "Amphilochius Iconiensis: Epistula synodalis, edited according to Annette von Stockhausen (Editor). Patristic Text Archive 2019. Version: 99660d11, committed on 2022-07-08, https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003.pta-grc1.",
-                                "dct:isPartOf": null
-                            }
                         }
                     ]
                 }
@@ -6977,10 +7051,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta003/pta0022.pta003.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/99660d11159e345ec14c2c53eb4799ebe00f2038/data/pta0022/pta003/pta0022.pta003.pta-grc1.xml",
-                            "dc:date": "2022-07-08",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta003/pta0022.pta003.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "1935 1935",
-                            "dct:bibliographicCitation": "Athanasius\n                        Alexandrinus: De decretis Nicaenae\n                    synodi, edited according to Hans-Georg Opitz/Hans-Georg Opitz (ed.), Athanasius Werke. Band 2: Die Apologien.\n                        Lieferung 1: De decretis Nicaenae synodi\n                        1,4–40,24. Athanasius Werke. Band 2: Die Apologien.\n                        Lieferung 2: De decretis Nicaenae synodi 40,24\n                        – Apologia de fuga sua 18,3. Berlin/Leipzig Berlin/Leipzig 1935 1935, 1–40 41–80. Patristic Text Archive 2022. Version: 99660d11, committed on 2022-07-08, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius\n                        Alexandrinus: De decretis Nicaenae\n                    synodi, edited according to Hans-Georg Opitz/Hans-Georg Opitz (ed.), Athanasius Werke. Band 2: Die Apologien.\n                        Lieferung 1: De decretis Nicaenae synodi\n                        1,4–40,24. Athanasius Werke. Band 2: Die Apologien.\n                        Lieferung 2: De decretis Nicaenae synodi 40,24\n                        – Apologia de fuga sua 18,3. Berlin/Leipzig Berlin/Leipzig 1935 1935, 1–40 41–80. Patristic Text Archive 2022. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7106,10 +7180,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta010/pta0022.pta010.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/99660d11159e345ec14c2c53eb4799ebe00f2038/data/pta0022/pta010/pta0022.pta010.pta-grc1.xml",
-                            "dc:date": "2022-07-08",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta010/pta0022.pta010.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2006",
-                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Apologia ad Constantium, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 279–309. Patristic Text Archive 2018. Version: 99660d11, committed on 2022-07-08, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Apologia ad Constantium, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 279–309. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7169,10 +7243,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta011/pta0022.pta011.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0022/pta011/pta0022.pta011.pta-grc1.xml",
-                            "dc:date": "2021-11-25",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta011/pta0022.pta011.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2006",
-                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Ioannem et Antiochum, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 310–311. Patristic Text Archive 2018. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Ioannem et Antiochum, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 310–311. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7232,10 +7306,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta012/pta0022.pta012.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0022/pta012/pta0022.pta012.pta-grc1.xml",
-                            "dc:date": "2021-11-25",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta012/pta0022.pta012.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2006",
-                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Palladium, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 312–313. Patristic Text Archive 2018. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Palladium, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 312–313. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7295,10 +7369,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta013/pta0022.pta013.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0022/pta013/pta0022.pta013.pta-grc1.xml",
-                            "dc:date": "2021-11-25",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta013/pta0022.pta013.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2006",
-                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Dracontium, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 314–321. Patristic Text Archive 2018. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta013.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Dracontium, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 314–321. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta013.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7358,10 +7432,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta014/pta0022.pta014.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0022/pta014/pta0022.pta014.pta-grc1.xml",
-                            "dc:date": "2021-11-25",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta014/pta0022.pta014.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2006",
-                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Afros, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 322–339. Patristic Text Archive 2018. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta014.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Afros, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 322–339. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta014.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7484,10 +7558,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0022/pta016/pta0022.pta016.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9970133a6ba49f1a791e220ce556ae59e377a328/data/pta0022/pta016/pta0022.pta016.pta-grc1.xml",
-                            "dc:date": "2021-11-25",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0022/pta016/pta0022.pta016.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2006",
-                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Jovianum, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 352–356. Patristic Text Archive 2018. Version: 9970133a, committed on 2021-11-25, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta016.pta-grc1.",
+                            "dct:bibliographicCitation": "Athanasius Alexandrinus: Epistula ad Jovianum, edited according to Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York 2006, 352–356. Patristic Text Archive 2018. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta016.pta-grc1.",
                             "dct:isPartOf": null
                         }
                     }
@@ -7648,10 +7722,10 @@
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-nc-sa/3.0/deed.de",
                             "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0036/pta001/pta0036.pta001.pta-grc1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/13b5a16ea53d4f52375590c8eb97493fae7bdd15/data/pta0036/pta001/pta0036.pta001.pta-grc1.xml",
-                            "dc:date": "2022-07-08",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/9d05b6882ed19fc620f42599d13b6cd2bbff423c/data/pta0036/pta001/pta0036.pta001.pta-grc1.xml",
+                            "dc:date": "2022-10-10",
                             "dct:dateCopyrighted": "2002",
-                            "dct:bibliographicCitation": "Anonymus Cyzicenus: Historia ecclesiastica, edited according to Günther Christian Hansen (ed.), Anonyme Kirchengeschichte (Gelasius Cyzicenus, CPG 6034). Berlin; New York, 2002. Patristic Text Archive 2019. Version: 13b5a16e, committed on 2022-07-08, https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001.pta-grc1.",
+                            "dct:bibliographicCitation": "Anonymus Cyzicenus: Historia ecclesiastica, edited according to Günther Christian Hansen (ed.), Anonyme Kirchengeschichte (Gelasius Cyzicenus, CPG 6034). Berlin; New York, 2002. Patristic Text Archive 2019. Version: 9d05b688, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001.pta-grc1.",
                             "dct:isPartOf": "GCS-Retrodigitalisate"
                         }
                     }

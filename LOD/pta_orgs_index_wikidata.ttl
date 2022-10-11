@@ -1,10 +1,14 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<https://www.wikidata.org/wiki/Q1061510> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00014> .
+
 <https://www.wikidata.org/wiki/Q1194032> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00002> .
 
 <https://www.wikidata.org/wiki/Q1293300> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00006> .
 
 <https://www.wikidata.org/wiki/Q133331> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00001> .
+
+<https://www.wikidata.org/wiki/Q1651392> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00015> .
 
 <https://www.wikidata.org/wiki/Q398180> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00004> .
 

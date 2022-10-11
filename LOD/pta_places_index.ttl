@@ -1,6 +1,10 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<https://pleiades.stoa.org/places/1001133> rdfs:seeAlso <https://pta.bbaw.de/place/1001133> .
+
 <https://pleiades.stoa.org/places/1001896> rdfs:seeAlso <https://pta.bbaw.de/place/1001896> .
+
+<https://pleiades.stoa.org/places/1001940> rdfs:seeAlso <https://pta.bbaw.de/place/1001940> .
 
 <https://pleiades.stoa.org/places/1001943> rdfs:seeAlso <https://pta.bbaw.de/place/1001943> .
 
@@ -51,6 +55,8 @@
 <https://pleiades.stoa.org/places/383815> rdfs:seeAlso <https://pta.bbaw.de/place/383815> .
 
 <https://pleiades.stoa.org/places/383816> rdfs:seeAlso <https://pta.bbaw.de/place/383816> .
+
+<https://pleiades.stoa.org/places/39290> rdfs:seeAlso <https://pta.bbaw.de/place/39290> .
 
 <https://pleiades.stoa.org/places/39303> rdfs:seeAlso <https://pta.bbaw.de/place/39303> .
 
@@ -114,6 +120,8 @@
 
 <https://pleiades.stoa.org/places/668332> rdfs:seeAlso <https://pta.bbaw.de/place/668332> .
 
+<https://pleiades.stoa.org/places/678054> rdfs:seeAlso <https://pta.bbaw.de/place/678054> .
+
 <https://pleiades.stoa.org/places/678060> rdfs:seeAlso <https://pta.bbaw.de/place/678060> .
 
 <https://pleiades.stoa.org/places/678084> rdfs:seeAlso <https://pta.bbaw.de/place/678084> .
@@ -121,6 +129,8 @@
 <https://pleiades.stoa.org/places/678106> rdfs:seeAlso <https://pta.bbaw.de/place/678106> .
 
 <https://pleiades.stoa.org/places/678109> rdfs:seeAlso <https://pta.bbaw.de/place/678109> .
+
+<https://pleiades.stoa.org/places/678143> rdfs:seeAlso <https://pta.bbaw.de/place/678143> .
 
 <https://pleiades.stoa.org/places/678145> rdfs:seeAlso <https://pta.bbaw.de/place/678145> .
 
@@ -133,6 +143,8 @@
 <https://pleiades.stoa.org/places/678369> rdfs:seeAlso <https://pta.bbaw.de/place/678369> .
 
 <https://pleiades.stoa.org/places/678370> rdfs:seeAlso <https://pta.bbaw.de/place/678370> .
+
+<https://pleiades.stoa.org/places/678403> rdfs:seeAlso <https://pta.bbaw.de/place/678403> .
 
 <https://pleiades.stoa.org/places/678431> rdfs:seeAlso <https://pta.bbaw.de/place/678431> .
 
@@ -204,6 +216,8 @@
 
 <https://pleiades.stoa.org/places/746711> rdfs:seeAlso <https://pta.bbaw.de/place/746711> .
 
+<https://pleiades.stoa.org/places/746745> rdfs:seeAlso <https://pta.bbaw.de/place/746745> .
+
 <https://pleiades.stoa.org/places/746815> rdfs:seeAlso <https://pta.bbaw.de/place/746815> .
 
 <https://pleiades.stoa.org/places/766> rdfs:seeAlso <https://pta.bbaw.de/place/766> .
@@ -223,6 +237,8 @@
 <https://pleiades.stoa.org/places/786131> rdfs:seeAlso <https://pta.bbaw.de/place/786131> .
 
 <https://pleiades.stoa.org/places/857287> rdfs:seeAlso <https://pta.bbaw.de/place/857287> .
+
+<https://pleiades.stoa.org/places/857932176> rdfs:seeAlso <https://pta.bbaw.de/place/857932176> .
 
 <https://pleiades.stoa.org/places/874334> rdfs:seeAlso <https://pta.bbaw.de/place/874334> .
 
@@ -267,4 +283,6 @@
 <https://pleiades.stoa.org/places/992077> rdfs:seeAlso <https://pta.bbaw.de/place/992077> .
 
 <https://pleiades.stoa.org/places/993> rdfs:seeAlso <https://pta.bbaw.de/place/993> .
+
+<https://pleiades.stoa.org/places/XXXXXX> rdfs:seeAlso <https://pta.bbaw.de/place/XXXXXX> .
 

@@ -12,6 +12,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/11922> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00052> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/11924> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00588> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/11925> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00053> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/12022> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00054> .

@@ -18,7 +18,8 @@
 
 <http://d-nb.info/gnd/102393176> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00030> .
 
-<http://d-nb.info/gnd/102406960> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00007> .
+<http://d-nb.info/gnd/102406960> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00007>,
+        <https://pta.bbaw.de/person/PTA_P00045> .
 
 <http://d-nb.info/gnd/102407835> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00035> .
 
@@ -30,6 +31,8 @@
 <http://d-nb.info/gnd/1157159761> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00004> .
 
 <http://d-nb.info/gnd/118501828> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00008> .
+
+<http://d-nb.info/gnd/118503758> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00044> .
 
 <http://d-nb.info/gnd/118504843> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00015> .
 
@@ -66,4 +69,6 @@
 <http://d-nb.info/gnd/119163977> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00020> .
 
 <http://d-nb.info/gnd/119221616> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00027> .
+
+<http://d-nb.info/gnd/119269171> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00046> .
 
