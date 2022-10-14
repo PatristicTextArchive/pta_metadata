@@ -1,13 +1,5 @@
 [
   {
-    "@id": "https://www.wikidata.org/wiki/Q142999",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003"
-      }
-    ]
-  },
-  {
     "@id": "https://www.wikidata.org/wiki/Q44079",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -24,22 +16,6 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q317029",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q44024",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022"
-      }
-    ]
-  },
-  {
     "@id": "https://www.wikidata.org/wiki/Q170472",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -48,10 +24,18 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q474872",
+    "@id": "https://www.wikidata.org/wiki/Q207113",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0037"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q44024",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022"
       }
     ]
   },
@@ -72,10 +56,26 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q207113",
+    "@id": "https://www.wikidata.org/wiki/Q142999",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0037"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q317029",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q474872",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013"
       }
     ]
   }

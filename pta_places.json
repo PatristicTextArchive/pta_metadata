@@ -503,11 +503,15 @@
         ],
         "urns": [
             "pta0001.pta019.pta-grc1:l3",
-            "pta0001.pta019.pta-grc1:l4"
+            "pta0001.pta019.pta-grc1:l4",
+            "pta0005.pta001.pta-deuBibex:l43",
+            "pta0005.pta001.pta-deuBibex:l44"
         ],
         "orig_name": [
             "Βεθὴλ",
-            "Βεθήλ"
+            "Βεθήλ",
+            "Bethel",
+            "Bethel"
         ]
     },
     {
@@ -1506,6 +1510,29 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/658427",
+        "canonical": "Carrhae",
+        "description": "Carrhae is a major settlement of Upper Mesopotamia from the Bronze Age onward. The earliest mentions of the site are found in the Ebla tablets (ca. 2300 B.C.). Notably the location of the Battle of Carrhae between the Roman Republic and Parthian Empire in 53 B.C., which proved to be a devastating defeat for the Romans. Modern-day Ḥarrān, Turkey.",
+        "coordinates": [
+            39.03003798386943,
+            36.86457797605201
+        ],
+        "bbox": [
+            39.0280427,
+            36.8611325,
+            39.0315979,
+            36.866351
+        ],
+        "urns": [
+            "pta0005.pta001.pta-deuBibex:l22",
+            "pta0005.pta001.pta-deuBibex:l23"
+        ],
+        "orig_name": [
+            "Harran",
+            "Harran"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/668190",
         "canonical": "Antarados/Constantia",
         "description": "An ancient place, cited: BAtlas 68 A4 Antarados/Constantia",
@@ -1806,11 +1833,13 @@
         "urns": [
             "pta0001.pta007.pta-grc1:l14",
             "pta0001.pta007.pta-grc1:l16",
+            "pta0005.pta001.pta-deuBibex:l2",
             "pta0037.pta001.pta-grc1:l131"
         ],
         "orig_name": [
             "Σαμαρείας",
             "Σαμαρείας",
+            "Samaria",
             "Σαμαρείας"
         ]
     },
@@ -2115,10 +2144,6 @@
             "pta0001.pta017.pta-grc1:l6",
             "pta0001.pta025.pta-grc1:l1",
             "pta0001.pta026.pta-grc1:l1",
-            "pta0003.pta020.pta-grcBibex2:l11",
-            "pta0003.pta020.pta-grcBibex2:l13",
-            "pta0003.pta020.pta-grcBibex2:l15",
-            "pta0003.pta020.pta-grcBibex2:l17",
             "pta0003.pta020.pta-grcBibex3:l1",
             "pta0003.pta020.pta-grcBibex3:l2",
             "pta0003.pta020.pta-grcBibex3:l3",
@@ -2278,6 +2303,11 @@
             "pta0004.pta001.pta-grcBibex:l78",
             "pta0004.pta001.pta-grcBibex:l79",
             "pta0004.pta001.pta-grcBibex:l85",
+            "pta0005.pta001.pta-deuBibex:l3",
+            "pta0005.pta001.pta-deuBibex:l65",
+            "pta0005.pta001.pta-deuBibex:l67",
+            "pta0005.pta001.pta-deuBibex:l68",
+            "pta0005.pta001.pta-deuBibex:l69",
             "pta0007.pta007.pta-grc1:l1",
             "pta0022.pta011.pta-grc1:l1",
             "pta0022.pta014.pta-grc1:l52",
@@ -2360,10 +2390,6 @@
             "Ἱεροσόλυμα",
             "Ἱερουσαλὴμ",
             "Ἱερουσαλὴμ",
-            "Σιών",
-            "Σιὼν",
-            "Σιών",
-            "Σιὼν",
             "Ἱερουσαλὴμ",
             "Σιών",
             "Σιών",
@@ -2523,6 +2549,11 @@
             "\nἱερουσαλήμ·\nἰερουσαλήμ\nϊερουσαλήμ\n",
             "\nἱερουσαλὴμ\nἱερουσαλήμ\nἰερουσαλὴμι\n",
             "\nἱεροσολύμοις\nϊεροσολύμοις\n",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
             "Ἱεροσόλυμα",
             "Ἱεροσολύμων",
             "Σιὼν",
@@ -2570,8 +2601,8 @@
             "pta0001.pta005.pta-grc1:l5"
         ],
         "orig_name": [
-            "\nἸόππην\nἸόπην\n",
-            "\nἸόππης\nἸόππης\n",
+            "\nἸόππην\nἸόπην\n\n",
+            "\nἸόππης\nἸόππης\n\n",
             "Ἰόππῃ",
             "Ἰόππην"
         ]
@@ -2640,11 +2671,6 @@
             "pta0001.pta007.pta-grc1:l13",
             "pta0001.pta008.pta-grc1:l3",
             "pta0001.pta014.pta-grc1:l1",
-            "pta0003.pta020.pta-grcBibex2:l9",
-            "pta0003.pta020.pta-grcBibex2:l12",
-            "pta0003.pta020.pta-grcBibex2:l14",
-            "pta0003.pta020.pta-grcBibex2:l16",
-            "pta0003.pta020.pta-grcBibex2:l18",
             "pta0003.pta020.pta-grcBibex3:l49",
             "pta0003.pta020.pta-grcBibex3:l66",
             "pta0003.pta020.pta-grcBibex3:l79",
@@ -2682,11 +2708,6 @@
             "Ἰουδαίᾳ",
             "Ἰούδα",
             "Ἰούδα",
-            "Ἰουδαίαν",
-            "Ἰουδαίας",
-            "Ἰουδαίας",
-            "Ἰουδαίας",
-            "Ἰουδαίας",
             "ἰουδαίαν",
             "ἰουδαίαν",
             "Ἰουδαίας",
@@ -3047,6 +3068,27 @@
         ],
         "orig_name": [
             "Ἀθρί­βεως"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/727080",
+        "canonical": "Avaris/Ramesses",
+        "description": "Avaris, located in the Nile delta region of Egypt, served as the capital city of the Hyksos.",
+        "coordinates": [
+            31.82253,
+            30.786228
+        ],
+        "bbox": [
+            31.82253,
+            30.786228,
+            31.82253,
+            30.786228
+        ],
+        "urns": [
+            "pta0005.pta001.pta-deuBibex:l50"
+        ],
+        "orig_name": [
+            "Ramesses"
         ]
     },
     {
@@ -3724,6 +3766,10 @@
             "pta0004.pta001.pta-grcBibex:l75",
             "pta0004.pta001.pta-grcBibex:l83",
             "pta0004.pta001.pta-grcBibex:l84",
+            "pta0005.pta001.pta-deuBibex:l11",
+            "pta0005.pta001.pta-deuBibex:l12",
+            "pta0005.pta001.pta-deuBibex:l13",
+            "pta0005.pta001.pta-deuBibex:l21",
             "pta0037.pta001.pta-grc1:l1",
             "pta0037.pta001.pta-grc1:l2",
             "pta0037.pta001.pta-grc1:l3",
@@ -3833,7 +3879,7 @@
             "βαβυλῶνα",
             "βαβυλῶνος",
             "βαβυλῶνα",
-            "\nβαβυλῶνος\n\n",
+            "\nβαβυλῶνος\n",
             "\nβαβυλῶνος\nβαβυλῶνοας\nβαβυλῶνας\n",
             "βαβυλῶνος",
             "βαβυλῶνος",
@@ -3856,7 +3902,7 @@
             "βαβυλῶνος",
             "βαβυλῶνα",
             "βαβυλῶνος",
-            "\nβαβυλῶνι\n\n",
+            "\nβαβυλῶνι\n",
             "\nβαβυλὼν\nβαβυλῶν\n",
             "βαβυλῶνος",
             "βαβυλῶνι,",
@@ -3864,9 +3910,13 @@
             "βαβυλῶνι",
             "βαβυλῶνος",
             "\nβαβυλῶνος\nβαβυλώνος\n",
-            "\nβαβυλῶνος,\n\n",
+            "\nβαβυλῶνος,\n",
             "βαβυλῶνα",
             "βαβυλῶνα",
+            "Babylon",
+            "Babylon",
+            "Babylons",
+            "Babylon",
             "Βαβυλῶνι",
             "Βαβυλῶνα",
             "Βαβυλῶνι",
@@ -4104,6 +4154,38 @@
             "pta0003.pta020.pta-grcBibex3:l255",
             "pta0004.pta001.pta-grcBibex:l2",
             "pta0004.pta001.pta-grcBibex:l3",
+            "pta0005.pta001.pta-deuBibex:l4",
+            "pta0005.pta001.pta-deuBibex:l5",
+            "pta0005.pta001.pta-deuBibex:l6",
+            "pta0005.pta001.pta-deuBibex:l7",
+            "pta0005.pta001.pta-deuBibex:l8",
+            "pta0005.pta001.pta-deuBibex:l9",
+            "pta0005.pta001.pta-deuBibex:l10",
+            "pta0005.pta001.pta-deuBibex:l14",
+            "pta0005.pta001.pta-deuBibex:l15",
+            "pta0005.pta001.pta-deuBibex:l17",
+            "pta0005.pta001.pta-deuBibex:l18",
+            "pta0005.pta001.pta-deuBibex:l19",
+            "pta0005.pta001.pta-deuBibex:l20",
+            "pta0005.pta001.pta-deuBibex:l40",
+            "pta0005.pta001.pta-deuBibex:l41",
+            "pta0005.pta001.pta-deuBibex:l42",
+            "pta0005.pta001.pta-deuBibex:l46",
+            "pta0005.pta001.pta-deuBibex:l47",
+            "pta0005.pta001.pta-deuBibex:l48",
+            "pta0005.pta001.pta-deuBibex:l52",
+            "pta0005.pta001.pta-deuBibex:l53",
+            "pta0005.pta001.pta-deuBibex:l54",
+            "pta0005.pta001.pta-deuBibex:l55",
+            "pta0005.pta001.pta-deuBibex:l56",
+            "pta0005.pta001.pta-deuBibex:l57",
+            "pta0005.pta001.pta-deuBibex:l58",
+            "pta0005.pta001.pta-deuBibex:l59",
+            "pta0005.pta001.pta-deuBibex:l60",
+            "pta0005.pta001.pta-deuBibex:l61",
+            "pta0005.pta001.pta-deuBibex:l62",
+            "pta0005.pta001.pta-deuBibex:l63",
+            "pta0005.pta001.pta-deuBibex:l64",
             "pta0007.pta007.pta-grc1:l2",
             "pta0007.pta007.pta-grc1:l5",
             "pta0007.pta007.pta-grc1:l6",
@@ -4182,6 +4264,38 @@
             "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἴγυπτον",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägyptens",
+            "Ägyptens",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
+            "Ägypten",
             "Αἴγυπτον",
             "Αἰγύπτῳ",
             "Αἰγύπτου",

@@ -1,17 +1,17 @@
 [
   {
-    "@id": "http://d-nb.info/gnd/4122633-1",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00015"
-      }
-    ]
-  },
-  {
     "@id": "http://d-nb.info/gnd/4032379-1",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/group/PTA_O00001"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4122633-1",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00015"
       }
     ]
   },

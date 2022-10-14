@@ -5600,7 +5600,7 @@
                     "@urn": "urn:cts:pta:pta0003.pta020",
                     "ti:title": {
                         "@xml:lang": "lat",
-                        "#text": "Commentarii in Psalmos (Tom. III: Ps 101–150)"
+                        "#text": "Commentarii in Psalmos"
                     },
                     "cpt:structured-metadata": {
                         "dct:created": "0300–0339",
@@ -5721,10 +5721,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0003/pta020/pta0003.pta020.pta-grcBibex3.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/d049f3a1a810504fe5b890a3213901054f1a7364/data/pta0003/pta020/pta0003.pta020.pta-grcBibex3.xml",
-                                "dc:date": "2022-10-10",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/c2ea1edbc5759d40b31685c99ffbeaad42a3edd2/data/pta0003/pta020/pta0003.pta020.pta-grcBibex3.xml",
+                                "dc:date": "2022-10-14",
                                 "dct:dateCopyrighted": "2022",
-                                "dct:bibliographicCitation": "Franz Xaver Risch (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Eusebius Caesariensis: Commentarii in Psalmos (Tom. III: Ps 101–150). Patristic Text Archive 2022. Version: d049f3a1, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020.pta-grcBibex3.",
+                                "dct:bibliographicCitation": "Franz Xaver Risch (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Eusebius Caesariensis: Commentarii in Psalmos (Tom. III: Ps 101–150). Patristic Text Archive 2022. Version: c2ea1edb, committed on 2022-10-14, https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020.pta-grcBibex3.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         }
@@ -5824,10 +5824,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/f12ef92672bb36181a157577a0b24ed553be4347/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
-                                "dc:date": "2022-10-10",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/7ee0f2e1cc9694913c91c39759452e1d6307d7e7/data/pta0004/pta001/pta0004.pta001.pta-grcBibex.xml",
+                                "dc:date": "2022-10-14",
                                 "dct:dateCopyrighted": "2020",
-                                "dct:bibliographicCitation": "Philip Schmitz (Editor), Theodoretus, Interpretatio in Danielem. Patristic Text Archive 2020. Version: f12ef926, committed on 2022-10-10, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-grcBibex.",
+                                "dct:bibliographicCitation": "Philip Schmitz (Editor), Theodoretus, Interpretatio in Danielem. Patristic Text Archive 2020. Version: 7ee0f2e1, committed on 2022-10-14, https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001.pta-grcBibex.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -6324,14 +6324,14 @@
                     "@urn": "urn:cts:pta:pta0005.pta001",
                     "ti:title": {
                         "@xml:lang": "lat",
-                        "#text": "De adoratione et cultu in spiritu et ueritate (Buch 1)"
+                        "#text": "De adoratione et cultu in spiritu et ueritate"
                     },
                     "cpt:structured-metadata": {
                         "dct:created": "0300–0339",
                         "dct:spatial": "https://pleiades.stoa.org/places/727070",
                         "dct:type": [
-                            "Scholarly",
-                            "Commentary"
+                            "Theological",
+                            "Bible Exegesis: Old Testament"
                         ],
                         "dc:identifier": [
                             "PTA:pta0005.pta001",
@@ -6340,22 +6340,23 @@
                             "Pinakes-Oeuvre:1956"
                         ]
                     },
-                    "ti:edition": {
-                        "@urn": "urn:cts:pta:pta0005.pta001.pta-grcBibex",
+                    "ti:translation": {
+                        "@xml:lang": "deu",
+                        "@urn": "urn:cts:pta:pta0005.pta001.pta-deuBibex",
                         "@workUrn": "urn:cts:pta:pta0005.pta001",
                         "ti:label": {
                             "@xml:lang": "eng",
-                            "#text": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et ueritate (Buch 1)"
+                            "#text": "Kyrill von Alexandrien: Über Anbetung und Gottesdienst in Geist und Wahrheit"
                         },
                         "ti:description": {
                             "@xml:lang": "eng",
-                            "#text": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften"
+                            "#text": "Barbara Villani (ed.), Kyrill von Alexandrien: De adoratione et cultu in spiritu et veritate Buch 1. Einführung, kritischer Text, Übersetzung und Anmerkungen. Berlin; Boston, 2021"
                         },
                         "cpt:structured-metadata": {
                             "@xml:lang": "deu",
-                            "dc:title": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et ueritate (Buch 1)",
-                            "dc:creator": "Cyrillus Alexandrinus",
-                            "dct:source": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften",
+                            "dc:title": "Kyrill von Alexandrien: Über Anbetung und Gottesdienst in Geist und Wahrheit",
+                            "dc:creator": "Kyrill von Alexandrien",
+                            "dct:source": "Barbara Villani (ed.), Kyrill von Alexandrien: De adoratione et cultu in spiritu et veritate Buch 1. Einführung, kritischer Text, Übersetzung und Anmerkungen. Berlin; Boston, 2021",
                             "dc:contributor": "Barbara Villani",
                             "dc:publisher": [
                                 {
@@ -6369,12 +6370,187 @@
                             ],
                             "dc:format": "application/tei+xml",
                             "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0005/pta001/pta0005.pta001.pta-grcBibex.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/40ae31504d08766f26850e3a596a878abe1d1d4a/data/pta0005/pta001/pta0005.pta001.pta-grcBibex.xml",
-                            "dc:date": "2021-02-11",
-                            "dct:dateCopyrighted": "2020",
-                            "dct:bibliographicCitation": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Cyrillus Alexandrinus: De adoratione et cultu in spiritu et ueritate (Buch 1). Patristic Text Archive 2020. Version: 40ae3150, committed on 2021-02-11, https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001.pta-grcBibex.",
+                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0005/pta001/pta0005.pta001.pta-deuBibex.xml",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/ae6cac7724199ebbdad46c09759b434a74e911a6/data/pta0005/pta001/pta0005.pta001.pta-deuBibex.xml",
+                            "dc:date": "2022-10-14",
+                            "dct:dateCopyrighted": "2021",
+                            "dct:bibliographicCitation": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Kyrill von Alexandrien: Über Anbetung und Gottesdienst in Geist und Wahrheit. Patristic Text Archive 2021. Version: ae6cac77, committed on 2022-10-14, https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001.pta-deuBibex.",
                             "dct:isPartOf": "Neueditionen"
+                        }
+                    },
+                    "ti:edition": [
+                        {
+                            "@urn": "urn:cts:pta:pta0005.pta001.pta-grc1",
+                            "@workUrn": "urn:cts:pta:pta0005.pta001",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et\n     ueritate"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Jean Aubert/Jean-Paul Migne (ed.), Patrologia graeca. 68. Paris 1864, 132–1125"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et\n     ueritate",
+                                "dc:creator": "Cyrillus Alexandrinus",
+                                "dct:source": "Jean Aubert/Jean-Paul Migne (ed.), Patrologia graeca. 68. Paris 1864, 132–1125",
+                                "dc:contributor": "Jean Aubert / Jean-Paul Migne",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0005/pta001/pta0005.pta001.pta-grc1.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/96ca6ac1838ebeec86c0ff879543a5ddfbf66175/data/pta0005/pta001/pta0005.pta001.pta-grc1.xml",
+                                "dc:date": "2022-10-14",
+                                "dct:dateCopyrighted": "1864",
+                                "dct:bibliographicCitation": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et\n     ueritate, edited according to Jean Aubert/Jean-Paul Migne (ed.), Patrologia graeca. 68. Paris 1864, 132–1125. Patristic Text Archive 2020. Version: 96ca6ac1, committed on 2022-10-14, https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001.pta-grc1.",
+                                "dct:isPartOf": null
+                            }
+                        },
+                        {
+                            "@urn": "urn:cts:pta:pta0005.pta001.pta-grcBibex",
+                            "@workUrn": "urn:cts:pta:pta0005.pta001",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et ueritate"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Barbara Villani (ed.), Kyrill von Alexandrien: De adoratione et cultu in spiritu et veritate Buch 1. Einführung, kritischer Text, Übersetzung und Anmerkungen. Berlin; Boston, 2021"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Cyrillus Alexandrinus: De adoratione et cultu in spiritu et ueritate",
+                                "dc:creator": "Cyrillus Alexandrinus",
+                                "dct:source": "Barbara Villani (ed.), Kyrill von Alexandrien: De adoratione et cultu in spiritu et veritate Buch 1. Einführung, kritischer Text, Übersetzung und Anmerkungen. Berlin; Boston, 2021",
+                                "dc:contributor": "Barbara Villani",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0005/pta001/pta0005.pta001.pta-grcBibex.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/96ca6ac1838ebeec86c0ff879543a5ddfbf66175/data/pta0005/pta001/pta0005.pta001.pta-grcBibex.xml",
+                                "dc:date": "2022-10-14",
+                                "dct:dateCopyrighted": "2021",
+                                "dct:bibliographicCitation": "Barbara Villani (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Cyrillus Alexandrinus: De adoratione et cultu in spiritu et ueritate. Patristic Text Archive 2021. Version: 96ca6ac1, committed on 2022-10-14, https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001.pta-grcBibex.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "textgroup": {
+            "ti:textgroup": {
+                "@xmlns:ti": "http://chs.harvard.edu/xmlns/cts",
+                "@xmlns:cpt": "http://purl.org/capitains/ns/1.0#",
+                "@xmlns:gnd": "http://d-nb.info/standards/elementset/gnd#",
+                "@urn": "urn:cts:pta:pta0006",
+                "ti:groupname": [
+                    {
+                        "@xml:lang": "eng",
+                        "#text": "Hesychius of Jerusalem"
+                    },
+                    {
+                        "@xml:lang": "deu",
+                        "#text": "Hesych von Jerusalem"
+                    },
+                    {
+                        "@xml:lang": "ita",
+                        "#text": "Esichio di Gerusalemme"
+                    },
+                    {
+                        "@xml:lang": "fra",
+                        "#text": "Hésychios de Jérusalem"
+                    }
+                ],
+                "cpt:structured-metadata": {
+                    "gnd:gndIdentifier": "118704265"
+                }
+            }
+        },
+        "works": [
+            {
+                "ti:work": {
+                    "@xmlns:ti": "http://chs.harvard.edu/xmlns/cts",
+                    "@xmlns:dct": "http://purl.org/dc/terms/",
+                    "@xmlns:cpt": "http://purl.org/capitains/ns/1.0#",
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "@groupUrn": "urn:cts:pta:pta0006",
+                    "@xml:lang": "grc",
+                    "@urn": "urn:cts:pta:pta0006.pta001",
+                    "ti:title": {
+                        "@xml:lang": "lat",
+                        "#text": "Commentarius magnus in Psalmos"
+                    },
+                    "cpt:structured-metadata": {
+                        "dct:created": "0300–0339",
+                        "dct:spatial": "https://pleiades.stoa.org/places/67841",
+                        "dct:type": [
+                            "Scholarly",
+                            "Commentary"
+                        ],
+                        "dc:identifier": [
+                            "PTA:pta0006.pta001",
+                            "TLG:tlg2797.tlg005–tlg009",
+                            "CPG:6554",
+                            "Aldama:20;25",
+                            "Pinakes-Oeuvre:1552"
+                        ]
+                    },
+                    "ti:edition": {
+                        "@urn": "urn:cts:pta:pta0006.pta001.pta-grc1",
+                        "@workUrn": "urn:cts:pta:pta0006.pta001",
+                        "ti:label": {
+                            "@xml:lang": "eng",
+                            "#text": "Hesychius\n            Hierosolymitanus: Commentarius magnus in Psalmos"
+                        },
+                        "ti:description": {
+                            "@xml:lang": "eng"
+                        },
+                        "cpt:structured-metadata": {
+                            "@xml:lang": "deu",
+                            "dc:title": "Hesychius\n            Hierosolymitanus: Commentarius magnus in Psalmos",
+                            "dc:creator": "Hesychius\n            Hierosolymitanus",
+                            "dct:source": "Jean-Paul Migne (ed.), Patrologia graeca. 93. Paris 1865, 1180-1340 / Jean-Paul Migne (ed.), Patrologia graeca. 55. Paris 1862, 711-784 / G. Mercati, Il commentario d'Esichio Gerosolimitano sui Salmi, Note di letteratura biblica e cristiana antica, Roma 1901, 145-179 / R. Devreesse, La chaine sur les Psaumes de Daniele Barbaro (Fin), Revue Biblique 33 (1924) 498–521.",
+                            "dc:contributor": "Jean-Paul Migne / Giovanni Mercati / Robert Devresse",
+                            "dc:publisher": [
+                                {
+                                    "@xml:lang": "eng",
+                                    "#text": "Patristic Text Archive (BBAW)"
+                                },
+                                {
+                                    "@xml:lang": "deu",
+                                    "#text": "Patristisches Textarchiv (BBAW)"
+                                }
+                            ],
+                            "dc:format": "application/tei+xml",
+                            "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0006/pta001/pta0006.pta001.pta-grc1.xml",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/ae6cac7724199ebbdad46c09759b434a74e911a6/data/pta0006/pta001/pta0006.pta001.pta-grc1.xml",
+                            "dc:date": "2022-10-14",
+                            "dct:dateCopyrighted": "2022",
+                            "dct:bibliographicCitation": "Hesychius\n            Hierosolymitanus: Commentarius magnus in Psalmos, edited according to Jean-Paul Migne (ed.), Patrologia graeca. 93. Paris 1865, 1180-1340 / Jean-Paul Migne (ed.), Patrologia graeca. 55. Paris 1862, 711-784 / G. Mercati, Il commentario d'Esichio Gerosolimitano sui Salmi, Note di letteratura biblica e cristiana antica, Roma 1901, 145-179 / R. Devreesse, La chaine sur les Psaumes de Daniele Barbaro (Fin), Revue Biblique 33 (1924) 498–521. Patristic Text Archive 2022. Version: ae6cac77, committed on 2022-10-14, https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001.pta-grc1.",
+                            "dct:isPartOf": null
                         }
                     }
                 }

@@ -1,25 +1,9 @@
 [
   {
-    "@id": "http://d-nb.info/gnd/118648888",
+    "@id": "http://d-nb.info/gnd/118590235",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/100942229",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0036"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118756796",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007"
       }
     ]
   },
@@ -32,18 +16,10 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118504843",
+    "@id": "http://d-nb.info/gnd/100942229",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118531425",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0036"
       }
     ]
   },
@@ -56,6 +32,14 @@
     ]
   },
   {
+    "@id": "http://d-nb.info/gnd/118531425",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003"
+      }
+    ]
+  },
+  {
     "@id": "http://d-nb.info/gnd/118796771",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -64,10 +48,26 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118590235",
+    "@id": "http://d-nb.info/gnd/118504843",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118756796",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118648888",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013"
       }
     ]
   },

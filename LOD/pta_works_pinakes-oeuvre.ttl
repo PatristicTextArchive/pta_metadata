@@ -24,6 +24,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/1514> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020> .
 
+<https://pinakes.irht.cnrs.fr/notices/oeuvre/1552> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001> .
+
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/1794> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023> .
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/1956> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001> .
