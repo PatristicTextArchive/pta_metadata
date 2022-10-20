@@ -3,34 +3,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q722953">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q474872">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0013"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q317029">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0004"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q170472">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0007"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q207113">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0037"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q722953">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1845">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta9999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q170472">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0007"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q142999">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q44024">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1499216">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0036"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q44024">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q44079">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1845">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta9999"/>
   </rdf:Description>
 </rdf:RDF>

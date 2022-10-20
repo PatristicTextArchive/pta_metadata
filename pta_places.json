@@ -95,7 +95,9 @@
             "pta0001.pta019.pta-grc1:l1",
             "pta0001.pta019.pta-grc1:l5",
             "pta0001.pta026.pta-grc1:l2",
-            "pta0001.pta026.pta-grc1:l3"
+            "pta0001.pta026.pta-grc1:l3",
+            "pta0001.pta026.pta-grcBibex:l2",
+            "pta0001.pta026.pta-grcBibex:l3"
         ],
         "orig_name": [
             "Αἰγύπτῳ",
@@ -108,7 +110,9 @@
             "Αἰγύπτου",
             "Αἴγυπτον",
             "Αἴγυπτος",
-            "Αἰγύπτῳ"
+            "Αἰγύπτῳ",
+            "Αἴγυπτος",
+            "\nαἰγύπτῳ\nαἰγύπτω\nαἰγΰπτω\n"
         ]
     },
     {
@@ -488,6 +492,27 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/231839930",
+        "canonical": "Via Campana?",
+        "description": "A road located on the right bank of the Tiber leading to the Campus Salinarum romanarum and sharing the first part of its course with the Via Portuensis.",
+        "coordinates": [
+            12.4312666,
+            41.8367091
+        ],
+        "bbox": [
+            12.2548623,
+            41.7755622,
+            12.486137,
+            41.891775
+        ],
+        "urns": [
+            "pta0038.pta001.pta-grc1:l5"
+        ],
+        "orig_name": [
+            "τῇ ὁδῷ τῇ Καμπανῇ"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/260940008",
         "canonical": "Beitin",
         "description": "A settlement which originally dates to the Chalcolithic period.",
@@ -823,7 +848,8 @@
             "pta0022.pta014.pta-grc1:l3",
             "pta0022.pta014.pta-grc1:l54",
             "pta0022.pta014.pta-grc1:l64",
-            "pta0022.pta014.pta-grc1:l66"
+            "pta0022.pta014.pta-grc1:l66",
+            "pta0038.pta001.pta-grc1:l1"
         ],
         "orig_name": [
             "Ῥώμη",
@@ -837,7 +863,29 @@
             "Ῥώμης",
             "Ῥώμης",
             "Ῥώμης",
-            "Ῥώμῃ"
+            "Ῥώμῃ",
+            "Ῥώμην"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/423080",
+        "canonical": "Tiberis (river)",
+        "description": "The Tiber river is the third-longest river of the Italian peninsula, flowing 406 km (252 mi) from the Apennine Mountains to the Tyrrhenian Sea.",
+        "coordinates": [
+            12.369277191018753,
+            42.70820040043679
+        ],
+        "bbox": [
+            12.0248296,
+            41.7451532,
+            12.6387405,
+            43.7892424
+        ],
+        "urns": [
+            "pta0038.pta001.pta-grc1:l2"
+        ],
+        "orig_name": [
+            "Τίβεριν"
         ]
     },
     {
@@ -861,6 +909,29 @@
         "orig_name": [
             "Καμπανίᾳ",
             "Καπύης"
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/432808",
+        "canonical": "Cumae/Kyme (Campanian)",
+        "description": "An ancient settlement of Campania, Cumae was the first Greek colony established on the Italian mainland in the eighth century BC.",
+        "coordinates": [
+            14.056281533333333,
+            40.8476741
+        ],
+        "bbox": [
+            14.053997,
+            40.8470763,
+            14.0587656,
+            40.848823
+        ],
+        "urns": [
+            "pta0038.pta001.pta-grc1:l3",
+            "pta0038.pta001.pta-grc1:l4"
+        ],
+        "orig_name": [
+            "Κούμας",
+            "Κούμας"
         ]
     },
     {
@@ -1245,6 +1316,27 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/570102",
+        "canonical": "Arcadia",
+        "description": "The ancient region of Arcadia comprised the highlands at the center of the Peloponnese.",
+        "coordinates": [
+            22.170246015828386,
+            37.61817012463577
+        ],
+        "bbox": [
+            21.839109,
+            37.388696,
+            22.426615,
+            37.974
+        ],
+        "urns": [
+            "pta0038.pta001.pta-grc1:l6"
+        ],
+        "orig_name": [
+            "Ἀρκαδίαν"
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/570220",
         "canonical": "Elis (city)",
         "description": "Elis was an ancient Greek city of the northeast Peloponnese that served as the capital of the district of the same name.",
@@ -1325,10 +1417,12 @@
         ],
         "urns": [
             "pta0001.pta026.pta-grc1:l4",
+            "pta0001.pta026.pta-grcBibex:l4",
             "pta0007.pta007.pta-grc1:l7"
         ],
         "orig_name": [
             "Ἐφέσῳ",
+            "\nἐφέσῳ\nἐφέσω\nἐφέσω\n",
             "Ἐφέσῳ"
         ]
     },
@@ -2144,6 +2238,11 @@
             "pta0001.pta017.pta-grc1:l6",
             "pta0001.pta025.pta-grc1:l1",
             "pta0001.pta026.pta-grc1:l1",
+            "pta0001.pta026.pta-grcBibex:l1",
+            "pta0003.pta020.pta-grcBibex2:l137",
+            "pta0003.pta020.pta-grcBibex2:l139",
+            "pta0003.pta020.pta-grcBibex2:l141",
+            "pta0003.pta020.pta-grcBibex2:l143",
             "pta0003.pta020.pta-grcBibex3:l1",
             "pta0003.pta020.pta-grcBibex3:l2",
             "pta0003.pta020.pta-grcBibex3:l3",
@@ -2390,6 +2489,11 @@
             "Ἱεροσόλυμα",
             "Ἱερουσαλὴμ",
             "Ἱερουσαλὴμ",
+            "\nἰερουσαλὴμ\nἱερουσαλὴμ\nἰερουσαλήμ\nἱερουσαλήμ\nιερουσαλὴμ\nἱεουσαλὴμ\n",
+            "Σιών",
+            "Σιὼν",
+            "Σιών",
+            "Σιὼν",
             "Ἱερουσαλὴμ",
             "Σιών",
             "Σιών",
@@ -2671,6 +2775,11 @@
             "pta0001.pta007.pta-grc1:l13",
             "pta0001.pta008.pta-grc1:l3",
             "pta0001.pta014.pta-grc1:l1",
+            "pta0003.pta020.pta-grcBibex2:l135",
+            "pta0003.pta020.pta-grcBibex2:l138",
+            "pta0003.pta020.pta-grcBibex2:l140",
+            "pta0003.pta020.pta-grcBibex2:l142",
+            "pta0003.pta020.pta-grcBibex2:l144",
             "pta0003.pta020.pta-grcBibex3:l49",
             "pta0003.pta020.pta-grcBibex3:l66",
             "pta0003.pta020.pta-grcBibex3:l79",
@@ -2708,6 +2817,11 @@
             "Ἰουδαίᾳ",
             "Ἰούδα",
             "Ἰούδα",
+            "Ἰουδαίαν",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
+            "Ἰουδαίας",
             "ἰουδαίαν",
             "ἰουδαίαν",
             "Ἰουδαίας",
@@ -4372,9 +4486,11 @@
             40.0
         ],
         "urns": [
-            "pta0001.pta026.pta-grc1:l5"
+            "pta0001.pta026.pta-grc1:l5",
+            "pta0001.pta026.pta-grcBibex:l5"
         ],
         "orig_name": [
+            "Ἀσίας",
             "Ἀσίας"
         ]
     },

@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-10-14T11:36:00.388732+00:00
+#TIMESTAMP: 2022-10-20T06:24:54.566322+00:00
 #UPDATE: monthly
 1001133|https://pta.bbaw.de/place/1001133
 1001896|https://pta.bbaw.de/place/1001896
@@ -28,6 +28,7 @@
 207439|https://pta.bbaw.de/place/207439
 207447|https://pta.bbaw.de/place/207447
 207549|https://pta.bbaw.de/place/207549
+231839930|https://pta.bbaw.de/place/231839930
 260940008|https://pta.bbaw.de/place/260940008
 29475|https://pta.bbaw.de/place/29475
 334481|https://pta.bbaw.de/place/334481
@@ -41,7 +42,9 @@
 393379|https://pta.bbaw.de/place/393379
 393473|https://pta.bbaw.de/place/393473
 423025|https://pta.bbaw.de/place/423025
+423080|https://pta.bbaw.de/place/423080
 432754|https://pta.bbaw.de/place/432754
+432808|https://pta.bbaw.de/place/432808
 462492|https://pta.bbaw.de/place/462492
 465843763|https://pta.bbaw.de/place/465843763
 472014|https://pta.bbaw.de/place/472014
@@ -55,6 +58,7 @@
 520998|https://pta.bbaw.de/place/520998
 530871|https://pta.bbaw.de/place/530871
 540775|https://pta.bbaw.de/place/540775
+570102|https://pta.bbaw.de/place/570102
 570220|https://pta.bbaw.de/place/570220
 579885|https://pta.bbaw.de/place/579885
 589748|https://pta.bbaw.de/place/589748
