@@ -1,5 +1,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=1052> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0038.pta001> .
+
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=1426> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta018> .
 
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=1475> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007> .

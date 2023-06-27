@@ -299,6 +299,9 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta026.pta-grcBibex:g1",
+            "pta0001.pta026.pta-grcBibex:g3",
+            "pta0001.pta026.pta-grcBibex:g4",
             "pta0003.pta020.pta-grcBibex3:g1",
             "pta0003.pta020.pta-grcBibex3:g2",
             "pta0003.pta020.pta-grcBibex3:g4",
@@ -334,6 +337,9 @@
             "pta0003.pta020.pta-grcBibex3:g153"
         ],
         "name_txts": [
+            "ἰουδαίων",
+            "ἰουδαίοις",
+            "ἰουδαῖοι",
             "Ἰουδαίων",
             "Ἰουδαίων",
             "Ἰουδαίων",
@@ -499,6 +505,7 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta026.pta-grcBibex:g2",
             "pta0003.pta020.pta-grcBibex3:g3",
             "pta0003.pta020.pta-grcBibex3:g5",
             "pta0003.pta020.pta-grcBibex3:g7",
@@ -610,6 +617,7 @@
             "pta0003.pta020.pta-grcBibex3:g183"
         ],
         "name_txts": [
+            "ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
