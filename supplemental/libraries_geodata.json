@@ -1,0 +1,572 @@
+[
+    {
+        "Place": "Andros",
+        "Repository": "Monê Hagias (Zôodochou Pêgês)",
+        "lat": "37.8791649",
+        "long": "24.7774982"
+    },
+    {
+        "Place": "Athêna",
+        "Repository": "Archiepiskopê",
+        "lat": "37.9775514",
+        "long": "23.7257471"
+    },
+    {
+        "Place": "Athêna",
+        "Repository": "Bibliothêke tês Boulês",
+        "lat": "37.975278",
+        "long": "23.736944"
+    },
+    {
+        "Place": "Athêna",
+        "Repository": "Ethnikê Bibliothêkê tês Hellados (EBE)",
+        "lat": "37.939722",
+        "long": "23.691667"
+    },
+    {
+        "Place": "Athêna",
+        "Repository": "Mouseio Benaki",
+        "lat": "37.975939",
+        "long": "23.740408"
+    },
+    {
+        "Place": "Basel",
+        "Repository": "Universitätsbibliothek",
+        "lat": "47.55901",
+        "long": "7.580962"
+    },
+    {
+        "Place": "Berlin",
+        "Repository": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+        "lat": "52.5178",
+        "long": "13.3917"
+    },
+    {
+        "Place": "Bologna",
+        "Repository": "Biblioteca Universataria",
+        "lat": "44.497023",
+        "long": "11.352818"
+    },
+    {
+        "Place": "Bruxelles",
+        "Repository": "Bibliothèque Royale Albert Ier",
+        "lat": "50.843333",
+        "long": "4.356389"
+    },
+    {
+        "Place": "Budapest",
+        "Repository": "Országos Széchényi Könyvtár",
+        "lat": "47.495106",
+        "long": "19.039167"
+    },
+    {
+        "Place": "Cambridge",
+        "Repository": "Trinity College",
+        "lat": "52.207018",
+        "long": "0.114895"
+    },
+    {
+        "Place": "Cambridge",
+        "Repository": "University Library",
+        "lat": "52.205068",
+        "long": "0.10776"
+    },
+    {
+        "Place": "Dublin",
+        "Repository": "Chester Beatty Library",
+        "lat": "53.342274",
+        "long": "-6.267473"
+    },
+    {
+        "Place": "Escorial (El-)",
+        "Repository": "Real Biblioteca",
+        "lat": "40.589178",
+        "long": "-4.148825"
+    },
+    {
+        "Place": "Eurutania",
+        "Repository": "Monê Prousou",
+        "lat": "38.749391",
+        "long": "21.656502"
+    },
+    {
+        "Place": "Firenze",
+        "Repository": "Biblioteca Medicea Laurenziana (BML)",
+        "lat": "43.774326",
+        "long": "11.254041"
+    },
+    {
+        "Place": "Grottaferrata",
+        "Repository": "Biblioteca Statale del Monumento Nazionale",
+        "lat": "41.7857116",
+        "long": "12.6667499"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Bibliothêkê tou Prôtatou (Karues)",
+        "lat": "40.2572",
+        "long": "24.2453"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Batopediou",
+        "lat": "40.316667",
+        "long": "24.216667"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Dionusiou",
+        "lat": "40.168022",
+        "long": "24.273864"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Docheiariou",
+        "lat": "40.266389",
+        "long": "24.173333"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Esphigmenou",
+        "lat": "40.352689",
+        "long": "24.138053"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Hagiou Panteleêmonos",
+        "lat": "40.236944",
+        "long": "24.201944"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Ibêrôn",
+        "lat": "40.2455",
+        "long": "24.2848"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Karakallou",
+        "lat": "40.2239",
+        "long": "24.3083"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Konstamonitou",
+        "lat": "40.288175",
+        "long": "24.173892"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Koutloumousiou",
+        "lat": "40.2536",
+        "long": "24.2472"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Megistês Lauras",
+        "lat": "40.171111",
+        "long": "24.382778"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Pantokratoros",
+        "lat": "40.283572",
+        "long": "24.26655"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Simônopetras",
+        "lat": "40.189722",
+        "long": "24.245556"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Stauronikêta",
+        "lat": "40.267983",
+        "long": "24.276733"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Xenophôntos",
+        "lat": "40.245833",
+        "long": "24.190278"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Monê Xeropotamou",
+        "lat": "40.227928",
+        "long": "24.219814"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Skêtê Hagias Annês",
+        "lat": "40.1611",
+        "long": "24.2903"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Skêtê Hagiou Dêmêtriou",
+        "lat": "40.3022222",
+        "long": "24.22"
+    },
+    {
+        "Place": "Hagion Oros",
+        "Repository": "Skêtê Kausokalubiôn",
+        "lat": "40.129444",
+        "long": "24.340556"
+    },
+    {
+        "Place": "Iraklio",
+        "Repository": "Archaiologiko Mouseio",
+        "lat": "35.339538",
+        "long": "25.137223"
+    },
+    {
+        "Place": "Istanbul",
+        "Repository": "Patriarchikê Bibliothêkê",
+        "lat": "41.0291878",
+        "long": "28.9509614"
+    },
+    {
+        "Place": "Jerusalem",
+        "Repository": "Patriarchikê bibliothêkê",
+        "lat": "31.77788",
+        "long": "35.22808"
+    },
+    {
+        "Place": "Kalabruta",
+        "Repository": "Monê Megalou Spêlaiou",
+        "lat": "38.089389",
+        "long": "22.175194"
+    },
+    {
+        "Place": "København",
+        "Repository": "Det Kongelige Bibliotek",
+        "lat": "55.67317",
+        "long": "12.582088"
+    },
+    {
+        "Place": "Kozane",
+        "Repository": "Kobentareios Dêmotikê Bibliothêkê",
+        "lat": "40.2960364",
+        "long": "21.7833192"
+    },
+    {
+        "Place": "Kraków",
+        "Repository": "Biblioteka Jagiellońska",
+        "lat": "50.061372",
+        "long": "19.922311"
+    },
+    {
+        "Place": "L'viv",
+        "Repository": "Bibl. Zakladu Narodowego im. Ossolinskich, Polska Akademia Nauk",
+        "lat": "49.836163",
+        "long": "24.025882"
+    },
+    {
+        "Place": "Leiden",
+        "Repository": "Bibliotheek der Rijksuniversiteit",
+        "lat": "52.157513",
+        "long": "4.481256"
+    },
+    {
+        "Place": "London",
+        "Repository": "British Library",
+        "lat": "51.529222",
+        "long": "-0.126753"
+    },
+    {
+        "Place": "Lübeck",
+        "Repository": "Bibl. der Hansestadt",
+        "lat": "53.868469",
+        "long": "10.69012"
+    },
+    {
+        "Place": "Madrid",
+        "Repository": "Biblioteca nacional de España (BNE)",
+        "lat": "40.423761",
+        "long": "-3.690232"
+    },
+    {
+        "Place": "Messina",
+        "Repository": "Biblioteca Regionale Universitaria 'Giacomo Longo'",
+        "lat": "38.1901954",
+        "long": "15.5561132"
+    },
+    {
+        "Place": "Meteora",
+        "Repository": "Monê Barlaam",
+        "lat": "39.714167",
+        "long": "21.626944"
+    },
+    {
+        "Place": "Meteora",
+        "Repository": "Monê Metamorphôseôs",
+        "lat": "39.723889",
+        "long": "21.624444"
+    },
+    {
+        "Place": "Meteôra",
+        "Repository": "Monê Hagiou Stephanou",
+        "lat": "39.714167",
+        "long": "21.626944"
+    },
+    {
+        "Place": "Milano",
+        "Repository": "Biblioteca Ambrosiana",
+        "lat": "45.4635",
+        "long": "9.1858"
+    },
+    {
+        "Place": "Modena",
+        "Repository": "Biblioteca Estense universitaria",
+        "lat": "44.648208",
+        "long": "10.921019"
+    },
+    {
+        "Place": "Moskva",
+        "Repository": "Gosudarstvennyj Istoričeskij Musej (GIM)",
+        "lat": "55.754998",
+        "long": "37.618174"
+    },
+    {
+        "Place": "Moskva",
+        "Repository": "Rossijskaja Gosudarstvennaja Biblioteka (RGB)",
+        "lat": "55.752161",
+        "long": "37.609043"
+    },
+    {
+        "Place": "München",
+        "Repository": "Bayerische Staatsbibliothek (BSB)",
+        "lat": "48.147493",
+        "long": "11.580119"
+    },
+    {
+        "Place": "Mutilene",
+        "Repository": "Monê tou Hagiou Iôannou tou Theologou Hypsêlou (Antissa)",
+        "lat": "39.231402",
+        "long": "25.934824"
+    },
+    {
+        "Place": "Mutilene",
+        "Repository": "Monê tou Leimônos",
+        "lat": "39.2479",
+        "long": "26.1722"
+    },
+    {
+        "Place": "Napoli",
+        "Repository": "Biblioteca nazionale Vittorio Emanuele III",
+        "lat": "40.83619",
+        "long": "14.249565"
+    },
+    {
+        "Place": "Ohrid",
+        "Repository": "Naroden Muzej",
+        "lat": "41.113169",
+        "long": "20.793558"
+    },
+    {
+        "Place": "Oxford",
+        "Repository": "Bodleian Library",
+        "lat": "51.754061",
+        "long": "-1.254051"
+    },
+    {
+        "Place": "Oxford",
+        "Repository": "Christ Church College",
+        "lat": "51.750199",
+        "long": "-1.255853"
+    },
+    {
+        "Place": "Oxford",
+        "Repository": "Lincoln College",
+        "lat": "51.75326",
+        "long": "-1.255905"
+    },
+    {
+        "Place": "Oxford",
+        "Repository": "Merton College",
+        "lat": "51.7510",
+        "long": "-1.2520"
+    },
+    {
+        "Place": "Oxford",
+        "Repository": "New College",
+        "lat": "51.754277",
+        "long": "-1.251288"
+    },
+    {
+        "Place": "Paphos",
+        "Repository": "Monè Panagias tou Kukkou",
+        "lat": "34.9840",
+        "long": "32.7410"
+    },
+    {
+        "Place": "Paris",
+        "Repository": "Bibliothèque de la Sorbonne",
+        "lat": "48.849167",
+        "long": "2.34346"
+    },
+    {
+        "Place": "Paris",
+        "Repository": "Bibliothèque nationale de France (BNF)",
+        "lat": "48.835852",
+        "long": "2.372197"
+    },
+    {
+        "Place": "Paros",
+        "Repository": "Monê tês Zoodochou Pêgês Loggobardas",
+        "lat": "37.1011706",
+        "long": "25.1978823"
+    },
+    {
+        "Place": "Patmos",
+        "Repository": "Monê tou Hagiou Iôannou tou Theologou",
+        "lat": "37.309167",
+        "long": "26.548056"
+    },
+    {
+        "Place": "Patras",
+        "Repository": "Monê Hagiôn Pantôn",
+        "lat": "37.9897909",
+        "long": "21.7626027"
+    },
+    {
+        "Place": "Peiraias",
+        "Repository": "Dêmotikê Bibl.",
+        "lat": "37.9459321",
+        "long": "23.64849798"
+    },
+    {
+        "Place": "Philadelphia",
+        "Repository": "Free Library, Rare Book Department",
+        "lat": "39.949353",
+        "long": "-75.173158"
+    },
+    {
+        "Place": "Roma",
+        "Repository": "Biblioteca Angelica",
+        "lat": "41.9007",
+        "long": "12.474194"
+    },
+    {
+        "Place": "Roma",
+        "Repository": "Biblioteca Vallicelliana",
+        "lat": "41.898292",
+        "long": "12.469766"
+    },
+    {
+        "Place": "Roma",
+        "Repository": "Collegio Greco",
+        "lat": "41.908079",
+        "long": "12.479447"
+    },
+    {
+        "Place": "Sankt-Peterburg",
+        "Repository": "Rossijskaja Akademija Nauk, Biblioteka (BAN)",
+        "lat": "59.944000",
+        "long": "30.297000"
+    },
+    {
+        "Place": "Sankt-Peterburg",
+        "Repository": "Rossijskaja Nacional'naja biblioteka (RNB)",
+        "lat": "59.933516",
+        "long": "30.335634"
+    },
+    {
+        "Place": "Sinai",
+        "Repository": "Monê tês Hagias Aikaterinês",
+        "lat": "28.555556",
+        "long": "33.976111"
+    },
+    {
+        "Place": "Sofija",
+        "Repository": "Cărkovno-istoričeski i archiven institut (CIAI)",
+        "lat": "42.6959008",
+        "long": "23.3214255"
+    },
+    {
+        "Place": "Sofija",
+        "Repository": "Centăr za slavjano-vizantijski proučvanija «Ivan Dujčev»",
+        "lat": "42.6599058",
+        "long": "23.2680952"
+    },
+    {
+        "Place": "Stockholm",
+        "Repository": "Kungliga Biblioteket",
+        "lat": "59.338163",
+        "long": "18.072134"
+    },
+    {
+        "Place": "Thessalonikê",
+        "Repository": "Dêmotikê Bibliothêkê",
+        "lat": "40.6299",
+        "long": "22.9519"
+    },
+    {
+        "Place": "Thessalonikê",
+        "Repository": "Monê Blatadôn",
+        "lat": "40.6418",
+        "long": "22.9545"
+    },
+    {
+        "Place": "Toledo",
+        "Repository": "Archivo y Biblioteca Capitular",
+        "lat": "39.857083",
+        "long": "-4.023889"
+    },
+    {
+        "Place": "Torino",
+        "Repository": "Biblioteca Nazionale Univeristaria",
+        "lat": "45.068684",
+        "long": "7.68633"
+    },
+    {
+        "Place": "Tübingen",
+        "Repository": "Universitätsbibliothek",
+        "lat": "48.5251",
+        "long": "9.06176"
+    },
+    {
+        "Place": "Tyrnabos",
+        "Repository": "Dêmotikê Bibliothêkê",
+        "lat": "39.7382671",
+        "long": "22.285058"
+    },
+    {
+        "Place": "Vaticano",
+        "Repository": "Biblioteca Apostolica Vaticana",
+        "lat": "41.903038",
+        "long": "12.454465"
+    },
+    {
+        "Place": "Venezia",
+        "Repository": "Biblioteca Nazionale Marciana",
+        "lat": "45.4332",
+        "long": "12.3393"
+    },
+    {
+        "Place": "Wien",
+        "Repository": "Österreichische Nationalbibliothek (ÖNB)",
+        "lat": "48.206142",
+        "long": "16.366267"
+    },
+    {
+        "Place": "Wroclaw",
+        "Repository": "Biblioteka Uniwersytecka",
+        "lat": "51.112123",
+        "long": "17.050372"
+    },
+    {
+        "Place": "Zaborda",
+        "Repository": "Monê tou hagiou Nikanoros",
+        "lat": "48.206111",
+        "long": "16.366389"
+    },
+    {
+        "Place": "Zagora",
+        "Repository": "Dêmosia Istorikê Bibliothêkê",
+        "lat": "39.4446281",
+        "long": "23.102982"
+    }
+]
