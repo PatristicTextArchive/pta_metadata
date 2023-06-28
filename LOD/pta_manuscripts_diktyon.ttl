@@ -46,6 +46,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/15590> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00546> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/15918> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00591> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/15928> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00566> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/15962> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00585> .
@@ -566,6 +568,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/47383> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00282> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/47389> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00590> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/47459> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00283> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/47473> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00284> .
@@ -640,6 +644,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/49221> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00314> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/49257> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00592> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/49329> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00583> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/49332> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00315> .
@@ -657,6 +663,12 @@
 <https://pinakes.irht.cnrs.fr/notices/cote/49841> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00319> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/50028> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00320> .
+
+<https://pinakes.irht.cnrs.fr/notices/cote/50066> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00593> .
+
+<https://pinakes.irht.cnrs.fr/notices/cote/50067> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00594> .
+
+<https://pinakes.irht.cnrs.fr/notices/cote/50068> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00595> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/50073> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00321> .
 
@@ -943,6 +955,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/65665> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00452> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/65673> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00589> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/65760> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00453> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/66057> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00454> .
@@ -1143,6 +1157,8 @@
 <https://pinakes.irht.cnrs.fr/notices/cote/72371> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00539> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/72499> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00540> .
+
+<https://pinakes.irht.cnrs.fr/notices/cote/72897> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00596> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/76366> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00541> .
 
