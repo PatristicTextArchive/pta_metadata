@@ -7925,7 +7925,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://www.loc.gov/item/00279380034-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279380034-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045"
         ]
@@ -7943,7 +7943,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "https://www.loc.gov/item/00279380228-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279380228-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta018"
         ]
@@ -7961,7 +7961,7 @@
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1200-12-31",
         "images": "https://www.loc.gov/item/00279380253-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279380253-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta046",
@@ -7982,7 +7982,7 @@
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://www.loc.gov/item/00279380265-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279380265-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta046",
             "urn:cts:pta:pta0001.pta052",
@@ -8002,7 +8002,7 @@
         "origDate_notbefore": "1425-01-01",
         "origDate_notafter": "1425-12-31",
         "images": "https://www.loc.gov/item/00279381622-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279381622-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -8038,7 +8038,7 @@
         "origDate_notbefore": "0701-01-01",
         "origDate_notafter": "0900-12-31",
         "images": "https://www.loc.gov/item/00279381841-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279381841-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -8056,7 +8056,7 @@
         "origDate_notbefore": "0701-01-01",
         "origDate_notafter": "0900-12-31",
         "images": "https://www.loc.gov/item/0027938183A-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/0027938183A-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta054",
             "urn:cts:pta:pta0001.pta029",
@@ -8076,7 +8076,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1500-12-31",
         "images": "https://www.loc.gov/item/00279380514-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279380514-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta045",
             "urn:cts:pta:pta0001.pta048"
@@ -8095,7 +8095,7 @@
         "origDate_notbefore": "1301-01-01",
         "origDate_notafter": "1400-12-31",
         "images": "https://www.loc.gov/item/0027938068A-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/0027938068A-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta046",
             "urn:cts:pta:pta0001.pta015"
@@ -8114,7 +8114,7 @@
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
         "images": "https://www.loc.gov/item/00279380691-ms",
-        "iiif_manifest": "",
+        "iiif_manifest": "https://www.loc.gov/item/00279380691-ms/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta011"
         ]
@@ -11542,7 +11542,7 @@
         "origDate_notbefore": "0901-01-01",
         "origDate_notafter": "1100-12-31",
         "images": "http://gallica.bnf.fr/ark:/12148/btv1b11000126s",
-        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/12148/btv1b11000126s/manifest.json",
+        "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11000126s/manifest.json",
         "contents": [
             "bhg:1457",
             "urn:cts:pta:pta9999.pta067",
