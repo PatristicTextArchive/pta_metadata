@@ -9,7 +9,7 @@ This file is built from metadata files conforming to the [Capitains guidelines](
 
 ## pta_statistics.json
 
-This file is generated using the [CLTK](https://www.cltk.org) lemmatizer (a wrapper to [Stanza](https://stanfordnlp.github.io/stanza/)). It contains statistical data on words (and their number of occurences), lemmata (and their number of occurences), POS tags (and their number of occurences), morphological analysis (and its number of occurences) in each work (identified by its urn); currently only the Greek and Latin texts are analyzed. 
+This file is generated using the [CLTK](https://www.cltk.org) lemmatizer. It contains statistical data on words (and their number of occurences), lemmata (and their number of occurences), POS tags (and their number of occurences), morphological analysis (and its number of occurences) in each work (identified by its urn); currently only the Greek and Latin texts are analyzed. 
 
 ## pta_manuscripts.json
 
