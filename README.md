@@ -5,11 +5,11 @@ This repository contains (meta-)data information used in the frontend of PTA at 
 
 ## pta_data.json
 
-This file is built from metadata files conforming to the [Capitains guidelines](http://capitains.org/pages/guidelines). It is converted from ` __cts__.xml`-files in the [pta_data-Respository](https://github.com/PatristicTextArchive/pta_data) to json. It contains the metadata for all textgroups, works, and versions of works.
+This file is built from metadata files conforming to the [Capitains guidelines](http://capitains.org/pages/guidelines). It is converted from ` __cts__.xml`-files in the [pta_data-Respository](https://github.com/PatristicTextArchive/pta_data) to json. It contains the metadata for all text groups, works, and versions of works.
 
 ## pta_statistics.json
 
-This file is generated using the [CLTK](https://www.cltk.org) lemmatizer. It contains statistical data on words (and their number of occurences) and lemmata (and their number of occurences) in each work (identified by its urn); currently only the Greek and Latin texts are analyzed. Please note that the [CLTK stopword](Link) list was applied.
+This file is generated using the [CLTK](https://www.cltk.org) lemmatizer (a wrapper to [Stanza](https://stanfordnlp.github.io/stanza/)). It contains statistical data on words (and their number of occurences), lemmata (and their number of occurences), POS tags (and their number of occurences), morphological analysis (and its number of occurences) in each work (identified by its urn); currently only the Greek and Latin texts are analyzed. 
 
 ## pta_manuscripts.json
 
