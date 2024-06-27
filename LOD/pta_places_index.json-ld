@@ -1,93 +1,5 @@
 [
   {
-    "@id": "https://pleiades.stoa.org/places/912842",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/912842"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/465843763",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/465843763"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678220",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678220"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687932",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687932"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/187290",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/187290"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/207439",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/207439"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678403",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678403"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1001948",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1001948"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/207303",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/207303"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/874621",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/874621"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/491656",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/491656"
-      }
-    ]
-  },
-  {
     "@id": "https://pleiades.stoa.org/places/432808",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -96,34 +8,106 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/472014",
+    "@id": "https://pleiades.stoa.org/places/648647",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/472014"
+        "@id": "https://pta.bbaw.de/place/648647"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/373869",
+    "@id": "https://pleiades.stoa.org/places/1001133",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/373869"
+        "@id": "https://pta.bbaw.de/place/1001133"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/540775",
+    "@id": "https://pleiades.stoa.org/places/786089",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/540775"
+        "@id": "https://pta.bbaw.de/place/786089"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/727080",
+    "@id": "https://pleiades.stoa.org/places/992077",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/727080"
+        "@id": "https://pta.bbaw.de/place/992077"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/609307",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/609307"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/716520",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/716520"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/570028",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/570028"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/373879",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/373879"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/981522",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/981522"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/716657",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/716657"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727221",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727221"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687891",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687891"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/207549",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/207549"
       }
     ]
   },
@@ -136,34 +120,74 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/393379",
+    "@id": "https://pleiades.stoa.org/places/981509",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/393379"
+        "@id": "https://pta.bbaw.de/place/981509"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/334481",
+    "@id": "https://pleiades.stoa.org/places/857287",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/334481"
+        "@id": "https://pta.bbaw.de/place/857287"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/727078",
+    "@id": "https://pleiades.stoa.org/places/465843763",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/727078"
+        "@id": "https://pta.bbaw.de/place/465843763"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/716524",
+    "@id": "https://pleiades.stoa.org/places/727217",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/716524"
+        "@id": "https://pta.bbaw.de/place/727217"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/491740",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/491740"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/775",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/775"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/472014",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/472014"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1001948",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1001948"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/648651",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/648651"
       }
     ]
   },
@@ -176,10 +200,98 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/707498",
+    "@id": "https://pleiades.stoa.org/places/511268",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/707498"
+        "@id": "https://pta.bbaw.de/place/511268"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/991398",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/991398"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/207447",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/207447"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/373869",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/373869"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/393379",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/393379"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678299",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678299"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727183",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727183"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1001943",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1001943"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/501482",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/501482"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687917",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687917"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/981514",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/981514"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/541140",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/541140"
       }
     ]
   },
@@ -192,18 +304,154 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/648653",
+    "@id": "https://pleiades.stoa.org/places/727123",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/648653"
+        "@id": "https://pta.bbaw.de/place/727123"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/678106",
+    "@id": "https://pleiades.stoa.org/places/678084",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/678106"
+        "@id": "https://pta.bbaw.de/place/678084"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/736948",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/736948"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/991375",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/991375"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/874602",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/874602"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678370",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678370"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/187290",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/187290"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/874334",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/874334"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/648792",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/648792"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678109",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678109"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/776210",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/776210"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/260940008",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/260940008"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/716524",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/716524"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/912964",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/912964"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/857932176",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/857932176"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/589748",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/589748"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678220",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678220"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/638965",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/638965"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727236",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727236"
       }
     ]
   },
@@ -224,794 +472,10 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/727172",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727172"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/658427",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/658427"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/716615",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/716615"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/393473",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/393473"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/775",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/775"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/383706",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/383706"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/638965",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/638965"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/991408",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/991408"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687900",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687900"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/766",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/766"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/231839930",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/231839930"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/570102",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/570102"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/668332",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/668332"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/857287",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/857287"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/736948",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/736948"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/981509",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/981509"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/570220",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/570220"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/207447",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/207447"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/730134",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/730134"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/912816",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/912816"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/639034",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/639034"
-      }
-    ]
-  },
-  {
     "@id": "https://pleiades.stoa.org/places/658381",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/place/658381"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678370",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678370"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687927",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687927"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/589748",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/589748"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/462492",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/462492"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687977",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687977"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/609307",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/609307"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/29475",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/29475"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/520998",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/520998"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678369",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678369"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1306",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1306"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/912936",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/912936"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/197446",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/197446"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/786123",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/786123"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/207065",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/207065"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/XXXXXX",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/XXXXXX"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/39303",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/39303"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/746815",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/746815"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/991398",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/991398"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/207549",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/207549"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1001943",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1001943"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678060",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678060"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/993",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/993"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/599612",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/599612"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687917",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687917"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1001950",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1001950"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/668190",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/668190"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/77402394",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/77402394"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/629035",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/629035"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/981508",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/981508"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/992077",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/992077"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/716520",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/716520"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1027",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1027"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/491740",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/491740"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/981522",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/981522"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687931",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687931"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727154",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727154"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/746711",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/746711"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678267",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678267"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/383815",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/383815"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/991367",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/991367"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1052",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1052"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/981534",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/981534"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/786059",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/786059"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727071",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727071"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/716588",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/716588"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/857932176",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/857932176"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/511268",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/511268"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687928",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687928"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/716595",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/716595"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678084",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678084"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/981514",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/981514"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727217",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727217"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727070",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727070"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/874334",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/874334"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1001133",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1001133"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687934",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687934"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/716657",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/716657"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678145",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678145"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727183",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727183"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687995",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687995"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727221",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727221"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/260940008",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/260940008"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/727201",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/727201"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678143",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678143"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/678054",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/678054"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687891",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687891"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/730110",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/730110"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/893951",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/893951"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/776210",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/776210"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/912849",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/912849"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/511337",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/511337"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/432754",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/432754"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/423080",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/423080"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/20468",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/20468"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/786089",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/786089"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/687856",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/687856"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/108894",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/108894"
       }
     ]
   },
@@ -1024,114 +488,34 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/678109",
+    "@id": "https://pleiades.stoa.org/places/668332",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/678109"
+        "@id": "https://pta.bbaw.de/place/668332"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/991375",
+    "@id": "https://pleiades.stoa.org/places/687934",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/991375"
+        "@id": "https://pta.bbaw.de/place/687934"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/697725",
+    "@id": "https://pleiades.stoa.org/places/540775",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/697725"
+        "@id": "https://pta.bbaw.de/place/540775"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/678299",
+    "@id": "https://pleiades.stoa.org/places/77402394",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/678299"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/501482",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/501482"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/423025",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/423025"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/991388",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/991388"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/1001896",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/1001896"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/481865",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/481865"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/628949",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/628949"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/981503",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/981503"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/501638",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/501638"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/912986",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/912986"
-      }
-    ]
-  },
-  {
-    "@id": "https://pleiades.stoa.org/places/982261",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/place/982261"
+        "@id": "https://pta.bbaw.de/place/77402394"
       }
     ]
   },
@@ -1144,34 +528,130 @@
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/1001940",
+    "@id": "https://pleiades.stoa.org/places/481865",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/1001940"
+        "@id": "https://pta.bbaw.de/place/481865"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/373879",
+    "@id": "https://pleiades.stoa.org/places/678145",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/373879"
+        "@id": "https://pta.bbaw.de/place/678145"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/727123",
+    "@id": "https://pleiades.stoa.org/places/1027",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/727123"
+        "@id": "https://pta.bbaw.de/place/1027"
       }
     ]
   },
   {
-    "@id": "https://pleiades.stoa.org/places/727236",
+    "@id": "https://pleiades.stoa.org/places/716615",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/place/727236"
+        "@id": "https://pta.bbaw.de/place/716615"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/20468",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/20468"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/432754",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/432754"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687995",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687995"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/648771",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/648771"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678054",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678054"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/423080",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/423080"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687953",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687953"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/39274",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/39274"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678334",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678334"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687900",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687900"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/697725",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/697725"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1306",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1306"
       }
     ]
   },
@@ -1184,10 +664,698 @@
     ]
   },
   {
+    "@id": "https://pleiades.stoa.org/places/383815",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/383815"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/599612",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/599612"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727070",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727070"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/207303",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/207303"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678147",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678147"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/912842",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/912842"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/628949",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/628949"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678106",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678106"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/658427",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/658427"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/766",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/766"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/786123",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/786123"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727172",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727172"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/991367",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/991367"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/746711",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/746711"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/423025",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/423025"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678060",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678060"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/912936",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/912936"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/991408",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/991408"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/639034",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/639034"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/912849",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/912849"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1001940",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1001940"
+      }
+    ]
+  },
+  {
     "@id": "https://pleiades.stoa.org/places/746745",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/place/746745"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/981503",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/981503"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727201",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727201"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/993",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/993"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/981534",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/981534"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/707556",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/707556"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/520998",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/520998"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/570102",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/570102"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727154",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727154"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687928",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687928"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/393473",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/393473"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/912816",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/912816"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687932",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687932"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1001896",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1001896"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/197446",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/197446"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/981508",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/981508"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678401",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678401"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687856",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687856"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/570577",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/570577"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687977",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687977"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/334481",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/334481"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/893951",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/893951"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/991407",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/991407"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/874621",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/874621"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1224",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1224"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/730134",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/730134"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/707498",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/707498"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/491656",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/491656"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678267",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678267"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727080",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727080"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/716595",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/716595"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678403",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678403"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/231839930",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/231839930"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/922698",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/922698"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687931",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687931"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/912986",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/912986"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/648653",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/648653"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/668190",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/668190"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/462492",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/462492"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/639048",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/639048"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/501638",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/501638"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1001950",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1001950"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/786059",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/786059"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/668537581",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/668537581"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/207065",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/207065"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/207439",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/207439"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/629035",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/629035"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727071",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727071"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/511337",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/511337"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/1052",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/1052"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/746815",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/746815"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/730110",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/730110"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/108894",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/108894"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/39303",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/39303"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/383706",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/383706"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/991388",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/991388"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/981247534",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/981247534"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/652327",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/652327"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678143",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678143"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/501434",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/501434"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/687927",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/687927"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/29475",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/29475"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/570220",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/570220"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/678369",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/678369"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/716588",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/716588"
+      }
+    ]
+  },
+  {
+    "@id": "https://pleiades.stoa.org/places/727078",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/place/727078"
       }
     ]
   }

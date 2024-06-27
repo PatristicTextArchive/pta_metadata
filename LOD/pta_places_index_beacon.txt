@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-10-20T06:24:54.566322+00:00
+#TIMESTAMP: 2024-06-27T09:27:11.040666+00:00
 #UPDATE: monthly
 1001133|https://pta.bbaw.de/place/1001133
 1001896|https://pta.bbaw.de/place/1001896
@@ -17,6 +17,7 @@
 1027|https://pta.bbaw.de/place/1027
 1052|https://pta.bbaw.de/place/1052
 108894|https://pta.bbaw.de/place/108894
+1224|https://pta.bbaw.de/place/1224
 1306|https://pta.bbaw.de/place/1306
 156668177|https://pta.bbaw.de/place/156668177
 187290|https://pta.bbaw.de/place/187290
@@ -37,6 +38,7 @@
 383706|https://pta.bbaw.de/place/383706
 383815|https://pta.bbaw.de/place/383815
 383816|https://pta.bbaw.de/place/383816
+39274|https://pta.bbaw.de/place/39274
 39290|https://pta.bbaw.de/place/39290
 39303|https://pta.bbaw.de/place/39303
 393379|https://pta.bbaw.de/place/393379
@@ -51,6 +53,7 @@
 481865|https://pta.bbaw.de/place/481865
 491656|https://pta.bbaw.de/place/491656
 491740|https://pta.bbaw.de/place/491740
+501434|https://pta.bbaw.de/place/501434
 501482|https://pta.bbaw.de/place/501482
 501638|https://pta.bbaw.de/place/501638
 511268|https://pta.bbaw.de/place/511268
@@ -58,8 +61,11 @@
 520998|https://pta.bbaw.de/place/520998
 530871|https://pta.bbaw.de/place/530871
 540775|https://pta.bbaw.de/place/540775
+541140|https://pta.bbaw.de/place/541140
+570028|https://pta.bbaw.de/place/570028
 570102|https://pta.bbaw.de/place/570102
 570220|https://pta.bbaw.de/place/570220
+570577|https://pta.bbaw.de/place/570577
 579885|https://pta.bbaw.de/place/579885
 589748|https://pta.bbaw.de/place/589748
 599612|https://pta.bbaw.de/place/599612
@@ -68,11 +74,18 @@
 629035|https://pta.bbaw.de/place/629035
 638965|https://pta.bbaw.de/place/638965
 639034|https://pta.bbaw.de/place/639034
+639048|https://pta.bbaw.de/place/639048
+648647|https://pta.bbaw.de/place/648647
+648651|https://pta.bbaw.de/place/648651
 648653|https://pta.bbaw.de/place/648653
+648771|https://pta.bbaw.de/place/648771
+648792|https://pta.bbaw.de/place/648792
+652327|https://pta.bbaw.de/place/652327
 658381|https://pta.bbaw.de/place/658381
 658427|https://pta.bbaw.de/place/658427
 668190|https://pta.bbaw.de/place/668190
 668332|https://pta.bbaw.de/place/668332
+668537581|https://pta.bbaw.de/place/668537581
 678054|https://pta.bbaw.de/place/678054
 678060|https://pta.bbaw.de/place/678060
 678084|https://pta.bbaw.de/place/678084
@@ -80,11 +93,14 @@
 678109|https://pta.bbaw.de/place/678109
 678143|https://pta.bbaw.de/place/678143
 678145|https://pta.bbaw.de/place/678145
+678147|https://pta.bbaw.de/place/678147
 678220|https://pta.bbaw.de/place/678220
 678267|https://pta.bbaw.de/place/678267
 678299|https://pta.bbaw.de/place/678299
+678334|https://pta.bbaw.de/place/678334
 678369|https://pta.bbaw.de/place/678369
 678370|https://pta.bbaw.de/place/678370
+678401|https://pta.bbaw.de/place/678401
 678403|https://pta.bbaw.de/place/678403
 678431|https://pta.bbaw.de/place/678431
 687856|https://pta.bbaw.de/place/687856
@@ -96,10 +112,12 @@
 687931|https://pta.bbaw.de/place/687931
 687932|https://pta.bbaw.de/place/687932
 687934|https://pta.bbaw.de/place/687934
+687953|https://pta.bbaw.de/place/687953
 687977|https://pta.bbaw.de/place/687977
 687995|https://pta.bbaw.de/place/687995
 697725|https://pta.bbaw.de/place/697725
 707498|https://pta.bbaw.de/place/707498
+707556|https://pta.bbaw.de/place/707556
 716520|https://pta.bbaw.de/place/716520
 716524|https://pta.bbaw.de/place/716524
 716588|https://pta.bbaw.de/place/716588
@@ -135,25 +153,28 @@
 857287|https://pta.bbaw.de/place/857287
 857932176|https://pta.bbaw.de/place/857932176
 874334|https://pta.bbaw.de/place/874334
+874602|https://pta.bbaw.de/place/874602
 874621|https://pta.bbaw.de/place/874621
 893951|https://pta.bbaw.de/place/893951
 912816|https://pta.bbaw.de/place/912816
 912842|https://pta.bbaw.de/place/912842
 912849|https://pta.bbaw.de/place/912849
 912936|https://pta.bbaw.de/place/912936
+912964|https://pta.bbaw.de/place/912964
 912986|https://pta.bbaw.de/place/912986
+922698|https://pta.bbaw.de/place/922698
+981247534|https://pta.bbaw.de/place/981247534
 981503|https://pta.bbaw.de/place/981503
 981508|https://pta.bbaw.de/place/981508
 981509|https://pta.bbaw.de/place/981509
 981514|https://pta.bbaw.de/place/981514
 981522|https://pta.bbaw.de/place/981522
 981534|https://pta.bbaw.de/place/981534
-982261|https://pta.bbaw.de/place/982261
 991367|https://pta.bbaw.de/place/991367
 991375|https://pta.bbaw.de/place/991375
 991388|https://pta.bbaw.de/place/991388
 991398|https://pta.bbaw.de/place/991398
+991407|https://pta.bbaw.de/place/991407
 991408|https://pta.bbaw.de/place/991408
 992077|https://pta.bbaw.de/place/992077
 993|https://pta.bbaw.de/place/993
-XXXXXX|https://pta.bbaw.de/place/XXXXXX

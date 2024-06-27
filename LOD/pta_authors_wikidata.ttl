@@ -12,11 +12,15 @@
 
 <https://www.wikidata.org/wiki/Q317029> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0004> .
 
+<https://www.wikidata.org/wiki/Q354350> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0012> .
+
 <https://www.wikidata.org/wiki/Q44024> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0022> .
 
 <https://www.wikidata.org/wiki/Q44079> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0005> .
 
 <https://www.wikidata.org/wiki/Q474872> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0013> .
+
+<https://www.wikidata.org/wiki/Q519513> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0023> .
 
 <https://www.wikidata.org/wiki/Q722953> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001> .
 

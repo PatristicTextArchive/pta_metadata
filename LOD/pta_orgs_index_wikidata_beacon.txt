@@ -6,12 +6,42 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-10-20T06:21:32.737526+00:00
+#TIMESTAMP: 2024-06-27T08:16:34.788777+00:00
 #UPDATE: monthly
 Q133331|https://pta.bbaw.de/group/PTA_O00001
 Q1194032|https://pta.bbaw.de/group/PTA_O00002
 Q83922|https://pta.bbaw.de/group/PTA_O00003
 Q398180|https://pta.bbaw.de/group/PTA_O00004
 Q1293300|https://pta.bbaw.de/group/PTA_O00006
+Q43412|https://pta.bbaw.de/group/PTA_O00010
+Q182651|https://pta.bbaw.de/group/PTA_O00013
 Q1061510|https://pta.bbaw.de/group/PTA_O00014
 Q1651392|https://pta.bbaw.de/group/PTA_O00015
+Q16707860|https://pta.bbaw.de/group/PTA_O00016
+Q106039|https://pta.bbaw.de/group/PTA_O00018
+Q131165|https://pta.bbaw.de/group/PTA_O00019
+Q163329|https://pta.bbaw.de/group/PTA_O00020
+Q11073103|https://pta.bbaw.de/group/PTA_O00021
+Q484206|https://pta.bbaw.de/group/PTA_O00022
+Q1194234|https://pta.bbaw.de/group/PTA_O00023
+Q26403|https://pta.bbaw.de/group/PTA_O00024
+Q5518599|https://pta.bbaw.de/group/PTA_O00026
+Q2918061|https://pta.bbaw.de/group/PTA_O00027
+Q940785|https://pta.bbaw.de/group/PTA_O00028
+Q797930|https://pta.bbaw.de/group/PTA_O00029
+Q8735|https://pta.bbaw.de/group/PTA_O00030
+Q131802|https://pta.bbaw.de/group/PTA_O00032
+Q745718|https://pta.bbaw.de/group/PTA_O00033
+Q200969|https://pta.bbaw.de/group/PTA_O00035
+Q193776|https://pta.bbaw.de/group/PTA_O00036
+Q11934533|https://pta.bbaw.de/group/PTA_O00037
+Q106039|https://pta.bbaw.de/group/PTA_O00038
+Q29334|https://pta.bbaw.de/group/PTA_O00039
+Q2277|https://pta.bbaw.de/group/PTA_O00041
+Q23670057|https://pta.bbaw.de/group/PTA_O00042
+Q878607|https://pta.bbaw.de/group/PTA_O00044
+Q134313|https://pta.bbaw.de/group/PTA_O00045
+Q107013|https://pta.bbaw.de/group/PTA_O00046
+Q400019|https://pta.bbaw.de/group/PTA_O00047
+Q203507|https://pta.bbaw.de/group/PTA_O00048
+Q5406|https://pta.bbaw.de/group/PTA_O00049

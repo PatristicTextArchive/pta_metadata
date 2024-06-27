@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-10-20T06:21:31.761775+00:00
+#TIMESTAMP: 2024-06-27T08:15:27.806454+00:00
 #UPDATE: monthly
 118557831|https://pta.bbaw.de/person/PTA_P00001
 102389071|https://pta.bbaw.de/person/PTA_P00002
@@ -14,7 +14,7 @@
 1157159761|https://pta.bbaw.de/person/PTA_P00004
 118577069|https://pta.bbaw.de/person/PTA_P00005
 118555340|https://pta.bbaw.de/person/PTA_P00006
-102406960|https://pta.bbaw.de/person/PTA_P00007
+118640003|https://pta.bbaw.de/person/PTA_P00007
 118501828|https://pta.bbaw.de/person/PTA_P00008
 118593838|https://pta.bbaw.de/person/PTA_P00009
 118505122|https://pta.bbaw.de/person/PTA_P00010
@@ -42,6 +42,18 @@
 102387362|https://pta.bbaw.de/person/PTA_P00039
 102386528|https://pta.bbaw.de/person/PTA_P00040
 118644602|https://pta.bbaw.de/person/PTA_P00041
+105549460X|https://pta.bbaw.de/person/PTA_P00042
+102387575|https://pta.bbaw.de/person/PTA_P00043
 118503758|https://pta.bbaw.de/person/PTA_P00044
 102406960|https://pta.bbaw.de/person/PTA_P00045
 119269171|https://pta.bbaw.de/person/PTA_P00046
+118503642|https://pta.bbaw.de/person/PTA_P00049
+118733591|https://pta.bbaw.de/person/PTA_P00053
+118796771|https://pta.bbaw.de/person/PTA_P00059
+118808109|https://pta.bbaw.de/person/PTA_P00060
+11862234X|https://pta.bbaw.de/person/PTA_P00061
+118621637|https://pta.bbaw.de/person/PTA_P00062
+118578979|https://pta.bbaw.de/person/PTA_P00063
+118578030|https://pta.bbaw.de/person/PTA_P00064
+118557815|https://pta.bbaw.de/person/PTA_P00066
+119052474|https://pta.bbaw.de/person/PTA_P00068

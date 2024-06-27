@@ -6,15 +6,18 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-10-20T06:25:56.757759+00:00
+#TIMESTAMP: 2024-06-27T09:32:36.830367+00:00
 #UPDATE: monthly
-Q722953|https://pta.bbaw.de/text/urn:cts:pta:pta0001
-Q142999|https://pta.bbaw.de/text/urn:cts:pta:pta0003
-Q317029|https://pta.bbaw.de/text/urn:cts:pta:pta0004
-Q44079|https://pta.bbaw.de/text/urn:cts:pta:pta0005
-Q170472|https://pta.bbaw.de/text/urn:cts:pta:pta0007
-Q474872|https://pta.bbaw.de/text/urn:cts:pta:pta0013
-Q44024|https://pta.bbaw.de/text/urn:cts:pta:pta0022
+|https://pta.bbaw.de/text/urn:cts:pta:pta0029
+Q519513|https://pta.bbaw.de/text/urn:cts:pta:pta0023
 Q1499216|https://pta.bbaw.de/text/urn:cts:pta:pta0036
-Q207113|https://pta.bbaw.de/text/urn:cts:pta:pta0037
+Q354350|https://pta.bbaw.de/text/urn:cts:pta:pta0012
+Q317029|https://pta.bbaw.de/text/urn:cts:pta:pta0004
+Q142999|https://pta.bbaw.de/text/urn:cts:pta:pta0003
 Q1845|https://pta.bbaw.de/text/urn:cts:pta:pta9999
+Q722953|https://pta.bbaw.de/text/urn:cts:pta:pta0001
+Q207113|https://pta.bbaw.de/text/urn:cts:pta:pta0037
+Q44024|https://pta.bbaw.de/text/urn:cts:pta:pta0022
+Q44079|https://pta.bbaw.de/text/urn:cts:pta:pta0005
+Q474872|https://pta.bbaw.de/text/urn:cts:pta:pta0013
+Q170472|https://pta.bbaw.de/text/urn:cts:pta:pta0007

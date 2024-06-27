@@ -1,8 +1,56 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<http://d-nb.info/gnd/118576615> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00047> .
+
+<http://d-nb.info/gnd/4002455-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00010> .
+
+<http://d-nb.info/gnd/4010071-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00038> .
+
+<http://d-nb.info/gnd/4019107-2> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00021> .
+
 <http://d-nb.info/gnd/4032379-1> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00001> .
+
+<http://d-nb.info/gnd/4036915-8> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00046> .
+
+<http://d-nb.info/gnd/4045777-1> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00036> .
+
+<http://d-nb.info/gnd/4051468-7> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00013> .
+
+<http://d-nb.info/gnd/4054582-9> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00039> .
+
+<http://d-nb.info/gnd/4055278-0> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00032> .
+
+<http://d-nb.info/gnd/4072478-5> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00049> .
+
+<http://d-nb.info/gnd/4076778-4> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00041> .
 
 <http://d-nb.info/gnd/4084746-9> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00014> .
 
+<http://d-nb.info/gnd/4084762-7> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00027> .
+
+<http://d-nb.info/gnd/4106468-9> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00044> .
+
+<http://d-nb.info/gnd/4115909-3> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00022> .
+
+<http://d-nb.info/gnd/4120416-5> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00042> .
+
 <http://d-nb.info/gnd/4122633-1> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00015> .
+
+<http://d-nb.info/gnd/4124605-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00045> .
+
+<http://d-nb.info/gnd/4142791-9> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00023> .
+
+<http://d-nb.info/gnd/4174130-4> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00024> .
+
+<http://d-nb.info/gnd/4211510-3> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00037> .
+
+<http://d-nb.info/gnd/4223571-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00020> .
+
+<http://d-nb.info/gnd/4278477-3> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00048> .
+
+<http://d-nb.info/gnd/4331728-5> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00028> .
+
+<http://d-nb.info/gnd/4355044-7> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00033> .
+
+<http://d-nb.info/gnd/4368744-1> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00019> .
 

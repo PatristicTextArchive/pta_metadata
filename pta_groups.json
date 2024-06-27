@@ -25,21 +25,23 @@
         ],
         "date": "0325",
         "urns": [
+            "pta0001.pta014.pta-grc1:g7",
             "pta0013.pta003.pta-deu1:g1",
             "pta0013.pta003.pta-deu1:g2",
             "pta0013.pta003.pta-grc1:g1",
             "pta0013.pta003.pta-grc1:g2",
             "pta0022.pta003.pta-grc1:g1",
-            "pta0022.pta003.pta-grc1:g5",
-            "pta0022.pta003.pta-grc1:g14",
-            "pta0022.pta003.pta-grc1:g26",
-            "pta0022.pta003.pta-grc1:g32",
-            "pta0022.pta003.pta-grc1:g33",
-            "pta0022.pta003.pta-grc1:g34",
-            "pta0022.pta003.pta-grc1:g35",
+            "pta0022.pta003.pta-grc1:g10",
+            "pta0022.pta003.pta-grc1:g20",
+            "pta0022.pta003.pta-grc1:g36",
+            "pta0022.pta003.pta-grc1:g43",
+            "pta0022.pta003.pta-grc1:g44",
+            "pta0022.pta003.pta-grc1:g45",
+            "pta0022.pta003.pta-grc1:g46",
             "pta0022.pta004.pta-grc1:g1"
         ],
         "name_txts": [
+            "ἡ ἐν Νικαίᾳ σύνοδος",
             "Die heilige Synode der Väter in Nicaea",
             "die Väter in Nicaea",
             "τὴν ἁγίαν σύνοδον τῶν πατέρων τῶν ἐν Νικαίᾳ σύνοδον",
@@ -78,10 +80,16 @@
         ],
         "date": "",
         "urns": [
-            "pta0013.pta003.pta-grc1:g3"
+            "pta0001.pta019.pta-grc1:g27",
+            "pta0001.pta055.pta-grc1:g16",
+            "pta0013.pta003.pta-grc1:g3",
+            "pta0022.pta014.pta-grc1:g6"
         ],
         "name_txts": [
-            "τῶν Ἀνομοίων"
+            "Εὐνομιανοί",
+            "Εὐνομιανοί",
+            "τῶν Ἀνομοίων",
+            "Ἀνομοίοις"
         ]
     },
     {
@@ -107,33 +115,92 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta004.pta-grc1:g5",
+            "pta0001.pta004.pta-grc1:g8",
+            "pta0001.pta004.pta-grc1:g11",
+            "pta0001.pta004.pta-grc1:g12",
+            "pta0001.pta004.pta-grc1:g13",
+            "pta0001.pta005.pta-grc1:g13",
+            "pta0001.pta019.pta-grc1:g26",
+            "pta0001.pta055.pta-grc1:g15",
             "pta0013.pta003.pta-grc1:g4",
             "pta0013.pta003.pta-grc1:g6",
             "pta0022.pta003.pta-grc1:g3",
-            "pta0022.pta003.pta-grc1:g4",
-            "pta0022.pta003.pta-grc1:g8",
-            "pta0022.pta003.pta-grc1:g12",
-            "pta0022.pta003.pta-grc1:g15",
-            "pta0022.pta003.pta-grc1:g20",
-            "pta0022.pta003.pta-grc1:g24",
-            "pta0022.pta003.pta-grc1:g27",
+            "pta0022.pta003.pta-grc1:g7",
+            "pta0022.pta003.pta-grc1:g13",
+            "pta0022.pta003.pta-grc1:g18",
+            "pta0022.pta003.pta-grc1:g21",
             "pta0022.pta003.pta-grc1:g28",
-            "pta0022.pta003.pta-grc1:g29",
-            "pta0022.pta003.pta-grc1:g30",
-            "pta0022.pta003.pta-grc1:g36",
+            "pta0022.pta003.pta-grc1:g34",
             "pta0022.pta003.pta-grc1:g37",
             "pta0022.pta003.pta-grc1:g38",
+            "pta0022.pta003.pta-grc1:g39",
+            "pta0022.pta003.pta-grc1:g40",
+            "pta0022.pta003.pta-grc1:g49",
+            "pta0022.pta003.pta-grc1:g50",
+            "pta0022.pta003.pta-grc1:g51",
             "pta0022.pta004.pta-grc1:g2",
             "pta0022.pta004.pta-grc1:g3",
-            "pta0022.pta004.pta-grc1:g5",
-            "pta0022.pta004.pta-grc1:g6",
-            "pta0022.pta004.pta-grc1:g7",
-            "pta0022.pta004.pta-grc1:g8",
-            "pta0022.pta004.pta-grc1:g9",
-            "pta0022.pta004.pta-grc1:g11",
-            "pta0022.pta004.pta-grc1:g12"
+            "pta0022.pta004.pta-grc1:g14",
+            "pta0022.pta004.pta-grc1:g15",
+            "pta0022.pta004.pta-grc1:g16",
+            "pta0022.pta004.pta-grc1:g17",
+            "pta0022.pta004.pta-grc1:g19",
+            "pta0022.pta004.pta-grc1:g21",
+            "pta0022.pta004.pta-grc1:g22",
+            "pta0022.pta010.pta-grc1:g1",
+            "pta0022.pta010.pta-grc1:g2",
+            "pta0022.pta010.pta-grc1:g5",
+            "pta0022.pta010.pta-grc1:g6",
+            "pta0022.pta010.pta-grc1:g7",
+            "pta0022.pta010.pta-grc1:g8",
+            "pta0022.pta010.pta-grc1:g9",
+            "pta0022.pta010.pta-grc1:g11",
+            "pta0022.pta010.pta-grc1:g14",
+            "pta0022.pta010.pta-grc1:g16",
+            "pta0022.pta010.pta-grc1:g17",
+            "pta0022.pta014.pta-grc1:g1",
+            "pta0022.pta014.pta-grc1:g2",
+            "pta0022.pta014.pta-grc1:g5",
+            "pta0022.pta015.pta-grc1:g1",
+            "pta0022.pta015.pta-grc1:g2",
+            "pta0022.pta015.pta-grc1:g3",
+            "pta0022.pta015.pta-grc1:g4",
+            "pta0022.pta015.pta-grc1:g6",
+            "pta0022.pta016.pta-grc1:g1",
+            "pta0022.pta017.pta-grc1:g1",
+            "pta0022.pta017.pta-grc1:g2",
+            "pta0022.pta017.pta-grc1:g4",
+            "pta0022.pta017.pta-grc1:g5",
+            "pta0022.pta017.pta-grc1:g6",
+            "pta0022.pta017.pta-grc1:g7",
+            "pta0022.pta017.pta-grc1:g8",
+            "pta0022.pta017.pta-grc1:g9",
+            "pta0022.pta017.pta-grc1:g10",
+            "pta0022.pta017.pta-grc1:g11",
+            "pta0022.pta017.pta-grc1:g12",
+            "pta0022.pta017.pta-grc1:g13",
+            "pta0022.pta017.pta-grc1:g14",
+            "pta0022.pta017.pta-grc1:g15",
+            "pta0022.pta017.pta-grc1:g16",
+            "pta0036.pta001.pta-grc1:g42",
+            "pta0036.pta001.pta-grc1:g50",
+            "pta0036.pta001.pta-grc1:g51",
+            "pta0036.pta001.pta-grc1:g65",
+            "pta0036.pta001.pta-grc1:g66",
+            "pta0036.pta001.pta-grc1:g68",
+            "pta0036.pta001.pta-grc1:g69",
+            "pta0100.pta007.pta-grc1:g1"
         ],
         "name_txts": [
+            "Ἀρειανῶν",
+            "Ἀρειανός",
+            "Ἀρειανόν",
+            "Ἀρειανός",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
             "τῶν Ἀρειανῶν",
             "τοὺς Ἀρειανοὺς",
             "Ἀρειανῶν",
@@ -158,7 +225,50 @@
             "Ἀρειανοῖς",
             "Ἀρειανός",
             "Ἀρειομανίτας",
-            "Ἀρειομανῖται"
+            "Ἀρειομανῖται",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανοῖς",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανούς",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειομανίτας",
+            "Ἀρειανοῖς",
+            "Ἀρειανῶν",
+            "Ἀρειανῶν",
+            "Ἀρειομανῖται",
+            "Ἀρειομανῖται",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανῶν",
+            "Ἀρειανῶν",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανούς",
+            "Ἀρειανοί",
+            "Ἀρειανοί",
+            "Ἀρειανοῦ",
+            "Ἀρειανούς",
+            "Ἀρειανήν",
+            "Ἀρειανικῆς",
+            "Ἀρειανῶν",
+            "Ἀρειανούς",
+            "Ἀρειανούς"
         ]
     },
     {
@@ -184,9 +294,23 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta003.pta-grc1:g10",
+            "pta0001.pta004.pta-grc1:g6",
+            "pta0001.pta004.pta-grc1:g7",
+            "pta0001.pta004.pta-grc1:g9",
+            "pta0001.pta004.pta-grc1:g10",
+            "pta0001.pta004.pta-grc1:g14",
+            "pta0001.pta004.pta-grc1:g15",
             "pta0013.pta003.pta-grc1:g5"
         ],
         "name_txts": [
+            "τοὺς ἀπὸ Μακεδονίου",
+            "Μακεδονιανῶν",
+            "Μακεδονιανούς",
+            "Μακεδονιανόν",
+            "Μακεδονιανῷ",
+            "Μακεδονιανοί",
+            "Μακεδονιανός",
             "τῶν Πνευματομάχων"
         ]
     },
@@ -210,18 +334,20 @@
         "date": "",
         "urns": [
             "pta0022.pta003.pta-grc1:g2",
-            "pta0022.pta003.pta-grc1:g6",
-            "pta0022.pta003.pta-grc1:g7",
-            "pta0022.pta003.pta-grc1:g9",
-            "pta0022.pta003.pta-grc1:g10",
             "pta0022.pta003.pta-grc1:g11",
-            "pta0022.pta003.pta-grc1:g13",
+            "pta0022.pta003.pta-grc1:g12",
+            "pta0022.pta003.pta-grc1:g14",
             "pta0022.pta003.pta-grc1:g16",
             "pta0022.pta003.pta-grc1:g17",
-            "pta0022.pta003.pta-grc1:g18",
             "pta0022.pta003.pta-grc1:g19",
-            "pta0022.pta003.pta-grc1:g23",
-            "pta0022.pta003.pta-grc1:g31"
+            "pta0022.pta003.pta-grc1:g22",
+            "pta0022.pta003.pta-grc1:g24",
+            "pta0022.pta003.pta-grc1:g25",
+            "pta0022.pta003.pta-grc1:g26",
+            "pta0022.pta003.pta-grc1:g33",
+            "pta0022.pta003.pta-grc1:g41",
+            "pta0022.pta014.pta-grc1:g3",
+            "pta0022.pta014.pta-grc1:g4"
         ],
         "name_txts": [
             "τῶν περὶ",
@@ -236,7 +362,9 @@
             "οἱ περὶ",
             "οἱ περὶ",
             "τῶν περὶ",
-            "οἱ δὲ περὶ Εὐσέβιον"
+            "οἱ δὲ περὶ Εὐσέβιον",
+            "οἱ περὶ",
+            "οἱ περὶ"
         ]
     },
     {
@@ -262,18 +390,55 @@
         ],
         "date": "",
         "urns": [
-            "pta0022.pta003.pta-grc1:g21",
-            "pta0022.pta003.pta-grc1:g22",
-            "pta0022.pta003.pta-grc1:g25",
-            "pta0022.pta004.pta-grc1:g4",
-            "pta0022.pta004.pta-grc1:g10"
+            "pta0003.pta009.pta-grc1:g16",
+            "pta0003.pta009.pta-grc1:g29",
+            "pta0022.pta003.pta-grc1:g29",
+            "pta0022.pta003.pta-grc1:g30",
+            "pta0022.pta003.pta-grc1:g35",
+            "pta0022.pta004.pta-grc1:g12",
+            "pta0022.pta004.pta-grc1:g13",
+            "pta0022.pta004.pta-grc1:g20"
         ],
         "name_txts": [
+            "Σαβελλιανός",
+            "Σαβελλιανόν",
             "τοὺς Σαβελλίζοντας",
             "τῶν τὰ",
             "Ἀρειανῶν",
             "τούς",
+            "τῶν τὰ Σαβελλίου",
             "Σαβελλιανῶν"
+        ]
+    },
+    {
+        "org_id": "PTA_O00007",
+        "other_ids": [
+            {
+                "GND": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Paulianists"
+            },
+            {
+                "deu": "Paulianer"
+            },
+            {
+                "lat": "Pauliani"
+            },
+            {
+                "grc": "Παυλιανοί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta009.pta-grc1:g15",
+            "pta0003.pta009.pta-grc1:g17"
+        ],
+        "name_txts": [
+            "Παυλιανοί",
+            "Παυλιανός"
         ]
     },
     {
@@ -299,47 +464,556 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta001.pta-grcBibex:g4",
+            "pta0001.pta002.pta-grc1:g12",
+            "pta0001.pta002.pta-grc1:g14",
+            "pta0001.pta003.pta-grc1:g1",
+            "pta0001.pta003.pta-grc1:g6",
+            "pta0001.pta003.pta-grc1:g11",
+            "pta0001.pta003.pta-grc1:g12",
+            "pta0001.pta003.pta-grc1:g13",
+            "pta0001.pta003.pta-grc1:g15",
+            "pta0001.pta003.pta-grc1:g23",
+            "pta0001.pta005.pta-grc1:g1",
+            "pta0001.pta005.pta-grc1:g2",
+            "pta0001.pta005.pta-grc1:g4",
+            "pta0001.pta005.pta-grc1:g19",
+            "pta0001.pta006.pta-grc1:g5",
+            "pta0001.pta006.pta-grc1:g12",
+            "pta0001.pta006.pta-grc1:g13",
+            "pta0001.pta006.pta-grc1:g14",
+            "pta0001.pta006.pta-grc1:g19",
+            "pta0001.pta007.pta-grc1:g2",
+            "pta0001.pta007.pta-grc1:g9",
+            "pta0001.pta008.pta-grc1:g1",
+            "pta0001.pta008.pta-grc1:g8",
+            "pta0001.pta008.pta-grc1:g9",
+            "pta0001.pta008.pta-grc1:g10",
+            "pta0001.pta008.pta-grc1:g12",
+            "pta0001.pta011.pta-grc1:g1",
+            "pta0001.pta011.pta-grc1:g2",
+            "pta0001.pta011.pta-grc1:g3",
+            "pta0001.pta011.pta-grc1:g4",
+            "pta0001.pta011.pta-grc1:g5",
+            "pta0001.pta011.pta-grc1:g9",
+            "pta0001.pta011.pta-grc1:g12",
+            "pta0001.pta011.pta-grc1:g13",
+            "pta0001.pta011.pta-grc1:g15",
+            "pta0001.pta011.pta-grc1:g16",
+            "pta0001.pta011.pta-grc1:g17",
+            "pta0001.pta011.pta-grc1:g21",
+            "pta0001.pta013.pta-grc1:g1",
+            "pta0001.pta013.pta-grc1:g2",
+            "pta0001.pta014.pta-grc1:g2",
+            "pta0001.pta014.pta-grc1:g3",
+            "pta0001.pta014.pta-grc1:g5",
+            "pta0001.pta014.pta-grc1:g11",
+            "pta0001.pta016.pta-grc1:g5",
+            "pta0001.pta016.pta-grc1:g6",
+            "pta0001.pta017.pta-grc1:g1",
+            "pta0001.pta017.pta-grc1:g2",
+            "pta0001.pta017.pta-grc1:g3",
+            "pta0001.pta017.pta-grc1:g4",
+            "pta0001.pta017.pta-grc1:g5",
+            "pta0001.pta017.pta-grc1:g6",
+            "pta0001.pta017.pta-grc1:g7",
+            "pta0001.pta017.pta-grc1:g8",
+            "pta0001.pta017.pta-grc1:g9",
+            "pta0001.pta017.pta-grc1:g11",
+            "pta0001.pta017.pta-grc1:g12",
+            "pta0001.pta017.pta-grc1:g13",
+            "pta0001.pta017.pta-grc1:g14",
+            "pta0001.pta017.pta-grc1:g15",
+            "pta0001.pta017.pta-grc1:g16",
+            "pta0001.pta017.pta-grc1:g17",
+            "pta0001.pta017.pta-grc1:g18",
+            "pta0001.pta017.pta-grc1:g19",
+            "pta0001.pta017.pta-grc1:g20",
+            "pta0001.pta017.pta-grc1:g21",
+            "pta0001.pta018.pta-grc1:g1",
+            "pta0001.pta018.pta-grc1:g13",
+            "pta0001.pta018.pta-grc1:g14",
+            "pta0001.pta018.pta-grc1:g17",
+            "pta0001.pta018.pta-grc1:g21",
+            "pta0001.pta018.pta-grc1:g24",
+            "pta0001.pta018.pta-grc1:g25",
+            "pta0001.pta018.pta-grc1:g26",
+            "pta0001.pta018.pta-grc1:g28",
+            "pta0001.pta018.pta-grc1:g29",
+            "pta0001.pta018.pta-grc1:g31",
+            "pta0001.pta018.pta-grc1:g36",
+            "pta0001.pta018.pta-grc1:g40",
+            "pta0001.pta018.pta-grc1:g44",
+            "pta0001.pta018.pta-grc1:g49",
+            "pta0001.pta018.pta-grc1:g50",
+            "pta0001.pta018.pta-grc1:g52",
+            "pta0001.pta018.pta-grc1:g53",
+            "pta0001.pta018.pta-grc1:g55",
+            "pta0001.pta019.pta-grc1:g5",
+            "pta0001.pta019.pta-grc1:g7",
+            "pta0001.pta019.pta-grc1:g12",
+            "pta0001.pta019.pta-grc1:g14",
+            "pta0001.pta019.pta-grc1:g15",
+            "pta0001.pta019.pta-grc1:g18",
+            "pta0001.pta019.pta-grc1:g19",
+            "pta0001.pta019.pta-grc1:g20",
+            "pta0001.pta019.pta-grc1:g22",
+            "pta0001.pta019.pta-grc1:g24",
+            "pta0001.pta022.pta-grc1:g3",
+            "pta0001.pta022.pta-grc1:g4",
+            "pta0001.pta022.pta-grc1:g6",
+            "pta0001.pta022.pta-grc1:g7",
+            "pta0001.pta024.pta-grc1:g1",
+            "pta0001.pta024.pta-grc1:g5",
+            "pta0001.pta025.pta-grc1:g1",
+            "pta0001.pta025.pta-grc1:g7",
+            "pta0001.pta025.pta-grc1:g8",
+            "pta0001.pta025.pta-grc1:g10",
+            "pta0001.pta025.pta-grc1:g11",
+            "pta0001.pta025.pta-grc1:g14",
+            "pta0001.pta025.pta-grc1:g17",
+            "pta0001.pta026.pta-grc1:g1",
+            "pta0001.pta026.pta-grc1:g3",
+            "pta0001.pta026.pta-grc1:g5",
             "pta0001.pta026.pta-grcBibex:g1",
             "pta0001.pta026.pta-grcBibex:g3",
             "pta0001.pta026.pta-grcBibex:g4",
+            "pta0001.pta029.pta-grc1:g1",
+            "pta0001.pta029.pta-grc1:g2",
+            "pta0001.pta029.pta-grc1:g7",
+            "pta0001.pta029.pta-grc1:g13",
+            "pta0001.pta029.pta-grc1:g14",
+            "pta0001.pta031.pta-grc1:g1",
+            "pta0001.pta031.pta-grc1:g10",
+            "pta0001.pta034.pta-grc1:g5",
+            "pta0001.pta034.pta-grc1:g6",
+            "pta0001.pta036.pta-grc1:g4",
+            "pta0001.pta037.pta-grc1:g1",
+            "pta0001.pta037.pta-grc1:g4",
+            "pta0001.pta037.pta-grc1:g5",
+            "pta0001.pta037.pta-grc1:g6",
+            "pta0001.pta037.pta-grc1:g7",
+            "pta0001.pta037.pta-grc1:g10",
+            "pta0001.pta037.pta-grc1:g11",
+            "pta0001.pta037.pta-grc1:g12",
+            "pta0001.pta037.pta-grc1:g13",
+            "pta0001.pta037.pta-grc1:g14",
+            "pta0001.pta037.pta-grc1:g17",
+            "pta0001.pta037.pta-grc1:g18",
+            "pta0001.pta037.pta-grc1:g19",
+            "pta0001.pta037.pta-grc1:g20",
+            "pta0001.pta037.pta-grc1:g22",
+            "pta0001.pta037.pta-grc1:g23",
+            "pta0001.pta037.pta-grc1:g24",
+            "pta0001.pta037.pta-grc1:g25",
+            "pta0001.pta038.pta-grc1:g4",
+            "pta0001.pta038.pta-grc1:g6",
+            "pta0001.pta040.pta-grc1:g2",
+            "pta0001.pta040.pta-grc1:g5",
+            "pta0001.pta040.pta-grc1:g7",
+            "pta0001.pta040.pta-grc1:g28",
+            "pta0001.pta041.pta-grc1:g1",
+            "pta0001.pta041.pta-grc1:g3",
+            "pta0001.pta041.pta-grc1:g9",
+            "pta0001.pta041.pta-grc1:g10",
+            "pta0001.pta041.pta-grc1:g12",
+            "pta0001.pta041.pta-grc1:g13",
+            "pta0001.pta041.pta-grc1:g14",
+            "pta0001.pta041.pta-grc1:g15",
+            "pta0001.pta041.pta-grc1:g22",
+            "pta0001.pta042.pta-grc1:g10",
+            "pta0001.pta042.pta-grc1:g14",
+            "pta0001.pta042.pta-grc1:g16",
+            "pta0001.pta042.pta-grc1:g31",
+            "pta0001.pta042.pta-grc1:g33",
+            "pta0001.pta042.pta-grc1:g57",
+            "pta0001.pta042.pta-grc1:g74",
+            "pta0001.pta042.pta-grc1:g75",
+            "pta0001.pta042.pta-grc1:g76",
+            "pta0001.pta042.pta-grc1:g77",
+            "pta0001.pta042.pta-grc1:g78",
+            "pta0001.pta042.pta-grc1:g80",
+            "pta0001.pta042.pta-grc1:g82",
+            "pta0001.pta042.pta-grc1:g89",
+            "pta0001.pta054.pta-grc1:g1",
+            "pta0001.pta054.pta-grc1:g2",
+            "pta0001.pta054.pta-grc1:g3",
+            "pta0001.pta054.pta-grc1:g4",
+            "pta0001.pta054.pta-grc1:g5",
+            "pta0001.pta054.pta-grc1:g7",
+            "pta0001.pta054.pta-grc1:g8",
+            "pta0001.pta054.pta-grc1:g9",
+            "pta0001.pta054.pta-grc1:g10",
+            "pta0001.pta054.pta-grc1:g11",
+            "pta0001.pta054.pta-grc1:g13",
+            "pta0001.pta054.pta-lat1:g1",
+            "pta0001.pta054.pta-lat1:g2",
+            "pta0001.pta054.pta-lat1:g3",
+            "pta0001.pta054.pta-lat1:g4",
+            "pta0001.pta054.pta-lat1:g5",
+            "pta0001.pta054.pta-lat1:g7",
+            "pta0001.pta054.pta-lat1:g8",
+            "pta0001.pta054.pta-lat1:g9",
+            "pta0001.pta054.pta-lat1:g10",
+            "pta0001.pta054.pta-lat1:g11",
+            "pta0001.pta054.pta-lat1:g12",
+            "pta0001.pta054.pta-lat1:g14",
+            "pta0001.pta055.pta-grc1:g7",
+            "pta0001.pta055.pta-grc1:g8",
+            "pta0001.pta055.pta-grc1:g9",
+            "pta0001.pta055.pta-grc1:g10",
+            "pta0001.pta055.pta-grc1:g11",
+            "pta0001.pta055.pta-grc1:g12",
+            "pta0001.pta055.pta-grc1:g13",
+            "pta0001.pta055.pta-grc1:g14",
+            "pta0003.pta009.pta-grc1:g3",
+            "pta0003.pta009.pta-grc1:g4",
+            "pta0003.pta009.pta-grc1:g5",
+            "pta0003.pta009.pta-grc1:g6",
+            "pta0003.pta009.pta-grc1:g8",
+            "pta0003.pta009.pta-grc1:g9",
+            "pta0003.pta009.pta-grc1:g10",
+            "pta0003.pta009.pta-grc1:g11",
+            "pta0003.pta009.pta-grc1:g12",
+            "pta0003.pta009.pta-grc1:g14",
+            "pta0003.pta009.pta-grc1:g18",
+            "pta0003.pta009.pta-grc1:g19",
+            "pta0003.pta009.pta-grc1:g20",
+            "pta0003.pta009.pta-grc1:g21",
+            "pta0003.pta009.pta-grc1:g23",
+            "pta0003.pta009.pta-grc1:g24",
+            "pta0003.pta009.pta-grc1:g25",
+            "pta0003.pta009.pta-grc1:g26",
+            "pta0003.pta009.pta-grc1:g27",
+            "pta0003.pta009.pta-grc1:g28",
+            "pta0003.pta009.pta-grc1:g30",
+            "pta0003.pta009.pta-grc1:g31",
+            "pta0003.pta009.pta-grc1:g32",
+            "pta0003.pta009.pta-grc1:g33",
+            "pta0003.pta009.pta-grc1:g34",
+            "pta0003.pta009.pta-grc1:g35",
+            "pta0003.pta009.pta-grc1:g36",
+            "pta0003.pta009.pta-grc1:g37",
+            "pta0003.pta009.pta-grc1:g38",
+            "pta0003.pta009.pta-grc1:g39",
+            "pta0003.pta009.pta-grc1:g40",
+            "pta0003.pta009.pta-grc1:g42",
+            "pta0003.pta009.pta-grc1:g43",
+            "pta0003.pta009.pta-grc1:g44",
             "pta0003.pta020.pta-grcBibex3:g1",
             "pta0003.pta020.pta-grcBibex3:g2",
             "pta0003.pta020.pta-grcBibex3:g4",
             "pta0003.pta020.pta-grcBibex3:g13",
-            "pta0003.pta020.pta-grcBibex3:g34",
             "pta0003.pta020.pta-grcBibex3:g37",
-            "pta0003.pta020.pta-grcBibex3:g43",
+            "pta0003.pta020.pta-grcBibex3:g40",
             "pta0003.pta020.pta-grcBibex3:g45",
             "pta0003.pta020.pta-grcBibex3:g47",
             "pta0003.pta020.pta-grcBibex3:g49",
-            "pta0003.pta020.pta-grcBibex3:g50",
             "pta0003.pta020.pta-grcBibex3:g51",
             "pta0003.pta020.pta-grcBibex3:g52",
             "pta0003.pta020.pta-grcBibex3:g53",
+            "pta0003.pta020.pta-grcBibex3:g54",
             "pta0003.pta020.pta-grcBibex3:g55",
             "pta0003.pta020.pta-grcBibex3:g57",
-            "pta0003.pta020.pta-grcBibex3:g60",
-            "pta0003.pta020.pta-grcBibex3:g64",
-            "pta0003.pta020.pta-grcBibex3:g65",
+            "pta0003.pta020.pta-grcBibex3:g59",
+            "pta0003.pta020.pta-grcBibex3:g63",
+            "pta0003.pta020.pta-grcBibex3:g67",
             "pta0003.pta020.pta-grcBibex3:g68",
-            "pta0003.pta020.pta-grcBibex3:g69",
-            "pta0003.pta020.pta-grcBibex3:g70",
             "pta0003.pta020.pta-grcBibex3:g71",
-            "pta0003.pta020.pta-grcBibex3:g72",
             "pta0003.pta020.pta-grcBibex3:g73",
             "pta0003.pta020.pta-grcBibex3:g74",
             "pta0003.pta020.pta-grcBibex3:g75",
-            "pta0003.pta020.pta-grcBibex3:g81",
-            "pta0003.pta020.pta-grcBibex3:g100",
-            "pta0003.pta020.pta-grcBibex3:g101",
-            "pta0003.pta020.pta-grcBibex3:g119",
-            "pta0003.pta020.pta-grcBibex3:g142",
-            "pta0003.pta020.pta-grcBibex3:g153"
+            "pta0003.pta020.pta-grcBibex3:g76",
+            "pta0003.pta020.pta-grcBibex3:g77",
+            "pta0003.pta020.pta-grcBibex3:g78",
+            "pta0003.pta020.pta-grcBibex3:g79",
+            "pta0003.pta020.pta-grcBibex3:g85",
+            "pta0003.pta020.pta-grcBibex3:g104",
+            "pta0003.pta020.pta-grcBibex3:g105",
+            "pta0003.pta020.pta-grcBibex3:g124",
+            "pta0003.pta020.pta-grcBibex3:g147",
+            "pta0003.pta020.pta-grcBibex3:g158",
+            "pta0004.pta001.pta-grcBibex:g3",
+            "pta0004.pta001.pta-grcBibex:g4",
+            "pta0004.pta001.pta-grcBibex:g5",
+            "pta0004.pta001.pta-grcBibex:g8",
+            "pta0004.pta001.pta-grcBibex:g10",
+            "pta0004.pta001.pta-grcBibex:g11",
+            "pta0004.pta001.pta-grcBibex:g12",
+            "pta0022.pta003.pta-grc1:g4",
+            "pta0022.pta003.pta-grc1:g6",
+            "pta0022.pta003.pta-grc1:g8",
+            "pta0022.pta003.pta-grc1:g27",
+            "pta0022.pta003.pta-grc1:g47",
+            "pta0022.pta004.pta-grc1:g6",
+            "pta0022.pta004.pta-grc1:g7",
+            "pta0022.pta004.pta-grc1:g9",
+            "pta0022.pta004.pta-grc1:g11",
+            "pta0022.pta010.pta-grc1:g15",
+            "pta0036.pta001.pta-grc1:g29",
+            "pta0036.pta001.pta-grc1:g32",
+            "pta0036.pta001.pta-grc1:g36",
+            "pta0036.pta001.pta-grc1:g40",
+            "pta0036.pta001.pta-grc1:g43",
+            "pta0036.pta001.pta-grc1:g46",
+            "pta0036.pta001.pta-grc1:g47",
+            "pta0036.pta001.pta-grc1:g49",
+            "pta0036.pta001.pta-grc1:g64",
+            "pta0037.pta001.pta-grc1:g8",
+            "pta0037.pta001.pta-grc1:g11",
+            "pta0037.pta001.pta-grc1:g13",
+            "pta0037.pta001.pta-grc1:g14",
+            "pta0037.pta001.pta-grc1:g15",
+            "pta0037.pta001.pta-grc1:g16",
+            "pta0037.pta001.pta-grc1:g30",
+            "pta0037.pta001.pta-grc1:g31",
+            "pta0037.pta001.pta-grc1:g43",
+            "pta0037.pta001.pta-grc1:g44",
+            "pta0037.pta001.pta-grc1:g45",
+            "pta0037.pta001.pta-grc1:g61",
+            "pta0037.pta001.pta-grc1:g103",
+            "pta0037.pta001.pta-grc1:g105",
+            "pta0037.pta001.pta-grc1:g108",
+            "pta0037.pta001.pta-grc1:g109",
+            "pta0037.pta001.pta-grc1:g110"
         ],
         "name_txts": [
+            "Ἰουδαίων",
+            "Ἰουδαῖος",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαϊκῇ",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖος",
+            "Ἰουδαϊκῇ",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖος",
+            "Ἰουδαῖε",
+            "Ἰουδαίων",
+            "Ἰουδαῖε",
+            "Ἰουδαῖος",
+            "Ἰουδαϊκῆς",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαῖος",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαϊκήν",
+            "Ἰουδαίῳ",
+            "Ἰουδαίας",
+            "Ἰουδαίᾳ",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαϊκῶν",
+            "Ἰουδαϊκῇ",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖε",
+            "Ἰουδαίων",
+            "Ἰουδαῖε",
+            "Ἰουδαῖε",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαϊκήν",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαϊκόν",
+            "Ἰουδαίων",
+            "Ἰουδαϊκοῦ",
+            "Ἰουδαίους",
+            "Ἰουδαῖον",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαῖος",
+            "Ἰουδαϊσμῷ",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαϊκῶν",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαϊκή",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "ἰουδαίων",
+            "ἰουδαίοις",
+            "Ἰουδαῖοι",
             "ἰουδαίων",
             "ἰουδαίοις",
             "ἰουδαῖοι",
+            "οἱ Ἰουδαῖοι",
+            "Ἰουδαῖος",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοί",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαϊκή",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαϊκά",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαῖος",
+            "Ἰουδαῖε",
+            "Ἰουδαίων",
+            "Ἰουδαϊκήν",
+            "Ἰουδαίων",
+            "Ἰουδαϊκῇ",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖος",
+            "Ἰουδαῖος",
+            "Ἰουδαῖοι",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
+            "Ἰουδαῖος",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
+            "Ἰουδαίου",
+            "Ἰουδαῖοι",
+            "Ἰουδαία",
+            "Ἰουδαίοις",
+            "Ἰουδαϊκός",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίῳ",
+            "Ἰουδαίῳ",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Iudaeos",
+            "Iudaeos",
+            "Iudaeos",
+            "Iudaeos",
+            "Iudaeorum",
+            "Iudaeorum",
+            "Iudaei",
+            "Iudaeos",
+            "Iudaeorum",
+            "Iudaei",
+            "Iudaei",
+            "Iudaei",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖος",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαΐζων",
+            "Ἰουδαίοις",
+            "Ἰουδαίοις",
+            "Ἰουδαῖον",
+            "Ἰουδαῖος",
+            "Ἰουδαῖον",
+            "Ἰουδαῖος",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαίων",
             "Ἰουδαίων",
             "Ἰουδαίων",
             "Ἰουδαίων",
@@ -371,6 +1045,49 @@
             "Ἰουδαίων",
             "Ἰουδαίων",
             "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "ἰουδαίοις",
+            "ἰουδαῖοι",
+            "ἰουδαίων",
+            "ἰουδαίους",
+            "ἰουδαίοις",
+            "ἰουδαίους",
+            "ἰουδαῖοι",
+            "Ἰουδαίους",
+            "Ἰουδαῖοι",
+            "Ἰουδαίζοντες",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίοις",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίους",
+            "Ἰουδαῖοι",
+            "Ἰουδαίων",
+            "Ἰουδαίοις",
+            "Ἰουδαίων",
+            "Ἰουδαῖοι",
+            "Ἰουδαίους",
+            "Ἰουδαίους",
+            "Ἰουδαίοις",
             "Ἰουδαίων",
             "Ἰουδαίων"
         ]
@@ -398,18 +1115,50 @@
         ],
         "date": "",
         "urns": [
-            "pta0003.pta020.pta-grcBibex3:g66",
-            "pta0003.pta020.pta-grcBibex3:g84",
+            "pta0001.pta005.pta-grc1:g5",
+            "pta0001.pta005.pta-grc1:g6",
+            "pta0001.pta005.pta-grc1:g9",
+            "pta0001.pta006.pta-grc1:g9",
+            "pta0001.pta007.pta-grc1:g4",
+            "pta0001.pta019.pta-grc1:g2",
+            "pta0001.pta019.pta-grc1:g3",
+            "pta0001.pta024.pta-grc1:g2",
+            "pta0001.pta029.pta-grc1:g11",
+            "pta0001.pta042.pta-grc1:g32",
+            "pta0003.pta020.pta-grcBibex3:g69",
             "pta0003.pta020.pta-grcBibex3:g88",
-            "pta0003.pta020.pta-grcBibex3:g148",
-            "pta0003.pta020.pta-grcBibex3:g162",
-            "pta0003.pta020.pta-grcBibex3:g163",
-            "pta0003.pta020.pta-grcBibex3:g164",
+            "pta0003.pta020.pta-grcBibex3:g92",
+            "pta0003.pta020.pta-grcBibex3:g153",
+            "pta0003.pta020.pta-grcBibex3:g167",
             "pta0003.pta020.pta-grcBibex3:g168",
-            "pta0003.pta020.pta-grcBibex3:g177",
-            "pta0003.pta020.pta-grcBibex3:g184"
+            "pta0003.pta020.pta-grcBibex3:g169",
+            "pta0003.pta020.pta-grcBibex3:g173",
+            "pta0003.pta020.pta-grcBibex3:g182",
+            "pta0003.pta020.pta-grcBibex3:g189",
+            "pta0004.pta001.pta-grcBibex:g9",
+            "pta0004.pta001.pta-grcBibex:g13",
+            "pta0007.pta007.pta-grc1:g2",
+            "pta0007.pta010.pta-grcBibex:g1",
+            "pta0007.pta010.pta-grcBibex:g2",
+            "pta0022.pta004.pta-grc1:g10",
+            "pta0036.pta001.pta-grc1:g7",
+            "pta0036.pta001.pta-grc1:g33",
+            "pta0037.pta001.pta-grc1:g42",
+            "pta0037.pta001.pta-grc1:g49",
+            "pta0037.pta001.pta-grc1:g68",
+            "pta0037.pta001.pta-grc1:g114"
         ],
         "name_txts": [
+            "Ἑβραίους",
+            "Ἑβραίους",
+            "Ἑβραίους",
+            "Ἑβραίοις",
+            "Ἑβραϊκά",
+            "Ἑβραίου",
+            "Ἑβραίων",
+            "Ἑβραίαν",
+            "Ἑβραΐδα",
+            "Ἑβραίων",
             "Ἑβραίου",
             "Ἑβραίων",
             "Ἑβραίοις",
@@ -419,14 +1168,29 @@
             "Ἑβραίοις",
             "Ἑβραίων",
             "Ἑβραίοις",
-            "Ἑβραίων"
+            "Ἑβραίων",
+            "ἑβραῖος",
+            "ἑβραίων",
+            "Ἑβραίοις",
+            "Ἑβραίοις",
+            "Ἑβραίοις",
+            "Ἑβραίοις",
+            "Ἑβραῖοι",
+            "Ἑβραίοις",
+            "Ἑβραίων",
+            "Ἑβραίους",
+            "Ἑβραῖοι",
+            "Ἑβραῖοι"
         ]
     },
     {
         "org_id": "PTA_O00010",
         "other_ids": [
             {
-                "GND": null
+                "GND": "4002455-6"
+            },
+            {
+                "WIKIDATA": "Q43412"
             }
         ],
         "orgname": [
@@ -445,10 +1209,136 @@
         ],
         "date": "",
         "urns": [
-            "pta0003.pta020.pta-grcBibex3:g185"
+            "pta0001.pta001.pta-grcBibex:g1",
+            "pta0001.pta001.pta-grcBibex:g5",
+            "pta0001.pta001.pta-grcBibex:g6",
+            "pta0001.pta001.pta-grcBibex:g7",
+            "pta0001.pta001.pta-grcBibex:g8",
+            "pta0001.pta001.pta-grcBibex:g9",
+            "pta0001.pta001.pta-grcBibex:g10",
+            "pta0001.pta001.pta-grcBibex:g11",
+            "pta0001.pta001.pta-grcBibex:g12",
+            "pta0001.pta001.pta-grcBibex:g13",
+            "pta0001.pta001.pta-grcBibex:g14",
+            "pta0001.pta001.pta-grcBibex:g15",
+            "pta0001.pta001.pta-grcBibex:g16",
+            "pta0001.pta031.pta-grc1:g12",
+            "pta0001.pta034.pta-grc1:g19",
+            "pta0001.pta034.pta-grc1:g40",
+            "pta0001.pta037.pta-grc1:g40",
+            "pta0001.pta041.pta-grc1:g7",
+            "pta0001.pta041.pta-grc1:g8",
+            "pta0001.pta041.pta-grc1:g11",
+            "pta0001.pta041.pta-grc1:g18",
+            "pta0001.pta042.pta-grc1:g2",
+            "pta0001.pta042.pta-grc1:g24",
+            "pta0001.pta042.pta-grc1:g28",
+            "pta0001.pta042.pta-grc1:g34",
+            "pta0001.pta042.pta-grc1:g37",
+            "pta0001.pta042.pta-grc1:g38",
+            "pta0001.pta042.pta-grc1:g41",
+            "pta0001.pta042.pta-grc1:g43",
+            "pta0001.pta042.pta-grc1:g44",
+            "pta0001.pta042.pta-grc1:g47",
+            "pta0001.pta042.pta-grc1:g48",
+            "pta0001.pta042.pta-grc1:g49",
+            "pta0001.pta042.pta-grc1:g51",
+            "pta0001.pta042.pta-grc1:g52",
+            "pta0001.pta042.pta-grc1:g53",
+            "pta0001.pta042.pta-grc1:g54",
+            "pta0001.pta042.pta-grc1:g55",
+            "pta0001.pta042.pta-grc1:g56",
+            "pta0001.pta042.pta-grc1:g59",
+            "pta0001.pta042.pta-grc1:g64",
+            "pta0001.pta042.pta-grc1:g65",
+            "pta0001.pta042.pta-grc1:g67",
+            "pta0001.pta042.pta-grc1:g68",
+            "pta0001.pta042.pta-grc1:g69",
+            "pta0001.pta042.pta-grc1:g70",
+            "pta0001.pta042.pta-grc1:g73",
+            "pta0001.pta042.pta-grc1:g81",
+            "pta0001.pta042.pta-grc1:g83",
+            "pta0001.pta042.pta-grc1:g84",
+            "pta0001.pta042.pta-grc1:g85",
+            "pta0001.pta042.pta-grc1:g86",
+            "pta0001.pta047.pta-grc1:g2",
+            "pta0001.pta047.pta-grc1:g3",
+            "pta0001.pta047.pta-grc1:g4",
+            "pta0001.pta047.pta-grc1:g5",
+            "pta0001.pta047.pta-grc1:g6",
+            "pta0001.pta047.pta-grc1:g7",
+            "pta0001.pta047.pta-grc1:g8",
+            "pta0001.pta048.pta-grc1:g1",
+            "pta0001.pta048.pta-grc1:g2",
+            "pta0001.pta048.pta-grc1:g3",
+            "pta0003.pta020.pta-grcBibex3:g190",
+            "pta0041.pta001.pta-grc1:g1"
         ],
         "name_txts": [
-            "ἀποστόλων"
+            "ἀπόστολοι",
+            "οἱ ἀπόστολοι",
+            "οἱ ἀπόστολοι",
+            "οἱ ἀπόστολοι",
+            "οἱ ἀπόστολοι",
+            "οἱ ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀπόστολοι",
+            "τοὺς ἀποστόλους",
+            "τοὺς ἀποστόλους",
+            "τῶν ἀποστόλων",
+            "τοὺς ἀποστόλους",
+            "οἱ ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀποστόλων",
+            "ἀπόστολοι",
+            "ἀποστόλων",
+            "ἀποστόλων",
+            "ἀποστόλων",
+            "ἀποστόλων",
+            "ἀποστόλους",
+            "ἀποστόλων",
+            "ἀπόστολοι",
+            "ἀποστόλων",
+            "ἀπόστολοι",
+            "ἀποστόλων",
+            "ἀποστόλων",
+            "ἀποστόλοις",
+            "ἀποστόλων",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀποστόλους",
+            "ἀπόστολοι",
+            "ἀποστόλων",
+            "ἀποστόλους",
+            "ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀποστόλων",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀπόστολοι",
+            "ἀποστόλων",
+            "ἀποστόλων",
+            "ἀποστόλων",
+            "ἀποστόλοις",
+            "ἀποστόλοις",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀποστόλοις",
+            "ἀποστόλοις",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀποστόλοις",
+            "ἀπόστολος",
+            "ἀπόστολοι",
+            "ἀπόστολοι",
+            "ἀποστόλων",
+            "ἁγίων ἀποστόλων"
         ]
     },
     {
@@ -474,12 +1364,142 @@
         ],
         "date": "",
         "urns": [
-            "pta0003.pta020.pta-grcBibex3:g44",
-            "pta0003.pta020.pta-grcBibex3:g144"
+            "pta0001.pta003.pta-grc1:g14",
+            "pta0001.pta005.pta-grc1:g17",
+            "pta0001.pta007.pta-grc1:g7",
+            "pta0001.pta007.pta-grc1:g8",
+            "pta0001.pta008.pta-grc1:g4",
+            "pta0001.pta008.pta-grc1:g7",
+            "pta0001.pta018.pta-grc1:g27",
+            "pta0001.pta018.pta-grc1:g43",
+            "pta0001.pta018.pta-grc1:g45",
+            "pta0001.pta019.pta-grc1:g6",
+            "pta0001.pta019.pta-grc1:g9",
+            "pta0001.pta019.pta-grc1:g10",
+            "pta0001.pta019.pta-grc1:g11",
+            "pta0001.pta019.pta-grc1:g13",
+            "pta0001.pta019.pta-grc1:g16",
+            "pta0001.pta024.pta-grc1:g10",
+            "pta0001.pta025.pta-grc1:g9",
+            "pta0001.pta025.pta-grc1:g12",
+            "pta0001.pta031.pta-grc1:g11",
+            "pta0001.pta036.pta-grc1:g2",
+            "pta0001.pta036.pta-grc1:g3",
+            "pta0001.pta037.pta-grc1:g2",
+            "pta0001.pta037.pta-grc1:g32",
+            "pta0001.pta037.pta-grc1:g34",
+            "pta0001.pta037.pta-grc1:g36",
+            "pta0001.pta037.pta-grc1:g38",
+            "pta0001.pta037.pta-grc1:g39",
+            "pta0001.pta041.pta-grc1:g2",
+            "pta0001.pta042.pta-grc1:g71",
+            "pta0001.pta049.pta-grc1:g1",
+            "pta0001.pta049.pta-grc1:g5",
+            "pta0001.pta054.pta-grc1:g6",
+            "pta0001.pta054.pta-lat1:g6",
+            "pta0003.pta009.pta-grc1:g2",
+            "pta0003.pta009.pta-grc1:g7",
+            "pta0003.pta009.pta-grc1:g22",
+            "pta0003.pta020.pta-grcBibex3:g46",
+            "pta0003.pta020.pta-grcBibex3:g149",
+            "pta0007.pta007.pta-grc1:g7",
+            "pta0022.pta003.pta-grc1:g15",
+            "pta0022.pta003.pta-grc1:g31",
+            "pta0022.pta003.pta-grc1:g32",
+            "pta0022.pta004.pta-grc1:g4",
+            "pta0022.pta004.pta-grc1:g8",
+            "pta0022.pta004.pta-grc1:g18",
+            "pta0022.pta010.pta-grc1:g12",
+            "pta0036.pta001.pta-grc1:g8",
+            "pta0036.pta001.pta-grc1:g19",
+            "pta0036.pta001.pta-grc1:g41",
+            "pta0037.pta001.pta-grc1:g27",
+            "pta0037.pta001.pta-grc1:g72",
+            "pta0037.pta001.pta-grc1:g73",
+            "pta0037.pta001.pta-grc1:g74",
+            "pta0037.pta001.pta-grc1:g76",
+            "pta0037.pta001.pta-grc1:g79",
+            "pta0037.pta001.pta-grc1:g81",
+            "pta0037.pta001.pta-grc1:g82",
+            "pta0037.pta001.pta-grc1:g92",
+            "pta0037.pta001.pta-grc1:g93",
+            "pta0037.pta001.pta-grc1:g94",
+            "pta0037.pta001.pta-grc1:g96",
+            "pta0037.pta001.pta-grc1:g100",
+            "pta0037.pta001.pta-grc1:g101",
+            "pta0037.pta001.pta-grc1:g102",
+            "pta0037.pta001.pta-grc1:g104",
+            "pta0037.pta001.pta-grc1:g113",
+            "pta0041.pta001.pta-grc1:g2"
         ],
         "name_txts": [
+            "Ἕλληνας",
+            "Ἕλληνι",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἕλληνος",
+            "Ἕλλην",
+            "Ἑλλήνων",
+            "Ἕλληνας",
+            "Ἑλλήνων",
+            "Ἑλληνισμῷ",
             "Ἕλληνες",
-            "Ἕλλησι"
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἕλλησιν",
+            "Ἕλλησιν",
+            "Ἕλλησι",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἕλληνες",
+            "Ἑλληνικῆς",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἕλλησι",
+            "Ἑλλήνων",
+            "gentilium",
+            "Ἑλλήνων",
+            "Ἕλλην",
+            "Ἕλλην",
+            "Ἕλληνες",
+            "Ἕλλησι",
+            "Ἑλλήνων",
+            "Ἕλληνες",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἕλλην",
+            "Ἕλληνας",
+            "Ἕλλησι",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἕλληνες",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἕλληνας",
+            "Ἕλληνες",
+            "Ἕλληνες",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἑλλήνων",
+            "Ἕλληνες",
+            "τὰ ἔθνη"
         ]
     },
     {
@@ -505,7 +1525,120 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta001.pta-grcBibex:g2",
+            "pta0001.pta001.pta-grcBibex:g3",
+            "pta0001.pta002.pta-grc1:g4",
+            "pta0001.pta002.pta-grc1:g5",
+            "pta0001.pta002.pta-grc1:g6",
+            "pta0001.pta002.pta-grc1:g7",
+            "pta0001.pta002.pta-grc1:g8",
+            "pta0001.pta002.pta-grc1:g9",
+            "pta0001.pta002.pta-grc1:g10",
+            "pta0001.pta003.pta-grc1:g5",
+            "pta0001.pta003.pta-grc1:g8",
+            "pta0001.pta003.pta-grc1:g22",
+            "pta0001.pta003.pta-grc1:g24",
+            "pta0001.pta004.pta-grc1:g16",
+            "pta0001.pta004.pta-grc1:g19",
+            "pta0001.pta005.pta-grc1:g3",
+            "pta0001.pta005.pta-grc1:g14",
+            "pta0001.pta005.pta-grc1:g15",
+            "pta0001.pta005.pta-grc1:g16",
+            "pta0001.pta006.pta-grc1:g6",
+            "pta0001.pta006.pta-grc1:g7",
+            "pta0001.pta006.pta-grc1:g8",
+            "pta0001.pta006.pta-grc1:g15",
+            "pta0001.pta006.pta-grc1:g16",
+            "pta0001.pta006.pta-grc1:g17",
+            "pta0001.pta006.pta-grc1:g18",
+            "pta0001.pta007.pta-grc1:g1",
+            "pta0001.pta007.pta-grc1:g3",
+            "pta0001.pta008.pta-grc1:g2",
+            "pta0001.pta008.pta-grc1:g3",
+            "pta0001.pta011.pta-grc1:g6",
+            "pta0001.pta011.pta-grc1:g7",
+            "pta0001.pta011.pta-grc1:g8",
+            "pta0001.pta011.pta-grc1:g10",
+            "pta0001.pta011.pta-grc1:g11",
+            "pta0001.pta011.pta-grc1:g14",
+            "pta0001.pta011.pta-grc1:g18",
+            "pta0001.pta011.pta-grc1:g20",
+            "pta0001.pta014.pta-grc1:g4",
+            "pta0001.pta014.pta-grc1:g13",
+            "pta0001.pta015.pta-grc1:g8",
+            "pta0001.pta017.pta-grc1:g10",
+            "pta0001.pta017.pta-grc1:g23",
+            "pta0001.pta017.pta-grc1:g24",
+            "pta0001.pta018.pta-grc1:g2",
+            "pta0001.pta018.pta-grc1:g4",
+            "pta0001.pta018.pta-grc1:g5",
+            "pta0001.pta018.pta-grc1:g6",
+            "pta0001.pta018.pta-grc1:g9",
+            "pta0001.pta018.pta-grc1:g10",
+            "pta0001.pta018.pta-grc1:g11",
+            "pta0001.pta018.pta-grc1:g12",
+            "pta0001.pta018.pta-grc1:g15",
+            "pta0001.pta018.pta-grc1:g16",
+            "pta0001.pta018.pta-grc1:g20",
+            "pta0001.pta018.pta-grc1:g30",
+            "pta0001.pta018.pta-grc1:g32",
+            "pta0001.pta018.pta-grc1:g33",
+            "pta0001.pta018.pta-grc1:g34",
+            "pta0001.pta018.pta-grc1:g35",
+            "pta0001.pta018.pta-grc1:g37",
+            "pta0001.pta018.pta-grc1:g38",
+            "pta0001.pta018.pta-grc1:g39",
+            "pta0001.pta018.pta-grc1:g46",
+            "pta0001.pta018.pta-grc1:g47",
+            "pta0001.pta018.pta-grc1:g48",
+            "pta0001.pta018.pta-grc1:g51",
+            "pta0001.pta018.pta-grc1:g57",
+            "pta0001.pta019.pta-grc1:g1",
+            "pta0001.pta019.pta-grc1:g4",
+            "pta0001.pta019.pta-grc1:g21",
+            "pta0001.pta022.pta-grc1:g5",
+            "pta0001.pta024.pta-grc1:g8",
+            "pta0001.pta025.pta-grc1:g5",
+            "pta0001.pta025.pta-grc1:g6",
+            "pta0001.pta025.pta-grc1:g13",
+            "pta0001.pta026.pta-grc1:g2",
             "pta0001.pta026.pta-grcBibex:g2",
+            "pta0001.pta029.pta-grc1:g12",
+            "pta0001.pta031.pta-grc1:g2",
+            "pta0001.pta034.pta-grc1:g3",
+            "pta0001.pta034.pta-grc1:g7",
+            "pta0001.pta034.pta-grc1:g12",
+            "pta0001.pta034.pta-grc1:g15",
+            "pta0001.pta034.pta-grc1:g16",
+            "pta0001.pta034.pta-grc1:g17",
+            "pta0001.pta034.pta-grc1:g22",
+            "pta0001.pta034.pta-grc1:g23",
+            "pta0001.pta034.pta-grc1:g24",
+            "pta0001.pta037.pta-grc1:g21",
+            "pta0001.pta040.pta-grc1:g26",
+            "pta0001.pta042.pta-grc1:g1",
+            "pta0001.pta042.pta-grc1:g3",
+            "pta0001.pta042.pta-grc1:g4",
+            "pta0001.pta042.pta-grc1:g22",
+            "pta0001.pta042.pta-grc1:g29",
+            "pta0001.pta042.pta-grc1:g30",
+            "pta0001.pta042.pta-grc1:g36",
+            "pta0001.pta042.pta-grc1:g39",
+            "pta0001.pta042.pta-grc1:g45",
+            "pta0001.pta042.pta-grc1:g46",
+            "pta0001.pta042.pta-grc1:g50",
+            "pta0001.pta042.pta-grc1:g87",
+            "pta0001.pta049.pta-grc1:g7",
+            "pta0001.pta049.pta-grc1:g9",
+            "pta0001.pta055.pta-grc1:g3",
+            "pta0003.pta020.pta-grcBibex2:g1",
+            "pta0003.pta020.pta-grcBibex2:g2",
+            "pta0003.pta020.pta-grcBibex2:g3",
+            "pta0003.pta020.pta-grcBibex2:g4",
+            "pta0003.pta020.pta-grcBibex2:g5",
+            "pta0003.pta020.pta-grcBibex2:g6",
+            "pta0003.pta020.pta-grcBibex2:g7",
+            "pta0003.pta020.pta-grcBibex2:g8",
             "pta0003.pta020.pta-grcBibex3:g3",
             "pta0003.pta020.pta-grcBibex3:g5",
             "pta0003.pta020.pta-grcBibex3:g7",
@@ -514,51 +1647,43 @@
             "pta0003.pta020.pta-grcBibex3:g11",
             "pta0003.pta020.pta-grcBibex3:g12",
             "pta0003.pta020.pta-grcBibex3:g14",
-            "pta0003.pta020.pta-grcBibex3:g16",
-            "pta0003.pta020.pta-grcBibex3:g17",
-            "pta0003.pta020.pta-grcBibex3:g18",
+            "pta0003.pta020.pta-grcBibex3:g19",
             "pta0003.pta020.pta-grcBibex3:g20",
-            "pta0003.pta020.pta-grcBibex3:g29",
-            "pta0003.pta020.pta-grcBibex3:g33",
-            "pta0003.pta020.pta-grcBibex3:g41",
-            "pta0003.pta020.pta-grcBibex3:g42",
-            "pta0003.pta020.pta-grcBibex3:g48",
-            "pta0003.pta020.pta-grcBibex3:g54",
+            "pta0003.pta020.pta-grcBibex3:g21",
+            "pta0003.pta020.pta-grcBibex3:g23",
+            "pta0003.pta020.pta-grcBibex3:g32",
+            "pta0003.pta020.pta-grcBibex3:g36",
+            "pta0003.pta020.pta-grcBibex3:g44",
+            "pta0003.pta020.pta-grcBibex3:g50",
             "pta0003.pta020.pta-grcBibex3:g56",
             "pta0003.pta020.pta-grcBibex3:g58",
-            "pta0003.pta020.pta-grcBibex3:g59",
+            "pta0003.pta020.pta-grcBibex3:g60",
             "pta0003.pta020.pta-grcBibex3:g61",
-            "pta0003.pta020.pta-grcBibex3:g62",
-            "pta0003.pta020.pta-grcBibex3:g63",
-            "pta0003.pta020.pta-grcBibex3:g67",
-            "pta0003.pta020.pta-grcBibex3:g76",
-            "pta0003.pta020.pta-grcBibex3:g77",
-            "pta0003.pta020.pta-grcBibex3:g78",
-            "pta0003.pta020.pta-grcBibex3:g79",
+            "pta0003.pta020.pta-grcBibex3:g64",
+            "pta0003.pta020.pta-grcBibex3:g65",
+            "pta0003.pta020.pta-grcBibex3:g66",
+            "pta0003.pta020.pta-grcBibex3:g70",
             "pta0003.pta020.pta-grcBibex3:g80",
+            "pta0003.pta020.pta-grcBibex3:g81",
             "pta0003.pta020.pta-grcBibex3:g82",
             "pta0003.pta020.pta-grcBibex3:g83",
-            "pta0003.pta020.pta-grcBibex3:g85",
+            "pta0003.pta020.pta-grcBibex3:g84",
             "pta0003.pta020.pta-grcBibex3:g86",
             "pta0003.pta020.pta-grcBibex3:g87",
             "pta0003.pta020.pta-grcBibex3:g89",
             "pta0003.pta020.pta-grcBibex3:g90",
             "pta0003.pta020.pta-grcBibex3:g91",
-            "pta0003.pta020.pta-grcBibex3:g92",
             "pta0003.pta020.pta-grcBibex3:g93",
             "pta0003.pta020.pta-grcBibex3:g94",
             "pta0003.pta020.pta-grcBibex3:g95",
             "pta0003.pta020.pta-grcBibex3:g96",
             "pta0003.pta020.pta-grcBibex3:g97",
             "pta0003.pta020.pta-grcBibex3:g98",
+            "pta0003.pta020.pta-grcBibex3:g99",
             "pta0003.pta020.pta-grcBibex3:g102",
-            "pta0003.pta020.pta-grcBibex3:g103",
-            "pta0003.pta020.pta-grcBibex3:g104",
-            "pta0003.pta020.pta-grcBibex3:g105",
             "pta0003.pta020.pta-grcBibex3:g106",
             "pta0003.pta020.pta-grcBibex3:g107",
             "pta0003.pta020.pta-grcBibex3:g108",
-            "pta0003.pta020.pta-grcBibex3:g109",
             "pta0003.pta020.pta-grcBibex3:g110",
             "pta0003.pta020.pta-grcBibex3:g111",
             "pta0003.pta020.pta-grcBibex3:g112",
@@ -566,12 +1691,12 @@
             "pta0003.pta020.pta-grcBibex3:g114",
             "pta0003.pta020.pta-grcBibex3:g115",
             "pta0003.pta020.pta-grcBibex3:g116",
+            "pta0003.pta020.pta-grcBibex3:g117",
             "pta0003.pta020.pta-grcBibex3:g118",
+            "pta0003.pta020.pta-grcBibex3:g119",
             "pta0003.pta020.pta-grcBibex3:g120",
             "pta0003.pta020.pta-grcBibex3:g121",
-            "pta0003.pta020.pta-grcBibex3:g122",
             "pta0003.pta020.pta-grcBibex3:g123",
-            "pta0003.pta020.pta-grcBibex3:g124",
             "pta0003.pta020.pta-grcBibex3:g125",
             "pta0003.pta020.pta-grcBibex3:g126",
             "pta0003.pta020.pta-grcBibex3:g127",
@@ -589,35 +1714,49 @@
             "pta0003.pta020.pta-grcBibex3:g139",
             "pta0003.pta020.pta-grcBibex3:g140",
             "pta0003.pta020.pta-grcBibex3:g141",
+            "pta0003.pta020.pta-grcBibex3:g142",
             "pta0003.pta020.pta-grcBibex3:g143",
+            "pta0003.pta020.pta-grcBibex3:g144",
             "pta0003.pta020.pta-grcBibex3:g145",
+            "pta0003.pta020.pta-grcBibex3:g146",
+            "pta0003.pta020.pta-grcBibex3:g148",
             "pta0003.pta020.pta-grcBibex3:g150",
-            "pta0003.pta020.pta-grcBibex3:g152",
-            "pta0003.pta020.pta-grcBibex3:g154",
             "pta0003.pta020.pta-grcBibex3:g155",
-            "pta0003.pta020.pta-grcBibex3:g156",
-            "pta0003.pta020.pta-grcBibex3:g158",
+            "pta0003.pta020.pta-grcBibex3:g157",
+            "pta0003.pta020.pta-grcBibex3:g159",
             "pta0003.pta020.pta-grcBibex3:g160",
             "pta0003.pta020.pta-grcBibex3:g161",
+            "pta0003.pta020.pta-grcBibex3:g163",
+            "pta0003.pta020.pta-grcBibex3:g165",
             "pta0003.pta020.pta-grcBibex3:g166",
-            "pta0003.pta020.pta-grcBibex3:g167",
-            "pta0003.pta020.pta-grcBibex3:g169",
-            "pta0003.pta020.pta-grcBibex3:g170",
             "pta0003.pta020.pta-grcBibex3:g171",
             "pta0003.pta020.pta-grcBibex3:g172",
-            "pta0003.pta020.pta-grcBibex3:g173",
             "pta0003.pta020.pta-grcBibex3:g174",
-            "pta0003.pta020.pta-grcBibex3:g175",
             "pta0003.pta020.pta-grcBibex3:g176",
+            "pta0003.pta020.pta-grcBibex3:g177",
             "pta0003.pta020.pta-grcBibex3:g178",
             "pta0003.pta020.pta-grcBibex3:g179",
             "pta0003.pta020.pta-grcBibex3:g180",
             "pta0003.pta020.pta-grcBibex3:g181",
-            "pta0003.pta020.pta-grcBibex3:g182",
-            "pta0003.pta020.pta-grcBibex3:g183"
+            "pta0003.pta020.pta-grcBibex3:g183",
+            "pta0003.pta020.pta-grcBibex3:g184",
+            "pta0003.pta020.pta-grcBibex3:g185",
+            "pta0003.pta020.pta-grcBibex3:g186",
+            "pta0003.pta020.pta-grcBibex3:g187",
+            "pta0003.pta020.pta-grcBibex3:g188",
+            "pta0007.pta007.pta-grc1:g1",
+            "pta0007.pta007.pta-grc1:g3",
+            "pta0022.pta010.pta-grc1:g3",
+            "pta0029.pta002.pta-grc1:g1",
+            "pta0029.pta002.pta-grc1:g2",
+            "pta0029.pta002.pta-grc1:g3",
+            "pta0029.pta002.pta-grc2:g1",
+            "pta0029.pta002.pta-grc2:g2",
+            "pta0029.pta002.pta-grc2:g3",
+            "pta0036.pta001.pta-grc1:g31",
+            "pta0037.pta001.pta-grc1:g90"
         ],
         "name_txts": [
-            "ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
@@ -627,13 +1766,13 @@
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραηλῖται",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
-            "ἰσραηλῖται",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
@@ -649,6 +1788,7 @@
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραηλίταις",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
@@ -661,10 +1801,17 @@
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραηλιτικοῦ",
+            "Ἰσραηλιτῶν",
+            "Ἰσραηλίτας",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραηλιτῶν",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραηλίτας",
+            "Ἰσραηλίτας",
+            "Ἰσραηλιτῶν",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
@@ -673,45 +1820,13 @@
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραηλιτικόν",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
-            "Ἰσραήλ",
+            "Ἰσραηλιτικοῦ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
@@ -720,13 +1835,194 @@
             "Ἰσραήλ",
             "Ἰσραήλ",
             "ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραηλῖται",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραηλῖται",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "ἰσραηλιτικὸν λαὸν",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραήλ",
             "Ἰσραηλίτας",
             "Ἰσραήλ",
             "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "Ἰσραήλ",
+            "υἱοὶ Ἰσραὴλ",
+            "υἱοῖς Ἰσραὴλ",
+            "υἱῶν Ἰσραὴλ",
+            "υἱοὶ Ἰσραὴλ",
+            "υἱοῖς Ἰσραήλ",
+            "υἱῶν Ἰσραὴλ",
+            "Ἰσραήλ",
             "Ἰσραήλ"
+        ]
+    },
+    {
+        "org_id": "PTA_O00013",
+        "other_ids": [
+            {
+                "GND": "4051468-7"
+            },
+            {
+                "WIKIDATA": "Q182651"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Samaritans"
+            },
+            {
+                "deu": "Samaritaner"
+            },
+            {
+                "lat": "Samaritani"
+            },
+            {
+                "grc": "Σαμαρείτης"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta006.pta-grc1:g11",
+            "pta0001.pta018.pta-grc1:g3",
+            "pta0001.pta025.pta-grc1:g15"
+        ],
+        "name_txts": [
+            "Σαμαρείτιδι",
+            "Σαμαρείτης",
+            "Σαμαρείτης"
         ]
     },
     {
@@ -755,36 +2051,80 @@
         ],
         "date": "",
         "urns": [
+            "pta0001.pta002.pta-grc1:g2",
+            "pta0001.pta002.pta-grc1:g11",
+            "pta0001.pta002.pta-grc1:g13",
+            "pta0001.pta003.pta-grc1:g2",
+            "pta0001.pta018.pta-grc1:g56",
+            "pta0001.pta018.pta-grc1:g58",
+            "pta0001.pta018.pta-grc1:g59",
+            "pta0001.pta029.pta-grc1:g3",
+            "pta0001.pta036.pta-grc1:g5",
+            "pta0001.pta041.pta-grc1:g19",
+            "pta0001.pta041.pta-grc1:g20",
+            "pta0001.pta041.pta-grc1:g21",
+            "pta0001.pta049.pta-grc1:g6",
+            "pta0001.pta055.pta-grc1:g1",
+            "pta0001.pta055.pta-grc1:g2",
+            "pta0001.pta055.pta-grc1:g4",
+            "pta0001.pta055.pta-grc1:g5",
+            "pta0001.pta055.pta-grc1:g6",
             "pta0003.pta020.pta-grcBibex3:g6",
             "pta0003.pta020.pta-grcBibex3:g8",
-            "pta0003.pta020.pta-grcBibex3:g15",
-            "pta0003.pta020.pta-grcBibex3:g19",
-            "pta0003.pta020.pta-grcBibex3:g21",
+            "pta0003.pta020.pta-grcBibex3:g18",
             "pta0003.pta020.pta-grcBibex3:g22",
-            "pta0003.pta020.pta-grcBibex3:g23",
             "pta0003.pta020.pta-grcBibex3:g24",
             "pta0003.pta020.pta-grcBibex3:g25",
             "pta0003.pta020.pta-grcBibex3:g26",
             "pta0003.pta020.pta-grcBibex3:g27",
             "pta0003.pta020.pta-grcBibex3:g28",
+            "pta0003.pta020.pta-grcBibex3:g29",
             "pta0003.pta020.pta-grcBibex3:g30",
             "pta0003.pta020.pta-grcBibex3:g31",
-            "pta0003.pta020.pta-grcBibex3:g32",
+            "pta0003.pta020.pta-grcBibex3:g33",
+            "pta0003.pta020.pta-grcBibex3:g34",
             "pta0003.pta020.pta-grcBibex3:g35",
-            "pta0003.pta020.pta-grcBibex3:g36",
             "pta0003.pta020.pta-grcBibex3:g38",
             "pta0003.pta020.pta-grcBibex3:g39",
-            "pta0003.pta020.pta-grcBibex3:g40",
-            "pta0003.pta020.pta-grcBibex3:g117",
-            "pta0003.pta020.pta-grcBibex3:g146",
-            "pta0003.pta020.pta-grcBibex3:g147",
-            "pta0003.pta020.pta-grcBibex3:g149",
+            "pta0003.pta020.pta-grcBibex3:g41",
+            "pta0003.pta020.pta-grcBibex3:g42",
+            "pta0003.pta020.pta-grcBibex3:g43",
+            "pta0003.pta020.pta-grcBibex3:g122",
             "pta0003.pta020.pta-grcBibex3:g151",
-            "pta0003.pta020.pta-grcBibex3:g157",
-            "pta0003.pta020.pta-grcBibex3:g159",
-            "pta0003.pta020.pta-grcBibex3:g165"
+            "pta0003.pta020.pta-grcBibex3:g152",
+            "pta0003.pta020.pta-grcBibex3:g154",
+            "pta0003.pta020.pta-grcBibex3:g156",
+            "pta0003.pta020.pta-grcBibex3:g162",
+            "pta0003.pta020.pta-grcBibex3:g164",
+            "pta0003.pta020.pta-grcBibex3:g170",
+            "pta0029.pta002.pta-grc1:g7",
+            "pta0029.pta002.pta-grc1:g9",
+            "pta0029.pta002.pta-grc2:g7",
+            "pta0029.pta002.pta-grc2:g9",
+            "pta0036.pta001.pta-grc1:g25",
+            "pta0036.pta001.pta-grc1:g67",
+            "pta0037.pta001.pta-grc1:g26",
+            "pta0037.pta001.pta-grc1:g41"
         ],
         "name_txts": [
+            "Αἰγυπτίοις",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίων",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίοις",
+            "Αἰγυπτίοις",
+            "Αἰγύπτιοι",
+            "Αἰγυπτίων",
+            "Αἰγυπτίων",
+            "Αἰγυπτίων",
+            "Αἰγυπτίους",
+            "Αἰγύπτιοι",
+            "Αἰγύπτιοι",
+            "Αἰγυπτίων",
+            "Αἰγύπτιοι",
+            "Αἰγύπτιοι",
+            "Αἰγυπτίους",
             "Αἰγυπτίων",
             "Αἰγυπτίους",
             "Αἰγυπτίων",
@@ -812,7 +2152,15 @@
             "Αἰγυπτίων",
             "Αἰγυπτίοις",
             "Αἰγύπτιοι",
-            "Αἰγυπτίων"
+            "Αἰγυπτίων",
+            "Αἰγυπτιακῆς",
+            "Αἰγύπτου",
+            "Αἰγυπτιακῆς",
+            "Αἰγύπτου",
+            "Αἰγυπτίους",
+            "Αἰγυπτίους",
+            "Αἰγυπτίων",
+            "Αἰγυπτίους"
         ]
     },
     {
@@ -841,12 +2189,2256 @@
         ],
         "date": "",
         "urns": [
-            "pta0003.pta020.pta-grcBibex3:g46",
-            "pta0003.pta020.pta-grcBibex3:g99"
+            "pta0001.pta002.pta-grc1:g3",
+            "pta0001.pta003.pta-grc1:g4",
+            "pta0001.pta005.pta-grc1:g7",
+            "pta0001.pta006.pta-grc1:g4",
+            "pta0001.pta018.pta-grc1:g23",
+            "pta0003.pta020.pta-grcBibex3:g48",
+            "pta0003.pta020.pta-grcBibex3:g103",
+            "pta0004.pta001.pta-grcBibex:g1",
+            "pta0004.pta001.pta-grcBibex:g2",
+            "pta0022.pta003.pta-grc1:g48",
+            "pta0022.pta010.pta-grc1:g10",
+            "pta0036.pta001.pta-grc1:g1",
+            "pta0036.pta001.pta-grc1:g2",
+            "pta0036.pta001.pta-grc1:g3",
+            "pta0036.pta001.pta-grc1:g4",
+            "pta0036.pta001.pta-grc1:g5",
+            "pta0036.pta001.pta-grc1:g6",
+            "pta0036.pta001.pta-grc1:g9",
+            "pta0036.pta001.pta-grc1:g10",
+            "pta0036.pta001.pta-grc1:g11",
+            "pta0036.pta001.pta-grc1:g12",
+            "pta0036.pta001.pta-grc1:g13",
+            "pta0036.pta001.pta-grc1:g14",
+            "pta0036.pta001.pta-grc1:g23",
+            "pta0036.pta001.pta-grc1:g28",
+            "pta0036.pta001.pta-grc1:g34",
+            "pta0036.pta001.pta-grc1:g44",
+            "pta0036.pta001.pta-grc1:g48",
+            "pta0036.pta001.pta-grc1:g52",
+            "pta0036.pta001.pta-grc1:g53",
+            "pta0036.pta001.pta-grc1:g54",
+            "pta0036.pta001.pta-grc1:g55",
+            "pta0036.pta001.pta-grc1:g56",
+            "pta0036.pta001.pta-grc1:g57",
+            "pta0036.pta001.pta-grc1:g63",
+            "pta0037.pta001.pta-grc1:g28",
+            "pta0037.pta001.pta-grc1:g77",
+            "pta0037.pta001.pta-grc1:g80",
+            "pta0037.pta001.pta-grc1:g83",
+            "pta0037.pta001.pta-grc1:g84",
+            "pta0037.pta001.pta-grc1:g86",
+            "pta0037.pta001.pta-grc1:g87",
+            "pta0037.pta001.pta-grc1:g111",
+            "pta0037.pta001.pta-grc1:g112",
+            "pta0041.pta001.pta-grc1:g3"
         ],
         "name_txts": [
             "Ῥωμαίων",
+            "Ῥωμαῖος",
+            "Ῥωμαίους",
+            "Ῥωμαίων",
+            "Ῥωμαίοις",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "ῥωμαῖοι",
+            "Ῥωμαίοις",
+            "Ῥωμαίοις",
+            "Ῥωμαίοις",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίοις",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίους",
+            "Ῥωμαίοις",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίοις",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαίων",
+            "Ῥωμαῖοι",
+            "Ῥωμαῖοι",
+            "Ῥωμαίων",
+            "Ῥωμαῖοι",
+            "Ῥωμαίων",
+            "Ῥωμαίους",
+            "Ῥωμαῖοι",
+            "Ῥωμαίων",
+            "Ῥωμαῖοι",
             "Ῥωμαίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00016",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": "Q16707860"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Levites"
+            },
+            {
+                "deu": "Leviten"
+            },
+            {
+                "lat": "Levitae"
+            },
+            {
+                "grc": "Λευῖται"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta014.pta-grc1:g9",
+            "pta0001.pta038.pta-grc1:g1",
+            "pta0003.pta020.pta-grcBibex3:g100",
+            "pta0003.pta020.pta-grcBibex3:g101",
+            "pta0029.pta002.pta-grc1:g4",
+            "pta0029.pta002.pta-grc1:g5",
+            "pta0029.pta002.pta-grc1:g6",
+            "pta0029.pta002.pta-grc2:g4",
+            "pta0029.pta002.pta-grc2:g5",
+            "pta0029.pta002.pta-grc2:g6"
+        ],
+        "name_txts": [
+            "Λευίταις",
+            "Λευῖται",
+            "Λευίτας",
+            "Λευίταις",
+            "Λευΐτας",
+            "Λευῖται",
+            "Λευῗται",
+            "Λευίτας",
+            "Λευῖται",
+            "Λευῖται"
+        ]
+    },
+    {
+        "org_id": "PTA_O00017",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Abrahamites"
+            },
+            {
+                "deu": "Abrahamiten"
+            },
+            {
+                "lat": "Abramitai"
+            },
+            {
+                "grc": "Ἀβραμιαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta018.pta-grc1:g8",
+            "pta0029.pta002.pta-grc1:g8",
+            "pta0029.pta002.pta-grc2:g8"
+        ],
+        "name_txts": [
+            "Ἀβραμῖτις",
+            "Ἀβραμιαίων",
+            "Ἀβραμιαίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00018",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": "Q106039"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Christians"
+            },
+            {
+                "deu": "Christen"
+            },
+            {
+                "lat": "Christiani"
+            },
+            {
+                "grc": "Χριστιανοί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta017.pta-grc1:g22",
+            "pta0001.pta018.pta-grc1:g18",
+            "pta0001.pta018.pta-grc1:g19",
+            "pta0001.pta019.pta-grc1:g8",
+            "pta0001.pta019.pta-grc1:g17",
+            "pta0001.pta040.pta-grc1:g27",
+            "pta0001.pta042.pta-grc1:g72",
+            "pta0001.pta047.pta-grc1:g1",
+            "pta0001.pta048.pta-grc1:g4",
+            "pta0003.pta009.pta-grc1:g1",
+            "pta0003.pta009.pta-grc1:g13",
+            "pta0003.pta009.pta-grc1:g41"
+        ],
+        "name_txts": [
+            "Χριστιανῶν",
+            "Χριστιανόν",
+            "Χριστιανός",
+            "Χριστιανισμῷ",
+            "Χριστιανοί",
+            "Χριστιανοί",
+            "Χριστιανοί",
+            "Χριστιανοῦ",
+            "Χριστιανός",
+            "Χριστιανούς",
+            "Χριστιανοῦ",
+            "Χριστιανός"
+        ]
+    },
+    {
+        "org_id": "PTA_O00019",
+        "other_ids": [
+            {
+                "GND": "4368744-1"
+            },
+            {
+                "WIKIDATA": "Q131165"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Manichaeans"
+            },
+            {
+                "deu": "Manichäer"
+            },
+            {
+                "lat": "Manichaei"
+            },
+            {
+                "grc": "Μανιχαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta016.pta-grc1:g3",
+            "pta0001.pta018.pta-grc1:g41",
+            "pta0001.pta031.pta-lat1:g1",
+            "pta0001.pta031.pta-lat1:g2",
+            "pta0001.pta034.pta-grc1:g1",
+            "pta0001.pta034.pta-grc1:g26",
+            "pta0001.pta034.pta-grc1:g27",
+            "pta0001.pta034.pta-grc1:g28",
+            "pta0022.pta015.pta-grc1:g5"
+        ],
+        "name_txts": [
+            "Μανιχαῖοι",
+            "Μανιχαίους",
+            "Manichaeorum",
+            "Manichaeorum",
+            "Μανιχαίων",
+            "Μανιχαίων",
+            "Μανιχαίων",
+            "Μανιχαῖοι",
+            "Μανιχαίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00020",
+        "other_ids": [
+            {
+                "GND": "4223571-6"
+            },
+            {
+                "WIKIDATA": "Q163329"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Canaanites"
+            },
+            {
+                "deu": "Kanaanäer/Kanaaniter"
+            },
+            {
+                "lat": "Chanaanaei"
+            },
+            {
+                "grc": "Χαναναῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta015.pta-grc1:g3",
+            "pta0001.pta015.pta-grc1:g4",
+            "pta0001.pta015.pta-grc1:g5",
+            "pta0001.pta018.pta-grc1:g7",
+            "pta0001.pta018.pta-grc1:g22",
+            "pta0001.pta040.pta-grc1:g13",
+            "pta0001.pta040.pta-grc1:g14",
+            "pta0001.pta040.pta-grc1:g16",
+            "pta0001.pta040.pta-grc1:g17",
+            "pta0001.pta040.pta-grc1:g18",
+            "pta0001.pta040.pta-grc1:g19",
+            "pta0001.pta040.pta-grc1:g20",
+            "pta0001.pta040.pta-grc1:g21",
+            "pta0001.pta040.pta-grc1:g22",
+            "pta0001.pta040.pta-grc1:g23",
+            "pta0001.pta040.pta-grc1:g24",
+            "pta0001.pta040.pta-grc1:g25",
+            "pta0003.pta020.pta-grcBibex3:g15",
+            "pta0003.pta020.pta-grcBibex3:g17"
+        ],
+        "name_txts": [
+            "Χαναναία",
+            "Χαναναία",
+            "Χαναναία",
+            "Χαναναία",
+            "Χαναναίαν",
+            "Χαναναίων",
+            "Χαναναῖος",
+            "Χαναναῖος",
+            "Χαναναίῳ",
+            "Χαναναῖος",
+            "Χαναναῖος",
+            "Χαναναία",
+            "Χαναναίων",
+            "Χαναναίας",
+            "Χαναναῖοι",
+            "Χαναναίαν",
+            "Χαναναίας",
+            "Χαναναίων",
+            "Χαναναίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00021",
+        "other_ids": [
+            {
+                "GND": "4019107-2"
+            },
+            {
+                "WIKIDATA": "Q11073103"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Galatians"
+            },
+            {
+                "deu": "Galater"
+            },
+            {
+                "lat": "Galati"
+            },
+            {
+                "grc": "Γαλάται"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta018.pta-grc1:g54"
+        ],
+        "name_txts": [
+            "Γαλάταις"
+        ]
+    },
+    {
+        "org_id": "PTA_O00022",
+        "other_ids": [
+            {
+                "GND": "4115909-3"
+            },
+            {
+                "WIKIDATA": "Q484206"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Persians"
+            },
+            {
+                "deu": "Perser"
+            },
+            {
+                "lat": "Persae"
+            },
+            {
+                "grc": "Περσαί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta006.pta-grc1:g2",
+            "pta0001.pta006.pta-grc1:g3",
+            "pta0001.pta042.pta-grc1:g63"
+        ],
+        "name_txts": [
+            "Περσῶν",
+            "Περσῶν",
+            "Περσῶν"
+        ]
+    },
+    {
+        "org_id": "PTA_O00023",
+        "other_ids": [
+            {
+                "GND": "4142791-9"
+            },
+            {
+                "WIKIDATA": "Q1194234"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Apolinarians"
+            },
+            {
+                "deu": "Apolinaristen"
+            },
+            {
+                "lat": "Apolinarii"
+            },
+            {
+                "grc": "Ἀπολινάριοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta019.pta-grc1:g25",
+            "pta0001.pta034.pta-grc1:g2",
+            "pta0001.pta034.pta-grc1:g35"
+        ],
+        "name_txts": [
+            "Ἀπολινάριοι",
+            "Ἀπολιναριστῶν",
+            "τοὺς Ἀπολιναρίου"
+        ]
+    },
+    {
+        "org_id": "PTA_O00024",
+        "other_ids": [
+            {
+                "GND": "4174130-4"
+            },
+            {
+                "WIKIDATA": "Q26403"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Pharisees"
+            },
+            {
+                "deu": "Pharisäer"
+            },
+            {
+                "lat": "Pharisaei"
+            },
+            {
+                "grc": "Φαρισαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta014.pta-grc1:g1",
+            "pta0001.pta015.pta-grc1:g1",
+            "pta0001.pta015.pta-grc1:g2",
+            "pta0001.pta015.pta-grc1:g6",
+            "pta0001.pta015.pta-grc1:g7",
+            "pta0001.pta015.pta-grc1:g9",
+            "pta0001.pta015.pta-grc1:g10",
+            "pta0001.pta015.pta-grc1:g11",
+            "pta0001.pta015.pta-grc1:g12",
+            "pta0001.pta015.pta-grc1:g13",
+            "pta0001.pta019.pta-grc1:g23",
+            "pta0001.pta034.pta-grc1:g33",
+            "pta0001.pta035.pta-grcBibex:g1",
+            "pta0001.pta035.pta-grcBibex:g2",
+            "pta0001.pta035.pta-grcBibex:g3",
+            "pta0001.pta037.pta-grc1:g15",
+            "pta0001.pta037.pta-grc1:g16",
+            "pta0001.pta040.pta-grc1:g1",
+            "pta0003.pta020.pta-grcBibex3:g62",
+            "pta0003.pta020.pta-grcBibex3:g72",
+            "pta0022.pta003.pta-grc1:g5",
+            "pta0022.pta003.pta-grc1:g9",
+            "pta0036.pta001.pta-grc1:g35",
+            "pta0037.pta001.pta-grc1:g65",
+            "pta0037.pta001.pta-grc1:g99"
+        ],
+        "name_txts": [
+            "Φαρισαίοις",
+            "Φαρισαῖον",
+            "Φαρισαίῳ",
+            "Φαρισαίου",
+            "Φαρισαίου",
+            "Φαρισαίου",
+            "Φαρισαῖος",
+            "Φαρισαίου",
+            "Φαρισαῖε",
+            "Φαρισαῖε",
+            "Φαρισαίων",
+            "Φαρισαίους",
+            "Φαρισαῖοι",
+            "Φαρισαίοις",
+            "Φαρισαῖοι",
+            "φαρισαῖοι",
+            "φαρισαίων",
+            "Φαρισαίους",
+            "Φαρισαῖοι",
+            "Φαρισαίων",
+            "οἱ Φαρισαῖοι",
+            "Φαρισαίοις",
+            "Φαρισαίους",
+            "Φαρισαίων",
+            "Φαρισαίοις"
+        ]
+    },
+    {
+        "org_id": "PTA_O00025",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Corinthians"
+            },
+            {
+                "deu": "Korinther"
+            },
+            {
+                "lat": "Corinthii"
+            },
+            {
+                "grc": "Κορινθίοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta002.pta-grc1:g1",
+            "pta0001.pta011.pta-grc1:g19",
+            "pta0001.pta013.pta-grc1:g3",
+            "pta0037.pta001.pta-grc1:g48"
+        ],
+        "name_txts": [
+            "Κορινθίοις",
+            "Κορινθίους",
+            "Κορινθίοις",
+            "Κορινθίους"
+        ]
+    },
+    {
+        "org_id": "PTA_O00026",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": "Q5518599"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Galileans"
+            },
+            {
+                "deu": "Galiläer"
+            },
+            {
+                "lat": "Galilaei"
+            },
+            {
+                "grc": "Γαλιλαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta003.pta-grc1:g16",
+            "pta0001.pta003.pta-grc1:g17",
+            "pta0001.pta003.pta-grc1:g18",
+            "pta0001.pta003.pta-grc1:g19",
+            "pta0001.pta003.pta-grc1:g20",
+            "pta0001.pta003.pta-grc1:g21",
+            "pta0001.pta004.pta-grc1:g17",
+            "pta0001.pta042.pta-grc1:g60",
+            "pta0001.pta042.pta-grc1:g61",
+            "pta0001.pta042.pta-grc1:g66"
+        ],
+        "name_txts": [
+            "Γαλιλαῖοι",
+            "Γαλιλαίους",
+            "Γαλιλαῖοι",
+            "Γαλιλαῖοι",
+            "Γαλιλαῖοι",
+            "Γαλιλαῖοι",
+            "Γαλιλαῖος",
+            "Γαλιλαίων",
+            "Γαλιλαῖοι",
+            "Γαλιλαῖον"
+        ]
+    },
+    {
+        "org_id": "PTA_O00027",
+        "other_ids": [
+            {
+                "GND": "4084762-7"
+            },
+            {
+                "WIKIDATA": "Q2918061"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Ethiopians"
+            },
+            {
+                "deu": "Äthiopier"
+            },
+            {
+                "lat": "Aethiopi"
+            },
+            {
+                "grc": "Αἰθίοποι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta005.pta-grc1:g10",
+            "pta0037.pta001.pta-grc1:g89",
+            "pta0037.pta001.pta-grc1:g106",
+            "pta0037.pta001.pta-grc1:g107"
+        ],
+        "name_txts": [
+            "Αἰθιόπων",
+            "Αἰθιόπων",
+            "Αἰθιόπων",
+            "Αἰθιόπων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00028",
+        "other_ids": [
+            {
+                "GND": "4331728-5"
+            },
+            {
+                "WIKIDATA": "Q940785"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Sabaeans"
+            },
+            {
+                "deu": "Sabäer"
+            },
+            {
+                "lat": "Sabaei"
+            },
+            {
+                "grc": "Σαβαείμ, Σαβαίοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta005.pta-grc1:g11"
+        ],
+        "name_txts": [
+            "Σαβαείμ"
+        ]
+    },
+    {
+        "org_id": "PTA_O00029",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": "Q797930"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Babylonians"
+            },
+            {
+                "deu": "Babylonier"
+            },
+            {
+                "lat": "Babylonii"
+            },
+            {
+                "grc": "Βαβυλώνιοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta007.pta-grc1:g6",
+            "pta0001.pta037.pta-grc1:g28",
+            "pta0001.pta049.pta-grc1:g4",
+            "pta0001.pta049.pta-grc1:g8",
+            "pta0022.pta010.pta-grc1:g4",
+            "pta0037.pta001.pta-grc1:g10",
+            "pta0037.pta001.pta-grc1:g12",
+            "pta0037.pta001.pta-grc1:g25",
+            "pta0037.pta001.pta-grc1:g32",
+            "pta0037.pta001.pta-grc1:g33",
+            "pta0037.pta001.pta-grc1:g34",
+            "pta0037.pta001.pta-grc1:g35",
+            "pta0037.pta001.pta-grc1:g36",
+            "pta0037.pta001.pta-grc1:g38",
+            "pta0037.pta001.pta-grc1:g52",
+            "pta0037.pta001.pta-grc1:g55",
+            "pta0037.pta001.pta-grc1:g58",
+            "pta0037.pta001.pta-grc1:g71",
+            "pta0037.pta001.pta-grc1:g75",
+            "pta0037.pta001.pta-grc1:g78"
+        ],
+        "name_txts": [
+            "Βαβυλωνίων",
+            "Βαβυλώνιος",
+            "Βαβυλωνίους",
+            "Βαβυλώνιοι",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίοις",
+            "Βαβυλωνίους",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίοις",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων",
+            "Βαβυλωνίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00030",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": "Q8735"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Medes"
+            },
+            {
+                "deu": "Meder"
+            },
+            {
+                "lat": "Medi"
+            },
+            {
+                "grc": "Μήδοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta007.pta-grc1:g5",
+            "pta0001.pta042.pta-grc1:g62",
+            "pta0037.pta001.pta-grc1:g50",
+            "pta0037.pta001.pta-grc1:g57",
+            "pta0037.pta001.pta-grc1:g59",
+            "pta0037.pta001.pta-grc1:g60",
+            "pta0037.pta001.pta-grc1:g62",
+            "pta0037.pta001.pta-grc1:g63",
+            "pta0037.pta001.pta-grc1:g66",
+            "pta0037.pta001.pta-grc1:g67",
+            "pta0037.pta001.pta-grc1:g95",
+            "pta0037.pta001.pta-grc1:g97"
+        ],
+        "name_txts": [
+            "Μήδοις",
+            "Μῆδοι",
+            "Μήδων",
+            "Μήδοις",
+            "Μήδους",
+            "Μήδων",
+            "Μήδων",
+            "Μήδοις",
+            "Μήδων",
+            "Μήδων",
+            "Μήδων",
+            "Μήδων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00031",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Sodomites"
+            },
+            {
+                "deu": "Sodomiten"
+            },
+            {
+                "lat": "Sodomitae"
+            },
+            {
+                "grc": "Σοδομίται"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta007.pta-grc1:g10",
+            "pta0001.pta007.pta-grc1:g11",
+            "pta0001.pta024.pta-grc1:g12",
+            "pta0001.pta040.pta-grc1:g6",
+            "pta0001.pta040.pta-grc1:g10",
+            "pta0001.pta040.pta-grc1:g11",
+            "pta0001.pta040.pta-grc1:g12",
+            "pta0001.pta042.pta-grc1:g5",
+            "pta0001.pta042.pta-grc1:g6",
+            "pta0001.pta042.pta-grc1:g7",
+            "pta0001.pta042.pta-grc1:g8",
+            "pta0001.pta042.pta-grc1:g9",
+            "pta0001.pta042.pta-grc1:g11",
+            "pta0001.pta042.pta-grc1:g15",
+            "pta0001.pta042.pta-grc1:g17",
+            "pta0001.pta042.pta-grc1:g18",
+            "pta0001.pta042.pta-grc1:g19",
+            "pta0001.pta042.pta-grc1:g20",
+            "pta0001.pta042.pta-grc1:g21",
+            "pta0001.pta042.pta-grc1:g23",
+            "pta0001.pta042.pta-grc1:g25",
+            "pta0001.pta042.pta-grc1:g26",
+            "pta0001.pta042.pta-grc1:g27"
+        ],
+        "name_txts": [
+            "Σοδομιτῶν",
+            "Σοδομίταις",
+            "Σοδομιτῶν",
+            "Σοδομιτῶν",
+            "Σοδομῖτις",
+            "Σοδομιτῶν",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδομιτῶν",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδομῖται",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδόμων",
+            "Σοδομιτῶν",
+            "Σοδομιτῶν",
+            "Σοδόμων",
+            "Σοδομιτῶν",
+            "Σοδομιτῶν"
+        ]
+    },
+    {
+        "org_id": "PTA_O00032",
+        "other_ids": [
+            {
+                "GND": "4055278-0"
+            },
+            {
+                "WIKIDATA": "Q131802"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Scythians"
+            },
+            {
+                "deu": "Skythen"
+            },
+            {
+                "lat": "Scythae"
+            },
+            {
+                "grc": "Σκύθαι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta008.pta-grc1:g5",
+            "pta0001.pta008.pta-grc1:g6",
+            "pta0036.pta001.pta-grc1:g26"
+        ],
+        "name_txts": [
+            "Σκύθης",
+            "Σκύθης",
+            "Σκύθης"
+        ]
+    },
+    {
+        "org_id": "PTA_O00033",
+        "other_ids": [
+            {
+                "GND": "4355044-7"
+            },
+            {
+                "WIKIDATA": "Q745718"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Assyrians"
+            },
+            {
+                "deu": "Assyrier"
+            },
+            {
+                "lat": "Assyrii"
+            },
+            {
+                "grc": "Ἀσσυρίοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta008.pta-grc1:g11",
+            "pta0001.pta014.pta-grc1:g8",
+            "pta0001.pta037.pta-grc1:g37",
+            "pta0036.pta001.pta-grc1:g27",
+            "pta0037.pta001.pta-grc1:g6",
+            "pta0037.pta001.pta-grc1:g51"
+        ],
+        "name_txts": [
+            "Ἀσσυρίων",
+            "Ἀσσυρίων",
+            "Ἀσσυρίων",
+            "Ἀσσυρίων",
+            "Ἀσσυρίων",
+            "Ἀσσυρίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00034",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Thessalonians"
+            },
+            {
+                "deu": "Thessalonicher"
+            },
+            {
+                "lat": "Thessalonicenses"
+            },
+            {
+                "grc": "Θεσσαλονικεῖς"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta014.pta-grc1:g6",
+            "pta0037.pta001.pta-grc1:g91"
+        ],
+        "name_txts": [
+            "Θεσσαλονικεῦσι",
+            "Θεσσαλονικεῖς"
+        ]
+    },
+    {
+        "org_id": "PTA_O00035",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": "Q200969"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Chaldeans"
+            },
+            {
+                "deu": "Chaldäer"
+            },
+            {
+                "lat": "Chaldaei"
+            },
+            {
+                "grc": "Χαλδαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta016.pta-grc1:g1",
+            "pta0001.pta016.pta-grc1:g2",
+            "pta0001.pta022.pta-grc1:g1",
+            "pta0001.pta022.pta-grc1:g2",
+            "pta0001.pta038.pta-grc1:g2",
+            "pta0001.pta038.pta-grc1:g3",
+            "pta0001.pta049.pta-grc1:g2",
+            "pta0001.pta049.pta-grc1:g3",
+            "pta0001.pta054.pta-grc1:g14",
+            "pta0001.pta054.pta-lat1:g15",
+            "pta0003.pta020.pta-grcBibex3:g16",
+            "pta0003.pta020.pta-grcBibex3:g175",
+            "pta0037.pta001.pta-grc1:g1",
+            "pta0037.pta001.pta-grc1:g2",
+            "pta0037.pta001.pta-grc1:g3",
+            "pta0037.pta001.pta-grc1:g4",
+            "pta0037.pta001.pta-grc1:g5",
+            "pta0037.pta001.pta-grc1:g7",
+            "pta0037.pta001.pta-grc1:g9",
+            "pta0037.pta001.pta-grc1:g18",
+            "pta0037.pta001.pta-grc1:g19",
+            "pta0037.pta001.pta-grc1:g20",
+            "pta0037.pta001.pta-grc1:g21",
+            "pta0037.pta001.pta-grc1:g22",
+            "pta0037.pta001.pta-grc1:g23",
+            "pta0037.pta001.pta-grc1:g24",
+            "pta0037.pta001.pta-grc1:g29",
+            "pta0037.pta001.pta-grc1:g37",
+            "pta0037.pta001.pta-grc1:g39",
+            "pta0037.pta001.pta-grc1:g40",
+            "pta0037.pta001.pta-grc1:g46",
+            "pta0037.pta001.pta-grc1:g47",
+            "pta0037.pta001.pta-grc1:g53",
+            "pta0037.pta001.pta-grc1:g54",
+            "pta0037.pta001.pta-grc1:g56",
+            "pta0037.pta001.pta-grc1:g64",
+            "pta0037.pta001.pta-grc1:g69",
+            "pta0037.pta001.pta-grc1:g70",
+            "pta0037.pta001.pta-grc1:g98"
+        ],
+        "name_txts": [
+            "Χαλδαίους",
+            "Χαλδαῖοι",
+            "Χαλδαίους",
+            "Χαλδαῖοι",
+            "Χαλδαίους",
+            "Χαλδαίους",
+            "Χαλδαίων",
+            "Χαλδαίους",
+            "Χαλδαίους",
+            "Chaldaeos",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαῖος",
+            "Χαλδαῖοι",
+            "Χαλδαί›ους",
+            "Χαλδαῖοι",
+            "Χαλδαίοις",
+            "Χαλδαῖοι",
+            "Χαλδαῖοι",
+            "Χαλδαῖον",
+            "Χαλδαίους",
+            "Χαλδαίων",
+            "Χαλδαῖοι",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαῖοι",
+            "Χαλδαίων",
+            "Χαλδαίους",
+            "Χαλδαίους",
+            "Χαλδαίων",
+            "Χαλδαῖοι",
+            "Χαλδαίων",
+            "Χαλδαίων",
+            "Χαλδαίων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00036",
+        "other_ids": [
+            {
+                "GND": "4045777-1"
+            },
+            {
+                "WIKIDATA": "Q193776"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Philistins"
+            },
+            {
+                "deu": "Philister"
+            },
+            {
+                "lat": "Philistaei"
+            },
+            {
+                "grc": "Φιλιστιαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta016.pta-grc1:g4"
+        ],
+        "name_txts": [
+            "Φιλιστιαῖοι"
+        ]
+    },
+    {
+        "org_id": "PTA_O00037",
+        "other_ids": [
+            {
+                "GND": "4211510-3"
+            },
+            {
+                "WIKIDATA": "Q11934533"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Midianites"
+            },
+            {
+                "deu": "Midianiter"
+            },
+            {
+                "lat": "Madianitae"
+            },
+            {
+                "grc": "Μαδιανείται"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta024.pta-grc1:g6",
+            "pta0001.pta024.pta-grc1:g7"
+        ],
+        "name_txts": [
+            "Μαδιανειτῶν",
+            "Μαδιανείτας"
+        ]
+    },
+    {
+        "org_id": "PTA_O00038",
+        "other_ids": [
+            {
+                "GND": "4010071-6"
+            },
+            {
+                "WIKIDATA": "Q106039"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Christians"
+            },
+            {
+                "deu": "Christen"
+            },
+            {
+                "lat": "Christiani"
+            },
+            {
+                "grc": "Χριστιανοί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta004.pta-grc1:g2",
+            "pta0001.pta004.pta-grc1:g3",
+            "pta0001.pta014.pta-grc1:g12",
+            "pta0001.pta024.pta-grc1:g9",
+            "pta0001.pta024.pta-grc1:g11",
+            "pta0001.pta040.pta-grc1:g3",
+            "pta0001.pta040.pta-grc1:g4",
+            "pta0003.pta020.pta-grcBibex3:g109",
+            "pta0007.pta007.pta-grc1:g4",
+            "pta0007.pta007.pta-grc1:g5",
+            "pta0007.pta007.pta-grc1:g6",
+            "pta0022.pta003.pta-grc1:g23",
+            "pta0022.pta003.pta-grc1:g42",
+            "pta0022.pta003.pta-grc1:g52",
+            "pta0022.pta004.pta-grc1:g23",
+            "pta0022.pta010.pta-grc1:g13",
+            "pta0022.pta017.pta-grc1:g3",
+            "pta0022.pta017.pta-grc1:g17",
+            "pta0036.pta001.pta-grc1:g15",
+            "pta0036.pta001.pta-grc1:g16",
+            "pta0036.pta001.pta-grc1:g17",
+            "pta0036.pta001.pta-grc1:g18",
+            "pta0036.pta001.pta-grc1:g20",
+            "pta0036.pta001.pta-grc1:g21",
+            "pta0036.pta001.pta-grc1:g22",
+            "pta0036.pta001.pta-grc1:g24",
+            "pta0036.pta001.pta-grc1:g30",
+            "pta0036.pta001.pta-grc1:g37",
+            "pta0036.pta001.pta-grc1:g38",
+            "pta0036.pta001.pta-grc1:g39",
+            "pta0036.pta001.pta-grc1:g45",
+            "pta0036.pta001.pta-grc1:g58",
+            "pta0036.pta001.pta-grc1:g59",
+            "pta0036.pta001.pta-grc1:g60",
+            "pta0036.pta001.pta-grc1:g61",
+            "pta0036.pta001.pta-grc1:g62",
+            "pta0037.pta001.pta-grc1:g17",
+            "pta0037.pta001.pta-grc1:g85",
+            "pta0037.pta001.pta-grc1:g88",
+            "pta0100.pta002.pta-grc1:g1"
+        ],
+        "name_txts": [
+            "Χριστιανῷ",
+            "Χριστιανός",
+            "Χριστιανός",
+            "Χριστιανούς",
+            "Χριστιανοί",
+            "Χριστιανοί",
+            "Χριστιανούς",
+            "Χριστιανῶν",
+            "Χριστιανός",
+            "Χριστιανός",
+            "Χριστιανοῖς",
+            "Χριστιανοί",
+            "Χριστιανούς",
+            "Χριστιανοί",
+            "Χριστιανούς",
+            "Χριστιανοῖς",
+            "Χριστιανοί",
+            "Χριστιανῶν",
+            "Χριστιανῶν",
+            "Χριστιανούς",
+            "Χριστιανός",
+            "Χριστιανός",
+            "Χριστιανούς",
+            "Χριστιανῶν",
+            "Χριστιανῶν",
+            "Χριστιανούς",
+            "Χριστιανός",
+            "Χριστιανοῖς",
+            "Χριστιανούς",
+            "Χριστιανούς",
+            "Χριστιανούς",
+            "Χριστιανούς",
+            "Χριστιανῶν",
+            "Χριστιανούς",
+            "Χριστιανῶν",
+            "Χριστιανῶν",
+            "Χριστιανῶν",
+            "Χριστιανῶν",
+            "Χριστιανοί",
+            "Χριστιανούς"
+        ]
+    },
+    {
+        "org_id": "PTA_O00039",
+        "other_ids": [
+            {
+                "GND": "4054582-9"
+            },
+            {
+                "WIKIDATA": "Q29334"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Septuagint"
+            },
+            {
+                "deu": "Septuaginta"
+            },
+            {
+                "lat": "Septuaginta"
+            },
+            {
+                "grc": "Ἑβδομήκοντα"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta017.pta-grc1:g3",
+            "pta0003.pta017.pta-grc1:g4",
+            "pta0003.pta017.pta-grc1:g10",
+            "pta0003.pta017.pta-grc1:g11",
+            "pta0003.pta017.pta-grc1:g14",
+            "pta0003.pta017.pta-grc1:g20",
+            "pta0003.pta017.pta-grc1:g21",
+            "pta0003.pta017.pta-grc1:g24",
+            "pta0003.pta017.pta-grc1:g27",
+            "pta0003.pta017.pta-grc1:g30",
+            "pta0003.pta017.pta-grc1:g34",
+            "pta0003.pta017.pta-grc1:g36",
+            "pta0003.pta017.pta-grc1:g44",
+            "pta0003.pta017.pta-grc1:g45",
+            "pta0003.pta017.pta-grc1:g46",
+            "pta0003.pta017.pta-grc1:g49",
+            "pta0003.pta017.pta-grc1:g50",
+            "pta0003.pta017.pta-grc1:g52",
+            "pta0003.pta017.pta-grc1:g55",
+            "pta0003.pta017.pta-grc1:g56",
+            "pta0003.pta017.pta-grc1:g60",
+            "pta0003.pta017.pta-grc1:g66",
+            "pta0003.pta017.pta-grc1:g67",
+            "pta0003.pta017.pta-grc1:g69",
+            "pta0003.pta017.pta-grc1:g71",
+            "pta0003.pta017.pta-grc1:g72",
+            "pta0003.pta017.pta-grc1:g74",
+            "pta0003.pta017.pta-grc1:g75",
+            "pta0003.pta017.pta-grc1:g79",
+            "pta0003.pta017.pta-grc1:g80",
+            "pta0003.pta017.pta-grc1:g82",
+            "pta0003.pta017.pta-grc1:g85",
+            "pta0003.pta017.pta-grc1:g86",
+            "pta0003.pta017.pta-grc1:g87",
+            "pta0003.pta017.pta-grc1:g92",
+            "pta0003.pta017.pta-grc1:g98",
+            "pta0003.pta017.pta-grc1:g99",
+            "pta0003.pta017.pta-grc1:g112",
+            "pta0003.pta017.pta-grc1:g124",
+            "pta0003.pta017.pta-grc1:g125",
+            "pta0003.pta017.pta-grc1:g126",
+            "pta0003.pta017.pta-grc1:g127",
+            "pta0003.pta017.pta-grc1:g128",
+            "pta0003.pta017.pta-grc1:g129",
+            "pta0003.pta017.pta-grc1:g132",
+            "pta0003.pta017.pta-grc1:g133",
+            "pta0003.pta017.pta-grc1:g139",
+            "pta0003.pta017.pta-grc1:g140",
+            "pta0003.pta017.pta-grc1:g151",
+            "pta0003.pta017.pta-grc1:g152",
+            "pta0003.pta017.pta-grc1:g159",
+            "pta0003.pta017.pta-grc1:g160"
+        ],
+        "name_txts": [
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα",
+            "Ἑβδομήκοντα"
+        ]
+    },
+    {
+        "org_id": "PTA_O00040",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": null
+            },
+            {
+                "deu": "Die übrigen Übersetzer"
+            },
+            {
+                "lat": null
+            },
+            {
+                "grc": "οἱ λοιποί ἑρμηνευταί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0003.pta017.pta-grc1:g1",
+            "pta0003.pta017.pta-grc1:g2",
+            "pta0003.pta017.pta-grc1:g5",
+            "pta0003.pta017.pta-grc1:g6",
+            "pta0003.pta017.pta-grc1:g7",
+            "pta0003.pta017.pta-grc1:g8",
+            "pta0003.pta017.pta-grc1:g9",
+            "pta0003.pta017.pta-grc1:g12",
+            "pta0003.pta017.pta-grc1:g13",
+            "pta0003.pta017.pta-grc1:g15",
+            "pta0003.pta017.pta-grc1:g16",
+            "pta0003.pta017.pta-grc1:g17",
+            "pta0003.pta017.pta-grc1:g18",
+            "pta0003.pta017.pta-grc1:g19",
+            "pta0003.pta017.pta-grc1:g22",
+            "pta0003.pta017.pta-grc1:g23",
+            "pta0003.pta017.pta-grc1:g25",
+            "pta0003.pta017.pta-grc1:g26",
+            "pta0003.pta017.pta-grc1:g28",
+            "pta0003.pta017.pta-grc1:g29",
+            "pta0003.pta017.pta-grc1:g31",
+            "pta0003.pta017.pta-grc1:g32",
+            "pta0003.pta017.pta-grc1:g33",
+            "pta0003.pta017.pta-grc1:g35",
+            "pta0003.pta017.pta-grc1:g37",
+            "pta0003.pta017.pta-grc1:g38",
+            "pta0003.pta017.pta-grc1:g39",
+            "pta0003.pta017.pta-grc1:g40",
+            "pta0003.pta017.pta-grc1:g41",
+            "pta0003.pta017.pta-grc1:g42",
+            "pta0003.pta017.pta-grc1:g43",
+            "pta0003.pta017.pta-grc1:g47",
+            "pta0003.pta017.pta-grc1:g48",
+            "pta0003.pta017.pta-grc1:g51",
+            "pta0003.pta017.pta-grc1:g53",
+            "pta0003.pta017.pta-grc1:g54",
+            "pta0003.pta017.pta-grc1:g57",
+            "pta0003.pta017.pta-grc1:g58",
+            "pta0003.pta017.pta-grc1:g59",
+            "pta0003.pta017.pta-grc1:g61",
+            "pta0003.pta017.pta-grc1:g62",
+            "pta0003.pta017.pta-grc1:g63",
+            "pta0003.pta017.pta-grc1:g64",
+            "pta0003.pta017.pta-grc1:g65",
+            "pta0003.pta017.pta-grc1:g68",
+            "pta0003.pta017.pta-grc1:g70",
+            "pta0003.pta017.pta-grc1:g73",
+            "pta0003.pta017.pta-grc1:g76",
+            "pta0003.pta017.pta-grc1:g77",
+            "pta0003.pta017.pta-grc1:g78",
+            "pta0003.pta017.pta-grc1:g81",
+            "pta0003.pta017.pta-grc1:g83",
+            "pta0003.pta017.pta-grc1:g84",
+            "pta0003.pta017.pta-grc1:g88",
+            "pta0003.pta017.pta-grc1:g89",
+            "pta0003.pta017.pta-grc1:g90",
+            "pta0003.pta017.pta-grc1:g91",
+            "pta0003.pta017.pta-grc1:g93",
+            "pta0003.pta017.pta-grc1:g94",
+            "pta0003.pta017.pta-grc1:g95",
+            "pta0003.pta017.pta-grc1:g96",
+            "pta0003.pta017.pta-grc1:g97",
+            "pta0003.pta017.pta-grc1:g100",
+            "pta0003.pta017.pta-grc1:g101",
+            "pta0003.pta017.pta-grc1:g102",
+            "pta0003.pta017.pta-grc1:g103",
+            "pta0003.pta017.pta-grc1:g104",
+            "pta0003.pta017.pta-grc1:g105",
+            "pta0003.pta017.pta-grc1:g106",
+            "pta0003.pta017.pta-grc1:g107",
+            "pta0003.pta017.pta-grc1:g108",
+            "pta0003.pta017.pta-grc1:g109",
+            "pta0003.pta017.pta-grc1:g110",
+            "pta0003.pta017.pta-grc1:g111",
+            "pta0003.pta017.pta-grc1:g113",
+            "pta0003.pta017.pta-grc1:g114",
+            "pta0003.pta017.pta-grc1:g115",
+            "pta0003.pta017.pta-grc1:g116",
+            "pta0003.pta017.pta-grc1:g117",
+            "pta0003.pta017.pta-grc1:g118",
+            "pta0003.pta017.pta-grc1:g119",
+            "pta0003.pta017.pta-grc1:g120",
+            "pta0003.pta017.pta-grc1:g121",
+            "pta0003.pta017.pta-grc1:g122",
+            "pta0003.pta017.pta-grc1:g123",
+            "pta0003.pta017.pta-grc1:g130",
+            "pta0003.pta017.pta-grc1:g131",
+            "pta0003.pta017.pta-grc1:g134",
+            "pta0003.pta017.pta-grc1:g135",
+            "pta0003.pta017.pta-grc1:g136",
+            "pta0003.pta017.pta-grc1:g137",
+            "pta0003.pta017.pta-grc1:g138",
+            "pta0003.pta017.pta-grc1:g141",
+            "pta0003.pta017.pta-grc1:g142",
+            "pta0003.pta017.pta-grc1:g143",
+            "pta0003.pta017.pta-grc1:g144",
+            "pta0003.pta017.pta-grc1:g145",
+            "pta0003.pta017.pta-grc1:g146",
+            "pta0003.pta017.pta-grc1:g147",
+            "pta0003.pta017.pta-grc1:g148",
+            "pta0003.pta017.pta-grc1:g149",
+            "pta0003.pta017.pta-grc1:g150",
+            "pta0003.pta017.pta-grc1:g153",
+            "pta0003.pta017.pta-grc1:g154",
+            "pta0003.pta017.pta-grc1:g155",
+            "pta0003.pta017.pta-grc1:g156",
+            "pta0003.pta017.pta-grc1:g157",
+            "pta0003.pta017.pta-grc1:g158"
+        ],
+        "name_txts": [
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιπῶν ἑρμηνευτῶν",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποῖς ἑρμηνευταῖ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "Λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποῖς ἑρμηνευταῖ",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποῖς ἑρμηνευταῖ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταί",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὶ ἑρμηνευταί",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποὺς ἑρμηνευτὰς",
+            "λοιποὺς ἑρμηνευτάς",
+            "λοιποῖς ἑρμηνευταῖς",
+            "λοιποὶ ἑρμηνευταὶ",
+            "λοιποῖς ἑρμηνευταῖς"
+        ]
+    },
+    {
+        "org_id": "PTA_O00041",
+        "other_ids": [
+            {
+                "GND": "4076778-4"
+            },
+            {
+                "WIKIDATA": "Q2277"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Roman Empire"
+            },
+            {
+                "deu": "Römisches Reich"
+            },
+            {
+                "lat": "Imperium Romanum"
+            },
+            {
+                "grc": "Ρωμαϊκὴ Αὐτοκρατορία"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta054.pta-grc1:g12",
+            "pta0001.pta054.pta-lat1:g13",
+            "pta0004.pta001.pta-grcBibex:g6",
+            "pta0004.pta001.pta-grcBibex:g7"
+        ],
+        "name_txts": [
+            "Ῥωμαίων βασιλείᾳ",
+            "regno Romanorum",
+            "ῥωμαικῆς βασιλείας",
+            "ῥωμαίων βασιλείας"
+        ]
+    },
+    {
+        "org_id": "PTA_O00042",
+        "other_ids": [
+            {
+                "GND": "4120416-5"
+            },
+            {
+                "WIKIDATA": "Q23670057"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Heretics"
+            },
+            {
+                "deu": "Häretiker"
+            },
+            {
+                "lat": "Haeretici"
+            },
+            {
+                "grc": "Αἱρετικοί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta003.pta-grc1:g3",
+            "pta0001.pta003.pta-grc1:g7",
+            "pta0001.pta003.pta-grc1:g9",
+            "pta0001.pta004.pta-grc1:g1",
+            "pta0001.pta004.pta-grc1:g4",
+            "pta0001.pta004.pta-grc1:g18",
+            "pta0001.pta004.pta-grc1:g20",
+            "pta0001.pta005.pta-grc1:g8",
+            "pta0001.pta005.pta-grc1:g12",
+            "pta0001.pta005.pta-grc1:g18",
+            "pta0001.pta006.pta-grc1:g1",
+            "pta0001.pta006.pta-grc1:g10",
+            "pta0001.pta009.pta-grc1:g1",
+            "pta0001.pta009.pta-grc1:g2",
+            "pta0001.pta010.pta-grc1:g1",
+            "pta0001.pta010.pta-grc1:g2",
+            "pta0001.pta010.pta-grc1:g3",
+            "pta0001.pta010.pta-grc1:g4",
+            "pta0001.pta014.pta-grc1:g10",
+            "pta0001.pta018.pta-grc1:g42",
+            "pta0001.pta019.pta-grc1:g28",
+            "pta0001.pta020.pta-grc1:g1",
+            "pta0001.pta020.pta-grc1:g2",
+            "pta0001.pta020.pta-grc1:g3",
+            "pta0001.pta021.pta-grc1:g1",
+            "pta0001.pta024.pta-grc1:g3",
+            "pta0001.pta024.pta-grc1:g4",
+            "pta0001.pta025.pta-grc1:g2",
+            "pta0001.pta025.pta-grc1:g3",
+            "pta0001.pta025.pta-grc1:g4",
+            "pta0001.pta025.pta-grc1:g16",
+            "pta0001.pta026.pta-grc1:g4",
+            "pta0001.pta026.pta-grc1:g6",
+            "pta0001.pta027.pta-grc1:g1",
+            "pta0001.pta027.pta-grc1:g2",
+            "pta0001.pta028.pta-grc1:g1",
+            "pta0001.pta028.pta-grc2:g1",
+            "pta0001.pta028.pta-grcBibex:g1",
+            "pta0001.pta029.pta-grc1:g4",
+            "pta0001.pta029.pta-grc1:g5",
+            "pta0001.pta029.pta-grc1:g6",
+            "pta0001.pta031.pta-grc1:g3",
+            "pta0001.pta031.pta-grc1:g4",
+            "pta0001.pta031.pta-grc1:g6",
+            "pta0001.pta031.pta-grc1:g7",
+            "pta0001.pta031.pta-grc1:g8",
+            "pta0001.pta031.pta-grc1:g9",
+            "pta0001.pta034.pta-grc1:g4",
+            "pta0001.pta034.pta-grc1:g9",
+            "pta0001.pta034.pta-grc1:g10",
+            "pta0001.pta034.pta-grc1:g25",
+            "pta0001.pta034.pta-grc1:g29",
+            "pta0001.pta034.pta-grc1:g30",
+            "pta0001.pta034.pta-grc1:g31",
+            "pta0001.pta034.pta-grc1:g32",
+            "pta0001.pta034.pta-grc1:g34",
+            "pta0001.pta034.pta-grc1:g36",
+            "pta0001.pta034.pta-grc1:g37",
+            "pta0001.pta034.pta-grc1:g38",
+            "pta0001.pta034.pta-grc1:g39",
+            "pta0001.pta034.pta-grc1:g41",
+            "pta0001.pta034.pta-grc1:g42",
+            "pta0001.pta036.pta-grc1:g1",
+            "pta0001.pta036.pta-grc1:g6",
+            "pta0001.pta036.pta-grc1:g7",
+            "pta0001.pta036.pta-grc1:g8",
+            "pta0001.pta037.pta-grc1:g3",
+            "pta0001.pta037.pta-grc1:g8",
+            "pta0001.pta037.pta-grc1:g9",
+            "pta0001.pta037.pta-grc1:g31",
+            "pta0001.pta037.pta-grc1:g33",
+            "pta0001.pta037.pta-grc1:g35",
+            "pta0001.pta041.pta-grc1:g4",
+            "pta0001.pta041.pta-grc1:g5",
+            "pta0001.pta041.pta-grc1:g6",
+            "pta0001.pta041.pta-grc1:g16",
+            "pta0001.pta041.pta-grc1:g17",
+            "pta0001.pta042.pta-grc1:g79",
+            "pta0001.pta042.pta-grc1:g88",
+            "pta0001.pta052.pta-grc1:g1",
+            "pta0001.pta053.pta-grc1:g1",
+            "pta0001.pta056.pta-grc1:g1",
+            "pta0001.pta056.pta-grc2:g1",
+            "pta0001.pta057.pta-grc1:g1",
+            "pta0001.pta058.pta-grc1:g1",
+            "pta0001.pta058.pta-grc1:g2",
+            "pta0001.pta058.pta-grc1:g3",
+            "pta0001.pta059.pta-grc1:g1",
+            "pta0001.pta059.pta-grc1:g2",
+            "pta0001.pta059.pta-grc1:g3",
+            "pta0001.pta059.pta-grc1:g4",
+            "pta0001.pta059.pta-grc1:g5",
+            "pta0001.pta059.pta-grc1:g6",
+            "pta0001.pta059.pta-grc1:g7",
+            "pta0001.pta059.pta-grc1:g8",
+            "pta0001.pta060.pta-grc1:g1",
+            "pta0001.pta060.pta-grc1:g2",
+            "pta0001.pta060.pta-grc1:g3",
+            "pta0001.pta060.pta-grc1:g4",
+            "pta0001.pta060.pta-grc1:g5",
+            "pta0001.pta060.pta-grc1:g6",
+            "pta0001.pta060.pta-grc1:g7",
+            "pta0001.pta061.pta-grc1:g1",
+            "pta0001.pta061.pta-grc1:g2",
+            "pta0001.pta061.pta-grc1:g3",
+            "pta0001.pta061.pta-grc1:g4",
+            "pta0001.pta061.pta-grc1:g5",
+            "pta0001.pta061.pta-grc1:g6",
+            "pta0001.pta061.pta-grc1:g7",
+            "pta0001.pta061.pta-grc1:g8",
+            "pta0001.pta062.pta-grc1:g1",
+            "pta0001.pta062.pta-grc1:g2",
+            "pta0001.pta062.pta-grc1:g3",
+            "pta0001.pta062.pta-grc1:g4"
+        ],
+        "name_txts": [
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοῖς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοῦ",
+            "αἱρετικούς",
+            "αἱρετικοῖς",
+            "αἱρετικού",
+            "αἱρετικοί",
+            "αἱρετικοῖς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοῖς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοῖς",
+            "αἱρετικούς",
+            "αἱρετικούς",
+            "αἱρετικοῖς",
+            "αἱρετικοῖς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικούς",
+            "αἱρετικούς",
+            "αἱρετικῶν",
+            "Αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοῖς",
+            "αἱρετικῶν",
+            "αἱρετικοί",
+            "αἱρετικῶν",
+            "αἱρετικῶν",
+            "αἱρετικέ",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικῶν",
+            "αἱρετικός",
+            "αἱρετικῶν",
+            "αἱρετικοί",
+            "αἱρετικῶν",
+            "αἱρετικόν",
+            "αἱρετικούς",
+            "αἱρετικοί;",
+            "αἱρετικοί",
+            "αἱρετικῶν",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοῖς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἰρετικοί",
+            "αἱρετικῶν",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικῶν",
+            "αἱρετικῶν",
+            "αἱρετικῶν",
+            "αἱρετικέ",
+            "αἱρετικέ",
+            "αἱρετικῶν",
+            "αἱρετικῶν",
+            "αἱρετικοῖς",
+            "αἱρετικός",
+            "αἱρετικός",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "Αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοῖς",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοῖς",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικού",
+            "αἱρετικούς",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "αἱρετικοί",
+            "Αἱρετικοί"
+        ]
+    },
+    {
+        "org_id": "PTA_O00043",
+        "other_ids": [
+            {
+                "GND": null
+            },
+            {
+                "WIKIDATA": null
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Disciples of Jesus"
+            },
+            {
+                "deu": "Jünger Jesu"
+            },
+            {
+                "lat": "Discipuli"
+            },
+            {
+                "grc": "Μαθηταί"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta029.pta-grc1:g8",
+            "pta0001.pta029.pta-grc1:g9",
+            "pta0001.pta031.pta-grc1:g5",
+            "pta0001.pta031.pta-grc1:g13",
+            "pta0001.pta032.pta-grc1:g1",
+            "pta0001.pta032.pta-grc1:g2",
+            "pta0001.pta032.pta-grc1:g3",
+            "pta0001.pta032.pta-grc1:g4",
+            "pta0001.pta032.pta-grc1:g5",
+            "pta0001.pta034.pta-grc1:g8",
+            "pta0001.pta034.pta-grc1:g11",
+            "pta0001.pta034.pta-grc1:g13",
+            "pta0001.pta034.pta-grc1:g14",
+            "pta0001.pta034.pta-grc1:g18",
+            "pta0001.pta034.pta-grc1:g20",
+            "pta0001.pta034.pta-grc1:g21",
+            "pta0001.pta042.pta-grc1:g35",
+            "pta0001.pta042.pta-grc1:g40",
+            "pta0001.pta042.pta-grc1:g42",
+            "pta0001.pta042.pta-grc1:g58"
+        ],
+        "name_txts": [
+            "μαθηταί",
+            "μαθητῶν",
+            "μαθηταῖς",
+            "μαθηταῖς",
+            "$1",
+            "μαθητῶν",
+            "μαθηταί",
+            "μαθητῶν",
+            "μαθητῶν",
+            "μαθητῶν",
+            "μαθητῶν",
+            "μαθητῶν",
+            "μαθητάς",
+            "μαθηταῖς",
+            "μαθηταί",
+            "μαθηταί",
+            "μαθηταί",
+            "μαθηταί",
+            "μαθηταί",
+            "μαθηταί"
+        ]
+    },
+    {
+        "org_id": "PTA_O00044",
+        "other_ids": [
+            {
+                "GND": "4106468-9"
+            },
+            {
+                "WIKIDATA": "Q878607"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Syrians"
+            },
+            {
+                "deu": "Syrer"
+            },
+            {
+                "lat": "Syrii"
+            },
+            {
+                "grc": "Σύροι, Σύριοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta029.pta-grc1:g10"
+        ],
+        "name_txts": [
+            "Σύρων"
+        ]
+    },
+    {
+        "org_id": "PTA_O00045",
+        "other_ids": [
+            {
+                "GND": "4124605-6"
+            },
+            {
+                "WIKIDATA": "Q134313"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Barbarians"
+            },
+            {
+                "deu": "Barbaren"
+            },
+            {
+                "lat": "Barbari"
+            },
+            {
+                "grc": "Βάρβαροι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta037.pta-grc1:g26",
+            "pta0001.pta037.pta-grc1:g29",
+            "pta0001.pta037.pta-grc1:g42",
+            "pta0022.pta004.pta-grc1:g5"
+        ],
+        "name_txts": [
+            "βάρβαρος",
+            "βαρβάρου",
+            "βαρβάρους",
+            "βάρβαρος"
+        ]
+    },
+    {
+        "org_id": "PTA_O00046",
+        "other_ids": [
+            {
+                "GND": "4036915-8"
+            },
+            {
+                "WIKIDATA": "Q107013"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Martyrs"
+            },
+            {
+                "deu": "Märtyrer"
+            },
+            {
+                "lat": "Martyri"
+            },
+            {
+                "grc": "Μάρτυρες"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta037.pta-grc1:g27",
+            "pta0001.pta037.pta-grc1:g30",
+            "pta0001.pta037.pta-grc1:g41",
+            "pta0001.pta038.pta-grc1:g5",
+            "pta0001.pta038.pta-grc1:g7",
+            "pta0001.pta038.pta-grc1:g8",
+            "pta0001.pta038.pta-grc1:g11"
+        ],
+        "name_txts": [
+            "μάρτυρες",
+            "μάρτυρες",
+            "μαρτύρων",
+            "μάρτυρες τοῦ Χριστοῦ",
+            "μάρτυρας τοῦ Χριστοῦ",
+            "μάρτυρες",
+            "μάρτυρες"
+        ]
+    },
+    {
+        "org_id": "PTA_O00047",
+        "other_ids": [
+            {
+                "GND": "118576615"
+            },
+            {
+                "WIKIDATA": "Q400019"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Maccabees"
+            },
+            {
+                "deu": "Makkabäer"
+            },
+            {
+                "lat": "Maccabaei"
+            },
+            {
+                "grc": "Μακκαβαῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta038.pta-grc1:g9",
+            "pta0001.pta038.pta-grc1:g10"
+        ],
+        "name_txts": [
+            "Μακκαβαῖοι",
+            "Μακκαβαῖοι"
+        ]
+    },
+    {
+        "org_id": "PTA_O00048",
+        "other_ids": [
+            {
+                "GND": "4278477-3"
+            },
+            {
+                "WIKIDATA": "Q203507"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Amorites"
+            },
+            {
+                "deu": "Amoriter"
+            },
+            {
+                "lat": "Amorrei"
+            },
+            {
+                "grc": "Ἀμορραῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta040.pta-grc1:g8",
+            "pta0001.pta040.pta-grc1:g15",
+            "pta0001.pta042.pta-grc1:g12"
+        ],
+        "name_txts": [
+            "Ἀμορραῖος",
+            "Ἀμορραῖος",
+            "Ἀμορραῖος"
+        ]
+    },
+    {
+        "org_id": "PTA_O00049",
+        "other_ids": [
+            {
+                "GND": "4072478-5"
+            },
+            {
+                "WIKIDATA": "Q5406"
+            }
+        ],
+        "orgname": [
+            {
+                "eng": "Hittites"
+            },
+            {
+                "deu": "Hethiter"
+            },
+            {
+                "lat": "Hetthaei"
+            },
+            {
+                "grc": "Χετταῖοι"
+            }
+        ],
+        "date": "",
+        "urns": [
+            "pta0001.pta040.pta-grc1:g9",
+            "pta0001.pta042.pta-grc1:g13"
+        ],
+        "name_txts": [
+            "Χετταία",
+            "Γετταία"
         ]
     }
 ]

@@ -6,30 +6,32 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2022-10-20T06:25:57.107925+00:00
+#TIMESTAMP: 2024-06-27T09:35:21.955298+00:00
 #UPDATE: monthly
-1844c|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003
-1189|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005
-1937|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006
-488e|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007
+2077|https://pta.bbaw.de/text/urn:cts:pta:pta0041.pta001
 420q|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010
-451h|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011
-428y|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012
-2345|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014
-1910k|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020
-415t|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021
-424u|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023
-2351|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025
 1928|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028
-421|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029
-226f|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030
-2475e|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040
-939d|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045
-939e|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046
 939f|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047
 393g|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048
-488f|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049
 1191g|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051
-809b|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053
-414p-414s|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054
+2345|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014
+428y|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012
 415m; 415n|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055
+415t|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021
+414p-414s|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054
+939e|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046
+809b|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053
+1844c|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003
+1910k|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020
+424u|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023
+2351|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025
+1189|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005
+488f|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049
+1937|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006
+939d|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045
+451h|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011
+421|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029
+226f|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030
+488e|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007
+2475e|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040
+881u|https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001
