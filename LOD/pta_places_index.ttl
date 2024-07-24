@@ -340,3 +340,7 @@
 
 <https://pleiades.stoa.org/places/993> rdfs:seeAlso <https://pta.bbaw.de/place/993> .
 
+<https://syriaca.org/place/104> rdfs:seeAlso <https://pta.bbaw.de/place/104> .
+
+<https://syriaca.org/place/586> rdfs:seeAlso <https://pta.bbaw.de/place/586> .
+

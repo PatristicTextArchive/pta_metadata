@@ -1,7 +1,6 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://www.wikidata.org/wiki/Q106039> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00018>,
-        <https://pta.bbaw.de/group/PTA_O00038> .
+<https://www.wikidata.org/wiki/Q106039> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00018> .
 
 <https://www.wikidata.org/wiki/Q1061510> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00014> .
 

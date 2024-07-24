@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2024-06-27T08:15:32.029447+00:00
+#TIMESTAMP: 2024-07-24T07:38:43.921939+00:00
 #UPDATE: monthly
 Q43706|https://pta.bbaw.de/person/PTA_P00001
 Q447451|https://pta.bbaw.de/person/PTA_P00002
@@ -50,6 +50,40 @@ Q43600|https://pta.bbaw.de/person/PTA_P00063
 Q31966|https://pta.bbaw.de/person/PTA_P00064
 Q328804|https://pta.bbaw.de/person/PTA_P00066
 Q861803|https://pta.bbaw.de/person/PTA_P00068
+Q75048|https://pta.bbaw.de/person/gnd_1011235412
+Q39957|https://pta.bbaw.de/person/gnd_1172668973
+Q1048|https://pta.bbaw.de/person/gnd_118518275
+Q39952|https://pta.bbaw.de/person/gnd_118596934
+Q271527|https://pta.bbaw.de/person/gnd_1224190149
+Q299428|https://pta.bbaw.de/person/gnd_1238037372
+Q204760|https://pta.bbaw.de/person/gnd_102380015
+Q359684|https://pta.bbaw.de/person/gnd_1147225842
+Q3365|https://pta.bbaw.de/person/gnd_118503405
+Q3356|https://pta.bbaw.de/person/gnd_118503413
+Q44024|https://pta.bbaw.de/person/gnd_118504843
+Q1427|https://pta.bbaw.de/person/gnd_118544373
+Q168261|https://pta.bbaw.de/person/gnd_118596926
+Q41484|https://pta.bbaw.de/person/gnd_118639560
+Q134461|https://pta.bbaw.de/person/gnd_118640003
+Q9077|https://pta.bbaw.de/person/gnd_118641190
+Q9200|https://pta.bbaw.de/person/gnd_118641549
+Q39595|https://pta.bbaw.de/person/gnd_118641794
+Q481554|https://pta.bbaw.de/person/gnd_118648969
+Q171876|https://pta.bbaw.de/person/gnd_118649639
+Q35500|https://pta.bbaw.de/person/gnd_118649809
+Q41680|https://pta.bbaw.de/person/gnd_118679759
+Q84122|https://pta.bbaw.de/person/gnd_118707205
+Q46491|https://pta.bbaw.de/person/gnd_118747770
+Q34201|https://pta.bbaw.de/person/gnd_118772635
+Q359711|https://pta.bbaw.de/person/gnd_118814079
+Q111559|https://pta.bbaw.de/person/gnd_118886673
+Q79876|https://pta.bbaw.de/person/gnd_118932640
+Q184176|https://pta.bbaw.de/person/gnd_118966669
+Q295530|https://pta.bbaw.de/person/gnd_11902716X
+Q102865|https://pta.bbaw.de/person/gnd_119263491
+Q271527|https://pta.bbaw.de/person/gnd_1224190149
+Q299428|https://pta.bbaw.de/person/gnd_1238037372
+Q379863|https://pta.bbaw.de/person/gnd_124741940
 Q51676|https://pta.bbaw.de/person/Aaron_Exo.4.14
 Q313421|https://pta.bbaw.de/person/Abel_Gen.4.2
 Q9560907|https://pta.bbaw.de/person/Abiram_Num.16.1
@@ -94,6 +128,7 @@ Q229702|https://pta.bbaw.de/person/Ham_Gen.5.32
 Q650680|https://pta.bbaw.de/person/Haman_Est.3.1
 Q106084783|https://pta.bbaw.de/person/Hananiah_Dan.1.6
 Q2346367|https://pta.bbaw.de/person/Hannah_1Sa.1.2
+Q230091|https://pta.bbaw.de/person/Herodias_Mat.14.3
 Q244912|https://pta.bbaw.de/person/Hezekiah_2Ki.16.20
 Q1563312|https://pta.bbaw.de/person/Hophni_1Sa.1.3
 Q16199754|https://pta.bbaw.de/person/Hymenaeus_1Ti.1.20

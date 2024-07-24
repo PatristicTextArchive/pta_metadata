@@ -1,452 +1,9 @@
 [
   {
-    "@id": "http://d-nb.info/gnd/4120416-5",
+    "@id": "http://d-nb.info/gnd/4019107-2",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta003.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta003.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta003.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta004.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta004.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta004.pta-grc1:g18"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta004.pta-grc1:g20"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta005.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta005.pta-grc1:g12"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta005.pta-grc1:g18"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta006.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta006.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta009.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta009.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta010.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta010.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta010.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta010.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta014.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g42"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta019.pta-grc1:g28"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta020.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta020.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta020.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta021.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta024.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta024.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta025.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta025.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta025.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta025.pta-grc1:g16"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta026.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta026.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta027.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta027.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta028.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta028.pta-grc2:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta028.pta-grcBibex:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta029.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta029.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta029.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g25"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g29"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g30"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g31"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g32"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g34"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g36"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g37"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g38"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g39"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g41"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g42"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta036.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta036.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta036.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta036.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g31"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g33"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g35"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g16"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g17"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g79"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g88"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta052.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta053.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta056.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta056.pta-grc2:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta057.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta058.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta058.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta058.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta059.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta060.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta061.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta062.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta062.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta062.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta062.pta-grc1:g4"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4115909-3",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta006.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta006.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g63"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4072478-5",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g13"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4076778-4",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta054.pta-grc1:g12"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta054.pta-lat1:g13"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0004.pta001.pta-grcBibex:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0004.pta001.pta-grcBibex:g7"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4223571-6",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g22"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g13"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g14"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g16"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g17"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g18"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g19"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g20"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g21"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g22"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g23"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g24"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g25"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g15"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g17"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g54"
       }
     ]
   },
@@ -454,415 +11,46 @@
     "@id": "http://d-nb.info/gnd/4032379-1",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta014.pta-grc1:g7"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta014.pta-grc1:g7"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0013.pta003.pta-deu1:g1"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0013.pta003.pta-deu1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0013.pta003.pta-deu1:g2"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0013.pta003.pta-deu1:g2"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0013.pta003.pta-grc1:g1"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0013.pta003.pta-grc1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0013.pta003.pta-grc1:g2"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0013.pta003.pta-grc1:g2"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g1"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g10"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g10"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g20"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g38"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g36"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g46"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g43"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g48"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g44"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g49"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g45"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g50"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g46"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g53"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta004.pta-grc1:g1"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4051468-7",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta006.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta025.pta-grc1:g15"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4084746-9",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta002.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta002.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta002.pta-grc1:g13"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta003.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g56"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g58"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g59"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta029.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta036.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g19"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g20"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g21"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta049.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta055.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta055.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta055.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta055.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta055.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g18"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g22"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g24"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g25"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g26"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g27"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g28"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g29"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g30"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g31"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g33"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g34"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g35"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g38"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g39"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g41"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g42"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g43"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g122"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g151"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g152"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g154"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g156"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g162"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g164"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g170"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0029.pta002.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0029.pta002.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0029.pta002.pta-grc2:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0029.pta002.pta-grc2:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g25"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g67"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g26"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g41"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4331728-5",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta005.pta-grc1:g11"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4055278-0",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta008.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta008.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g26"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4122633-1",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta002.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta003.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta005.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta006.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g23"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g48"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g103"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0004.pta001.pta-grcBibex:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0004.pta001.pta-grcBibex:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g48"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta010.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g12"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g13"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g14"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g23"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g28"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g34"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g44"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g48"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g52"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g53"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g54"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g55"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g56"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g57"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g63"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g28"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g77"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g80"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g83"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g84"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g86"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g87"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g111"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g112"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0041.pta001.pta-grc1:g3"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4036915-8",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g27"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g30"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g41"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta038.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta038.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta038.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta038.pta-grc1:g11"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta004.pta-grc1:g1"
       }
     ]
   },
@@ -870,143 +58,183 @@
     "@id": "http://d-nb.info/gnd/4010071-6",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta004.pta-grc1:g2"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta004.pta-grc1:g2"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta004.pta-grc1:g3"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta004.pta-grc1:g3"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta014.pta-grc1:g12"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta014.pta-grc1:g12"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta024.pta-grc1:g9"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta017.pta-grc1:g22"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta024.pta-grc1:g11"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g18"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g3"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g19"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g4"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta019.pta-grc1:g8"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g109"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta019.pta-grc1:g17"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0007.pta007.pta-grc1:g4"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta024.pta-grc1:g9"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0007.pta007.pta-grc1:g5"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta024.pta-grc1:g11"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0007.pta007.pta-grc1:g6"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g3"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g23"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g4"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g42"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g27"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g52"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g79"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta004.pta-grc1:g23"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta010.pta-grc1:g13"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta048.pta-grc1:g4"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta017.pta-grc1:g3"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta009.pta-grc1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta017.pta-grc1:g17"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta009.pta-grc1:g14"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g15"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta009.pta-grc1:g44"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g16"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g121"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g17"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0007.pta007.pta-grc1:g6"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g18"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0007.pta007.pta-grc1:g7"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g20"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0007.pta007.pta-grc1:g8"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g21"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g25"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g22"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g45"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g24"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g59"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g30"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta004.pta-grc1:g24"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g37"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta010.pta-grc1:g16"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g38"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta017.pta-grc1:g3"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g39"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta017.pta-grc1:g18"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g45"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0030.pta016.pta-grc4:g2"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g58"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0030.pta016.pta-grc4:g3"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g59"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0030.pta016.pta-grc5:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g60"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g32"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g61"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g33"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g62"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g34"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g17"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g35"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g85"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g38"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g88"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g40"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0100.pta002.pta-grc1:g1"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g45"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g52"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g82"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g91"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g103"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g104"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g122"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g163"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g165"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g167"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g168"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g169"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g19"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g124"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g127"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0100.pta002.pta-grc1:g2"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118576615",
+    "@id": "http://d-nb.info/gnd/4115909-3",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta038.pta-grc1:g9"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta006.pta-grc1:g2"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta038.pta-grc1:g10"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4106468-9",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta006.pta-grc1:g3"
+      },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta029.pta-grc1:g10"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g70"
       }
     ]
   },
@@ -1014,324 +242,18 @@
     "@id": "http://d-nb.info/gnd/4211510-3",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta024.pta-grc1:g6"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta024.pta-grc1:g6"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta024.pta-grc1:g7"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta024.pta-grc1:g7"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4002455-6",
+    "@id": "http://d-nb.info/gnd/4331728-5",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g12"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g13"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g14"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g15"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta001.pta-grcBibex:g16"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-grc1:g12"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g19"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g40"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g40"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta041.pta-grc1:g18"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g24"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g28"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g34"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g37"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g38"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g41"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g43"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g44"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g47"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g48"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g49"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g51"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g52"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g53"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g54"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g55"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g56"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g59"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g64"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g65"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g67"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g68"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g69"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g70"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g73"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g81"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g83"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g84"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g85"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g86"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta047.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta048.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta048.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta048.pta-grc1:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g190"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0041.pta001.pta-grc1:g1"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4174130-4",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta014.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g7"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g12"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta015.pta-grc1:g13"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta019.pta-grc1:g23"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g33"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta035.pta-grcBibex:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta035.pta-grcBibex:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta035.pta-grcBibex:g3"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g15"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g16"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g1"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g62"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g72"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g5"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta003.pta-grc1:g9"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g35"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g65"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g99"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4355044-7",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta008.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta014.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g37"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0036.pta001.pta-grc1:g27"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g6"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g51"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4278477-3",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g8"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta040.pta-grc1:g15"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta042.pta-grc1:g12"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta005.pta-grc1:g11"
       }
     ]
   },
@@ -1339,45 +261,31 @@
     "@id": "http://d-nb.info/gnd/4368744-1",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta016.pta-grc1:g3"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta016.pta-grc1:g3"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g41"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g41"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-lat1:g1"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-lat1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta031.pta-lat1:g2"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-lat1:g2"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g1"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g1"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g26"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g26"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g27"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g27"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g28"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g28"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta015.pta-grc1:g5"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4142791-9",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta019.pta-grc1:g25"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g2"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta034.pta-grc1:g35"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta015.pta-grc1:g8"
       }
     ]
   },
@@ -1385,176 +293,18 @@
     "@id": "http://d-nb.info/gnd/4045777-1",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta016.pta-grc1:g4"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta016.pta-grc1:g4"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4054582-9",
+    "@id": "http://d-nb.info/gnd/4072478-5",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g3"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g9"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g4"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g10"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g11"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g14"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g20"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g21"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g24"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g27"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g30"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g34"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g36"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g44"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g45"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g46"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g49"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g50"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g52"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g55"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g56"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g60"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g66"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g67"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g69"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g71"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g72"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g74"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g75"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g79"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g80"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g82"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g85"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g86"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g87"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g92"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g98"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g99"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g112"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g124"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g125"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g126"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g127"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g128"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g129"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g132"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g133"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g139"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g140"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g151"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g152"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g159"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0003.pta017.pta-grc1:g160"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4019107-2",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta018.pta-grc1:g54"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g13"
       }
     ]
   },
@@ -1562,16 +312,156 @@
     "@id": "http://d-nb.info/gnd/4124605-6",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g26"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g26"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g29"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g29"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta037.pta-grc1:g42"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g42"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0022.pta004.pta-grc1:g5"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta004.pta-grc1:g5"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4122633-1",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta002.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta003.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta005.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta006.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g23"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g49"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g115"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0004.pta001.pta-grcBibex:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0004.pta001.pta-grcBibex:g22"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g52"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta010.pta-grc1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g12"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g14"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g15"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g26"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g27"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g28"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g29"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g30"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g31"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g46"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g80"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g87"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g117"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g125"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g136"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g138"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g144"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g147"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g149"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g159"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g170"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g34"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g113"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g117"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g122"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g123"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g125"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g126"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g169"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g170"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0041.pta001.pta-grc1:g3"
       }
     ]
   },
@@ -1579,16 +469,1171 @@
     "@id": "http://d-nb.info/gnd/4084762-7",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0001.pta005.pta-grc1:g10"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta005.pta-grc1:g10"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g89"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g129"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g106"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g162"
       },
       {
-        "@id": "https://pta.bbaw.de/text/95493b9e/urn:cts:pta:pta0037.pta001.pta-grc1:g107"
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g165"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4076778-4",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta054.pta-grc1:g12"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta054.pta-lat1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0004.pta001.pta-grcBibex:g27"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0004.pta001.pta-grcBibex:g28"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4223571-6",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g22"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g14"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g16"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g17"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g18"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g19"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g20"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g21"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g22"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g23"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g24"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g25"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g15"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g17"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4002455-6",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g12"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g14"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g15"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta001.pta-grcBibex:g16"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g12"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g19"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g40"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g40"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g18"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g24"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g28"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g34"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g37"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g38"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g41"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g43"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g44"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g47"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g48"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g49"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g51"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g52"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g53"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g56"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g57"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g58"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g61"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g71"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g72"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g74"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g75"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g76"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g77"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g80"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g88"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g90"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g91"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g92"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g93"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta047.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta048.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta048.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta048.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g202"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0041.pta001.pta-grc1:g1"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4278477-3",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g15"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g12"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4120416-5",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta003.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta003.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta003.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta004.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta004.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta004.pta-grc1:g18"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta004.pta-grc1:g20"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta005.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta005.pta-grc1:g12"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta005.pta-grc1:g18"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta006.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta006.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta009.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta009.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta010.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta010.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta010.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta010.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta014.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g42"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta019.pta-grc1:g28"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta020.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta020.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta020.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta021.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta024.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta024.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta025.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta025.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta025.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta025.pta-grc1:g16"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta026.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta026.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta027.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta027.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta028.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta028.pta-grc2:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta028.pta-grcBibex:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta029.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta029.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta029.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta031.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g25"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g29"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g30"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g31"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g32"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g34"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g36"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g37"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g38"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g39"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g41"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g42"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta036.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta036.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta036.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta036.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g31"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g33"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g35"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g16"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g17"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g86"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta042.pta-grc1:g95"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta052.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta053.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta056.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta056.pta-grc2:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta057.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta058.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta058.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta058.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta059.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta060.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta061.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta062.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta062.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta062.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta062.pta-grc1:g4"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4355044-7",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta008.pta-grc1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta014.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g37"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g73"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g65"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118576615",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta038.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta038.pta-grc1:g10"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4036915-8",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g27"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g30"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g41"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta038.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta038.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta038.pta-grc1:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta038.pta-grc1:g11"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4054582-9",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g14"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g20"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g21"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g24"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g27"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g30"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g34"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g36"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g44"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g45"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g46"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g49"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g50"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g52"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g55"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g56"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g60"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g66"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g67"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g69"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g71"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g72"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g74"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g75"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g79"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g80"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g82"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g85"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g86"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g87"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g92"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g98"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g99"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g112"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g124"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g125"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g126"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g127"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g128"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g129"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g132"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g133"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g139"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g140"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g151"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g152"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g159"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta017.pta-grc1:g160"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4106468-9",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta029.pta-grc1:g10"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4174130-4",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta014.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g10"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g12"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta015.pta-grc1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta019.pta-grc1:g23"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g33"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta035.pta-grcBibex:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta035.pta-grcBibex:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta035.pta-grcBibex:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g15"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta037.pta-grc1:g16"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta040.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g65"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g80"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0022.pta003.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g89"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g84"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g143"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4051468-7",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta006.pta-grc1:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta025.pta-grc1:g15"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4055278-0",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta008.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta008.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g64"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4142791-9",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta019.pta-grc1:g25"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta034.pta-grc1:g35"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4084746-9",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta002.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta002.pta-grc1:g11"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta002.pta-grc1:g13"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta003.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g56"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g58"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta018.pta-grc1:g59"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta029.pta-grc1:g3"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta036.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g19"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g20"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta041.pta-grc1:g21"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta049.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta055.pta-grc1:g1"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta055.pta-grc1:g2"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta055.pta-grc1:g4"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta055.pta-grc1:g5"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0001.pta055.pta-grc1:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g6"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g8"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g19"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g23"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g25"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g26"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g27"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g28"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g29"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g30"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g31"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g32"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g34"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g35"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g36"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g39"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g40"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g42"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g43"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g44"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g134"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g163"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g164"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g166"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g168"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g174"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g176"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0003.pta020.pta-grcBibex3:g182"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0029.pta002.pta-grc1:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0029.pta002.pta-grc1:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0029.pta002.pta-grc2:g7"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0029.pta002.pta-grc2:g9"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g60"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0036.pta001.pta-grc1:g181"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g29"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/1496479d/urn:cts:pta:pta0037.pta001.pta-grc1:g51"
       }
     ]
   }

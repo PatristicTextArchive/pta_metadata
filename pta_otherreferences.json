@@ -1,4 +1,260 @@
 {
+    "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)": {
+        "ID": "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)",
+        "urn": [
+            "pta0022.pta014.pta-grc1:q2"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)",
+        "work": " fr. 46 Vinzent (= 16 Bardy)",
+        "reference": "fr."
+    },
+    "Ath_epSerap_2-4": {
+        "ID": "Ath_epSerap_2-4",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q13"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Ath",
+        "work": "epSerap",
+        "reference": "2-4"
+    },
+    "Eus_epCaes_13": {
+        "ID": "Eus_epCaes_13",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q5",
+            "pta0022.pta014.pta-grc1:q3"
+        ],
+        "edition": [
+            "",
+            ""
+        ],
+        "author": "Eus",
+        "work": "epCaes",
+        "reference": "13"
+    },
+    "Eus_vC_2_46": {
+        "ID": "Eus_vC_2_46",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q14"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "2"
+    },
+    "Eus_vC_3_13-14": {
+        "ID": "Eus_vC_3_13-14",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q11"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "3"
+    },
+    "Eus_vC_3_21-22": {
+        "ID": "Eus_vC_3_21-22",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q12"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "3"
+    },
+    "Eus_vC_3_30-32": {
+        "ID": "Eus_vC_3_30-32",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q16"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "3"
+    },
+    "Eus_vC_4_36": {
+        "ID": "Eus_vC_4_36",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q15"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "4"
+    },
+    "Eus_vC_4_42": {
+        "ID": "Eus_vC_4_42",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q19"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "4"
+    },
+    "Eus_vC_4_9-13": {
+        "ID": "Eus_vC_4_9-13",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q18"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "Eus",
+        "work": "vC",
+        "reference": "4"
+    },
+    "J_AJ_10,266-268": {
+        "ID": "J_AJ_10,266-268",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q8"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "10,266-268"
+    },
+    "J_AJ_10,268": {
+        "ID": "J_AJ_10,268",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q9"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "10,268"
+    },
+    "J_AJ_12,129-130": {
+        "ID": "J_AJ_12,129-130",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q6"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,129-130"
+    },
+    "J_AJ_12,131-133": {
+        "ID": "J_AJ_12,131-133",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q7"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,131-133"
+    },
+    "J_AJ_12,135": {
+        "ID": "J_AJ_12,135",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q4"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,135"
+    },
+    "J_AJ_12,322": {
+        "ID": "J_AJ_12,322",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q10"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,322"
+    },
+    "J_AJ_18,33-35": {
+        "ID": "J_AJ_18,33-35",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q3"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "18,33-35"
+    },
+    "J_AJ_20,247": {
+        "ID": "J_AJ_20,247",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q1"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "20,247"
+    },
+    "J_AJ_20,249-250": {
+        "ID": "J_AJ_20,249-250",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q2"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "J",
+        "work": "AJ",
+        "reference": "20,249-250"
+    },
+    "Or_ScholionPs_120,7": {
+        "ID": "Or_ScholionPs_120,7",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex3:q4"
+        ],
+        "edition": [
+            "W, a,  , 2, 3, 5, r"
+        ],
+        "author": "Or",
+        "work": "ScholionPs",
+        "reference": "120,7"
+    },
+    "Or_inPs_118,2": {
+        "ID": "Or_inPs_118,2",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex3:q2",
+            "pta0003.pta020.pta-grcBibex3:q3"
+        ],
+        "edition": [
+            "a,  , 5, –, 6, ., 1, 8, –, 2, 1,  , H, a, r, l",
+            "a,  , 2, 4, –, 2, 5,  , H, a, r, l"
+        ],
+        "author": "Or",
+        "work": "inPs",
+        "reference": "118,2"
+    },
     "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:8.102-8.103": {
         "ID": "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:8.102-8.103",
         "urn": [
@@ -50,7 +306,7 @@
     "urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:16.39.1": {
         "ID": "urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:16.39.1",
         "urn": [
-            "pta0004.pta001.pta-grcBibex:q1"
+            "pta0004.pta001.pta-grcBibex:q5"
         ],
         "edition": "Polybius, creator; Dindorf, Ludwig August, 1805-1871, editor; Büttner-Wobst, Theodor, 1854-1905, editor",
         "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:16.39.1",
@@ -74,7 +330,7 @@
     "urn:cts:greekLit:tlg1271.tlg001.1st1K-grc1:60.4": {
         "ID": "urn:cts:greekLit:tlg1271.tlg001.1st1K-grc1:60.4",
         "urn": [
-            "pta0003.pta020.pta-grcBibex3:q2"
+            "pta0003.pta020.pta-grcBibex3:q5"
         ],
         "edition": "Clement of Rome. The Apostolic Fathers, Volume 1. Lake, Kirsopp, editor. London: William Heinemann Ltd.; New York: The Macmillan Company, 1912.",
         "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1271.tlg001.1st1K-grc1:60.4",
@@ -95,6 +351,16 @@
         "reference": "7.7",
         "text": " Ἰωνᾶς Νινευΐταις καταστροφὴν ἐκήρυξεν: οἱ δὲ μετανοήσαντες ἐπὶ τοῖς\n ἁμαρτήμασιν αὐτῶν ἐξιλάσαντο τὸν θεὸν ἱκετεύσαντες καὶ ἔλαβον σωτηρίαν,\n καίπερ ἀλλότριοι τοῦ θεοῦ ὄντες. "
     },
+    "urn:cts:greekLit:tlg1443.tlg010.1st1K-grc1:4": {
+        "ID": "urn:cts:greekLit:tlg1443.tlg010.1st1K-grc1:4",
+        "urn": [
+            "pta0001.pta008.pta-grc1:q1"
+        ],
+        "edition": [
+            ""
+        ],
+        "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1443.tlg010.1st1K-grc1:4"
+    },
     "urn:cts:pta:pta0003.pta020.pta-grcBibex1:Ps_30.5": {
         "ID": "urn:cts:pta:pta0003.pta020.pta-grcBibex1:Ps_30.5",
         "urn": [
@@ -110,7 +376,7 @@
     "urn:cts:pta:pta0007.pta010.pta-grcBibex:6": {
         "ID": "urn:cts:pta:pta0007.pta010.pta-grcBibex:6",
         "urn": [
-            "pta0003.pta020.pta-grcBibex3:q3"
+            "pta0003.pta020.pta-grcBibex3:q6"
         ],
         "edition": "Franz Xaver Risch (Editor), Berlin-Brandenburgische Akademie der Wissenschaften",
         "CTS": "urn:cts:pta:pta0007.pta010.pta-grcBibex:6",
@@ -122,7 +388,7 @@
     "urn:cts:pta:pta0022.pta014.pta-grc1:5.4-6.4": {
         "ID": "urn:cts:pta:pta0022.pta014.pta-grc1:5.4-6.4",
         "urn": [
-            "pta0004.pta003.pta-grc1:q5"
+            "pta0004.pta003.pta-grc1:q6"
         ],
         "edition": "Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York Walter de Gruyter 2006, 322–339",
         "CTS": "urn:cts:pta:pta0022.pta014.pta-grc1:5.4-6.4",
@@ -1738,5 +2004,117 @@
         "work": "Pastor",
         "reference": "mandatum.1.1",
         "text": "Πρῶτον πάντων πίστευσον ὅτι εἷς ἐστιν ὁ θεός, ὁ τὰ πάντα κτίσας καὶ καταρτίσας καὶ ποιήσας\n ἐκ τοῦ μὴ ὄντος εἰς τὸ εἶναι τὰ πάντα, καὶ πάντα χωρῶν, μόνος δὲ ἀχώρητος ὤν. "
+    },
+    "urn:cts:pta:pta0100.pta004": {
+        "ID": "urn:cts:pta:pta0100.pta004",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q3"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta004"
+    },
+    "urn:cts:pta:pta0100.pta015": {
+        "ID": "urn:cts:pta:pta0100.pta015",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q2"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta015"
+    },
+    "urn:cts:pta:pta0100.pta017": {
+        "ID": "urn:cts:pta:pta0100.pta017",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q1"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta017"
+    },
+    "urn:cts:pta:pta0100.pta024": {
+        "ID": "urn:cts:pta:pta0100.pta024",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q10"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta024"
+    },
+    "urn:cts:pta:pta0100.pta025": {
+        "ID": "urn:cts:pta:pta0100.pta025",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q7"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta025"
+    },
+    "urn:cts:pta:pta0100.pta026": {
+        "ID": "urn:cts:pta:pta0100.pta026",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q9"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta026"
+    },
+    "urn:cts:pta:pta0100.pta030": {
+        "ID": "urn:cts:pta:pta0100.pta030",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q8"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta030"
+    },
+    "urn:cts:pta:pta0100.pta031": {
+        "ID": "urn:cts:pta:pta0100.pta031",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q17"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta031"
+    },
+    "urn:cts:pta:pta0100.pta034.pta-grc1": {
+        "ID": "urn:cts:pta:pta0100.pta034.pta-grc1",
+        "urn": [
+            "pta0012.pta001.pta-grc1:q3"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta034.pta-grc1"
+    },
+    "urn:cts:pta:pta0100.pta036.pta-grc1": {
+        "ID": "urn:cts:pta:pta0100.pta036.pta-grc1",
+        "urn": [
+            "pta0012.pta001.pta-grc1:q2"
+        ],
+        "edition": [
+            ""
+        ],
+        "CTS": "urn:cts:pta:pta0100.pta036.pta-grc1"
+    },
+    "vgl. Eusebius, Praeparatio evangelica I 3,8 (GCS o.Nr. 12,3-5 Mras/des Places), vgl. auch unten (Kommentar zu Ps 67) #223,19-20": {
+        "ID": "vgl. Eusebius, Praeparatio evangelica I 3,8 (GCS o.Nr. 12,3-5 Mras/des Places), vgl. auch unten (Kommentar zu Ps 67) #223,19-20",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex2:q1"
+        ],
+        "edition": [
+            ""
+        ],
+        "author": "vgl. Eusebius, Praeparatio evangelica I 3,8 (GCS o.Nr. 12,3-5 Mras/des Places), vgl. auch unten (Kommentar zu Ps 67) #223,19-20",
+        "work": " Praeparatio evangelica I 3",
+        "reference": "Eusebius,"
     }
 }

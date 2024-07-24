@@ -4,7 +4,7 @@
 
 <http://d-nb.info/gnd/4002455-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00010> .
 
-<http://d-nb.info/gnd/4010071-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00038> .
+<http://d-nb.info/gnd/4010071-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00018> .
 
 <http://d-nb.info/gnd/4019107-2> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00021> .
 

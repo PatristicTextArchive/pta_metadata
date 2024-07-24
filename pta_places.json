@@ -41,7 +41,7 @@
     },
     {
         "ID": "Aram-zobah_Psa.60.1",
-        "canonical": "Aram-zobah= near Damascus (Damascus_Gen.14.15-Gal=H1834)",
+        "canonical": "Aram-zobah (near Damascus)",
         "description": "Aram-zobah is mentioned in the title of Psalm 60, along with Aram-naharaim, as a region against which David fought. Zobah was an Aramean kingdom located in central Syria, north of Damascus. The Arameans of Zobah were among the enemies Israel faced during the time of the united monarchy. ¶The title of the psalm suggests that David engaged in a military campaign against Aram-zobah, likely seeking to expand Israel's influence and control in the region. The conflict with Aram-zobah is also mentioned in 2 Samuel 8:3-8 and 1 Chronicles 18:3-8, which describe David's victories over Hadadezer, the king of Zobah, and his allies. ¶David's success against Aram-zobah and the acquisition of valuable resources, such as gold, silver, and bronze, contributed to the strengthening of Israel's position and wealth during his reign. The mention of Aram-zobah in the psalm title serves as a reminder of David's military prowess and the challenges he faced in establishing Israel's dominance in the region.",
         "coordinates": [
             "36.31344999999999",
@@ -164,7 +164,7 @@
     },
     {
         "ID": "Gilgal_Deu.11.30",
-        "canonical": "Gilgal-1",
+        "canonical": "Gilgal 1",
         "description": "Gilgal, also referred to as Geliloth, Beth-gilgal, or Gibeath-haaraloth, was a significant site during Israel's early history in Canaan. It was located in the Jordan Valley, near Jericho. Gilgal served as the first campsite for the Israelites after they crossed the Jordan River under Joshua's leadership (Joshua 4:19-20). It was at Gilgal that the Israelites set up twelve memorial stones taken from the Jordan and where Joshua circumcised the new generation born in the wilderness (Joshua 5:3, 9). The Passover was also celebrated at Gilgal (Joshua 5:10). Gilgal served as a base of operations for Joshua during the conquest of Canaan, with the Gibeonites coming to seek a treaty there (Joshua 9:6) and Joshua launching campaigns against the Amorite kings from Gilgal (Joshua 10:6-9, 15, 43). Later, it became a place where the Israelites assembled and where Saul was confirmed as king (1 Samuel 11:14-15). Samuel included Gilgal in his circuit as a judge (1 Samuel 7:16). However, Gilgal also became associated with idolatrous worship, as evidenced by the prophets' condemnations (Hosea 4:15; 9:15; 12:11; Amos 4:4; 5:5). Despite its significance in Israel's history, Gilgal's importance declined over time.",
         "coordinates": [
             "35.51854651224448",
@@ -172,12 +172,16 @@
         ],
         "bbox": "",
         "urns": [
+            "pta0029.pta002.pta-deu1:l3",
+            "pta0029.pta002.pta-deu1:l5",
             "pta0029.pta002.pta-grc1:l3",
             "pta0029.pta002.pta-grc1:l5",
             "pta0029.pta002.pta-grc2:l3",
             "pta0029.pta002.pta-grc2:l5"
         ],
         "orig_name": [
+            "Gilgal am Ufer des Jordan",
+            "Gilgal",
             "Γαλγάλοις πέραν                         τοῦ Ἰορδάνου",
             "Γάλγαλα",
             "Γαλγάλοις πέραν τοῦ Ἰορδάνου",
@@ -324,7 +328,7 @@
         ]
     },
     {
-        "ID": "Salt-Valley_2Sa.8.13",
+        "ID": "Salt_Valley_2Sa.8.13",
         "canonical": "Valley of Salt",
         "description": "The Salt Valley, also known as the Valley of Salt, is a location mentioned in the Bible where David and his commanders achieved significant military victories. In 2 Samuel 8:13 and 1 Chronicles 18:12, it is recorded that David's commander Abishai defeated 18,000 Edomites in the Salt Valley. Later, in 2 Kings 14:7 and 2 Chronicles 25:11, King Amaziah of Judah is said to have killed 10,000 Edomites in the Valley of Salt. The exact location of the Salt Valley is uncertain, but it was likely situated near the Dead Sea, possibly in the Arabah region south of the Dead Sea. The valley's name suggests an area with high salt content, which is characteristic of the Dead Sea region. Psalm 60, which is attributed to David, also mentions the Salt Valley in the context of military victories (Psa. 60:1). These biblical accounts highlight the Salt Valley as a place of significant military confrontations between Israel and its neighbors, particularly the Edomites.",
         "coordinates": [
@@ -338,11 +342,15 @@
         "orig_name": [
             "Φάραγγα τῶν                           ἁλῶν"
         ],
-        "other_ids": []
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q7912337"
+            }
+        ]
     },
     {
         "ID": "Shelah_Neh.2.14",
-        "canonical": "Siloam= in Jerusalem (Jerusalem_Jos.10.1-Rev=H3389)",
+        "canonical": "Siloam (in Jerusalem)",
         "description": "Shelah, also known as Shiloah, the King's Pool, or Siloam, was a pool located in the southeastern part of Jerusalem, near the City of David. It was fed by the waters of the Gihon Spring, which were diverted through Hezekiah's Tunnel, a remarkable engineering feat of the 8th century BC (2 Chr. 32:30; Isa. 22:11). ¶The pool is mentioned in various contexts throughout the Bible. In the time of Nehemiah, the wall of Jerusalem was repaired near the Pool of Shelah (Neh. 3:15), and Nehemiah himself inspected the walls by the King's Pool (Neh. 2:14). The prophet Isaiah used the gently flowing waters of Shiloah as a metaphor for the calm and trust in God, in contrast to the mighty waters of the Euphrates, symbolizing the Assyrian threat (Isa. 8:6). ¶In the New Testament, Jesus healed a man born blind by sending him to wash in the Pool of Siloam (John 9:7, 11). This miracle not only demonstrated Jesus' power but also served as a spiritual lesson about faith and the true identity of the Messiah. The Gospel of Luke also records an incident where eighteen people were killed when the tower of Siloam fell on them (Luke 13:4), using this event to teach about the need for repentance. ¶The Pool of Siloam has been identified with the archaeological site known as the Siloam Pool, which was discovered in 2004. Excavations have revealed a large pool from the Second Temple period, consistent with the biblical descriptions and historical accounts of the site.",
         "coordinates": [
             "35.234935",
@@ -362,7 +370,7 @@
         "other_ids": []
     },
     {
-        "ID": "Sinai-Wilderness_Exo.19.1",
+        "ID": "Sinai_Wilderness_Exo.19.1",
         "canonical": "",
         "description": "The Sinai Wilderness, also known as the Wilderness of Sinai, was the desert region in the Sinai Peninsula where the Israelites camped after leaving Egypt (Exodus 19:1-2). It was in this wilderness, at Mount Sinai, that God gave Moses the Ten Commandments and established His covenant with Israel (Leviticus 7:38, Numbers 3:4). The Israelites set up the Tabernacle in the Sinai Wilderness (Numbers 1:1,19; 9:1,5). They took a census of the people there (Numbers 1:19, 26:64). The Sinai Wilderness was one of the early stops on Israel's journey from Egypt to the Promised Land (Numbers 10:12, 33:15-16). The wilderness provided a place of testing and preparation for the nation before they entered Canaan. The Sinai Wilderness is synonymous with the region surrounding Mount Sinai, the place of God's revelation to Moses and Israel.",
         "coordinates": [
@@ -3454,6 +3462,7 @@
             "pta0001.pta011.pta-grc1:l6",
             "pta0001.pta017.pta-grc1:l1",
             "pta0003.pta020.pta-grcBibex3:l247",
+            "pta0029.pta002.pta-deu1:l2",
             "pta0029.pta002.pta-grc1:l2",
             "pta0029.pta002.pta-grc2:l2",
             "pta0037.pta001.pta-grc1:l13"
@@ -3463,6 +3472,7 @@
             "Ἱεριχὼ",
             "Ἱεριχὼ",
             "Ἰεριχώ",
+            "Jericho",
             "Ἱεριχὼ",
             "Ἱεριχὼ",
             "Ἱεριχώ"
@@ -3823,6 +3833,7 @@
             "pta0007.pta008.pta-grc1:l6",
             "pta0022.pta011.pta-grc1:l1",
             "pta0022.pta014.pta-grc1:l52",
+            "pta0029.pta002.pta-deu1:l1",
             "pta0029.pta002.pta-grc1:l1",
             "pta0029.pta002.pta-grc2:l1",
             "pta0037.pta001.pta-grc1:l7",
@@ -4145,6 +4156,7 @@
             "Ἱερουσαλὴμ",
             "Ἱεροσολύμων",
             "Σιὼν",
+            "Jerusalem",
             "Ἱερουσαλὴμ",
             "Ἱερουσαλήμ",
             "Ἱερουσαλήμ",
@@ -5072,7 +5084,7 @@
     {
         "ID": "https://pleiades.stoa.org/places/730110",
         "canonical": "Elearchia",
-        "description": "An ancient place, cited: BAtlas 74  Elearchia",
+        "description": "An ancient place, cited: BAtlas 74 unlocated Elearchia",
         "coordinates": [
             "",
             ""
@@ -5091,7 +5103,7 @@
     {
         "ID": "https://pleiades.stoa.org/places/730134",
         "canonical": "Onouphis",
-        "description": "An ancient place, cited: BAtlas 74  Onouphis",
+        "description": "An ancient place, cited: BAtlas 74 unlocated Onouphis",
         "coordinates": [
             "",
             ""
@@ -6254,6 +6266,10 @@
             "pta0022.pta015.pta-grc1:l35",
             "pta0022.pta016.pta-grc1:l1",
             "pta0022.pta016.pta-grc1:l24",
+            "pta0029.pta002.pta-deu1:l4",
+            "pta0029.pta002.pta-deu1:l6",
+            "pta0029.pta002.pta-deu1:l7",
+            "pta0029.pta002.pta-deu1:l8",
             "pta0029.pta002.pta-grc1:l4",
             "pta0029.pta002.pta-grc1:l6",
             "pta0029.pta002.pta-grc1:l7",
@@ -6416,6 +6432,10 @@
             "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἴγυπτον",
+            "Ägyptens",
+            "Ägypten",
+            "Ägypten",
+            "Ägyptens",
             "Αἰγύπτου",
             "Αἰγύπτῳ",
             "Αἰγύπτῳ",
@@ -6778,6 +6798,50 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q38060"
+            }
+        ]
+    },
+    {
+        "ID": "https://syriaca.org/place/104",
+        "canonical": "Jerusalem – ܐܘܪܫܠܡ",
+        "description": "As the birthplace of Christianity and the main destination of pilgrimage, Jerusalem played an important role for Christians of all Syr. traditions.",
+        "coordinates": [
+            "35.21667",
+            "31.78333"
+        ],
+        "bbox": "",
+        "urns": [
+            "pta0200.pta001.pta-syc1:l1",
+            "pta0200.pta001.pta-syc1:l2"
+        ],
+        "orig_name": [
+            "ܐܘܪܫܠܡ",
+            "ܐܘܪܫܠܡ"
+        ],
+        "other_ids": [
+            {
+                "PLEIADES": "http://pleiades.stoa.org/places/687928"
+            }
+        ]
+    },
+    {
+        "ID": "https://syriaca.org/place/586",
+        "canonical": "Constantinople – ܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
+        "description": "The capital of the Byzantine Empire.",
+        "coordinates": [
+            "28.979938",
+            "41.008548"
+        ],
+        "bbox": "",
+        "urns": [
+            "pta0200.pta001.pta-syc1:l3"
+        ],
+        "orig_name": [
+            "ܡܕܝܢܬ ܡ̇ܠܟܘܬܐ"
+        ],
+        "other_ids": [
+            {
+                "PLEIADES": "http://pleiades.stoa.org/places/520998"
             }
         ]
     }

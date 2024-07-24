@@ -250,6 +250,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/cote/29041> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00136> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/29047> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00609> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/29103> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00137> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/29106> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00138> .
