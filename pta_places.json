@@ -2523,14 +2523,12 @@
             37.1911644
         ],
         "urns": [
-            "pta0041.pta001.pta-deu1:l5",
             "pta0041.pta001.pta-grc1:l5",
             "pta0041.pta001.pta-grc1:l8",
             "pta0041.pta001.pta-grc1:l11",
             "pta0041.pta001.pta-grc1:l26"
         ],
         "orig_name": [
-            "Stadt der Isaurer",
             "Ἰσαύρων πόλεως",
             "Ἰσαυρόπολιν",
             "Ἰσαυρόπολις",
@@ -2557,7 +2555,6 @@
             "pta0022.pta014.pta-grc1:l69",
             "pta0022.pta016.pta-grc1:l23",
             "pta0041.pta001.pta-deu1:l1",
-            "pta0041.pta001.pta-deu1:l2",
             "pta0041.pta001.pta-grc1:l1",
             "pta0041.pta001.pta-grc1:l2",
             "pta0041.pta001.pta-grc1:l9"
@@ -2567,7 +2564,6 @@
             "Ἰσαυρίᾳ",
             "Ἰσαυρίαν",
             "ISAURIEN",
-            "Isauria",
             "ΙΣΑΥΡΙΑΙ",
             "Ἰσαυρίας",
             "Ἰσαυρία"
@@ -2615,13 +2611,11 @@
             37.4
         ],
         "urns": [
-            "pta0041.pta001.pta-deu1:l3",
             "pta0041.pta001.pta-grc1:l3",
             "pta0041.pta001.pta-grc1:l15",
             "pta0041.pta001.pta-grc1:l17"
         ],
         "orig_name": [
-            "Tauros",
             "Ταῦρος",
             "Ταύρου",
             "Ταύρου"
@@ -2642,7 +2636,6 @@
         ],
         "bbox": null,
         "urns": [
-            "pta0041.pta001.pta-deu1:l4",
             "pta0041.pta001.pta-grc1:l4",
             "pta0041.pta001.pta-grc1:l6",
             "pta0041.pta001.pta-grc1:l10",
@@ -2653,7 +2646,6 @@
             "pta0041.pta001.pta-grc1:l27"
         ],
         "orig_name": [
-            "Bidana",
             "Βίδαναν",
             "Βιδάνῃ",
             "Βιδάνοις",

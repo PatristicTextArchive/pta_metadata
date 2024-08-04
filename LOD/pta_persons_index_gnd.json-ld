@@ -1,9 +1,41 @@
 [
   {
-    "@id": "http://d-nb.info/gnd/118504843",
+    "@id": "http://d-nb.info/gnd/118525905",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00015"
+        "@id": "https://pta.bbaw.de/person/PTA_P00026"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102386528",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00040"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118505122",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00010"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102393176",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00030"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118501828",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00008"
       }
     ]
   },
@@ -16,10 +48,170 @@
     ]
   },
   {
+    "@id": "http://d-nb.info/gnd/119052474",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00068"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/1157159761",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00004"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118578979",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00063"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102389411",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00036"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118621637",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00062"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102406960",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00045"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118503642",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00049"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/100008429",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00024"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118593838",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00009"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/1089599366",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00021"
+      }
+    ]
+  },
+  {
     "@id": "http://d-nb.info/gnd/118521969",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/person/PTA_P00014"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118808109",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00060"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118557815",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00066"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102388687",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00018"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118504843",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00015"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118637797",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00012"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118733591",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00053"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102387362",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00039"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/102387575",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00043"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118577069",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00005"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118531425",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00019"
       }
     ]
   },
@@ -32,10 +224,42 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/1157159761",
+    "@id": "http://d-nb.info/gnd/118557831",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00004"
+        "@id": "https://pta.bbaw.de/person/PTA_P00001"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/119163977",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00020"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118578030",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00064"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118645781",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00003"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118590235",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00023"
       }
     ]
   },
@@ -51,146 +275,10 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/102388156",
+    "@id": "http://d-nb.info/gnd/118640003",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00016"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102389071",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00002"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118557831",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00001"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102386528",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00040"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118733591",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00053"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102387575",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00043"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118531425",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00019"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/1089599366",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00021"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/119269171",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00046"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102406960",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00045"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118621637",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00062"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118578030",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00064"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118525905",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00026"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102393176",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00030"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118505122",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00010"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/119163977",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00020"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118648888",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00013"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118503758",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00044"
+        "@id": "https://pta.bbaw.de/person/PTA_P00007"
       }
     ]
   },
@@ -203,50 +291,18 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118557815",
+    "@id": "http://d-nb.info/gnd/102386676",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00066"
+        "@id": "https://pta.bbaw.de/person/PTA_P00017"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/102387362",
+    "@id": "http://d-nb.info/gnd/102389071",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00039"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118645781",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00003"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118501828",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00008"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118796771",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00059"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/11862234X",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00061"
+        "@id": "https://pta.bbaw.de/person/PTA_P00002"
       }
     ]
   },
@@ -259,90 +315,26 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/119052474",
+    "@id": "http://d-nb.info/gnd/118648888",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00068"
+        "@id": "https://pta.bbaw.de/person/PTA_P00013"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/102386676",
+    "@id": "http://d-nb.info/gnd/11862234X",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00017"
+        "@id": "https://pta.bbaw.de/person/PTA_P00061"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/105549460X",
+    "@id": "http://d-nb.info/gnd/119269171",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00042"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118640003",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00007"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102388687",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00018"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/100008429",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00024"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118590235",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00023"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118555340",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00006"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/102389411",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00036"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118503642",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00049"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118593838",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/person/PTA_P00009"
+        "@id": "https://pta.bbaw.de/person/PTA_P00046"
       }
     ]
   },
@@ -355,34 +347,42 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118637797",
+    "@id": "http://d-nb.info/gnd/118555340",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00012"
+        "@id": "https://pta.bbaw.de/person/PTA_P00006"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118808109",
+    "@id": "http://d-nb.info/gnd/102388156",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00060"
+        "@id": "https://pta.bbaw.de/person/PTA_P00016"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118577069",
+    "@id": "http://d-nb.info/gnd/118796771",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00005"
+        "@id": "https://pta.bbaw.de/person/PTA_P00059"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118578979",
+    "@id": "http://d-nb.info/gnd/118503758",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/person/PTA_P00063"
+        "@id": "https://pta.bbaw.de/person/PTA_P00044"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/105549460X",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/person/PTA_P00042"
       }
     ]
   }

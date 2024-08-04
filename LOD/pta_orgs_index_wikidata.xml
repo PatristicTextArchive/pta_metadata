@@ -3,71 +3,26 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q134313">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00045"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q8735">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00030"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q11934533">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00037"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q940785">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00028"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1651392">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00015"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q5406">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00049"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q83922">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00003"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q133331">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q131802">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00032"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q182651">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00013"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q29334">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00039"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q43412">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00010"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q134313">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00045"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q163329">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00020"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2277">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00041"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q940785">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00028"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1061510">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00014"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q5518599">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00026"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q400019">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00047"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q193776">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00036"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q83922">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00003"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q484206">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00022"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1194032">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00002"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q797930">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00029"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2918061">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00027"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q182651">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00013"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q200969">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00035"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q23670057">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00042"/>
@@ -75,40 +30,85 @@
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q398180">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00004"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1293300">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00006"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q797930">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00029"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q26403">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00024"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q878607">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00044"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q11073103">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00021"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q43412">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00010"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1194234">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00023"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q745718">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00033"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q131802">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00032"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q200969">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00035"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q203507">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00048"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q133331">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00001"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q16707860">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00016"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2918061">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q11073103">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00021"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q11934533">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00037"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q193776">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q5406">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00049"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1293300">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q745718">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00033"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1194032">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00002"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q131165">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2277">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00041"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q5518599">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00026"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q107013">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00046"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q8735">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00030"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q203507">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00048"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q484206">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00022"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q26403">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00024"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q106039">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00018"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q107013">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00046"/>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q163329">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1061510">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q400019">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q878607">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00044"/>
   </rdf:Description>
 </rdf:RDF>

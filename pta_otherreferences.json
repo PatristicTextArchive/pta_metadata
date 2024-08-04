@@ -1,4 +1,237 @@
 {
+    "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)": {
+        "ID": "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)",
+        "urn": [
+            "pta0022.pta014.pta-grc1:q2"
+        ],
+        "edition": "",
+        "author": "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)",
+        "work": " fr. 46 Vinzent (= 16 Bardy)",
+        "reference": "fr.",
+        "text": ""
+    },
+    "Ath_epSerap_2-4": {
+        "ID": "Ath_epSerap_2-4",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q13"
+        ],
+        "edition": "",
+        "author": "Ath",
+        "work": "epSerap",
+        "reference": "2-4",
+        "text": ""
+    },
+    "Eus_epCaes_13": {
+        "ID": "Eus_epCaes_13",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q5",
+            "pta0022.pta014.pta-grc1:q3"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "epCaes",
+        "reference": "13",
+        "text": ""
+    },
+    "Eus_vC_2,46": {
+        "ID": "Eus_vC_2,46",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q14"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "2,46",
+        "text": ""
+    },
+    "Eus_vC_3,13-14": {
+        "ID": "Eus_vC_3,13-14",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q11"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "3,13-14",
+        "text": ""
+    },
+    "Eus_vC_3,21-22": {
+        "ID": "Eus_vC_3,21-22",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q12"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "3,21-22",
+        "text": ""
+    },
+    "Eus_vC_3,30-32": {
+        "ID": "Eus_vC_3,30-32",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q16"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "3,30-32",
+        "text": ""
+    },
+    "Eus_vC_4,36": {
+        "ID": "Eus_vC_4,36",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q15"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "4,36",
+        "text": ""
+    },
+    "Eus_vC_4,42": {
+        "ID": "Eus_vC_4,42",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q19"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "4,42",
+        "text": ""
+    },
+    "Eus_vC_4,9-13": {
+        "ID": "Eus_vC_4,9-13",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q18"
+        ],
+        "edition": "",
+        "author": "Eus",
+        "work": "vC",
+        "reference": "4,9-13",
+        "text": ""
+    },
+    "J_AJ_10,266-268": {
+        "ID": "J_AJ_10,266-268",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q8"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "10,266-268",
+        "text": ""
+    },
+    "J_AJ_10,268": {
+        "ID": "J_AJ_10,268",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q9"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "10,268",
+        "text": ""
+    },
+    "J_AJ_12,129-130": {
+        "ID": "J_AJ_12,129-130",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q6"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,129-130",
+        "text": ""
+    },
+    "J_AJ_12,131-133": {
+        "ID": "J_AJ_12,131-133",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q7"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,131-133",
+        "text": ""
+    },
+    "J_AJ_12,135": {
+        "ID": "J_AJ_12,135",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q4"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,135",
+        "text": ""
+    },
+    "J_AJ_12,322": {
+        "ID": "J_AJ_12,322",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q10"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "12,322",
+        "text": ""
+    },
+    "J_AJ_18,33-35": {
+        "ID": "J_AJ_18,33-35",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q3"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "18,33-35",
+        "text": ""
+    },
+    "J_AJ_20,247": {
+        "ID": "J_AJ_20,247",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q1"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "20,247",
+        "text": ""
+    },
+    "J_AJ_20,249-250": {
+        "ID": "J_AJ_20,249-250",
+        "urn": [
+            "pta0004.pta001.pta-grcBibex:q2"
+        ],
+        "edition": "",
+        "author": "J",
+        "work": "AJ",
+        "reference": "20,249-250",
+        "text": ""
+    },
+    "Or_ScholionPs_120,7": {
+        "ID": "Or_ScholionPs_120,7",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex3:q4"
+        ],
+        "edition": "",
+        "author": "Or",
+        "work": "ScholionPs",
+        "reference": "120,7",
+        "text": ""
+    },
+    "Or_inPs_118,2": {
+        "ID": "Or_inPs_118,2",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex3:q2",
+            "pta0003.pta020.pta-grcBibex3:q3"
+        ],
+        "edition": "",
+        "author": "Or",
+        "work": "inPs",
+        "reference": "118,2",
+        "text": ""
+    },
     "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:8.102-8.103": {
         "ID": "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:8.102-8.103",
         "urn": [
@@ -50,7 +283,7 @@
     "urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:16.39.1": {
         "ID": "urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:16.39.1",
         "urn": [
-            "pta0004.pta001.pta-grcBibex:q7"
+            "pta0004.pta001.pta-grcBibex:q5"
         ],
         "edition": "Polybius, creator; Dindorf, Ludwig August, 1805-1871, editor; Büttner-Wobst, Theodor, 1854-1905, editor",
         "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:16.39.1",
@@ -95,6 +328,30 @@
         "reference": "7.7",
         "text": " Ἰωνᾶς Νινευΐταις καταστροφὴν ἐκήρυξεν: οἱ δὲ μετανοήσαντες ἐπὶ τοῖς\n ἁμαρτήμασιν αὐτῶν ἐξιλάσαντο τὸν θεὸν ἱκετεύσαντες καὶ ἔλαβον σωτηρίαν,\n καίπερ ἀλλότριοι τοῦ θεοῦ ὄντες. "
     },
+    "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.4.1": {
+        "ID": "urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.4.1",
+        "urn": [
+            "pta0001.pta008.pta-grc1:q1"
+        ],
+        "edition": "Ignatius of Antioch. The Apostolic Fathers, Volume 1. Lake, Kirsopp, editor.\n      Cambridge, MA: Harvard University Press; London: William Heinemann Ltd., 1912.",
+        "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:7.4.1",
+        "author": "Ignatius of Antioch",
+        "work": "Epistulae vii genuinae",
+        "reference": "7.4.1",
+        "text": " Χῆραι μὴ ἀμελείσθωσαν: μετὰ τὸν κύριον\n σὺ αὐτῶν φροντιστὴς ἔσο. μηδὲν ἄνευ γνώμης\n \n σου γινέσθω μηδὲ σὺ ἄνευ θεοῦ τι πρᾶσσε, ὅπερ\n οὐδὲ πράσσεις: εὐστάθει."
+    },
+    "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1:1.3.8": {
+        "ID": "urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1:1.3.8",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex2:q1"
+        ],
+        "edition": "Eusebius. Eusebii Caesariensis Opera, Volume 1-2. Dindorf, Ludwig, editor. Leipzig: Teubner, 1867.",
+        "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg001.1st1K-grc1:1.3.8",
+        "author": "Eusebius of Caesarea",
+        "work": "Praeparatio Evangelica",
+        "reference": "1.3.8",
+        "text": "αὐτίκα\nγοῦν τὴν διδασκαλίαν αὐτοῦ κηρυχθήσεσθαι καθ᾿\nὅλης τῆς ἀνθρώπων οἰκουμένης εἰς μαρτύριον πᾶσι\nτοῖς ἔθνεσι θεσπίσαντος, τήν τε ὕστερόν ποτε τῇ αὐτοῦ \nδυνάμει συστᾶσαν ἐξ ἁπάντων τῶν ἐθνῶν ἐκκλησίαν,\nοὔπω τότε καθ᾿ οὓς ἐνηνθρωπήκει χρόνους\nὁρωμένην οὐδὲ συνεστῶσαν, ἐνθέῳ προγνώσει ἀήττητον\nκαὶ ἀκατάπληκτον ἔσεσθαι, καὶ μηδεπώποτε ὑπὸ\nθανάτου νικηθήσεσθαι, ἑστάναι δὲ καὶ μένειν ἄσειστον, \n ὡς ἂν ἐπ᾿ ἀσείστῳ καὶ ἀρραγεῖ πέτρᾳ τῇ αὐτοῦ\nδυνάμει βεβηκυῖάν τε καὶ ἐρριζωμένην, ἀποφηναμένου,\nὑπὲρ πάντα λόγον τὸ τῆς προρρήσεως ἀποτέλεσμα\nεἰκότως πᾶν ἄθυρον ἀποφράξειεν ἂν στόμα\nτῶν ἀναισχυντεῖν ἀναιδῶς παρεσκευασμένων."
+    },
     "urn:cts:pta:pta0003.pta020.pta-grcBibex1:Ps_30.5": {
         "ID": "urn:cts:pta:pta0003.pta020.pta-grcBibex1:Ps_30.5",
         "urn": [
@@ -122,7 +379,7 @@
     "urn:cts:pta:pta0022.pta014.pta-grc1:5.4-6.4": {
         "ID": "urn:cts:pta:pta0022.pta014.pta-grc1:5.4-6.4",
         "urn": [
-            "pta0004.pta003.pta-grc1:q7"
+            "pta0004.pta003.pta-grc1:q6"
         ],
         "edition": "Hanns Christof Brennecke/Uta Heil/Annette von Stockhausen (ed.), Athanasius Werke. Band 2: Die »Apologien«. Lieferung 8: Apologia ad Constantium / Epistula ad Ioannem et Antiochum / Epistula ad Palladium / Epistula ad Dracontium / Epistula ad Afros / Tomus ad Antiochenos / Epistula ad Jovianum / Epistula Joviani ad Athanasium / Petitiones Arianorum. Berlin/New York Walter de Gruyter 2006, 322–339",
         "CTS": "urn:cts:pta:pta0022.pta014.pta-grc1:5.4-6.4",
@@ -1728,7 +1985,7 @@
     "urn:cts:pta:pta0038.pta001.pta-grc1:mandatum.1.1": {
         "ID": "urn:cts:pta:pta0038.pta001.pta-grc1:mandatum.1.1",
         "urn": [
-            "pta0004.pta003.pta-grc1:q5",
+            "pta0004.pta003.pta-grc1:q4",
             "pta0022.pta003.pta-grc1:q1",
             "pta0022.pta014.pta-grc1:q1"
         ],
@@ -1738,5 +1995,125 @@
         "work": "Pastor",
         "reference": "mandatum.1.1",
         "text": "Πρῶτον πάντων πίστευσον ὅτι εἷς ἐστιν ὁ θεός, ὁ τὰ πάντα κτίσας καὶ καταρτίσας καὶ ποιήσας\n ἐκ τοῦ μὴ ὄντος εἰς τὸ εἶναι τὰ πάντα, καὶ πάντα χωρῶν, μόνος δὲ ἀχώρητος ὤν. "
+    },
+    "urn:cts:pta:pta0100.pta004": {
+        "ID": "urn:cts:pta:pta0100.pta004",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q3"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta004",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta015": {
+        "ID": "urn:cts:pta:pta0100.pta015",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q2"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta015",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta017": {
+        "ID": "urn:cts:pta:pta0100.pta017",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q1"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta017",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta024": {
+        "ID": "urn:cts:pta:pta0100.pta024",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q10"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta024",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta025": {
+        "ID": "urn:cts:pta:pta0100.pta025",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q7"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta025",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta026": {
+        "ID": "urn:cts:pta:pta0100.pta026",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q9"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta026",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta030": {
+        "ID": "urn:cts:pta:pta0100.pta030",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q8"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta030",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta031": {
+        "ID": "urn:cts:pta:pta0100.pta031",
+        "urn": [
+            "pta0004.pta003.pta-grc1:q17"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta031",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta034.pta-grc1": {
+        "ID": "urn:cts:pta:pta0100.pta034.pta-grc1",
+        "urn": [
+            "pta0012.pta001.pta-grc1:q3"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta034.pta-grc1",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
+    },
+    "urn:cts:pta:pta0100.pta036.pta-grc1": {
+        "ID": "urn:cts:pta:pta0100.pta036.pta-grc1",
+        "urn": [
+            "pta0012.pta001.pta-grc1:q2"
+        ],
+        "edition": "",
+        "CTS": "urn:cts:pta:pta0100.pta036.pta-grc1",
+        "author": "",
+        "work": "",
+        "reference": "",
+        "text": ""
     }
 }
