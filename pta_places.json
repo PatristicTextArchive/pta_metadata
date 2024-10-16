@@ -31,7 +31,7 @@
             "pta0003.pta020.pta-grcBibex2:l5"
         ],
         "orig_name": [
-            "Μεσοποταμίαν                           Συρίας"
+            "Μεσοποταμίαν Συρίας"
         ],
         "other_ids": [
             {
@@ -340,7 +340,7 @@
             "pta0003.pta020.pta-grcBibex2:l7"
         ],
         "orig_name": [
-            "Φάραγγα τῶν                           ἁλῶν"
+            "Φάραγγα                           τῶν ἁλῶν"
         ],
         "other_ids": [
             {
@@ -1017,14 +1017,14 @@
         "canonical": "Sirmium",
         "description": "An ancient place, cited: BAtlas 21 B5 Sirmium",
         "coordinates": [
-            19.610106,
-            44.966447
+            19.609825299999997,
+            44.97311355
         ],
         "bbox": [
-            19.610106,
+            19.6095446,
             44.966447,
             19.610106,
-            44.966447
+            44.9797801
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l68"
@@ -1075,8 +1075,8 @@
         "bbox": [
             12.2514705,
             41.7747038,
-            12.486137,
-            41.891775
+            12.4312344,
+            41.8367291
         ],
         "urns": [
             "pta0038.pta001.pta-grc1:l5"
@@ -1477,8 +1477,8 @@
         "canonical": "Roma",
         "description": "The capital of the Roman Republic and Empire.",
         "coordinates": [
-            12.49234282802,
-            41.89166219524948
+            12.4920917776367,
+            41.89166968202643
         ],
         "bbox": [
             12.0248296,
@@ -1625,8 +1625,8 @@
         "canonical": "Sicilia (island)",
         "description": "Sicily is the largest island in the Mediterranean Sea and has been the site of human habitation since ca. 8,000 BC. In historical terms Sicily has seen important settlement activity connected to numerous culture groups - Punic, Carthaginian, Greek, Roman, Vandalic, Ostrogothic, Byzantine, Arabic, and Norman.",
         "coordinates": [
-            13.994559044211421,
-            37.628854527262455
+            14.03693375988255,
+            37.61495217058517
         ],
         "bbox": [
             8.59403546876818,
@@ -2034,7 +2034,7 @@
             28.9206407,
             40.9922431,
             28.979938,
-            41.0175222
+            41.01772
         ],
         "urns": [
             "pta0022.pta014.pta-grc1:l71"
@@ -2463,14 +2463,14 @@
         "canonical": "Perge",
         "description": "An ancient Greek city of Asia Minor and capital of Pamphylia.",
         "coordinates": [
-            30.854671,
-            36.961817499999995
+            30.853258601264926,
+            36.964465605287096
         ],
         "bbox": [
-            30.854274,
-            36.961406,
-            30.855068,
-            36.962229
+            30.8488208,
+            36.9562363,
+            30.8595906,
+            36.9725376
         ],
         "urns": [
             "pta0001.pta030.pta-grc1:l4"
@@ -2499,8 +2499,8 @@
             37.8743019
         ],
         "urns": [
-            "pta0041.pta001.pta-grc1:l16",
-            "pta0041.pta001.pta-grc1:l28"
+            "pta0041.pta001.pta-grc1:l15",
+            "pta0041.pta001.pta-grc1:l27"
         ],
         "orig_name": [
             "Ἰκονιέωνcf. M 207,7",
@@ -2526,7 +2526,7 @@
             "pta0041.pta001.pta-grc1:l5",
             "pta0041.pta001.pta-grc1:l8",
             "pta0041.pta001.pta-grc1:l11",
-            "pta0041.pta001.pta-grc1:l26"
+            "pta0041.pta001.pta-grc1:l25"
         ],
         "orig_name": [
             "Ἰσαύρων πόλεως",
@@ -2612,8 +2612,8 @@
         ],
         "urns": [
             "pta0041.pta001.pta-grc1:l3",
-            "pta0041.pta001.pta-grc1:l15",
-            "pta0041.pta001.pta-grc1:l17"
+            "pta0041.pta001.pta-grc1:l14",
+            "pta0041.pta001.pta-grc1:l16"
         ],
         "orig_name": [
             "Ταῦρος",
@@ -2639,11 +2639,11 @@
             "pta0041.pta001.pta-grc1:l4",
             "pta0041.pta001.pta-grc1:l6",
             "pta0041.pta001.pta-grc1:l10",
-            "pta0041.pta001.pta-grc1:l18",
-            "pta0041.pta001.pta-grc1:l21",
-            "pta0041.pta001.pta-grc1:l23",
-            "pta0041.pta001.pta-grc1:l25",
-            "pta0041.pta001.pta-grc1:l27"
+            "pta0041.pta001.pta-grc1:l17",
+            "pta0041.pta001.pta-grc1:l20",
+            "pta0041.pta001.pta-grc1:l22",
+            "pta0041.pta001.pta-grc1:l24",
+            "pta0041.pta001.pta-grc1:l26"
         ],
         "orig_name": [
             "Βίδαναν",
@@ -3619,10 +3619,10 @@
             "pta0003.pta020.pta-grcBibex2:l11",
             "pta0003.pta020.pta-grcBibex2:l12",
             "pta0003.pta020.pta-grcBibex2:l13",
-            "pta0003.pta020.pta-grcBibex2:l138",
-            "pta0003.pta020.pta-grcBibex2:l140",
-            "pta0003.pta020.pta-grcBibex2:l142",
-            "pta0003.pta020.pta-grcBibex2:l144",
+            "pta0003.pta020.pta-grcBibex2:l163",
+            "pta0003.pta020.pta-grcBibex2:l165",
+            "pta0003.pta020.pta-grcBibex2:l167",
+            "pta0003.pta020.pta-grcBibex2:l169",
             "pta0003.pta020.pta-grcBibex3:l1",
             "pta0003.pta020.pta-grcBibex3:l2",
             "pta0003.pta020.pta-grcBibex3:l3",
@@ -4307,11 +4307,11 @@
             "pta0001.pta042.pta-grc1:l19",
             "pta0001.pta042.pta-grc1:l21",
             "pta0003.pta020.pta-grcBibex2:l8",
-            "pta0003.pta020.pta-grcBibex2:l136",
-            "pta0003.pta020.pta-grcBibex2:l139",
-            "pta0003.pta020.pta-grcBibex2:l141",
-            "pta0003.pta020.pta-grcBibex2:l143",
-            "pta0003.pta020.pta-grcBibex2:l145",
+            "pta0003.pta020.pta-grcBibex2:l161",
+            "pta0003.pta020.pta-grcBibex2:l164",
+            "pta0003.pta020.pta-grcBibex2:l166",
+            "pta0003.pta020.pta-grcBibex2:l168",
+            "pta0003.pta020.pta-grcBibex2:l170",
             "pta0003.pta020.pta-grcBibex3:l49",
             "pta0003.pta020.pta-grcBibex3:l72",
             "pta0003.pta020.pta-grcBibex3:l85",
@@ -4360,7 +4360,7 @@
             "Ἰουδαία",
             "Ἰουδαίαν",
             "Ἰουδαίᾳ",
-            "Ἰουδαίαςmit                                 LXX-Variantenerwägt und                                 verwirft Ἰδουμαίας",
+            "Ἰουδαίαςmit LXX-Variantenerwägt und verwirft                                 Ἰδουμαίας",
             "Ἰουδαίαν",
             "Ἰουδαίας",
             "Ἰουδαίας",
@@ -4854,12 +4854,12 @@
         "canonical": "Avaris/Ramesses",
         "description": "Avaris, located in the Nile delta region of Egypt, served as the capital city of the Hyksos.",
         "coordinates": [
-            31.822915000000002,
-            30.786464000000002
+            31.82289266666667,
+            30.7863139
         ],
         "bbox": [
             31.82253,
-            30.786228,
+            30.7860137,
             31.8233,
             30.7867
         ],
@@ -4899,17 +4899,17 @@
     },
     {
         "ID": "https://pleiades.stoa.org/places/727154",
-        "canonical": "Mareotis L.",
+        "canonical": "Mareotis (lake)",
         "description": "A brackish lake of Lower Egypt (now Lake Mariout).",
         "coordinates": [
-            29.898889,
-            31.1575
+            29.90008359608014,
+            31.154383406310046
         ],
         "bbox": [
-            29.898889,
-            31.1575,
-            29.898889,
-            31.1575
+            29.8903903,
+            31.15048,
+            29.9087151,
+            31.160047
         ],
         "urns": [
             "pta0022.pta003.pta-grc1:l5",
@@ -5222,6 +5222,23 @@
         "other_ids": []
     },
     {
+        "ID": "https://pleiades.stoa.org/places/748871137",
+        "canonical": "Ligrammon (mountain)",
+        "description": "An ancient mountain, unlocated, close to Isaura/Zengibar Kalesi",
+        "coordinates": [
+            "",
+            ""
+        ],
+        "bbox": null,
+        "urns": [
+            "pta0041.pta001.pta-grc1:l12"
+        ],
+        "orig_name": [
+            "                              Λίγραμμον                            ὄρος"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/766",
         "canonical": "Aegyptus (Roman imperial province)",
         "description": "The Roman province of Egypt (Aegyptus) was established in 30 BC after the defeat of Marcus Antonius and Cleopatra VII at the Battle of Actium.",
@@ -5354,8 +5371,8 @@
         "canonical": "Philae",
         "description": "An ancient island located just above the First cataract of the Nile River that was flooded by the construction of the Aswan High Dam. The island was home to a multi-period temple complex, which was moved to the nearby island of Agilkia and declared a UNESCO World Heritage Site in the 1970s.",
         "coordinates": [
-            32.88419646441138,
-            24.02514480150535
+            32.88414092882277,
+            24.0252586030107
         ],
         "bbox": [
             32.8836444,
@@ -5968,11 +5985,11 @@
         "canonical": "Euphrates (river)",
         "description": "The longest river of Western Asia, the Euphrates flows from the Kara Su and the Murat Su to the confluence with the Tigris river.",
         "coordinates": [
-            39.6000158186861,
-            35.3816892771585
+            39.37385851588319,
+            35.66004320558472
         ],
         "bbox": [
-            38.0115547,
+            37.86555,
             30.8169,
             47.4533685,
             39.709948

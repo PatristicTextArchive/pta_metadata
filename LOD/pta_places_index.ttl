@@ -268,6 +268,8 @@
 
 <https://pleiades.stoa.org/places/746815> rdfs:seeAlso <https://pta.bbaw.de/place/746815> .
 
+<https://pleiades.stoa.org/places/748871137> rdfs:seeAlso <https://pta.bbaw.de/place/748871137> .
+
 <https://pleiades.stoa.org/places/766> rdfs:seeAlso <https://pta.bbaw.de/place/766> .
 
 <https://pleiades.stoa.org/places/77402394> rdfs:seeAlso <https://pta.bbaw.de/place/77402394> .

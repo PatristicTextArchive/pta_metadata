@@ -1,4 +1,15 @@
 {
+    "Agraphon_90_Resch": {
+        "ID": "Agraphon_90_Resch",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex2:q3"
+        ],
+        "edition": "",
+        "author": "Agraphon",
+        "work": "90",
+        "reference": "Resch",
+        "text": ""
+    },
     "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)": {
         "ID": "Ast.Soph., fr. 46 Vinzent (= 16 Bardy)",
         "urn": [
@@ -243,6 +254,30 @@
         "work": "Iliad",
         "reference": "8.102-8.103",
         "text": "ὦ γέρον ἦ μάλα δή σε νέοι τείρουσι μαχηταί, σὴ δὲ βίη λέλυται, χαλεπὸν δέ σε γῆρας ὀπάζει,"
+    },
+    "urn:cts:greekLit:tlg0018.tlg019.1st1K-grc1:2.250": {
+        "ID": "urn:cts:greekLit:tlg0018.tlg019.1st1K-grc1:2.250",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex2:q2"
+        ],
+        "edition": "Philo Judaeus. Opera quae supersunt, Volume 3. Wendland, Paul, editor. Berlin: Reimer, 1898.",
+        "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0018.tlg019.1st1K-grc1:2.250",
+        "author": "Philo Judaeus",
+        "work": "De Somniis (lib. i-ii)",
+        "reference": "2.250",
+        "text": " ἡ δὲ θεοῦ πόλις ὑπὸ Ἑβραίων Ἱερουσαλὴμ καλεῖται, ἧς μεταληφθὲν\nτοὔνομα ὅρασίς ἐστιν εἰρήνης. ὥστε μὴ ζήτει τὴν τοῦ ὄντος\nπόλιν ἐν κλίμασι γῆς — οὐ γὰρ ἐκ ξύλων ἢ λίθων δεδημιούργηται —,\nἀλλ’ ἐν ψυχῇ ἀπολέμῳ καὶ ὀξυδορκούσῃ τέλος προτεθειμένῃ τὸν\n[δὲ] θεωρητικὸν καὶ εἰρηναῖον βίον."
+    },
+    "urn:cts:greekLit:tlg0018.tlg024.1st1K-grc1:2.188": {
+        "ID": "urn:cts:greekLit:tlg0018.tlg024.1st1K-grc1:2.188",
+        "urn": [
+            "pta0003.pta020.pta-grcBibex2:q4"
+        ],
+        "edition": "Philo Judaeus. Opera quae supersunt, Volume 5. Cohn, Leonard, editor. Berlin: Reimer, 1906.",
+        "link": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0018.tlg024.1st1K-grc1:2.188",
+        "author": "Philo Judaeus",
+        "work": "De Specialibus Legibus (lib. i‑iv)",
+        "reference": "2.188",
+        "text": " Ἑξῆς ἐστιν ἱερομηνία, καθ’ ἣν ἅμα ταῖς ἀναγομέναις θυσίαις \nἐν τῷ ἱερῷ σαλπίζειν ἔθος· ἀφ’ οὗ καὶ „σαλπίγγων“ ἐτύμως ἑορτὴ προσαγορεύεται,\nδιττὸν λόγον ἔχουσα, τὸν μὲν ἴδιον τοῦ ἔθνους, τὸν δὲ\nκοινὸν ἀνθρώπων ἁπάντων· ἴδιον μὲν ὑπόμνησιν τεραστίου καὶ μεγαλουργηθέντος\nἔργου, καθ’ ὃν χρόνον τὰ λόγια τῶν νόμων ἐθεσπίζετο·\n"
     },
     "urn:cts:greekLit:tlg0059.tlg023.perseus-grc2:454": {
         "ID": "urn:cts:greekLit:tlg0059.tlg023.perseus-grc2:454",

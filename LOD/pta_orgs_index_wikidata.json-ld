@@ -1,29 +1,5 @@
 [
   {
-    "@id": "https://www.wikidata.org/wiki/Q5518599",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00026"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q797930",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00029"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q484206",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00022"
-      }
-    ]
-  },
-  {
     "@id": "https://www.wikidata.org/wiki/Q2918061",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -40,42 +16,10 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q200969",
+    "@id": "https://www.wikidata.org/wiki/Q43412",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00035"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q26403",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00024"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q745718",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00033"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q16707860",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00016"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q134313",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00045"
+        "@id": "https://pta.bbaw.de/group/PTA_O00010"
       }
     ]
   },
@@ -88,10 +32,154 @@
     ]
   },
   {
+    "@id": "https://www.wikidata.org/wiki/Q26403",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00024"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q797930",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00029"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q5406",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00049"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q5518599",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00026"
+      }
+    ]
+  },
+  {
     "@id": "https://www.wikidata.org/wiki/Q400019",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/group/PTA_O00047"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q398180",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00004"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1061510",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00014"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q11073103",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00021"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q163329",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00020"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q16707860",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00016"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1194234",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00023"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q133331",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00001"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q484206",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00022"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q107013",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00046"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q878607",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00044"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1651392",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00015"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q182651",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00013"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q203507",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00048"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q83922",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00003"
       }
     ]
   },
@@ -104,18 +192,10 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q131802",
+    "@id": "https://www.wikidata.org/wiki/Q134313",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00032"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q163329",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00020"
+        "@id": "https://pta.bbaw.de/group/PTA_O00045"
       }
     ]
   },
@@ -136,34 +216,10 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q5406",
+    "@id": "https://www.wikidata.org/wiki/Q745718",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00049"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q107013",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00046"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q940785",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00028"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q203507",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00048"
+        "@id": "https://pta.bbaw.de/group/PTA_O00033"
       }
     ]
   },
@@ -176,86 +232,6 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q1061510",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00014"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q133331",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00001"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q83922",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00003"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q106039",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00018"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1194234",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00023"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q11073103",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00021"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q398180",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00004"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q878607",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00044"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q182651",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00013"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.wikidata.org/wiki/Q1651392",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00015"
-      }
-    ]
-  },
-  {
     "@id": "https://www.wikidata.org/wiki/Q1293300",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -264,10 +240,10 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q1194032",
+    "@id": "https://www.wikidata.org/wiki/Q200969",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00002"
+        "@id": "https://pta.bbaw.de/group/PTA_O00035"
       }
     ]
   },
@@ -280,10 +256,34 @@
     ]
   },
   {
-    "@id": "https://www.wikidata.org/wiki/Q43412",
+    "@id": "https://www.wikidata.org/wiki/Q940785",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00010"
+        "@id": "https://pta.bbaw.de/group/PTA_O00028"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q1194032",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00002"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q131802",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00032"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.wikidata.org/wiki/Q106039",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00018"
       }
     ]
   }
