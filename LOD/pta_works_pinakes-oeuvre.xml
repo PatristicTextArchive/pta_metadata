@@ -3,134 +3,254 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8455">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3823">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0029.pta002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11978">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14911">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7959">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4823">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7118">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta035"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1504">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2163">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta043"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8456">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7704">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0040.pta001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3921">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta004"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7665">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta061"/>
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta059"/>
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta062"/>
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta058"/>
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta057"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta058"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta059"/>
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta060"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta061"/>
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta062"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2683">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta001"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/13035">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta015"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1552">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/missing">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4895">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta014"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11416">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0038.pta001"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7575">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4127">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6377/">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3935">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1759">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta001"/>
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta002"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1552">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7963">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta017"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8129">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta037"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8395">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14910">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8262">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta036"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2438">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7573">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7895">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta044"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8078">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5059">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7964">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta038"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7704">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0040.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3374/">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8046">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta041"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2395">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14909">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2163">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta043"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/655">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3921">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta004"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3846">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta024"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8309">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta003"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4127">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3430">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta002"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6836">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0012.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6709">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7960">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta031"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7957">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta026"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1835">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta007"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7961">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7710">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta019"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7884">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3929">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5129">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/655">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7963">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14335">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14912">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2438">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2672">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta022"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7633">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta018"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8794">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8310">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3374/">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8395">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8262">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7960">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta031"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11416">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0038.pta001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4001">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8309">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2865">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta052"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7964">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta038"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8046">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta041"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/12440">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7895">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8687">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta056"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8206">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11447">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3846">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta024"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5717">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2351">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8380">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6709">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11169">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2543">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta009"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14909">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7957">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta026"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8455">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11220">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8078">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1835">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2395">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2164">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8607">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/13035">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2232">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8012">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta042"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2865">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta052"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3430">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8129">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta037"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1794">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7573">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1956">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7168">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta032"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7167">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta008"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14959">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0041.pta001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6825">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7893">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5059">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1514">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/missing">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6836">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0012.pta001"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2162">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040"/>
@@ -138,148 +258,31 @@
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8697">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2351">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14910">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4970">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta013"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3935">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2543">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta009"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2232">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14959">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0041.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11978">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4895">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta014"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8456">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5129">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1794">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8380">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2164">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7167">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta008"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8310">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta002"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1504">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta017"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7884">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta016"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3823">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0029.pta002"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7168">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta032"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8607">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta027"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/12440">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1491">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0037.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7959">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta009"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11447">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta017"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7091">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7633">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta018"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5061">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta016"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4823">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7961">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8687">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta056"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/4001">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta004"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7575">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/3929">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6601">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta072"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6823">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11220">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14335">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta018"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1514">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/11169">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14912">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6825">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta003"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/2208">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta034"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8794">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7091">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/5717">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7118">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta035"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1956">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/14911">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/7893">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta013"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/8206">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta015"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/6377/">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007"/>
+  <rdf:Description rdf:about="https://pinakes.irht.cnrs.fr/notices/oeuvre/1491">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/text/urn:cts:pta:pta0037.pta001"/>
   </rdf:Description>
 </rdf:RDF>

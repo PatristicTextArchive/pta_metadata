@@ -24,3 +24,5 @@
 
 <http://d-nb.info/gnd/4006406-2> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta9999> .
 
+<http://d-nb.info/gnd/4213028-1> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0099> .
+

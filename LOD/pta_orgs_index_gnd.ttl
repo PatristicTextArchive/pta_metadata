@@ -40,6 +40,8 @@
 
 <http://d-nb.info/gnd/4142791-9> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00023> .
 
+<http://d-nb.info/gnd/4170497-6> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00055> .
+
 <http://d-nb.info/gnd/4174130-4> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00024> .
 
 <http://d-nb.info/gnd/4211510-3> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00037> .
@@ -48,9 +50,15 @@
 
 <http://d-nb.info/gnd/4278477-3> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00048> .
 
+<http://d-nb.info/gnd/4300988-8> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00054> .
+
 <http://d-nb.info/gnd/4331728-5> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00028> .
 
 <http://d-nb.info/gnd/4355044-7> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00033> .
 
+<http://d-nb.info/gnd/4366574-3> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00058> .
+
 <http://d-nb.info/gnd/4368744-1> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00019> .
+
+<http://d-nb.info/gnd/4511230-7> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00057> .
 

@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2024-10-16T08:56:53.753693+00:00
+#TIMESTAMP: 2024-12-08T21:51:33.473638+00:00
 #UPDATE: monthly
 Q43706|https://pta.bbaw.de/person/PTA_P00001
 Q447451|https://pta.bbaw.de/person/PTA_P00002
@@ -18,6 +18,7 @@ Q134461|https://pta.bbaw.de/person/PTA_P00007
 Q8409|https://pta.bbaw.de/person/PTA_P00008
 Q130650|https://pta.bbaw.de/person/PTA_P00009
 Q1405|https://pta.bbaw.de/person/PTA_P00010
+Q201346|https://pta.bbaw.de/person/PTA_P00011
 Q44258|https://pta.bbaw.de/person/PTA_P00012
 Q474872|https://pta.bbaw.de/person/PTA_P00013
 Q46418|https://pta.bbaw.de/person/PTA_P00014
@@ -50,6 +51,12 @@ Q43600|https://pta.bbaw.de/person/PTA_P00063
 Q31966|https://pta.bbaw.de/person/PTA_P00064
 Q328804|https://pta.bbaw.de/person/PTA_P00066
 Q861803|https://pta.bbaw.de/person/PTA_P00068
+Q44079|https://pta.bbaw.de/person/PTA_P00069
+Q355664|https://pta.bbaw.de/person/PTA_P00070
+Q44011|https://pta.bbaw.de/person/PTA_P00071
+Q1263119|https://pta.bbaw.de/person/PTA_P00072
+Q2312602|https://pta.bbaw.de/person/PTA_P00073
+Q203445|https://pta.bbaw.de/person/PTA_P00074
 Q75048|https://pta.bbaw.de/person/gnd_1011235412
 Q39957|https://pta.bbaw.de/person/gnd_1172668973
 Q1048|https://pta.bbaw.de/person/gnd_118518275
@@ -86,6 +93,7 @@ Q299428|https://pta.bbaw.de/person/gnd_1238037372
 Q379863|https://pta.bbaw.de/person/gnd_124741940
 Q51676|https://pta.bbaw.de/person/Aaron_Exo.4.14
 Q313421|https://pta.bbaw.de/person/Abel_Gen.4.2
+Q321804|https://pta.bbaw.de/person/Abiathar_1Sa.22.20
 Q9560907|https://pta.bbaw.de/person/Abiram_Num.16.1
 Q1133337|https://pta.bbaw.de/person/Abner_1Sa.14.50
 Q9181|https://pta.bbaw.de/person/Abraham_Gen.11.26
@@ -93,15 +101,19 @@ Q205372|https://pta.bbaw.de/person/Absalom_2Sa.3.3
 Q70899|https://pta.bbaw.de/person/Adam_Gen.2.19
 Q4695144|https://pta.bbaw.de/person/Ahitub_1Sa.14.3
 Q372091|https://pta.bbaw.de/person/Amalek_Gen.36.12
+Q213850|https://pta.bbaw.de/person/Amos_Amo.1.1
 Q4748020|https://pta.bbaw.de/person/Amoz_2Ki.19.2
 Q1812268|https://pta.bbaw.de/person/Anak_Num.13.22
 Q43399|https://pta.bbaw.de/person/Andrew_Mat.4.18
+Q468856|https://pta.bbaw.de/person/Archippus_Col.4.17
 Q2712606|https://pta.bbaw.de/person/Arioch_Dan.2.14
 Q43280403|https://pta.bbaw.de/person/Asaph_1Ch.6.39
 Q110844406|https://pta.bbaw.de/person/Ashpenaz_Dan.1.3
 Q313216|https://pta.bbaw.de/person/Azariah_Dan.1.6
 Q574641|https://pta.bbaw.de/person/Balaam_Num.22.5
 Q313417|https://pta.bbaw.de/person/Barabbas_Mat.27.16
+Q807236|https://pta.bbaw.de/person/Barak_Jdg.4.6
+Q599907|https://pta.bbaw.de/person/Baruch_Jer.32.12
 Q225198|https://pta.bbaw.de/person/Belshazzar_Dan.5.1
 Q2776374|https://pta.bbaw.de/person/Bildad_Job.2.11
 Q211246|https://pta.bbaw.de/person/Caiaphas_Mat.26.3
@@ -114,8 +126,10 @@ Q171724|https://pta.bbaw.de/person/Daniel_Ezk.14.14
 Q603176|https://pta.bbaw.de/person/Darius_Dan.5.31
 Q2238834|https://pta.bbaw.de/person/Dathan_Num.16.1
 Q41370|https://pta.bbaw.de/person/David_Rut.4.17
+Q1185201|https://pta.bbaw.de/person/Demas_Col.4.14
 Q1234538|https://pta.bbaw.de/person/Doeg_1Sa.21.7
 Q362021|https://pta.bbaw.de/person/Eli_1Sa.1.3
+Q953527|https://pta.bbaw.de/person/Epaphras_Col.1.7
 Q203251|https://pta.bbaw.de/person/Ephraim_Gen.41.52
 Q220822|https://pta.bbaw.de/person/Esau_Gen.25.25
 Q732413|https://pta.bbaw.de/person/Esther_Est.2.7
@@ -123,6 +137,7 @@ Q830183|https://pta.bbaw.de/person/Eve_Gen.3.20
 Q194064|https://pta.bbaw.de/person/Ezekiel_Ezk.1.3
 Q191787|https://pta.bbaw.de/person/Ezra_Ezr.7.1
 Q191787|https://pta.bbaw.de/person/Ezra_Neh.12.1
+Q977435|https://pta.bbaw.de/person/Gehazi_2Ki.4.12
 Q192785|https://pta.bbaw.de/person/Goliath_1Sa.17.4
 Q229702|https://pta.bbaw.de/person/Ham_Gen.5.32
 Q650680|https://pta.bbaw.de/person/Haman_Est.3.1
@@ -166,6 +181,7 @@ Q840401|https://pta.bbaw.de/person/Laban_Gen.24.29
 Q128847|https://pta.bbaw.de/person/Leah_Gen.29.16
 Q215512|https://pta.bbaw.de/person/Levi_Gen.29.34
 Q40574|https://pta.bbaw.de/person/Lot_Gen.11.27
+Q232453|https://pta.bbaw.de/person/Martha_Luk.10.38
 Q43600|https://pta.bbaw.de/person/Matthew_Mat.9.9
 Q219395|https://pta.bbaw.de/person/Melchizedek_Gen.14.18
 Q1341397|https://pta.bbaw.de/person/Michal_1Sa.14.49
@@ -190,6 +206,7 @@ Q43675|https://pta.bbaw.de/person/Philip_Act.6.5
 Q43675|https://pta.bbaw.de/person/Philip_Mat.10.3
 Q207389|https://pta.bbaw.de/person/Rachel_Gen.29.6
 Q1135632|https://pta.bbaw.de/person/Rahab_Jos.2.1
+Q625661|https://pta.bbaw.de/person/Reuben_Gen.29.32
 Q1774982|https://pta.bbaw.de/person/Ruth_Rut.1.4
 Q214648|https://pta.bbaw.de/person/Samson_Jdg.13.24
 Q6577515|https://pta.bbaw.de/person/Samuel_1Sa.1.20
@@ -203,6 +220,7 @@ Q37085|https://pta.bbaw.de/person/Solomon_2Sa.5.14
 Q693055|https://pta.bbaw.de/person/Tabitha_Act.9.36
 Q1384449|https://pta.bbaw.de/person/Theophilus_Luk.1.3
 Q43669|https://pta.bbaw.de/person/Thomas_Mat.10.3
+Q1396807|https://pta.bbaw.de/person/Tychicus_Act.20.4
 Q313216|https://pta.bbaw.de/person/Uzziah_2Ki.14.21
 Q169363|https://pta.bbaw.de/person/Zebedee_Mat.4.21
 Q614575|https://pta.bbaw.de/person/Zebulun_Gen.30.20

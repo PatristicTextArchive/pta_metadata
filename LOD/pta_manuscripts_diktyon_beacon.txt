@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2024-10-16T09:15:25.840670+00:00
+#TIMESTAMP: 2024-12-08T21:56:30.396451+00:00
 #UPDATE: monthly
 64309|https://pta.bbaw.de/manuscripts/PTAMS00433
 70216|https://pta.bbaw.de/manuscripts/PTAMS00513
@@ -58,14 +58,12 @@ L|https://pta.bbaw.de/manuscripts/PTAMS00604
 46993|https://pta.bbaw.de/manuscripts/PTAMS00265
 2638|https://pta.bbaw.de/manuscripts/PTAMS00019
 25943|https://pta.bbaw.de/manuscripts/PTAMS00117
-15483|https://pta.bbaw.de/manuscripts/PTAMS00066
 43807|https://pta.bbaw.de/manuscripts/PTAMS00238
 44703|https://pta.bbaw.de/manuscripts/PTAMS00248
 30729|https://pta.bbaw.de/manuscripts/PTAMS00152
 72371|https://pta.bbaw.de/manuscripts/PTAMS00539
 20110|https://pta.bbaw.de/manuscripts/PTAMS00094
 67205|https://pta.bbaw.de/manuscripts/PTAMS00475
-15471|https://pta.bbaw.de/manuscripts/PTAMS00063
 35921|https://pta.bbaw.de/manuscripts/PTAMS00572
 71790|https://pta.bbaw.de/manuscripts/PTAMS00531
 44762|https://pta.bbaw.de/manuscripts/PTAMS00577
@@ -80,7 +78,6 @@ L|https://pta.bbaw.de/manuscripts/PTAMS00604
 49043|https://pta.bbaw.de/manuscripts/PTAMS00310
 67777|https://pta.bbaw.de/manuscripts/PTAMS00479
 35370|https://pta.bbaw.de/manuscripts/PTAMS00181
-15084|https://pta.bbaw.de/manuscripts/PTAMS00060
 18182|https://pta.bbaw.de/manuscripts/PTAMS00080
 45321|https://pta.bbaw.de/manuscripts/PTAMS00254
 50643|https://pta.bbaw.de/manuscripts/PTAMS00555
@@ -98,7 +95,6 @@ L|https://pta.bbaw.de/manuscripts/PTAMS00604
 2560|https://pta.bbaw.de/manuscripts/PTAMS00012
 6542|https://pta.bbaw.de/manuscripts/PTAMS00037
 9341|https://pta.bbaw.de/manuscripts/PTAMS00046
-15481|https://pta.bbaw.de/manuscripts/PTAMS00065
 50780|https://pta.bbaw.de/manuscripts/PTAMS00361
 68262|https://pta.bbaw.de/manuscripts/PTAMS00486
 50337|https://pta.bbaw.de/manuscripts/PTAMS00332
@@ -249,7 +245,6 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 72348|https://pta.bbaw.de/manuscripts/PTAMS00538
 31910|https://pta.bbaw.de/manuscripts/PTAMS00156
 55983|https://pta.bbaw.de/manuscripts/PTAMS00556
-15193|https://pta.bbaw.de/manuscripts/PTAMS00061
 15918|https://pta.bbaw.de/manuscripts/PTAMS00591
 68549|https://pta.bbaw.de/manuscripts/PTAMS00494
 18774|https://pta.bbaw.de/manuscripts/PTAMS00087
@@ -312,7 +307,6 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 51093|https://pta.bbaw.de/manuscripts/PTAMS00370
 51152|https://pta.bbaw.de/manuscripts/PTAMS00372
 66381|https://pta.bbaw.de/manuscripts/PTAMS00459
-48112|https://pta.bbaw.de/manuscripts/PTAMS00299
 53942|https://pta.bbaw.de/manuscripts/PTAMS00378
 15962|https://pta.bbaw.de/manuscripts/PTAMS00585
 66382|https://pta.bbaw.de/manuscripts/PTAMS00460
@@ -381,7 +375,6 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 45364|https://pta.bbaw.de/manuscripts/PTAMS00255
 68701|https://pta.bbaw.de/manuscripts/PTAMS00500
 55361|https://pta.bbaw.de/manuscripts/PTAMS00386
-29047|https://pta.bbaw.de/manuscripts/PTAMS00609
 34284|https://pta.bbaw.de/manuscripts/PTAMS00170
 46021|https://pta.bbaw.de/manuscripts/PTAMS00260
 50364|https://pta.bbaw.de/manuscripts/PTAMS00347
@@ -409,7 +402,6 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 18744|https://pta.bbaw.de/manuscripts/PTAMS00563
 42223|https://pta.bbaw.de/manuscripts/PTAMS00214
 42781|https://pta.bbaw.de/manuscripts/PTAMS00580
-15472|https://pta.bbaw.de/manuscripts/PTAMS00064
 55288|https://pta.bbaw.de/manuscripts/PTAMS00385
 55434|https://pta.bbaw.de/manuscripts/PTAMS00387
 43760|https://pta.bbaw.de/manuscripts/PTAMS00236
@@ -505,7 +497,6 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 44636|https://pta.bbaw.de/manuscripts/PTAMS00247
 30691|https://pta.bbaw.de/manuscripts/PTAMS00150
 56404|https://pta.bbaw.de/manuscripts/PTAMS00396
-15064|https://pta.bbaw.de/manuscripts/PTAMS00059
 47522|https://pta.bbaw.de/manuscripts/PTAMS00288
 41258|https://pta.bbaw.de/manuscripts/PTAMS00209
 70334|https://pta.bbaw.de/manuscripts/PTAMS00518
@@ -546,7 +537,6 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 38977|https://pta.bbaw.de/manuscripts/PTAMS00193
 21307|https://pta.bbaw.de/manuscripts/PTAMS00099
 65249|https://pta.bbaw.de/manuscripts/PTAMS00444
-15097|https://pta.bbaw.de/manuscripts/PTAMS00599
 71677|https://pta.bbaw.de/manuscripts/PTAMS00526
 8429|https://pta.bbaw.de/manuscripts/PTAMS00040
 22340|https://pta.bbaw.de/manuscripts/PTAMS00102
@@ -602,10 +592,18 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 47383|https://pta.bbaw.de/manuscripts/PTAMS00282
 33876|https://pta.bbaw.de/manuscripts/PTAMS00166
 18784|https://pta.bbaw.de/manuscripts/PTAMS00090
-13563|https://pta.bbaw.de/manuscripts/PTAMS00055
+34260|https://pta.bbaw.de/manuscripts/PTAMS00610
+65114|https://pta.bbaw.de/manuscripts/PTAMS00611
+49344|https://pta.bbaw.de/manuscripts/PTAMS00612
+15064|https://pta.bbaw.de/manuscripts/PTAMS00059
+15084|https://pta.bbaw.de/manuscripts/PTAMS00060
+15193|https://pta.bbaw.de/manuscripts/PTAMS00061
+15471|https://pta.bbaw.de/manuscripts/PTAMS00063
+15472|https://pta.bbaw.de/manuscripts/PTAMS00064
+15481|https://pta.bbaw.de/manuscripts/PTAMS00065
+15483|https://pta.bbaw.de/manuscripts/PTAMS00066
 47001|https://pta.bbaw.de/manuscripts/PTAMS00266
 47033|https://pta.bbaw.de/manuscripts/PTAMS00274
-47035|https://pta.bbaw.de/manuscripts/PTAMS00275
 47787|https://pta.bbaw.de/manuscripts/PTAMS00292
 47810|https://pta.bbaw.de/manuscripts/PTAMS00293
 48090|https://pta.bbaw.de/manuscripts/PTAMS00294
@@ -613,5 +611,10 @@ V|https://pta.bbaw.de/manuscripts/PTAMS00605
 48098|https://pta.bbaw.de/manuscripts/PTAMS00296
 48110|https://pta.bbaw.de/manuscripts/PTAMS00297
 48111|https://pta.bbaw.de/manuscripts/PTAMS00298
+48112|https://pta.bbaw.de/manuscripts/PTAMS00299
 48242|https://pta.bbaw.de/manuscripts/PTAMS00300
+15097|https://pta.bbaw.de/manuscripts/PTAMS00599
+29047|https://pta.bbaw.de/manuscripts/PTAMS00609
+47035|https://pta.bbaw.de/manuscripts/PTAMS00275
 48655|https://pta.bbaw.de/manuscripts/PTAMS00305
+13563|https://pta.bbaw.de/manuscripts/PTAMS00055

@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2024-10-16T09:09:54.367403+00:00
+#TIMESTAMP: 2024-12-08T21:55:04.464460+00:00
 #UPDATE: monthly
 1001133|https://pta.bbaw.de/place/1001133
 1001896|https://pta.bbaw.de/place/1001896
@@ -29,6 +29,7 @@
 207439|https://pta.bbaw.de/place/207439
 207447|https://pta.bbaw.de/place/207447
 207549|https://pta.bbaw.de/place/207549
+226577|https://pta.bbaw.de/place/226577
 231839930|https://pta.bbaw.de/place/231839930
 260940008|https://pta.bbaw.de/place/260940008
 29475|https://pta.bbaw.de/place/29475
@@ -53,6 +54,7 @@
 481865|https://pta.bbaw.de/place/481865
 491656|https://pta.bbaw.de/place/491656
 491740|https://pta.bbaw.de/place/491740
+50004|https://pta.bbaw.de/place/50004
 501434|https://pta.bbaw.de/place/501434
 501482|https://pta.bbaw.de/place/501482
 501638|https://pta.bbaw.de/place/501638
@@ -65,13 +67,19 @@
 570028|https://pta.bbaw.de/place/570028
 570102|https://pta.bbaw.de/place/570102
 570220|https://pta.bbaw.de/place/570220
+570468|https://pta.bbaw.de/place/570468
 570577|https://pta.bbaw.de/place/570577
 579885|https://pta.bbaw.de/place/579885
 589748|https://pta.bbaw.de/place/589748
 599612|https://pta.bbaw.de/place/599612
+599799|https://pta.bbaw.de/place/599799
 609307|https://pta.bbaw.de/place/609307
+609502|https://pta.bbaw.de/place/609502
 628949|https://pta.bbaw.de/place/628949
 629035|https://pta.bbaw.de/place/629035
+638811|https://pta.bbaw.de/place/638811
+638860|https://pta.bbaw.de/place/638860
+638955|https://pta.bbaw.de/place/638955
 638965|https://pta.bbaw.de/place/638965
 639034|https://pta.bbaw.de/place/639034
 639048|https://pta.bbaw.de/place/639048
@@ -83,7 +91,9 @@
 652327|https://pta.bbaw.de/place/652327
 658381|https://pta.bbaw.de/place/658381
 658427|https://pta.bbaw.de/place/658427
+658538|https://pta.bbaw.de/place/658538
 668190|https://pta.bbaw.de/place/668190
+668250|https://pta.bbaw.de/place/668250
 668332|https://pta.bbaw.de/place/668332
 668537581|https://pta.bbaw.de/place/668537581
 678054|https://pta.bbaw.de/place/678054
@@ -97,12 +107,15 @@
 678220|https://pta.bbaw.de/place/678220
 678267|https://pta.bbaw.de/place/678267
 678299|https://pta.bbaw.de/place/678299
+678301|https://pta.bbaw.de/place/678301
 678334|https://pta.bbaw.de/place/678334
 678369|https://pta.bbaw.de/place/678369
 678370|https://pta.bbaw.de/place/678370
+678393|https://pta.bbaw.de/place/678393
 678401|https://pta.bbaw.de/place/678401
 678403|https://pta.bbaw.de/place/678403
 678431|https://pta.bbaw.de/place/678431
+678437|https://pta.bbaw.de/place/678437
 687856|https://pta.bbaw.de/place/687856
 687891|https://pta.bbaw.de/place/687891
 687900|https://pta.bbaw.de/place/687900

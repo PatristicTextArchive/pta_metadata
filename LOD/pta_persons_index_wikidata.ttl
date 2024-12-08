@@ -30,9 +30,13 @@
 
 <https://www.wikidata.org/wiki/Q1141064> rdfs:seeAlso <https://pta.bbaw.de/person/Joab_1Sa.26.6> .
 
+<https://www.wikidata.org/wiki/Q1185201> rdfs:seeAlso <https://pta.bbaw.de/person/Demas_Col.4.14> .
+
 <https://www.wikidata.org/wiki/Q11951531> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00036> .
 
 <https://www.wikidata.org/wiki/Q1234538> rdfs:seeAlso <https://pta.bbaw.de/person/Doeg_1Sa.21.7> .
+
+<https://www.wikidata.org/wiki/Q1263119> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00072> .
 
 <https://www.wikidata.org/wiki/Q128847> rdfs:seeAlso <https://pta.bbaw.de/person/Leah_Gen.29.16> .
 
@@ -50,6 +54,8 @@
         <https://pta.bbaw.de/person/gnd_118640003> .
 
 <https://www.wikidata.org/wiki/Q1384449> rdfs:seeAlso <https://pta.bbaw.de/person/Theophilus_Luk.1.3> .
+
+<https://www.wikidata.org/wiki/Q1396807> rdfs:seeAlso <https://pta.bbaw.de/person/Tychicus_Act.20.4> .
 
 <https://www.wikidata.org/wiki/Q1405> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00010> .
 
@@ -104,9 +110,13 @@
 
 <https://www.wikidata.org/wiki/Q200902> rdfs:seeAlso <https://pta.bbaw.de/person/Shem_Gen.5.32> .
 
+<https://www.wikidata.org/wiki/Q201346> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00011> .
+
 <https://www.wikidata.org/wiki/Q201861> rdfs:seeAlso <https://pta.bbaw.de/person/Nimrod_Gen.10.8> .
 
 <https://www.wikidata.org/wiki/Q203251> rdfs:seeAlso <https://pta.bbaw.de/person/Ephraim_Gen.41.52> .
+
+<https://www.wikidata.org/wiki/Q203445> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00074> .
 
 <https://www.wikidata.org/wiki/Q203922> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00005> .
 
@@ -126,6 +136,8 @@
 
 <https://www.wikidata.org/wiki/Q211246> rdfs:seeAlso <https://pta.bbaw.de/person/Caiaphas_Mat.26.3> .
 
+<https://www.wikidata.org/wiki/Q213850> rdfs:seeAlso <https://pta.bbaw.de/person/Amos_Amo.1.1> .
+
 <https://www.wikidata.org/wiki/Q214648> rdfs:seeAlso <https://pta.bbaw.de/person/Samson_Jdg.13.24> .
 
 <https://www.wikidata.org/wiki/Q215512> rdfs:seeAlso <https://pta.bbaw.de/person/Levi_Gen.29.34> .
@@ -141,6 +153,10 @@
 <https://www.wikidata.org/wiki/Q229702> rdfs:seeAlso <https://pta.bbaw.de/person/Ham_Gen.5.32> .
 
 <https://www.wikidata.org/wiki/Q230091> rdfs:seeAlso <https://pta.bbaw.de/person/Herodias_Mat.14.3> .
+
+<https://www.wikidata.org/wiki/Q2312602> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00073> .
+
+<https://www.wikidata.org/wiki/Q232453> rdfs:seeAlso <https://pta.bbaw.de/person/Martha_Luk.10.38> .
 
 <https://www.wikidata.org/wiki/Q2346367> rdfs:seeAlso <https://pta.bbaw.de/person/Hannah_1Sa.1.2> .
 
@@ -197,6 +213,8 @@
 
 <https://www.wikidata.org/wiki/Q321639> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00030> .
 
+<https://www.wikidata.org/wiki/Q321804> rdfs:seeAlso <https://pta.bbaw.de/person/Abiathar_1Sa.22.20> .
+
 <https://www.wikidata.org/wiki/Q325476> rdfs:seeAlso <https://pta.bbaw.de/person/Jairus_Mrk.5.22> .
 
 <https://www.wikidata.org/wiki/Q328736> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00026> .
@@ -220,6 +238,8 @@
 <https://www.wikidata.org/wiki/Q3526581> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00035> .
 
 <https://www.wikidata.org/wiki/Q35500> rdfs:seeAlso <https://pta.bbaw.de/person/gnd_118649809> .
+
+<https://www.wikidata.org/wiki/Q355664> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00070> .
 
 <https://www.wikidata.org/wiki/Q357771> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00022> .
 
@@ -272,8 +292,12 @@
 <https://www.wikidata.org/wiki/Q43999> rdfs:seeAlso <https://pta.bbaw.de/person/James_Mat.13.55>,
         <https://pta.bbaw.de/person/James_Mat.4.21> .
 
+<https://www.wikidata.org/wiki/Q44011> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00071> .
+
 <https://www.wikidata.org/wiki/Q44024> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00015>,
         <https://pta.bbaw.de/person/gnd_118504843> .
+
+<https://www.wikidata.org/wiki/Q44079> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00069> .
 
 <https://www.wikidata.org/wiki/Q44170> rdfs:seeAlso <https://pta.bbaw.de/person/PTA_P00006> .
 
@@ -295,6 +319,8 @@
 
 <https://www.wikidata.org/wiki/Q46491> rdfs:seeAlso <https://pta.bbaw.de/person/gnd_118747770> .
 
+<https://www.wikidata.org/wiki/Q468856> rdfs:seeAlso <https://pta.bbaw.de/person/Archippus_Col.4.17> .
+
 <https://www.wikidata.org/wiki/Q4695144> rdfs:seeAlso <https://pta.bbaw.de/person/Ahitub_1Sa.14.3> .
 
 <https://www.wikidata.org/wiki/Q4748020> rdfs:seeAlso <https://pta.bbaw.de/person/Amoz_2Ki.19.2> .
@@ -311,6 +337,8 @@
 
 <https://www.wikidata.org/wiki/Q574641> rdfs:seeAlso <https://pta.bbaw.de/person/Balaam_Num.22.5> .
 
+<https://www.wikidata.org/wiki/Q599907> rdfs:seeAlso <https://pta.bbaw.de/person/Baruch_Jer.32.12> .
+
 <https://www.wikidata.org/wiki/Q603176> rdfs:seeAlso <https://pta.bbaw.de/person/Darius_Dan.5.31> .
 
 <https://www.wikidata.org/wiki/Q604259> rdfs:seeAlso <https://pta.bbaw.de/person/Zechariah_2Ch.24.20>,
@@ -319,6 +347,8 @@
 <https://www.wikidata.org/wiki/Q614575> rdfs:seeAlso <https://pta.bbaw.de/person/Zebulun_Gen.30.20> .
 
 <https://www.wikidata.org/wiki/Q6176509> rdfs:seeAlso <https://pta.bbaw.de/person/Jozadak_Ezr.10.18> .
+
+<https://www.wikidata.org/wiki/Q625661> rdfs:seeAlso <https://pta.bbaw.de/person/Reuben_Gen.29.32> .
 
 <https://www.wikidata.org/wiki/Q62788> rdfs:seeAlso <https://pta.bbaw.de/person/Jethro_Exo.2.18> .
 
@@ -353,6 +383,8 @@
 
 <https://www.wikidata.org/wiki/Q79876> rdfs:seeAlso <https://pta.bbaw.de/person/gnd_118932640> .
 
+<https://www.wikidata.org/wiki/Q807236> rdfs:seeAlso <https://pta.bbaw.de/person/Barak_Jdg.4.6> .
+
 <https://www.wikidata.org/wiki/Q81018> rdfs:seeAlso <https://pta.bbaw.de/person/Judas_Act.5.37>,
         <https://pta.bbaw.de/person/Judas_Mat.10.4> .
 
@@ -383,9 +415,13 @@
 
 <https://www.wikidata.org/wiki/Q922184> rdfs:seeAlso <https://pta.bbaw.de/person/Caleb_Num.13.6> .
 
+<https://www.wikidata.org/wiki/Q953527> rdfs:seeAlso <https://pta.bbaw.de/person/Epaphras_Col.1.7> .
+
 <https://www.wikidata.org/wiki/Q954820> rdfs:seeAlso <https://pta.bbaw.de/person/Jael_Jdg.4.17> .
 
 <https://www.wikidata.org/wiki/Q9560907> rdfs:seeAlso <https://pta.bbaw.de/person/Abiram_Num.16.1> .
 
 <https://www.wikidata.org/wiki/Q976765> rdfs:seeAlso <https://pta.bbaw.de/person/Sisera_Jdg.4.2> .
+
+<https://www.wikidata.org/wiki/Q977435> rdfs:seeAlso <https://pta.bbaw.de/person/Gehazi_2Ki.4.12> .
 

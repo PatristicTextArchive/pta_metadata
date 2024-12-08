@@ -1,9 +1,17 @@
 [
   {
-    "@id": "http://d-nb.info/gnd/118648888",
+    "@id": "http://d-nb.info/gnd/118523139",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0005"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118590235",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007"
       }
     ]
   },
@@ -24,6 +32,14 @@
     ]
   },
   {
+    "@id": "http://d-nb.info/gnd/118531425",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003"
+      }
+    ]
+  },
+  {
     "@id": "http://d-nb.info/gnd/118756796",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -32,10 +48,26 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/118590235",
+    "@id": "http://d-nb.info/gnd/118796771",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4006406-2",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta9999"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4213028-1",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0099"
       }
     ]
   },
@@ -44,14 +76,6 @@
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0023"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118531425",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003"
       }
     ]
   },
@@ -72,26 +96,10 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4006406-2",
+    "@id": "http://d-nb.info/gnd/118648888",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta9999"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118523139",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0005"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118796771",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013"
       }
     ]
   }

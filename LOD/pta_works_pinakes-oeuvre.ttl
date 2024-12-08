@@ -103,6 +103,8 @@
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/655> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010> .
 
+<https://pinakes.irht.cnrs.fr/notices/oeuvre/6601> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta072> .
+
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/6709> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002> .
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/6823> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001> .

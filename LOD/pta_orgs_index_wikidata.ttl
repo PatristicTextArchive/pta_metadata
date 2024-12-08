@@ -24,13 +24,19 @@
 
 <https://www.wikidata.org/wiki/Q134313> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00045> .
 
+<https://www.wikidata.org/wiki/Q138681> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00055> .
+
 <https://www.wikidata.org/wiki/Q163329> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00020> .
 
 <https://www.wikidata.org/wiki/Q1651392> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00015> .
 
 <https://www.wikidata.org/wiki/Q16707860> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00016> .
 
+<https://www.wikidata.org/wiki/Q1710868> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00058> .
+
 <https://www.wikidata.org/wiki/Q182651> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00013> .
+
+<https://www.wikidata.org/wiki/Q185569> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00057> .
 
 <https://www.wikidata.org/wiki/Q193776> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00036> .
 
@@ -48,6 +54,8 @@
 
 <https://www.wikidata.org/wiki/Q29334> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00039> .
 
+<https://www.wikidata.org/wiki/Q383258> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00059> .
+
 <https://www.wikidata.org/wiki/Q398180> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00004> .
 
 <https://www.wikidata.org/wiki/Q400019> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00047> .
@@ -61,6 +69,8 @@
 <https://www.wikidata.org/wiki/Q5518599> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00026> .
 
 <https://www.wikidata.org/wiki/Q745718> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00033> .
+
+<https://www.wikidata.org/wiki/Q754941> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00054> .
 
 <https://www.wikidata.org/wiki/Q797930> rdfs:seeAlso <https://pta.bbaw.de/group/PTA_O00029> .
 

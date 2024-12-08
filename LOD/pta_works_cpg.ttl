@@ -124,6 +124,8 @@
 
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=4216> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta032> .
 
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=4219> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta072> .
+
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=4220> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033> .
 
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=4230> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta034> .
@@ -207,4 +209,6 @@
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=6222> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta003> .
 
 <https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=6554> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001> .
+
+<https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&number=C162> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0099.pta074> .
 
