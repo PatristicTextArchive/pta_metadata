@@ -2765,25 +2765,6 @@
         ]
     },
     {
-        "id": "PTAMS00072",
-        "status": "draft",
-        "diktyon": "16794",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 86. 08",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "86. 08",
-        "origDate": "s. 15",
-        "origDate_notbefore": "1401-01-01",
-        "origDate_notafter": "1500-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.86.8",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta004",
-            "urn:cts:pta:pta0001.pta006"
-        ]
-    },
-    {
         "id": "PTAMS00581",
         "status": "draft",
         "diktyon": "49706",
@@ -3017,24 +2998,6 @@
         "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00108687/manifest",
         "contents": [
             "urn:cts:pta:pta0001.pta001"
-        ]
-    },
-    {
-        "id": "PTAMS00071",
-        "status": "draft",
-        "diktyon": "16163",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.09",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "11.09",
-        "origDate": "a. 1020–1021",
-        "origDate_notbefore": "1020-01-01",
-        "origDate_notafter": "1021-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.9",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta002"
         ]
     },
     {
@@ -3387,24 +3350,6 @@
         "iiif_manifest": "",
         "contents": [
             "urn:cts:pta:pta0001.pta046"
-        ]
-    },
-    {
-        "id": "PTAMS00069",
-        "status": "draft",
-        "diktyon": "16068",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana, Plut. 8. 10",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana",
-        "collection": "Plut.",
-        "idno": "8. 10",
-        "origDate": "s. 11",
-        "origDate_notbefore": "1001-01-01",
-        "origDate_notafter": "1100-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.8.10",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta025"
         ]
     },
     {
@@ -5094,24 +5039,6 @@
         ]
     },
     {
-        "id": "PTAMS00591",
-        "status": "draft",
-        "diktyon": "15918",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 04. 02",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "04.02",
-        "origDate": "s. 11",
-        "origDate_notbefore": "1001-01-01",
-        "origDate_notafter": "1100-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.4.2",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0021.pta009"
-        ]
-    },
-    {
         "id": "PTAMS00494",
         "status": "draft",
         "diktyon": "68549",
@@ -6380,24 +6307,6 @@
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b11004867x/manifest.json",
         "contents": [
             "urn:cts:pta:pta0001.pta010"
-        ]
-    },
-    {
-        "id": "PTAMS00585",
-        "status": "draft",
-        "diktyon": "15962",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. V 14",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "V 14",
-        "origDate": "s. 12",
-        "origDate_notbefore": "1101-01-01",
-        "origDate_notafter": "1200-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.5.14",
-        "iiif_manifest": "",
-        "contents": [
-            "cpg:C21"
         ]
     },
     {
@@ -7861,24 +7770,6 @@
         ]
     },
     {
-        "id": "PTAMS00068",
-        "status": "draft",
-        "diktyon": "16049",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 07. 26",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "07. 26",
-        "origDate": "s. 11",
-        "origDate_notbefore": "1001-01-01",
-        "origDate_notafter": "1100-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.7.26",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta015"
-        ]
-    },
-    {
         "id": "PTAMS00586",
         "status": "draft",
         "diktyon": "67385",
@@ -7998,29 +7889,6 @@
             "urn:cts:pta:pta0001.pta001",
             "urn:cts:pta:pta0001.pta016",
             "urn:cts:pta:pta0001.pta010"
-        ]
-    },
-    {
-        "id": "PTAMS00547",
-        "status": "draft",
-        "diktyon": "16157",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.3",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "11.3",
-        "origDate": "s. 15",
-        "origDate_notbefore": "1401-01-01",
-        "origDate_notafter": "1500-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.11.3",
-        "iiif_manifest": "",
-        "contents": [
-            "cpg:6206",
-            "urn:cts:pta:pta9999.pta060",
-            "urn:cts:pta:pta0004.pta001",
-            "urn:cts:pta:pta9999.pta062",
-            "cpg:3778",
-            "cpg:6210"
         ]
     },
     {
@@ -8453,26 +8321,6 @@
             "urn:cts:pta:pta0001.pta060",
             "urn:cts:pta:pta0001.pta061",
             "urn:cts:pta:pta0001.pta062"
-        ]
-    },
-    {
-        "id": "PTAMS00070",
-        "status": "draft",
-        "diktyon": "16083",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 08. 25",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "08. 25",
-        "origDate": "s. 11",
-        "origDate_notbefore": "1001-01-01",
-        "origDate_notafter": "1100-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.8.25",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta040",
-            "urn:cts:pta:pta0001.pta018",
-            "urn:cts:pta:pta0001.pta016"
         ]
     },
     {
@@ -11702,24 +11550,6 @@
         ]
     },
     {
-        "id": "PTAMS00067",
-        "status": "draft",
-        "diktyon": "15999",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 06. 12",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "06. 12",
-        "origDate": "s. 14",
-        "origDate_notbefore": "1301-01-01",
-        "origDate_notafter": "1400-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.6.12",
-        "iiif_manifest": "",
-        "contents": [
-            "urn:cts:pta:pta0001.pta004"
-        ]
-    },
-    {
         "id": "PTAMS00371",
         "status": "draft",
         "diktyon": "51123",
@@ -11815,41 +11645,6 @@
             "urn:cts:pta:pta0001.pta002",
             "urn:cts:pta:pta0001.pta021",
             "urn:cts:pta:pta0001.pta032"
-        ]
-    },
-    {
-        "id": "PTAMS00566",
-        "status": "draft",
-        "diktyon": "15928",
-        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 04. 12",
-        "settlement": "Firenze",
-        "repository": "Biblioteca Medicea Laurenziana (BML)",
-        "collection": "Plut.",
-        "idno": "04. 12",
-        "origDate": "s. 15",
-        "origDate_notbefore": "1401-01-01",
-        "origDate_notafter": "1500-12-31",
-        "images": "http://mss.bmlonline.it/Catalogo.aspx?Shelfmark=Plut.4.12",
-        "iiif_manifest": "",
-        "contents": [
-            "cpg:2295",
-            "cpg:2804",
-            "",
-            "",
-            "",
-            "",
-            "cpg:6823",
-            "cpg:2900",
-            "cpg:2900",
-            "",
-            "",
-            "cpg:8049",
-            "cpg:8048",
-            "cpg:2886",
-            "cpg:2926",
-            "cpg:2094",
-            "cpg:2241",
-            ""
         ]
     },
     {
@@ -12736,6 +12531,211 @@
         "iiif_manifest": "",
         "contents": [
             "urn:cts:pta:pta0001.pta002"
+        ]
+    },
+    {
+        "id": "PTAMS00067",
+        "status": "draft",
+        "diktyon": "15999",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 6.12",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "6.12",
+        "origDate": "s. 14",
+        "origDate_notbefore": "1301-01-01",
+        "origDate_notafter": "1400-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/305717",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/305717/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0001.pta004"
+        ]
+    },
+    {
+        "id": "PTAMS00068",
+        "status": "draft",
+        "diktyon": "16049",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 7.26",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "7.26",
+        "origDate": "s. 11",
+        "origDate_notbefore": "1001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/252442",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/252442/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0001.pta015"
+        ]
+    },
+    {
+        "id": "PTAMS00069",
+        "status": "draft",
+        "diktyon": "16068",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana, Plut. 8.10",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana",
+        "collection": "Plut.",
+        "idno": "8.10",
+        "origDate": "s. 11",
+        "origDate_notbefore": "1001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/59754",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/59754/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0001.pta025"
+        ]
+    },
+    {
+        "id": "PTAMS00070",
+        "status": "draft",
+        "diktyon": "16083",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 8.25",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "8.25",
+        "origDate": "s. 11",
+        "origDate_notbefore": "1001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/259329",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/259329/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0001.pta040",
+            "urn:cts:pta:pta0001.pta018",
+            "urn:cts:pta:pta0001.pta016"
+        ]
+    },
+    {
+        "id": "PTAMS00071",
+        "status": "draft",
+        "diktyon": "16163",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.9",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "11.9",
+        "origDate": "a. 1020–1021",
+        "origDate_notbefore": "1020-01-01",
+        "origDate_notafter": "1021-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1446687",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/1446687/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0001.pta002"
+        ]
+    },
+    {
+        "id": "PTAMS00072",
+        "status": "draft",
+        "diktyon": "16794",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 86.8",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "86.8",
+        "origDate": "s. 15",
+        "origDate_notbefore": "1401-01-01",
+        "origDate_notafter": "1500-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1097667",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/1097667/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0001.pta004",
+            "urn:cts:pta:pta0001.pta006"
+        ]
+    },
+    {
+        "id": "PTAMS00547",
+        "status": "draft",
+        "diktyon": "16157",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 11.3",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "11.3",
+        "origDate": "s. 15",
+        "origDate_notbefore": "1401-01-01",
+        "origDate_notafter": "1500-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/185732",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/185732/manifest.json",
+        "contents": [
+            "cpg:6206",
+            "urn:cts:pta:pta9999.pta060",
+            "urn:cts:pta:pta0004.pta001",
+            "urn:cts:pta:pta9999.pta062",
+            "cpg:3778",
+            "cpg:6210"
+        ]
+    },
+    {
+        "id": "PTAMS00566",
+        "status": "draft",
+        "diktyon": "15928",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 4.12",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "4.12",
+        "origDate": "s. 15",
+        "origDate_notbefore": "1401-01-01",
+        "origDate_notafter": "1500-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/409789",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/409789/manifest.json",
+        "contents": [
+            "cpg:2295",
+            "cpg:2804",
+            "",
+            "",
+            "",
+            "",
+            "cpg:6823",
+            "cpg:2900",
+            "cpg:2900",
+            "",
+            "",
+            "cpg:8049",
+            "cpg:8048",
+            "cpg:2886",
+            "cpg:2926",
+            "cpg:2094",
+            "cpg:2241",
+            ""
+        ]
+    },
+    {
+        "id": "PTAMS00585",
+        "status": "draft",
+        "diktyon": "15962",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 5.14",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "5.14",
+        "origDate": "s. 12",
+        "origDate_notbefore": "1101-01-01",
+        "origDate_notafter": "1200-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/350056",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/350056/manifest.json",
+        "contents": [
+            "cpg:C21"
+        ]
+    },
+    {
+        "id": "PTAMS00591",
+        "status": "draft",
+        "diktyon": "15918",
+        "manuscript": "Firenze, Biblioteca Medicea Laurenziana (BML), Plut. 4.2",
+        "settlement": "Firenze",
+        "repository": "Biblioteca Medicea Laurenziana (BML)",
+        "collection": "Plut.",
+        "idno": "4.2",
+        "origDate": "s. 11",
+        "origDate_notbefore": "1001-01-01",
+        "origDate_notafter": "1100-12-31",
+        "images": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/375446",
+        "iiif_manifest": "https://tecabml.contentdm.oclc.org/iiif/info/plutei/375446/manifest.json",
+        "contents": [
+            "urn:cts:pta:pta0021.pta009"
         ]
     },
     {
