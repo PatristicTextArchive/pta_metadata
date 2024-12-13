@@ -1,57 +1,9 @@
 [
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6709",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7573",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8129",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta037"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8697",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6823",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8309",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta003"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7633",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta018"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4127",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003"
       }
     ]
   },
@@ -64,10 +16,178 @@
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6377/",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/12440",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6825",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta003"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7960",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta031"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8078",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2395",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6823",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8794",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/13035",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta015"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3430",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta002"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7704",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0040.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3823",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0029.pta002"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7575",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14911",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8455",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5061",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta016"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8687",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta056"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8697",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8012",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta042"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14335",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta018"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8380",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2208",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta034"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8046",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta041"
       }
     ]
   },
@@ -80,7 +200,167 @@
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3374/",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2351",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7963",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta017"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/missing",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2232",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1491",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0037.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6601",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta072"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11447",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta017"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7710",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta019"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8310",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta002"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7957",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta026"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7959",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta009"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3929",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5129",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11220",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11978",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1956",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2162",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5059",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8456",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2438",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3374",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008"
@@ -88,10 +368,133 @@
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8078",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3921",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta004"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1504",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta017"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7964",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta038"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1514",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6709",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11416",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0038.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2543",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta009"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2672",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta022"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7168",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta032"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14959",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0041.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1552",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2164",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4970",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta013"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1759",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta001"
+      },
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta002"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6836",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0012.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4127",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049"
       }
     ]
   },
@@ -112,42 +515,114 @@
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5061",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1794",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta016"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6601",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2163",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta072"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta043"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2672",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8607",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta022"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta027"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/missing",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2683",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta001"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5129",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3935",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta012"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14910",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8206",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta015"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7893",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta013"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11169",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1835",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta007"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4001",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta004"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7884",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta016"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8395",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021"
+      }
+    ]
+  },
+  {
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4823",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051"
       }
     ]
   },
@@ -175,370 +650,10 @@
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7704",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14909",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0040.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6825",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta003"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3846",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta024"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8395",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1504",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta017"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2232",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3921",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta004"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/12440",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2543",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta009"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1956",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2683",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3935",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta025"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8206",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta015"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7091",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1514",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2438",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11220",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7957",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta026"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7167",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta008"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8310",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta002"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14911",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14959",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0041.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5717",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7964",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta038"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7963",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta017"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8455",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11416",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0038.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7961",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2351",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3823",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0029.pta002"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/13035",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta015"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3929",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1794",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7884",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta016"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11978",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14912",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4823",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8794",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5059",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta011"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7893",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta013"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8012",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta042"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8046",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta041"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14335",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta018"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3430",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta002"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/655",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4001",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta004"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045"
       }
     ]
   },
@@ -551,205 +666,90 @@
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2164",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8129",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta037"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2395",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3846",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta024"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7168",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6377",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta032"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7959",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8309",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta009"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta003"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11169",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7633",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta018"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8380",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7167",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta008"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14910",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14912",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/14909",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/5717",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8687",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/655",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta056"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8456",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7961",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta006"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014"
       }
     ]
   },
   {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1835",
+    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7091",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta007"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1491",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0037.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7575",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6836",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0012.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/4970",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta013"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7960",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta031"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/8607",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta027"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7573",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2163",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta043"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2208",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta034"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2162",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1552",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11447",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta017"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7710",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta019"
-      }
-    ]
-  },
-  {
-    "@id": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1759",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta001"
-      },
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta002"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030"
       }
     ]
   }

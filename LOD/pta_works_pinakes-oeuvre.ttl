@@ -67,7 +67,7 @@
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/2865> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta052> .
 
-<https://pinakes.irht.cnrs.fr/notices/oeuvre/3374/> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008> .
+<https://pinakes.irht.cnrs.fr/notices/oeuvre/3374> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008> .
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/3430> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta002> .
 
@@ -99,7 +99,7 @@
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/5717> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0013.pta003> .
 
-<https://pinakes.irht.cnrs.fr/notices/oeuvre/6377/> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007> .
+<https://pinakes.irht.cnrs.fr/notices/oeuvre/6377> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007> .
 
 <https://pinakes.irht.cnrs.fr/notices/oeuvre/655> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010> .
 

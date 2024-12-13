@@ -1,137 +1,17 @@
 [
   {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=226f",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030"
+      }
+    ]
+  },
+  {
     "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939f",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
         "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta047"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2475e",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1189",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939e",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=420q",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=421",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=428y",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=451h",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=424u",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=393g",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=414p-414s",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=415t",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1844c",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=635c",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=881u",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939d",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1910k",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020"
       }
     ]
   },
@@ -144,46 +24,6 @@
     ]
   },
   {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=488e",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=488f",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2345",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1928",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028"
-      }
-    ]
-  },
-  {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=226f",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta030"
-      }
-    ]
-  },
-  {
     "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2351",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -192,10 +32,26 @@
     ]
   },
   {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=809b",
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=881u",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0039.pta001"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=415m",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=414p-414s",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054"
       }
     ]
   },
@@ -216,10 +72,154 @@
     ]
   },
   {
-    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=415m",
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939d",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055"
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta045"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2475e",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta040"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1928",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=393g",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta048"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=428y",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta012"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=2345",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta014"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=424u",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta023"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1844c",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta003"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=488e",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta007"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=421",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta029"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=451h",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta011"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=635c",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=809b",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=415t",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta021"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=420q",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta010"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1189",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta005"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=1910k",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta020"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=939e",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta046"
+      }
+    ]
+  },
+  {
+    "@id": "https://clavis.brepols.net/clacla/OA/link.aspx?clavis=BHG&number=488f",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta049"
       }
     ]
   }

@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2024-12-08T21:56:06.257257+00:00
+#TIMESTAMP: 2024-12-13T12:16:36.389531+00:00
 #UPDATE: monthly
 655|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta010
 2395|https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta003
@@ -93,8 +93,8 @@ missing|https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta033
 1956|https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001
 6709|https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002
 1552|https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001
-6377/|https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007
-3374/|https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008
+6377|https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007
+3374|https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta008
 6836|https://pta.bbaw.de/text/urn:cts:pta:pta0012.pta001
 3823|https://pta.bbaw.de/text/urn:cts:pta:pta0029.pta002
 12440|https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016

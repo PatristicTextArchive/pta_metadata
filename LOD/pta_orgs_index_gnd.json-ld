@@ -16,22 +16,6 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4072478-5",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00049"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4036915-8",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00046"
-      }
-    ]
-  },
-  {
     "@id": "http://d-nb.info/gnd/4142791-9",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -40,106 +24,26 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4511230-7",
+    "@id": "http://d-nb.info/gnd/4278477-3",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00057"
+        "@id": "https://pta.bbaw.de/group/PTA_O00048"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4331728-5",
+    "@id": "http://d-nb.info/gnd/4055278-0",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00028"
+        "@id": "https://pta.bbaw.de/group/PTA_O00032"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4120416-5",
+    "@id": "http://d-nb.info/gnd/4170497-6",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00042"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4002455-6",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00010"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4223571-6",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00020"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4124605-6",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00045"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4045777-1",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00036"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4355044-7",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00033"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4084746-9",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00014"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4010071-6",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00018"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4115909-3",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00022"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/118576615",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00047"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4032379-1",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00001"
+        "@id": "https://pta.bbaw.de/group/PTA_O00055"
       }
     ]
   },
@@ -160,66 +64,42 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4300988-8",
+    "@id": "http://d-nb.info/gnd/4331728-5",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00054"
+        "@id": "https://pta.bbaw.de/group/PTA_O00028"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4106468-9",
+    "@id": "http://d-nb.info/gnd/4072478-5",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00044"
+        "@id": "https://pta.bbaw.de/group/PTA_O00049"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4019107-2",
+    "@id": "http://d-nb.info/gnd/4122633-1",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00021"
+        "@id": "https://pta.bbaw.de/group/PTA_O00015"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4278477-3",
+    "@id": "http://d-nb.info/gnd/4120416-5",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00048"
+        "@id": "https://pta.bbaw.de/group/PTA_O00042"
       }
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4170497-6",
+    "@id": "http://d-nb.info/gnd/4010071-6",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00055"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4076778-4",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00041"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4055278-0",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00032"
-      }
-    ]
-  },
-  {
-    "@id": "http://d-nb.info/gnd/4174130-4",
-    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
-      {
-        "@id": "https://pta.bbaw.de/group/PTA_O00024"
+        "@id": "https://pta.bbaw.de/group/PTA_O00018"
       }
     ]
   },
@@ -232,6 +112,102 @@
     ]
   },
   {
+    "@id": "http://d-nb.info/gnd/4115909-3",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00022"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4511230-7",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00057"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4300988-8",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00054"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4076778-4",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00041"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4355044-7",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00033"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4036915-8",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00046"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/118576615",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00047"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4223571-6",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00020"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4019107-2",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00021"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4106468-9",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00044"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4032379-1",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00001"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4174130-4",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00024"
+      }
+    ]
+  },
+  {
     "@id": "http://d-nb.info/gnd/4084762-7",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
@@ -240,10 +216,34 @@
     ]
   },
   {
-    "@id": "http://d-nb.info/gnd/4122633-1",
+    "@id": "http://d-nb.info/gnd/4002455-6",
     "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
       {
-        "@id": "https://pta.bbaw.de/group/PTA_O00015"
+        "@id": "https://pta.bbaw.de/group/PTA_O00010"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4045777-1",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00036"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4084746-9",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00014"
+      }
+    ]
+  },
+  {
+    "@id": "http://d-nb.info/gnd/4124605-6",
+    "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+      {
+        "@id": "https://pta.bbaw.de/group/PTA_O00045"
       }
     ]
   }

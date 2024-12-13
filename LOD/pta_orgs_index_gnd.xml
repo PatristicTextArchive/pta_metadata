@@ -3,68 +3,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4084746-9">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00014"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4511230-7">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00057"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4019107-2">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00021"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4355044-7">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00033"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4300988-8">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00054"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4211510-3">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00037"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4002455-6">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00010"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4032379-1">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00001"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4115909-3">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00022"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4072478-5">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00049"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4124605-6">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00045"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4055278-0">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00032"/>
-  </rdf:Description>
   <rdf:Description rdf:about="http://d-nb.info/gnd/4010071-6">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00018"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4084762-7">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00027"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4278477-3">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00048"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4331728-5">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00028"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4076778-4">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00041"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4051468-7">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00013"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4366574-3">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00058"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4122633-1">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00015"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4223571-6">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00020"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://d-nb.info/gnd/4045777-1">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00036"/>
@@ -72,28 +12,88 @@
   <rdf:Description rdf:about="http://d-nb.info/gnd/118576615">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00047"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4036915-8">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00046"/>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4054582-9">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00039"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4084762-7">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00027"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4072478-5">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00049"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://d-nb.info/gnd/4174130-4">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00024"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4368744-1">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00019"/>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4511230-7">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4124605-6">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00045"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4122633-1">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4223571-6">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4055278-0">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00032"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4076778-4">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00041"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4300988-8">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00054"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4278477-3">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00048"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4331728-5">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00028"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4036915-8">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00046"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4084746-9">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00014"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://d-nb.info/gnd/4120416-5">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00042"/>
   </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4032379-1">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4002455-6">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00010"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4115909-3">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00022"/>
+  </rdf:Description>
   <rdf:Description rdf:about="http://d-nb.info/gnd/4142791-9">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00023"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4054582-9">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00039"/>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4366574-3">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00058"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4106468-9">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00044"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4355044-7">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00033"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4368744-1">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00019"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://d-nb.info/gnd/4170497-6">
     <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00055"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://d-nb.info/gnd/4106468-9">
-    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00044"/>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4211510-3">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00037"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4019107-2">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00021"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://d-nb.info/gnd/4051468-7">
+    <rdfs:seeAlso rdf:resource="https://pta.bbaw.de/group/PTA_O00013"/>
   </rdf:Description>
 </rdf:RDF>
