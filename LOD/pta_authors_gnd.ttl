@@ -4,6 +4,8 @@
 
 <http://d-nb.info/gnd/105549460X> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0023> .
 
+<http://d-nb.info/gnd/1089817541> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0200> .
+
 <http://d-nb.info/gnd/118504843> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0022> .
 
 <http://d-nb.info/gnd/118523139> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0005> .

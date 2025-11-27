@@ -622,6 +622,58 @@
         "other_ids": []
     },
     {
+        "ID": "https://pleiades.stoa.org/places/1001135",
+        "canonical": "Pontike",
+        "description": "The Diocese of Pontus was a diocese of the later Roman Empire. It was established in 314. Justinian would abolish the diocese in 535/6, only to re-establish it in 548. This diocese would continue to function until it was replaced by the themata of Armeniakon and Opsikion in the seventh century.",
+        "coordinates": [
+            32.5,
+            42.5
+        ],
+        "bbox": [
+            30.0,
+            40.0,
+            35.0,
+            45.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l125"
+        ],
+        "orig_name": [
+            "Pontus"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q21556446"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001887",
+        "canonical": "Europe",
+        "description": "An ancient place, cited: BAtlas 102 E3 no. 1 (Europe)",
+        "coordinates": [
+            27.5,
+            42.5
+        ],
+        "bbox": [
+            25.0,
+            40.0,
+            30.0,
+            45.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l44"
+        ],
+        "orig_name": [
+            "Europe"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q46"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/1001896",
         "canonical": "Hellas",
         "description": "An ancient place, cited: BAtlas 102 D4 no. 10 (Hellas)",
@@ -658,6 +710,102 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/1001909",
+        "canonical": "Lydia (Byzantine province)",
+        "description": "The Byzantine province of Lydia, succeeding a late Roman province of the same name.",
+        "coordinates": [
+            27.5,
+            37.5
+        ],
+        "bbox": [
+            25.0,
+            35.0,
+            30.0,
+            40.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l113",
+            "pta0200.pta001.pta-com1:l117",
+            "pta0200.pta001.pta-com1:l123",
+            "pta0200.pta001.pta-eng1:l20"
+        ],
+        "orig_name": [
+            "Lydia",
+            "Lydia",
+            "Lydia",
+            "Lydia"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001916",
+        "canonical": "Karia (late Roman province)",
+        "description": "Karia was a geographic region of the Roman Empire whose territory belonged to the province of Asia. As a part of the Diocletianic reforms, Karia was subdivided into smaller units. It again became a separate province as part of the Diocese of Asia.",
+        "coordinates": [
+            27.5,
+            37.5
+        ],
+        "bbox": [
+            25.0,
+            35.0,
+            30.0,
+            40.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l86",
+            "pta0200.pta001.pta-com1:l91",
+            "pta0200.pta001.pta-com1:l98",
+            "pta0200.pta001.pta-com1:l102",
+            "pta0200.pta001.pta-com1:l104",
+            "pta0200.pta001.pta-com1:l111",
+            "pta0200.pta001.pta-com1:l118",
+            "pta0200.pta001.pta-com1:l122",
+            "pta0200.pta001.pta-eng1:l14",
+            "pta0200.pta001.pta-eng1:l16",
+            "pta0200.pta001.pta-eng1:l18",
+            "pta0200.pta001.pta-eng2:l5"
+        ],
+        "orig_name": [
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria",
+            "Caria"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001939",
+        "canonical": "Palaestina I (late Roman province)",
+        "description": "The late Roman province of Palaestina Prima, established during the 4th century, incorporated the region of central Palestine. Its capital was Caesarea.",
+        "coordinates": [
+            34.8910485,
+            31.614254000000003
+        ],
+        "bbox": [
+            34.887973,
+            31.607738,
+            34.894124,
+            32.5018388
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l276",
+            "pta0200.pta001.pta-com1:l280"
+        ],
+        "orig_name": [
+            "Palaestina prima",
+            "Palaestina prima"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/1001940",
         "canonical": "Palaestina II (late Roman province)",
         "description": "The late Roman province of Palaestina Secunda, established during the 4th century, comprised the region of northern Palestine, including Galilee and the southern Golan Plateau. Its capital was Skythopolis. ",
@@ -672,10 +820,36 @@
             35.0
         ],
         "urns": [
-            "pta0003.pta020.pta-grcBibex3:l22"
+            "pta0003.pta020.pta-grcBibex3:l22",
+            "pta0200.pta001.pta-com1:l261",
+            "pta0200.pta001.pta-com1:l281"
         ],
         "orig_name": [
-            "Παλαιστίνης"
+            "Παλαιστίνης",
+            "Palaestina secunda",
+            "Palaestina secunda"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/1001941",
+        "canonical": "Palaestina III (late Roman province)",
+        "description": "The late Roman province of Palaestina Tertia, or Palaestina Salutaris, was founded during the 4th century CE. The province comprised Southern Transjordan and the Negev. Its capital was Petra. ",
+        "coordinates": [
+            32.5,
+            27.5
+        ],
+        "bbox": [
+            30.0,
+            25.0,
+            35.0,
+            30.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l282"
+        ],
+        "orig_name": [
+            "tertia"
         ],
         "other_ids": []
     },
@@ -874,6 +1048,28 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/115782359",
+        "canonical": "Church of Saint Demetrius",
+        "description": "A seventh century AD church dedicated to the patron saint of Thessalonica; the present basilica stands on the site of a precursor with phases beginning in the fourth century AD.",
+        "coordinates": [
+            22.947858,
+            40.638822
+        ],
+        "bbox": [
+            22.947858,
+            40.638822,
+            22.947858,
+            40.638822
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l339"
+        ],
+        "orig_name": [
+            "church of Saint Demetrius"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/1224",
         "canonical": "Pontus Euxinus",
         "description": "The Black Sea.",
@@ -917,13 +1113,55 @@
             "pta0001.pta006.pta-grc1:l7",
             "pta0001.pta042.pta-grc1:l17",
             "pta0022.pta014.pta-grc1:l28",
-            "pta0022.pta015.pta-grc1:l57"
+            "pta0022.pta015.pta-grc1:l57",
+            "pta0200.pta001.pta-com1:l19",
+            "pta0200.pta001.pta-com1:l95",
+            "pta0200.pta001.pta-com1:l116",
+            "pta0200.pta001.pta-com1:l155",
+            "pta0200.pta001.pta-com1:l159",
+            "pta0200.pta001.pta-com1:l178",
+            "pta0200.pta001.pta-com1:l191",
+            "pta0200.pta001.pta-com1:l207",
+            "pta0200.pta001.pta-com1:l264",
+            "pta0200.pta001.pta-com1:l283",
+            "pta0200.pta001.pta-com1:l326",
+            "pta0200.pta001.pta-com1:l407",
+            "pta0200.pta001.pta-com1:l423",
+            "pta0200.pta001.pta-com1:l450",
+            "pta0200.pta001.pta-com1:l454",
+            "pta0200.pta001.pta-com1:l461",
+            "pta0200.pta001.pta-com1:l463",
+            "pta0200.pta001.pta-eng1:l5",
+            "pta0200.pta001.pta-eng1:l38",
+            "pta0200.pta001.pta-eng1:l50",
+            "pta0200.pta001.pta-eng1:l53"
         ],
         "orig_name": [
             "Συρίαν",
             "Συρίαν",
             "Συρίαν",
-            "Συρίας"
+            "Συρίας",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria",
+            "Syria"
         ],
         "other_ids": [
             {
@@ -1206,6 +1444,32 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/216702",
+        "canonical": "Anchialus",
+        "description": "An ancient place, cited: BAtlas 22 E6 Anchialus",
+        "coordinates": [
+            27.641374,
+            42.555937
+        ],
+        "bbox": [
+            27.641374,
+            42.555937,
+            27.641374,
+            42.555937
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l218"
+        ],
+        "orig_name": [
+            "Anchialus"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q111536674"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/226577",
         "canonical": "Danuvius/Istros/Hister (river)",
         "description": "The Danube river.",
@@ -1308,6 +1572,50 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/307220778",
+        "canonical": "Hagia Sophia",
+        "description": "A major paleochristian, then Byzantine, church in Istanbul; subsequently an Islamic mosque, and today a museum.",
+        "coordinates": [
+            28.979938,
+            41.008548
+        ],
+        "bbox": [
+            28.979938,
+            41.008548,
+            28.979938,
+            41.008548
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l27",
+            "pta0200.pta001.pta-com1:l108",
+            "pta0200.pta001.pta-com1:l166",
+            "pta0200.pta001.pta-com1:l184",
+            "pta0200.pta001.pta-com1:l199",
+            "pta0200.pta001.pta-com1:l200",
+            "pta0200.pta001.pta-com1:l228",
+            "pta0200.pta001.pta-com1:l237",
+            "pta0200.pta001.pta-com1:l247",
+            "pta0200.pta001.pta-com1:l480"
+        ],
+        "orig_name": [
+            "Hagia Sophia",
+            "Hagia Sophia",
+            "Hagia Sophia",
+            "HagiaSophia",
+            "HagiaSophia",
+            "HagiaSophia",
+            "Hagia Sophia",
+            "Hagia Sophia",
+            "Hagia Sophia",
+            "Hagia Sophia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q12506"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/334481",
         "canonical": "Aethiopia",
         "description": "Aethiopia is a term used in the Classical sources to refer both to Upper Egypt and the regions south of the Sahara desert. It is employed as early as the time of Homer.",
@@ -1334,6 +1642,28 @@
                 "WIKIDATA": "http://www.wikidata.org/entity/Q410453"
             }
         ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/344182765",
+        "canonical": "New Basilica of Saint Apollinaris",
+        "description": "A basilica in Ravenna, Italy, erected by Theodoric the Great in the first quarter of the sixth century AD.",
+        "coordinates": [
+            12.20480488693061,
+            44.416776502524826
+        ],
+        "bbox": [
+            12.2045131,
+            44.4165701,
+            12.2053442,
+            44.4169392
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l335"
+        ],
+        "orig_name": [
+            "Sant’Apollinare Nuovo"
+        ],
+        "other_ids": []
     },
     {
         "ID": "https://pleiades.stoa.org/places/373869",
@@ -1644,6 +1974,62 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/393480",
+        "canonical": "Ravenna",
+        "description": "A city of northern Adriatic Italy that served as the capital of the Western Roman Empire from A.D. 402 until 476.",
+        "coordinates": [
+            12.196604,
+            44.415718
+        ],
+        "bbox": [
+            12.196604,
+            44.415718,
+            12.196604,
+            44.415718
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l328",
+            "pta0200.pta001.pta-com1:l334"
+        ],
+        "orig_name": [
+            "Ravenna",
+            "Ravenna"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q13364"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/422893",
+        "canonical": "Ciciliano",
+        "description": "An ancient place, cited: BAtlas 43 D2 Ciciliano",
+        "coordinates": [
+            12.939843,
+            41.960711
+        ],
+        "bbox": [
+            12.939843,
+            41.960711,
+            12.939843,
+            41.960711
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l232",
+            "pta0200.pta001.pta-com1:l234",
+            "pta0200.pta001.pta-com1:l250",
+            "pta0200.pta001.pta-eng1:l10"
+        ],
+        "orig_name": [
+            "Cilicia",
+            "Cilicia",
+            "Cilicia",
+            "Cilicia"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/423025",
         "canonical": "Roma",
         "description": "The capital of the Roman Republic and Empire.",
@@ -1683,7 +2069,22 @@
             "pta0022.pta014.pta-grc1:l64",
             "pta0022.pta014.pta-grc1:l66",
             "pta0038.pta001.pta-grc1:l1",
-            "pta0099.pta074.pta-grc1:l1"
+            "pta0099.pta074.pta-grc1:l1",
+            "pta0200.pta001.pta-com1:l2",
+            "pta0200.pta001.pta-com1:l23",
+            "pta0200.pta001.pta-com1:l173",
+            "pta0200.pta001.pta-com1:l189",
+            "pta0200.pta001.pta-com1:l202",
+            "pta0200.pta001.pta-com1:l204",
+            "pta0200.pta001.pta-com1:l338",
+            "pta0200.pta001.pta-com1:l362",
+            "pta0200.pta001.pta-com1:l369",
+            "pta0200.pta001.pta-com1:l410",
+            "pta0200.pta001.pta-com1:l477",
+            "pta0200.pta001.pta-eng1:l33",
+            "pta0200.pta001.pta-eng1:l34",
+            "pta0200.pta001.pta-eng1:l44",
+            "pta0200.pta001.pta-eng1:l46"
         ],
         "orig_name": [
             "Ῥώμη",
@@ -1711,11 +2112,52 @@
             "Ῥώμης",
             "Ῥώμῃ",
             "Ῥώμην",
-            "Ῥώμῃ"
+            "Ῥώμῃ",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome",
+            "Rome"
         ],
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q220"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/423053",
+        "canonical": "S. Petrus",
+        "description": "The Basilica of St. Peter in Vatican City is currently a Renaissance edifice standing on the site of Old St. Peter's Basilica, a church built by Constantine I between AD 319 and 333. The holy site is located on the Mons Vaticanus in connection with the purported site of the burial of the Christian Saint Peter.",
+        "coordinates": [
+            12.453571256996838,
+            41.902304563586085
+        ],
+        "bbox": [
+            12.452402,
+            41.9014559,
+            12.4550245,
+            41.9028673
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l337"
+        ],
+        "orig_name": [
+            "church of SaintPeter"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q12512"
             }
         ]
     },
@@ -1800,6 +2242,28 @@
                 "WIKIDATA": "http://www.wikidata.org/entity/Q243456"
             }
         ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/433737150",
+        "canonical": "Church of the Holy Apostles at Constantinople",
+        "description": "Construction of a church dedicated to the Twelve Apostles at Constantinople began in 330 CE under Constantine the Great, and was completed during the reign of his son Constantius II (331-367). A larger church was established on the same site in 550 by Justinian I. The church was demolished by Mehmed II in 1462, and the Fatih Mosque was constructed on its site.",
+        "coordinates": [
+            28.949722,
+            41.019722
+        ],
+        "bbox": [
+            28.949722,
+            41.019722,
+            28.949722,
+            41.019722
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l481"
+        ],
+        "orig_name": [
+            "Church of theApostles"
+        ],
+        "other_ids": []
     },
     {
         "ID": "https://pleiades.stoa.org/places/462492",
@@ -1910,6 +2374,32 @@
         "other_ids": []
     },
     {
+        "ID": "https://pleiades.stoa.org/places/481900",
+        "canonical": "Lychnidos",
+        "description": "Lychnidos (modern Ohrid, Macedonia) is an ancient city listed as UNESCO World Heritage Site in 1979 and 1980 for both its cultural and natural heritage.",
+        "coordinates": [
+            20.7964495,
+            41.114136
+        ],
+        "bbox": [
+            20.793813,
+            41.113653,
+            20.799086,
+            41.114619
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l430"
+        ],
+        "orig_name": [
+            "Lychnidos"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q1456371"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/491656",
         "canonical": "Macedonia (region)",
         "description": "The region of ancient Macedonia in the Balkan peninsula. The boundaries of the region have shifted significantly over time, and remain controversial.",
@@ -1970,6 +2460,34 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q628768"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/491741",
+        "canonical": "Thessalonica",
+        "description": "A city of northern Greece founded by Cassander of Macedon ca. 315 BC; important center of the Roman and Late Antique worlds.",
+        "coordinates": [
+            22.952885000000002,
+            40.628342
+        ],
+        "bbox": [
+            22.949569,
+            40.626402,
+            22.956201,
+            40.630282
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l223",
+            "pta0200.pta001.pta-com1:l340"
+        ],
+        "orig_name": [
+            "Thessalonica",
+            "Thessaloniki"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q17151"
             }
         ]
     },
@@ -2070,16 +2588,64 @@
         "urns": [
             "pta0022.pta014.pta-grc1:l41",
             "pta0022.pta014.pta-grc1:l44",
-            "pta0022.pta014.pta-grc1:l70"
+            "pta0022.pta014.pta-grc1:l70",
+            "pta0200.pta001.pta-com1:l33",
+            "pta0200.pta001.pta-com1:l45",
+            "pta0200.pta001.pta-com1:l52",
+            "pta0200.pta001.pta-com1:l65",
+            "pta0200.pta001.pta-com1:l70",
+            "pta0200.pta001.pta-com1:l126",
+            "pta0200.pta001.pta-eng1:l7",
+            "pta0200.pta001.pta-eng2:l3"
         ],
         "orig_name": [
             "Θρᾴκῃ",
             "Θρᾴκῃ",
-            "Θρᾴκῃ"
+            "Θρᾴκῃ",
+            "Thrace",
+            "Thrace",
+            "Thrace",
+            "Thrace",
+            "Thrace",
+            "Thrace",
+            "Thrace",
+            "Thrace"
         ],
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q41741"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/511189",
+        "canonical": "Bithynia (region)",
+        "description": "Bithynia was an ancient region, kingdom, and Roman province of northwestern Asia Minor.",
+        "coordinates": [
+            30.72017621181448,
+            40.562857811901765
+        ],
+        "bbox": [
+            29.239908430490914,
+            40.22090871704421,
+            32.14374180409904,
+            41.07831346871674
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l356",
+            "pta0200.pta001.pta-com1:l364",
+            "pta0200.pta001.pta-com1:l367",
+            "pta0200.pta001.pta-eng1:l43"
+        ],
+        "orig_name": [
+            "Bithynia",
+            "Bithynia",
+            "Bithynia",
+            "Bithynia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q373189"
             }
         ]
     },
@@ -2232,6 +2798,266 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/511357",
+        "canonical": "Perinthus/Heraclea",
+        "description": "An ancient place, cited: BAtlas 52 B3 Perinthus/Heraclea",
+        "coordinates": [
+            27.952973,
+            40.971013
+        ],
+        "bbox": [
+            27.952973,
+            40.971013,
+            27.952973,
+            40.971013
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l32",
+            "pta0200.pta001.pta-com1:l42",
+            "pta0200.pta001.pta-com1:l47",
+            "pta0200.pta001.pta-com1:l50",
+            "pta0200.pta001.pta-com1:l53",
+            "pta0200.pta001.pta-com1:l76",
+            "pta0200.pta001.pta-eng1:l6",
+            "pta0200.pta001.pta-eng2:l2"
+        ],
+        "orig_name": [
+            "Heraclea",
+            "Heraclea",
+            "Heraclea",
+            "Heraclea",
+            "Heraclea",
+            "Heraclea",
+            "Heraclea",
+            "Heraclea"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q11815679"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/511381",
+        "canonical": "Propontis",
+        "description": "The Sea of Marmara.",
+        "coordinates": [
+            28.2499999,
+            40.6666672
+        ],
+        "bbox": [
+            28.2499999,
+            40.6666672,
+            28.2499999,
+            40.6666672
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l129",
+            "pta0200.pta001.pta-com1:l133",
+            "pta0200.pta001.pta-com1:l212",
+            "pta0200.pta001.pta-com1:l217",
+            "pta0200.pta001.pta-com1:l359"
+        ],
+        "orig_name": [
+            "Propontis",
+            "Sea ofMarmara",
+            "Propontis",
+            "Propontis",
+            "Propontis"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q35367"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/511390",
+        "canonical": "Pytheion/Pythia Therma",
+        "description": "An ancient place, cited: BAtlas 52 E3 Pytheion/Pythia Therma",
+        "coordinates": [
+            29.223869,
+            40.603880000000004
+        ],
+        "bbox": [
+            29.222235,
+            40.603752,
+            29.225503,
+            40.604008
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l128",
+            "pta0200.pta001.pta-com1:l211",
+            "pta0200.pta001.pta-com1:l216",
+            "pta0200.pta001.pta-com1:l358"
+        ],
+        "orig_name": [
+            "Pythia",
+            "Pythia",
+            "Pythia",
+            "Pythia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q65044604"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/511397",
+        "canonical": "Rhegion",
+        "description": "An ancient place, cited: BAtlas 52 D3 Rhegion",
+        "coordinates": [
+            28.77522,
+            41.008349
+        ],
+        "bbox": [
+            28.77522,
+            41.008349,
+            28.77522,
+            41.008349
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l11"
+        ],
+        "orig_name": [
+            "Rhegion"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/520960",
+        "canonical": "[Antigoneia] (island)",
+        "description": "[Antigoneia] Ins. (Burgazada)",
+        "coordinates": [
+            29.062491811094706,
+            40.88044492327948
+        ],
+        "bbox": [
+            29.0522687,
+            40.8738648,
+            29.0724735,
+            40.8867464
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l135"
+        ],
+        "orig_name": [
+            "Antigone"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/520977",
+        "canonical": "Bosphorus",
+        "description": "A strait that forms part of the boundary between Europe and Asia.",
+        "coordinates": [
+            29.062150411489657,
+            41.114862975362485
+        ],
+        "bbox": [
+            28.9744811,
+            40.9910755,
+            29.152336,
+            41.234073
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l164",
+            "pta0200.pta001.pta-com1:l214"
+        ],
+        "orig_name": [
+            "Bosphorus",
+            "Bosphorus"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q35958"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/520985",
+        "canonical": "Byzantium",
+        "description": "An ancient Greek settlement at the southern end of the Bosphorus where modern-day Istanbul, Turkey now stands. It flourished and grew throughout the Greek and Roman periods. The city was renamed Constantinopolis (q.v.) and much expanded by the fourth-century emperor, Constantine and his successors.",
+        "coordinates": [
+            28.973881499999997,
+            41.005902
+        ],
+        "bbox": [
+            28.970647,
+            41.002009,
+            28.977116,
+            41.009795
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l46"
+        ],
+        "orig_name": [
+            "Byzantium"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q23725"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/520988",
+        "canonical": "Chalcedon",
+        "description": "Chalcedon was an ancient maritime city of Bithynia.",
+        "coordinates": [
+            29.025789,
+            40.983393
+        ],
+        "bbox": [
+            29.025789,
+            40.983393,
+            29.025789,
+            40.983393
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l215",
+            "pta0200.pta001.pta-com1:l219",
+            "pta0200.pta001.pta-com1:l412",
+            "pta0200.pta001.pta-eng1:l12",
+            "pta0200.pta001.pta-eng1:l24",
+            "pta0200.pta001.pta-eng1:l25",
+            "pta0200.pta001.pta-eng1:l27",
+            "pta0200.pta001.pta-eng1:l28",
+            "pta0200.pta001.pta-eng1:l29",
+            "pta0200.pta001.pta-eng1:l30",
+            "pta0200.pta001.pta-eng1:l31",
+            "pta0200.pta001.pta-eng1:l32",
+            "pta0200.pta001.pta-eng1:l35",
+            "pta0200.pta001.pta-eng1:l56",
+            "pta0200.pta001.pta-eng1:l60",
+            "pta0200.pta001.pta-eng1:l68"
+        ],
+        "orig_name": [
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon",
+            "Chalcedon"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q337381"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/520998",
         "canonical": "Constantinopolis",
         "description": "Capital city of the Eastern Roman Empire, the Latin, and the Ottoman Empires founded by Constantine I in AD 330.",
@@ -2251,7 +3077,141 @@
             "pta0001.pta056.pta-grc1:l1",
             "pta0001.pta056.pta-grc2:l1",
             "pta0002.pta161.pta-grc1:l1",
-            "pta0022.pta014.pta-grc1:l71"
+            "pta0022.pta014.pta-grc1:l71",
+            "pta0200.pta001.pta-com1:l4",
+            "pta0200.pta001.pta-com1:l7",
+            "pta0200.pta001.pta-com1:l9",
+            "pta0200.pta001.pta-com1:l13",
+            "pta0200.pta001.pta-com1:l14",
+            "pta0200.pta001.pta-com1:l21",
+            "pta0200.pta001.pta-com1:l22",
+            "pta0200.pta001.pta-com1:l24",
+            "pta0200.pta001.pta-com1:l25",
+            "pta0200.pta001.pta-com1:l26",
+            "pta0200.pta001.pta-com1:l28",
+            "pta0200.pta001.pta-com1:l29",
+            "pta0200.pta001.pta-com1:l30",
+            "pta0200.pta001.pta-com1:l31",
+            "pta0200.pta001.pta-com1:l35",
+            "pta0200.pta001.pta-com1:l39",
+            "pta0200.pta001.pta-com1:l40",
+            "pta0200.pta001.pta-com1:l43",
+            "pta0200.pta001.pta-com1:l48",
+            "pta0200.pta001.pta-com1:l51",
+            "pta0200.pta001.pta-com1:l54",
+            "pta0200.pta001.pta-com1:l55",
+            "pta0200.pta001.pta-com1:l56",
+            "pta0200.pta001.pta-com1:l57",
+            "pta0200.pta001.pta-com1:l59",
+            "pta0200.pta001.pta-com1:l64",
+            "pta0200.pta001.pta-com1:l66",
+            "pta0200.pta001.pta-com1:l67",
+            "pta0200.pta001.pta-com1:l68",
+            "pta0200.pta001.pta-com1:l73",
+            "pta0200.pta001.pta-com1:l74",
+            "pta0200.pta001.pta-com1:l75",
+            "pta0200.pta001.pta-com1:l77",
+            "pta0200.pta001.pta-com1:l78",
+            "pta0200.pta001.pta-com1:l79",
+            "pta0200.pta001.pta-com1:l80",
+            "pta0200.pta001.pta-com1:l81",
+            "pta0200.pta001.pta-com1:l82",
+            "pta0200.pta001.pta-com1:l83",
+            "pta0200.pta001.pta-com1:l84",
+            "pta0200.pta001.pta-com1:l85",
+            "pta0200.pta001.pta-com1:l96",
+            "pta0200.pta001.pta-com1:l105",
+            "pta0200.pta001.pta-com1:l115",
+            "pta0200.pta001.pta-com1:l119",
+            "pta0200.pta001.pta-com1:l130",
+            "pta0200.pta001.pta-com1:l134",
+            "pta0200.pta001.pta-com1:l137",
+            "pta0200.pta001.pta-com1:l140",
+            "pta0200.pta001.pta-com1:l143",
+            "pta0200.pta001.pta-com1:l148",
+            "pta0200.pta001.pta-com1:l151",
+            "pta0200.pta001.pta-com1:l153",
+            "pta0200.pta001.pta-com1:l156",
+            "pta0200.pta001.pta-com1:l158",
+            "pta0200.pta001.pta-com1:l163",
+            "pta0200.pta001.pta-com1:l172",
+            "pta0200.pta001.pta-com1:l174",
+            "pta0200.pta001.pta-com1:l186",
+            "pta0200.pta001.pta-com1:l190",
+            "pta0200.pta001.pta-com1:l194",
+            "pta0200.pta001.pta-com1:l196",
+            "pta0200.pta001.pta-com1:l197",
+            "pta0200.pta001.pta-com1:l198",
+            "pta0200.pta001.pta-com1:l201",
+            "pta0200.pta001.pta-com1:l203",
+            "pta0200.pta001.pta-com1:l205",
+            "pta0200.pta001.pta-com1:l209",
+            "pta0200.pta001.pta-com1:l210",
+            "pta0200.pta001.pta-com1:l213",
+            "pta0200.pta001.pta-com1:l224",
+            "pta0200.pta001.pta-com1:l225",
+            "pta0200.pta001.pta-com1:l227",
+            "pta0200.pta001.pta-com1:l229",
+            "pta0200.pta001.pta-com1:l230",
+            "pta0200.pta001.pta-com1:l236",
+            "pta0200.pta001.pta-com1:l243",
+            "pta0200.pta001.pta-com1:l245",
+            "pta0200.pta001.pta-com1:l248",
+            "pta0200.pta001.pta-com1:l279",
+            "pta0200.pta001.pta-com1:l288",
+            "pta0200.pta001.pta-com1:l291",
+            "pta0200.pta001.pta-com1:l293",
+            "pta0200.pta001.pta-com1:l296",
+            "pta0200.pta001.pta-com1:l298",
+            "pta0200.pta001.pta-com1:l300",
+            "pta0200.pta001.pta-com1:l302",
+            "pta0200.pta001.pta-com1:l305",
+            "pta0200.pta001.pta-com1:l309",
+            "pta0200.pta001.pta-com1:l313",
+            "pta0200.pta001.pta-com1:l314",
+            "pta0200.pta001.pta-com1:l319",
+            "pta0200.pta001.pta-com1:l322",
+            "pta0200.pta001.pta-com1:l323",
+            "pta0200.pta001.pta-com1:l324",
+            "pta0200.pta001.pta-com1:l325",
+            "pta0200.pta001.pta-com1:l329",
+            "pta0200.pta001.pta-com1:l333",
+            "pta0200.pta001.pta-com1:l343",
+            "pta0200.pta001.pta-com1:l344",
+            "pta0200.pta001.pta-com1:l347",
+            "pta0200.pta001.pta-com1:l349",
+            "pta0200.pta001.pta-com1:l352",
+            "pta0200.pta001.pta-com1:l353",
+            "pta0200.pta001.pta-com1:l366",
+            "pta0200.pta001.pta-com1:l370",
+            "pta0200.pta001.pta-com1:l374",
+            "pta0200.pta001.pta-com1:l377",
+            "pta0200.pta001.pta-com1:l381",
+            "pta0200.pta001.pta-com1:l384",
+            "pta0200.pta001.pta-com1:l393",
+            "pta0200.pta001.pta-com1:l397",
+            "pta0200.pta001.pta-com1:l405",
+            "pta0200.pta001.pta-com1:l411",
+            "pta0200.pta001.pta-com1:l413",
+            "pta0200.pta001.pta-com1:l429",
+            "pta0200.pta001.pta-com1:l432",
+            "pta0200.pta001.pta-com1:l436",
+            "pta0200.pta001.pta-com1:l443",
+            "pta0200.pta001.pta-com1:l448",
+            "pta0200.pta001.pta-com1:l451",
+            "pta0200.pta001.pta-com1:l456",
+            "pta0200.pta001.pta-com1:l467",
+            "pta0200.pta001.pta-com1:l468",
+            "pta0200.pta001.pta-com1:l470",
+            "pta0200.pta001.pta-com1:l472",
+            "pta0200.pta001.pta-com1:l474",
+            "pta0200.pta001.pta-com1:l478",
+            "pta0200.pta001.pta-com1:l483",
+            "pta0200.pta001.pta-com1:l484",
+            "pta0200.pta001.pta-com1:l486",
+            "pta0200.pta001.pta-com1:l487",
+            "pta0200.pta001.pta-eng1:l64",
+            "pta0200.pta001.pta-eng1:l65"
         ],
         "orig_name": [
             "Κωνσταντινοπόλεως",
@@ -2259,11 +3219,271 @@
             "Κωνσταντινουπόλεως",
             "Κωνσταντινουπόλεως",
             "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ",
-            "Κωνσταντινουπόλει"
+            "Κωνσταντινουπόλει",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinopolitan",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople",
+            "Constantinople"
         ],
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q16869"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/521012",
+        "canonical": "Eirenaion",
+        "description": "An ancient place, cited: BAtlas 53 B2 Eirenaion",
+        "coordinates": [
+            29.082169,
+            41.106975
+        ],
+        "bbox": [
+            29.082169,
+            41.106975,
+            29.082169,
+            41.106975
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l165"
+        ],
+        "orig_name": [
+            "Eirenaion"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/521026",
+        "canonical": "Hebdomon",
+        "description": "An ancient place, cited: BAtlas 53 A3 Hebdomon",
+        "coordinates": [
+            28.876487,
+            40.976033
+        ],
+        "bbox": [
+            28.876487,
+            40.976033,
+            28.876487,
+            40.976033
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l10"
+        ],
+        "orig_name": [
+            "Hebdomon"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/521078",
+        "canonical": "Megale/Pityodes/Prinkipos Ins.",
+        "description": "Megale/Pityodes/Prinkipos Ins. (Büyükada)",
+        "coordinates": [
+            29.1255588,
+            40.8555121
+        ],
+        "bbox": [
+            29.1255588,
+            40.8555121,
+            29.1255588,
+            40.8555121
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l136"
+        ],
+        "orig_name": [
+            "Prinkipo"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/521138",
+        "canonical": "Rhodussae (islands)",
+        "description": "A group of small islands in the Propontis.",
+        "coordinates": [
+            28.982625650000003,
+            40.8688895
+        ],
+        "bbox": [
+            28.9712129,
+            40.8635176,
+            28.9940384,
+            40.8742614
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l131",
+            "pta0200.pta001.pta-com1:l132",
+            "pta0200.pta001.pta-com1:l139",
+            "pta0200.pta001.pta-com1:l141",
+            "pta0200.pta001.pta-eng1:l21"
+        ],
+        "orig_name": [
+            "island of Plateia",
+            "Plateia",
+            "Plateia",
+            "Plateia",
+            "Plateia"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/523982",
+        "canonical": "Sykai/Ioustinianai/Ioustinianoupolis",
+        "description": "An ancient place, cited: BAtlas 53 A2 Sykai/Ioustinianai/Ioustinianoupolis",
+        "coordinates": [
+            28.972982,
+            41.023019
+        ],
+        "bbox": [
+            28.972982,
+            41.023019,
+            28.972982,
+            41.023019
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l12",
+            "pta0200.pta001.pta-com1:l58",
+            "pta0200.pta001.pta-com1:l62"
+        ],
+        "orig_name": [
+            "Sycae",
+            "Sycae",
+            "Sycae"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q65051584"
             }
         ]
     },
@@ -2342,6 +3562,38 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q194450"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/550867",
+        "canonical": " Sardis/Hyde?",
+        "description": "Sardis was the capital of the Lydian Empire located in western Turkey. In 188 B.C. Sardis became a part of the Attalid kingdom and thus it passed with the territory of Attalus III to Rome in 133 B.C.",
+        "coordinates": [
+            28.040286,
+            38.488314
+        ],
+        "bbox": [
+            28.040286,
+            38.488314,
+            28.040286,
+            38.488314
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l112",
+            "pta0200.pta001.pta-com1:l114",
+            "pta0200.pta001.pta-com1:l120",
+            "pta0200.pta001.pta-eng1:l19"
+        ],
+        "orig_name": [
+            "Sardis",
+            "Sardis",
+            "Sardis",
+            "Sardis"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q232615"
             }
         ]
     },
@@ -2559,13 +3811,23 @@
             "pta0001.pta026.pta-grc1:l4",
             "pta0001.pta026.pta-grcBibex:l4",
             "pta0002.pta161.pta-grc1:l27",
-            "pta0007.pta007.pta-grc1:l7"
+            "pta0007.pta007.pta-grc1:l7",
+            "pta0200.pta001.pta-com1:l94",
+            "pta0200.pta001.pta-com1:l127",
+            "pta0200.pta001.pta-com1:l146",
+            "pta0200.pta001.pta-com1:l445",
+            "pta0200.pta001.pta-eng1:l1"
         ],
         "orig_name": [
             "Ἐφέσῳ",
             "ἐφέσῳ",
             "Ἐφέσου",
-            "Ἐφέσῳ"
+            "Ἐφέσῳ",
+            "Ephesus",
+            "Ephesus",
+            "Ephesus",
+            "Ephesus",
+            "Ephesus"
         ],
         "other_ids": [
             {
@@ -2670,12 +3932,22 @@
         "urns": [
             "pta0022.pta012.pta-grc1:l2",
             "pta0022.pta016.pta-grc1:l27",
-            "pta0022.pta017.pta-grc1:l5"
+            "pta0022.pta017.pta-grc1:l5",
+            "pta0200.pta001.pta-com1:l61",
+            "pta0200.pta001.pta-com1:l357",
+            "pta0200.pta001.pta-com1:l363",
+            "pta0200.pta001.pta-eng1:l11",
+            "pta0200.pta001.pta-eng1:l45"
         ],
         "orig_name": [
             "Καππαδοκίᾳ",
             "Καππαδοκίαν",
-            "Καππαδοκίας"
+            "Καππαδοκίας",
+            "Cappadocia",
+            "Cappadocia",
+            "Cappadocian",
+            "Cappadocia",
+            "Cappadocia"
         ],
         "other_ids": [
             {
@@ -2708,6 +3980,150 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q48338"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/638748",
+        "canonical": "Antiochia ad Maeandrum",
+        "description": "Antiochia ad Maeandrum was an ancient city in Caria located near Basaran, Aydin, Turkey.",
+        "coordinates": [
+            28.548284,
+            37.873542
+        ],
+        "bbox": [
+            28.5448669,
+            37.8694674,
+            28.5496245,
+            37.8742053
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l88",
+            "pta0200.pta001.pta-com1:l103",
+            "pta0200.pta001.pta-com1:l110",
+            "pta0200.pta001.pta-com1:l149",
+            "pta0200.pta001.pta-com1:l152",
+            "pta0200.pta001.pta-com1:l373",
+            "pta0200.pta001.pta-com1:l376",
+            "pta0200.pta001.pta-com1:l380",
+            "pta0200.pta001.pta-com1:l392",
+            "pta0200.pta001.pta-com1:l395",
+            "pta0200.pta001.pta-com1:l396",
+            "pta0200.pta001.pta-com1:l406",
+            "pta0200.pta001.pta-com1:l409",
+            "pta0200.pta001.pta-com1:l414",
+            "pta0200.pta001.pta-com1:l415",
+            "pta0200.pta001.pta-com1:l420",
+            "pta0200.pta001.pta-com1:l427",
+            "pta0200.pta001.pta-com1:l431",
+            "pta0200.pta001.pta-com1:l433",
+            "pta0200.pta001.pta-com1:l437",
+            "pta0200.pta001.pta-com1:l444",
+            "pta0200.pta001.pta-com1:l452",
+            "pta0200.pta001.pta-com1:l459",
+            "pta0200.pta001.pta-com1:l466",
+            "pta0200.pta001.pta-com1:l469",
+            "pta0200.pta001.pta-eng1:l17",
+            "pta0200.pta001.pta-eng2:l4"
+        ],
+        "orig_name": [
+            "Antioch on theMaeander",
+            "Antioch on the Maeander",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q579405"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/638753",
+        "canonical": "Aphrodisias",
+        "description": "Aphrodisias was a Greek city located in Caria. It is notable especially for the state of its archaeological preservation. The site was inscribed on UNESCO's World Heritage List in July 2017.",
+        "coordinates": [
+            28.723777909649684,
+            37.70858326241764
+        ],
+        "bbox": [
+            28.7182708,
+            37.7043002,
+            28.7302151,
+            37.7130664
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l87",
+            "pta0200.pta001.pta-com1:l89",
+            "pta0200.pta001.pta-com1:l90",
+            "pta0200.pta001.pta-com1:l107",
+            "pta0200.pta001.pta-com1:l109",
+            "pta0200.pta001.pta-com1:l121",
+            "pta0200.pta001.pta-com1:l147",
+            "pta0200.pta001.pta-eng1:l15"
+        ],
+        "orig_name": [
+            "Aphrodisias",
+            "Aphrodisias",
+            "Aphrodisias",
+            "Aphrodisias",
+            "Aphrodisias",
+            "Aphrodisias",
+            "Aphrodisias",
+            "Aphrodisias"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q618495"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/638758",
+        "canonical": "Apollonia/Mordiaion/Sozopolis",
+        "description": "An ancient place, cited: BAtlas 65 D1 Apollonia/Mordiaion/Sozopolis",
+        "coordinates": [
+            30.463839999999998,
+            38.0757215
+        ],
+        "bbox": [
+            30.457168,
+            38.072539,
+            30.470512,
+            38.078904
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l401"
+        ],
+        "orig_name": [
+            "Sozopolis"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q1856209"
             }
         ]
     },
@@ -2852,6 +4268,28 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/639017",
+        "canonical": "Olympus/Hadrianopolis",
+        "description": "An ancient place, cited: BAtlas 65 D5 Olympus/Hadrianopolis",
+        "coordinates": [
+            30.473358410074,
+            36.3952647110652
+        ],
+        "bbox": [
+            30.4705657,
+            36.392113,
+            30.47637,
+            36.3978982
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l336"
+        ],
+        "orig_name": [
+            "Olympos(Lycia)"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/639034",
         "canonical": "Pamphylia (region)",
         "description": "Ancient region on the south-central coast of Asia Minor, stretching from the vicinity of modern Antalya in the west to the vicinity of modern Selimiye in the east.",
@@ -2902,6 +4340,32 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q719815"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/639060",
+        "canonical": "Pisidia (region)",
+        "description": "Pisidia was a region of ancient Asia Minor located to the north of Lycia.",
+        "coordinates": [
+            31.014588471403783,
+            37.470800730949286
+        ],
+        "bbox": [
+            30.53265848756547,
+            37.435319344939444,
+            31.4977678715303,
+            37.48386034945844
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l402"
+        ],
+        "orig_name": [
+            "Pisidia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q621805"
             }
         ]
     },
@@ -2978,7 +4442,8 @@
             "pta0041.pta001.pta-deu1:l1",
             "pta0041.pta001.pta-grc1:l1",
             "pta0041.pta001.pta-grc1:l2",
-            "pta0041.pta001.pta-grc1:l9"
+            "pta0041.pta001.pta-grc1:l9",
+            "pta0200.pta001.pta-eng1:l9"
         ],
         "orig_name": [
             "Ἰσαυρίαν",
@@ -2987,7 +4452,8 @@
             "ISAURIEN",
             "ΙΣΑΥΡΙΑΙ",
             "Ἰσαυρίας",
-            "Ἰσαυρία"
+            "Ἰσαυρία",
+            "Isauria"
         ],
         "other_ids": []
     },
@@ -3014,6 +4480,34 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q650630"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/648789",
+        "canonical": "Tarsus/Antiochia ad Cydnum",
+        "description": "An important city and river port on the Cydnus river located in Cilicia Pedias.",
+        "coordinates": [
+            34.89579498841108,
+            36.91232970122376
+        ],
+        "bbox": [
+            34.8947404,
+            36.9117938,
+            34.8972657,
+            36.9129699
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l233",
+            "pta0200.pta001.pta-com1:l251"
+        ],
+        "orig_name": [
+            "Tarsus",
+            "Tarsus"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q134287"
             }
         ]
     },
@@ -3108,7 +4602,9 @@
             "pta0022.pta017.pta-grc1:l6",
             "pta0037.pta001.pta-grc1:l165",
             "pta0037.pta001.pta-grc1:l173",
-            "pta0037.pta001.pta-grc1:l183"
+            "pta0037.pta001.pta-grc1:l183",
+            "pta0200.pta001.pta-com1:l20",
+            "pta0200.pta001.pta-com1:l157"
         ],
         "orig_name": [
             "Ἀντιοχείᾳ τῆς Συρίας",
@@ -3126,7 +4622,9 @@
             "παλατίου",
             "Ἀντιόχειαν",
             "Ἀντιόχειαν",
-            "Ἀντιόχειαν"
+            "Ἀντιόχειαν",
+            "Antioch",
+            "Antioch"
         ],
         "other_ids": [
             {
@@ -3163,6 +4661,32 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/658457",
+        "canonical": "Edessa/Antiochia ad Callirhoem",
+        "description": "Edessa/Antiochia ad Callirhoem was an ancient settlement of upper Mesopotamia, refounded by Seleucus I Nikator.",
+        "coordinates": [
+            38.786696,
+            37.148633
+        ],
+        "bbox": [
+            38.786696,
+            37.148633,
+            38.786696,
+            37.148633
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l416"
+        ],
+        "orig_name": [
+            "Edessa"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q133118"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/658538",
         "canonical": "Mopsou(h)estia/Seleukeia pros to Pyramo",
         "description": "Mopsou(h)estia/Seleukeia pros to Pyramo was an ancient settlement in Cilicia Pedias (now modern Yakapınar, Turkey).",
@@ -3183,6 +4707,34 @@
             "Μοψουεστίας"
         ],
         "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/658561",
+        "canonical": "Osrhoene",
+        "description": "Osrhoene was a Syriac-speaking kingdom of upper Mesopotamia that enjoyed semi-autonomy to complete independence from 132 BC to AD 244.",
+        "coordinates": [
+            38.25,
+            37.25
+        ],
+        "bbox": [
+            38.0,
+            37.0,
+            38.5,
+            37.5
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l391",
+            "pta0200.pta001.pta-com1:l447"
+        ],
+        "orig_name": [
+            "Osrhoene",
+            "Osrhoene"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q237234"
+            }
+        ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/668190",
@@ -3235,6 +4787,48 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/668318",
+        "canonical": "Nicephorium/Callinicum/Leontopolis",
+        "description": "Nicephorium (modern ar-Raqqa in Syria) was an ancient settlement on the river Euphrates in Syria. It may be identical with Callinicum, which was renamed Leontopolis in the mid-fifth century CE.",
+        "coordinates": [
+            39.056991333333336,
+            35.95001833333333
+        ],
+        "bbox": [
+            39.023783,
+            35.929747,
+            39.08287,
+            35.972501
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l3",
+            "pta0200.pta001.pta-com1:l142",
+            "pta0200.pta001.pta-com1:l154",
+            "pta0200.pta001.pta-com1:l169",
+            "pta0200.pta001.pta-com1:l176",
+            "pta0200.pta001.pta-com1:l180",
+            "pta0200.pta001.pta-com1:l187",
+            "pta0200.pta001.pta-com1:l188",
+            "pta0200.pta001.pta-com1:l238",
+            "pta0200.pta001.pta-com1:l457",
+            "pta0200.pta001.pta-eng1:l62"
+        ],
+        "orig_name": [
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum",
+            "Callinicum"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/668332",
         "canonical": "Paltos",
         "description": "An ancient place, cited: BAtlas 68 A3 Paltos",
@@ -3261,6 +4855,62 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/668366",
+        "canonical": "Seremyn",
+        "description": "An ancient place, cited: BAtlas 68 C2 Seremyn",
+        "coordinates": [
+            36.735987,
+            35.922817
+        ],
+        "bbox": [
+            36.735987,
+            35.922817,
+            36.735987,
+            35.922817
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l18",
+            "pta0200.pta001.pta-com1:l350",
+            "pta0200.pta001.pta-eng1:l4",
+            "pta0200.pta001.pta-eng1:l71"
+        ],
+        "orig_name": [
+            "Sirmin",
+            "Sirmin",
+            "Sirmin",
+            "Sirmin"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/668376",
+        "canonical": "Soura",
+        "description": "An ancient settlement, now known as al-Suriyya in Syria.",
+        "coordinates": [
+            38.77952319304066,
+            35.897399250402486
+        ],
+        "bbox": [
+            38.772157,
+            35.891835,
+            38.7855316,
+            35.903211
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l177",
+            "pta0200.pta001.pta-eng1:l26"
+        ],
+        "orig_name": [
+            "Shura",
+            "Shura"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q15130851"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/668537581",
         "canonical": "Macedonia (Archaic and Classical kingdom)",
         "description": "Founded by the Argead dynasty, the kingdom of Macedonia was originally located on the political, social, and cultural periphery of Greece. It was allied with the Persian Empire, and the Macedonian king Alexander I supplied troops to fight the Athenian/Spartan alliance at the Battle of Platea in 479 BCE. Thereafter Macedonia became increasingly part of the Greek political world, which culminated in Philip II's subjugation of the majority of Greece after the Battle of Chaeronea in 338 BCE. Alexander III (\"the Great') expanded Macedonian control over the entirety of the Persian Empire. After Alexander's death in 323 BCE the kingdom was fought over by his successors who declared themselves kings in 306 BCE, effectively ending the unified kingdom.",
@@ -3281,6 +4931,38 @@
             "μακεδονίας"
         ],
         "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678010",
+        "canonical": "Ake/Ptolemais",
+        "description": "The Phoenician city of Akko was re-founded by Ptolemy II Philadelphos from ca. 285-246 B.C.",
+        "coordinates": [
+            35.079835,
+            32.92128675
+        ],
+        "bbox": [
+            35.068626,
+            32.920744,
+            35.091044,
+            32.9218295
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l167",
+            "pta0200.pta001.pta-com1:l171",
+            "pta0200.pta001.pta-com1:l266",
+            "pta0200.pta001.pta-com1:l351"
+        ],
+        "orig_name": [
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q126084"
+            }
+        ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/678054",
@@ -3329,10 +5011,14 @@
             33.899285
         ],
         "urns": [
-            "pta0022.pta003.pta-grc1:l7"
+            "pta0022.pta003.pta-grc1:l7",
+            "pta0200.pta001.pta-com1:l294",
+            "pta0200.pta001.pta-com1:l404"
         ],
         "orig_name": [
-            "Βηρυτὸν"
+            "Βηρυτὸν",
+            "Berytus",
+            "Berytus"
         ],
         "other_ids": [
             {
@@ -3529,6 +5215,32 @@
             "γαριζείν"
         ],
         "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/678179",
+        "canonical": "Heliopolis/Col. Iulia Augusta Felix",
+        "description": "An ancient settlement in Lebanon's Beqaa Valley, named as a UNESCO World Heritage Site because \"with its colossal structures, [it] is one of the finest examples of Imperial Roman architecture at its apogee.\"",
+        "coordinates": [
+            36.2038547330563,
+            34.0063794317348
+        ],
+        "bbox": [
+            36.2021574,
+            34.0027587,
+            36.2068428,
+            34.0087389
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l183"
+        ],
+        "orig_name": [
+            "Baalbek"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q178835"
+            }
+        ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/678220",
@@ -3885,6 +5597,36 @@
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q82070"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/687839",
+        "canonical": "Ashqelon/Ascalon",
+        "description": "Ashqelon/Ascalon was an ancient city in coastal Palestine, located midway between Azotus and Gaza. It became independent in 104 B.C. and remained the only free city in Palestine. Strabo refers to it, while Pliny calls it a free city (oppidum libera).",
+        "coordinates": [
+            34.550521466715146,
+            31.664797212161965
+        ],
+        "bbox": [
+            34.4920184,
+            31.6196996,
+            34.6142545,
+            31.718223
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l252",
+            "pta0200.pta001.pta-com1:l272",
+            "pta0200.pta001.pta-com1:l277"
+        ],
+        "orig_name": [
+            "Ascalon",
+            "Ascalon",
+            "Ascalon"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q60956"
             }
         ]
     },
@@ -4446,7 +6188,29 @@
             "pta0037.pta001.pta-grc1:l199",
             "pta0037.pta001.pta-grc1:l200",
             "pta0037.pta001.pta-grc1:l207",
-            "pta0099.pta074.pta-grc1:l7"
+            "pta0099.pta074.pta-grc1:l7",
+            "pta0200.pta001.pta-com1:l5",
+            "pta0200.pta001.pta-com1:l6",
+            "pta0200.pta001.pta-com1:l8",
+            "pta0200.pta001.pta-com1:l34",
+            "pta0200.pta001.pta-com1:l182",
+            "pta0200.pta001.pta-com1:l222",
+            "pta0200.pta001.pta-com1:l226",
+            "pta0200.pta001.pta-com1:l240",
+            "pta0200.pta001.pta-com1:l246",
+            "pta0200.pta001.pta-com1:l249",
+            "pta0200.pta001.pta-com1:l253",
+            "pta0200.pta001.pta-com1:l256",
+            "pta0200.pta001.pta-com1:l258",
+            "pta0200.pta001.pta-com1:l267",
+            "pta0200.pta001.pta-com1:l275",
+            "pta0200.pta001.pta-com1:l286",
+            "pta0200.pta001.pta-com1:l418",
+            "pta0200.pta001.pta-com1:l440",
+            "pta0200.pta001.pta-eng1:l2",
+            "pta0200.pta001.pta-eng1:l3",
+            "pta0200.pta001.pta-eng1:l39",
+            "pta0200.pta001.pta-eng2:l1"
         ],
         "orig_name": [
             "τὸ ὄρος τῶν Ἐλαιῶν",
@@ -4804,7 +6568,29 @@
             "Ἱερουσαλὴμ",
             "Ἱερουσαλὴμ",
             "Ἱερουσαλὴμ",
-            "Ἱεροσολύμων"
+            "Ἱεροσολύμων",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem",
+            "Jerusalem"
         ],
         "other_ids": [
             {
@@ -5126,7 +6912,24 @@
             "pta0001.pta029.pta-grc1:l4",
             "pta0001.pta030.pta-grc1:l3",
             "pta0001.pta030.pta-grc1:l5",
-            "pta0001.pta031.pta-grc1:l3"
+            "pta0001.pta031.pta-grc1:l3",
+            "pta0200.pta001.pta-com1:l185",
+            "pta0200.pta001.pta-com1:l231",
+            "pta0200.pta001.pta-com1:l239",
+            "pta0200.pta001.pta-com1:l241",
+            "pta0200.pta001.pta-com1:l244",
+            "pta0200.pta001.pta-com1:l254",
+            "pta0200.pta001.pta-com1:l257",
+            "pta0200.pta001.pta-com1:l260",
+            "pta0200.pta001.pta-com1:l263",
+            "pta0200.pta001.pta-com1:l268",
+            "pta0200.pta001.pta-com1:l278",
+            "pta0200.pta001.pta-com1:l284",
+            "pta0200.pta001.pta-com1:l419",
+            "pta0200.pta001.pta-com1:l425",
+            "pta0200.pta001.pta-com1:l434",
+            "pta0200.pta001.pta-com1:l441",
+            "pta0200.pta001.pta-eng1:l36"
         ],
         "orig_name": [
             "Παλαιστίνης",
@@ -5138,7 +6941,24 @@
             "Παλαιστήνης",
             "Παλαιστίνης",
             "Παλαιστίνην",
-            "Παλαιστίνης"
+            "Παλαιστίνης",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine",
+            "Palestine"
         ],
         "other_ids": [
             {
@@ -5161,10 +6981,12 @@
             30.328611
         ],
         "urns": [
-            "pta0022.pta015.pta-grc1:l27"
+            "pta0022.pta015.pta-grc1:l27",
+            "pta0200.pta001.pta-com1:l399"
         ],
         "orig_name": [
-            "Πετρῶν τῆς Ἀραβίας"
+            "Πετρῶν τῆς Ἀραβίας",
+            "Petra"
         ],
         "other_ids": [
             {
@@ -5191,14 +7013,24 @@
             "pta0001.pta011.pta-grc1:l11",
             "pta0004.pta001.pta-grcBibex:l183",
             "pta0022.pta014.pta-grc1:l14",
-            "pta0022.pta016.pta-grc1:l19"
+            "pta0022.pta016.pta-grc1:l19",
+            "pta0200.pta001.pta-com1:l138",
+            "pta0200.pta001.pta-com1:l144",
+            "pta0200.pta001.pta-com1:l220",
+            "pta0200.pta001.pta-com1:l388",
+            "pta0200.pta001.pta-eng1:l22"
         ],
         "orig_name": [
             "Κύπρου",
             "Κύπρῳ",
             "κύπρου",
             "Κύπρον",
-            "Κύπρον"
+            "Κύπρον",
+            "Cyprus",
+            "Cyprus",
+            "Cyprus",
+            "Cyprus",
+            "Cyprus"
         ],
         "other_ids": [
             {
@@ -5227,6 +7059,34 @@
             "κίτιον"
         ],
         "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/707617",
+        "canonical": "Salamis/Konstantia",
+        "description": "An ancient settlement on the east coast of Cyprus, located northwest of Ammokhostos.",
+        "coordinates": [
+            33.902856966815534,
+            35.17958130195956
+        ],
+        "bbox": [
+            33.8949484,
+            35.1714034,
+            33.91112,
+            35.1871218
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l145",
+            "pta0200.pta001.pta-com1:l221"
+        ],
+        "orig_name": [
+            "Salamis",
+            "Salamis"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q767089"
+            }
+        ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/716520",
@@ -5419,7 +7279,37 @@
             "pta0022.pta015.pta-grc1:l30",
             "pta0022.pta015.pta-grc1:l53",
             "pta0022.pta017.pta-grc1:l2",
-            "pta0022.pta017.pta-grc1:l4"
+            "pta0022.pta017.pta-grc1:l4",
+            "pta0200.pta001.pta-com1:l15",
+            "pta0200.pta001.pta-com1:l150",
+            "pta0200.pta001.pta-com1:l162",
+            "pta0200.pta001.pta-com1:l168",
+            "pta0200.pta001.pta-com1:l170",
+            "pta0200.pta001.pta-com1:l181",
+            "pta0200.pta001.pta-com1:l195",
+            "pta0200.pta001.pta-com1:l290",
+            "pta0200.pta001.pta-com1:l292",
+            "pta0200.pta001.pta-com1:l297",
+            "pta0200.pta001.pta-com1:l301",
+            "pta0200.pta001.pta-com1:l304",
+            "pta0200.pta001.pta-com1:l306",
+            "pta0200.pta001.pta-com1:l308",
+            "pta0200.pta001.pta-com1:l312",
+            "pta0200.pta001.pta-com1:l372",
+            "pta0200.pta001.pta-com1:l375",
+            "pta0200.pta001.pta-com1:l379",
+            "pta0200.pta001.pta-com1:l382",
+            "pta0200.pta001.pta-com1:l385",
+            "pta0200.pta001.pta-com1:l389",
+            "pta0200.pta001.pta-com1:l394",
+            "pta0200.pta001.pta-com1:l398",
+            "pta0200.pta001.pta-com1:l403",
+            "pta0200.pta001.pta-com1:l435",
+            "pta0200.pta001.pta-com1:l449",
+            "pta0200.pta001.pta-com1:l460",
+            "pta0200.pta001.pta-com1:l465",
+            "pta0200.pta001.pta-com1:l479",
+            "pta0200.pta001.pta-eng1:l23"
         ],
         "orig_name": [
             "ἀλεξάνδρειαν",
@@ -5442,7 +7332,37 @@
             "Ἀλεξανδρείᾳ",
             "Ἀλεξανδρείας",
             "Ἀλεξανδρείας",
-            "Ἀλεξανδρείας"
+            "Ἀλεξανδρείας",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria"
         ],
         "other_ids": [
             {
@@ -5703,6 +7623,32 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/727232",
+        "canonical": "Sketis",
+        "description": "The modern Wadi el Natrun: a valley in northern Egypt that developed as an important locus of Coptic monastic establishments, beginning in late antiquity and continuing to the present day.",
+        "coordinates": [
+            30.22153905058457,
+            30.454865706130803
+        ],
+        "bbox": [
+            30.114737810660017,
+            30.41525726543665,
+            30.377430305703797,
+            30.519001765290795
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l386"
+        ],
+        "orig_name": [
+            "Scetis valley"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q1074945"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/727236",
         "canonical": "Tanis",
         "description": "An important settlement in the eastern Nile delta (modern San el-Hagar), Tanis boasted a massive temple precinct and was the burial site for Egyptian kings of the 21st and 22nd dynasties.",
@@ -5767,6 +7713,28 @@
                 "WIKIDATA": "http://www.wikidata.org/entity/Q1749396"
             }
         ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/73180225",
+        "canonical": "\"Basilica\" of San Vitale",
+        "description": "A church (but not a basilica) in Ravenna, Italy, established by Bishop Ecclesius in 526 AD and consecrated ca. 547 AD.",
+        "coordinates": [
+            12.196211,
+            44.420515699999996
+        ],
+        "bbox": [
+            12.196023,
+            44.4204684,
+            12.196399,
+            44.420563
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l327"
+        ],
+        "orig_name": [
+            "San Vitale"
+        ],
+        "other_ids": []
     },
     {
         "ID": "https://pleiades.stoa.org/places/736948",
@@ -5871,7 +7839,9 @@
             "pta0001.pta072.pta-grc1:l10",
             "pta0001.pta072.pta-grc1:l11",
             "pta0001.pta072.pta-grc1:l12",
-            "pta0022.pta003.pta-grc1:l2"
+            "pta0022.pta003.pta-grc1:l2",
+            "pta0200.pta001.pta-com1:l439",
+            "pta0200.pta001.pta-eng1:l59"
         ],
         "orig_name": [
             "Σινᾶ",
@@ -5884,9 +7854,37 @@
             "Σινᾶ ὄρους",
             "Σινᾶ ὄρους",
             "Σινᾶ ὄρους",
-            "τὸ Σινᾶ ὄρος"
+            "τὸ Σινᾶ ὄρος",
+            "Mount Sinai",
+            "MountSinai"
         ],
         "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/746826",
+        "canonical": "Tou Batou",
+        "description": "A monastery built by order of Emperor Justinian I. St. Catherine's at the foot of Mount Sinai in modern Egypt.",
+        "coordinates": [
+            33.97592161331971,
+            28.555812404030732
+        ],
+        "bbox": [
+            33.9754652,
+            28.5554815,
+            33.976435,
+            28.5564129
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l438"
+        ],
+        "orig_name": [
+            "monastery of SaintCatherine"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q185362"
+            }
+        ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/748871137",
@@ -6008,6 +8006,58 @@
         "other_ids": []
     },
     {
+        "ID": "https://pleiades.stoa.org/places/786017",
+        "canonical": "Diospolis Magna/Thebai",
+        "description": "Diospolis Magna/Thebai was known in ancient Egypt as Waset, \"City of the Sceptre\". The site was designated as a UNESCO World Heritage Site in 1979.",
+        "coordinates": [
+            32.631884,
+            25.664780999999998
+        ],
+        "bbox": [
+            32.616486,
+            25.634785,
+            32.647282,
+            25.694777
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l332"
+        ],
+        "orig_name": [
+            "Luxor"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q101583"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/786036",
+        "canonical": "Hermonthis",
+        "description": "Modern Armant, an important town of the Egyptian Middle Kingdom that was enlarged during the Eighteenth Dynasty and continued to thrive through the Ptolemaic, Roman, and Coptic periods.",
+        "coordinates": [
+            32.54305,
+            25.61988
+        ],
+        "bbox": [
+            32.54305,
+            25.61988,
+            32.54305,
+            25.61988
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l331"
+        ],
+        "orig_name": [
+            "Hermonthis"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q679056"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/786059",
         "canonical": "Latopolis",
         "description": "An ancient place, cited: BAtlas 80 B3 Latopolis",
@@ -6112,6 +8162,78 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/837",
+        "canonical": "Asia Minor",
+        "description": "An ancient region, coincident with a peninsula of the continent of Asia. It is bounded on the south by the Mediterranean Sea, on the west by the Aegean Sea, and on the north by the Black Sea. Today it is part of the territory of the modern country of Turkey.",
+        "coordinates": [
+            27.278502749999998,
+            37.910339750000006
+        ],
+        "bbox": [
+            26.75656,
+            36.32695135490013,
+            39.728451,
+            43.0786852
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l92",
+            "pta0200.pta001.pta-com1:l97",
+            "pta0200.pta001.pta-com1:l235",
+            "pta0200.pta001.pta-com1:l310",
+            "pta0200.pta001.pta-com1:l316",
+            "pta0200.pta001.pta-com1:l342",
+            "pta0200.pta001.pta-eng1:l13"
+        ],
+        "orig_name": [
+            "Asia Minor",
+            "Asia Minor",
+            "AsiaMinor",
+            "Asia Minor",
+            "Asia Minor",
+            "Asia Minor",
+            "Asia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q51614"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/857018",
+        "canonical": "Amaseia",
+        "description": "Amaseia (modern Amasya) was a naturally fortified settlement in the Pontic mountains near the Black Sea. It served as the capital of the kingdom of Pontus from ca. 300 BC to 183 BC.",
+        "coordinates": [
+            35.82794385,
+            40.66680835
+        ],
+        "bbox": [
+            35.8278,
+            40.6549427,
+            35.8280877,
+            40.678674
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l315",
+            "pta0200.pta001.pta-com1:l341",
+            "pta0200.pta001.pta-com1:l482",
+            "pta0200.pta001.pta-com1:l485",
+            "pta0200.pta001.pta-eng1:l70"
+        ],
+        "orig_name": [
+            "Amasea",
+            "Amasea",
+            "Amasia",
+            "Amasia",
+            "Amasia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q170532"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/857287",
         "canonical": "Pontus",
         "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region.",
@@ -6126,12 +8248,44 @@
             40.308071238505434
         ],
         "urns": [
-            "pta0022.pta016.pta-grc1:l26"
+            "pta0022.pta016.pta-grc1:l26",
+            "pta0200.pta001.pta-com1:l71"
         ],
         "orig_name": [
-            "Πόντον"
+            "Πόντον",
+            "Pontus"
         ],
         "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/857359",
+        "canonical": "Trapezus",
+        "description": "An ancient settlement of Asia Minor on the south coast of the Black Sea. Modern Trabzon in Turkey.",
+        "coordinates": [
+            39.7233115,
+            41.0042695
+        ],
+        "bbox": [
+            39.718172,
+            41.002662,
+            39.728451,
+            41.005877
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l471",
+            "pta0200.pta001.pta-com1:l476",
+            "pta0200.pta001.pta-eng1:l66"
+        ],
+        "orig_name": [
+            "Trapezus",
+            "Trapezus",
+            "Trapezus"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q45301"
+            }
+        ]
     },
     {
         "ID": "https://pleiades.stoa.org/places/857932176",
@@ -6174,6 +8328,74 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/874298",
+        "canonical": "Ad Tygrem/Amida",
+        "description": "Modern Diyarbakir in Turkey.",
+        "coordinates": [
+            40.2334445,
+            37.9122455
+        ],
+        "bbox": [
+            40.23063,
+            37.910083,
+            40.236259,
+            37.914408
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l17",
+            "pta0200.pta001.pta-com1:l37",
+            "pta0200.pta001.pta-com1:l38",
+            "pta0200.pta001.pta-com1:l41",
+            "pta0200.pta001.pta-com1:l63",
+            "pta0200.pta001.pta-com1:l365",
+            "pta0200.pta001.pta-com1:l422",
+            "pta0200.pta001.pta-com1:l426"
+        ],
+        "orig_name": [
+            "Amida",
+            "Amida",
+            "Amida",
+            "Amid",
+            "Amida",
+            "Amida",
+            "Amida",
+            "Amida"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q83387"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/874324",
+        "canonical": "Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis",
+        "description": "An ancient place, cited: BAtlas 89 B3 Antiochia Arabis/Antoninopolis/Tella/Constantia/Maximianopolis",
+        "coordinates": [
+            39.76237733333333,
+            37.232301666666665
+        ],
+        "bbox": [
+            39.755832,
+            37.229021,
+            39.766666,
+            37.234551
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l446",
+            "pta0200.pta001.pta-eng1:l61"
+        ],
+        "orig_name": [
+            "Tella",
+            "Tella"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q497731"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/874334",
         "canonical": "Arabia (region in Mesopotamia)",
         "description": "Some texts of the late Roman Empire use the name \"Arabia\" for a region in Mesopotamia. The sources and scholarly speculation about origins of the name and the location of the reason are summarized by Dillemann. In BAtlas, T. Sinclair identifies this Arabia with \"Tektek Dağ and district of Viranşehir.\"",
@@ -6196,6 +8418,58 @@
         "other_ids": []
     },
     {
+        "ID": "https://pleiades.stoa.org/places/874350",
+        "canonical": "Armenia (region)",
+        "description": "A plateau region between the Black and Caspian Seas.",
+        "coordinates": [
+            42.1670167182228,
+            38.74014368189581
+        ],
+        "bbox": [
+            39.267738,
+            37.9756532,
+            44.5812475,
+            39.8871706
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l49"
+        ],
+        "orig_name": [
+            "Armenia"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q211263"
+            }
+        ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/874444",
+        "canonical": "Dara/Anastasioupolis",
+        "description": "Dara/Anastasioupolis was a fortified Roman city of northern Mesopotamia located on the border with the Sassanid Empire.",
+        "coordinates": [
+            40.948011,
+            37.17838450000001
+        ],
+        "bbox": [
+            40.941111,
+            37.177778,
+            40.954911,
+            37.178991
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l321"
+        ],
+        "orig_name": [
+            "Dara"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q585145"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/874602",
         "canonical": "Mesopotamia (region)",
         "description": "An important region surrounding the Tigris–Euphrates river system, in the northern part of the Fertile Crescent, roughly corresponding to most of modern Iraq and Kuwait, eastern Syria, and Southeastern Turkey. Mesopotamia was a critical part of many empires and kingdoms, including the Sumerians, Akkadians, Assyrians, Babylonians, the Achaemenids, Alexander the Great, and the Seleucids. It was also a site of intense conflict between the Roman, Parthian, and Sassanid Empires until the 7th century Muslim conquest.",
@@ -6210,10 +8484,22 @@
             37.99227079015358
         ],
         "urns": [
-            "pta0007.pta008.pta-grc1:l3"
+            "pta0007.pta008.pta-grc1:l3",
+            "pta0200.pta001.pta-com1:l160",
+            "pta0200.pta001.pta-com1:l192",
+            "pta0200.pta001.pta-com1:l424",
+            "pta0200.pta001.pta-com1:l453",
+            "pta0200.pta001.pta-com1:l455",
+            "pta0200.pta001.pta-com1:l464"
         ],
         "orig_name": [
-            "Μεσοποταμίαν"
+            "Μεσοποταμίαν",
+            "Mesopotamia",
+            "Mesopotamia",
+            "Mesopotamia",
+            "Mesopotamia",
+            "Mesopotamia",
+            "Mesopotamia"
         ],
         "other_ids": [
             {
@@ -6240,20 +8526,49 @@
             "pta0001.pta024.pta-grc1:l7",
             "pta0004.pta001.pta-grcBibex:l1",
             "pta0004.pta001.pta-grcBibex:l22",
-            "pta0004.pta001.pta-grcBibex:l46"
+            "pta0004.pta001.pta-grcBibex:l46",
+            "pta0200.pta001.pta-com1:l206"
         ],
         "orig_name": [
             "Νινευὶ",
             "Νινευῇ",
             "Νινευὶ",
             "νινευῆ",
-            "νινευὶ"
+            "νινευὶ",
+            "Nineveh"
         ],
         "other_ids": [
             {
                 "WIKIDATA": "http://www.wikidata.org/entity/Q5680"
             }
         ]
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/876562",
+        "canonical": "Alexandria",
+        "description": "An ancient place, cited: BAtlas 89 unlocated Alexandria",
+        "coordinates": [
+            "",
+            ""
+        ],
+        "bbox": null,
+        "urns": [
+            "pta0200.pta001.pta-eng1:l40",
+            "pta0200.pta001.pta-eng1:l41",
+            "pta0200.pta001.pta-eng1:l47",
+            "pta0200.pta001.pta-eng1:l48",
+            "pta0200.pta001.pta-eng1:l58",
+            "pta0200.pta001.pta-eng1:l69"
+        ],
+        "orig_name": [
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria"
+        ],
+        "other_ids": []
     },
     {
         "ID": "https://pleiades.stoa.org/places/893951",
@@ -6600,6 +8915,54 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/897709",
+        "canonical": "Antiochia",
+        "description": "An ancient place, cited: BAtlas 91 unlocated Antiochia",
+        "coordinates": [
+            "",
+            ""
+        ],
+        "bbox": null,
+        "urns": [
+            "pta0200.pta001.pta-com1:l1",
+            "pta0200.pta001.pta-eng1:l8",
+            "pta0200.pta001.pta-eng1:l49",
+            "pta0200.pta001.pta-eng1:l51",
+            "pta0200.pta001.pta-eng1:l52",
+            "pta0200.pta001.pta-eng1:l55",
+            "pta0200.pta001.pta-eng1:l57",
+            "pta0200.pta001.pta-eng1:l63"
+        ],
+        "orig_name": [
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch",
+            "Antioch"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/897830",
+        "canonical": "Phrygia",
+        "description": "An ancient place, cited: BAtlas 91 unlocated Phrygia",
+        "coordinates": [
+            "",
+            ""
+        ],
+        "bbox": null,
+        "urns": [
+            "pta0200.pta001.pta-com1:l101"
+        ],
+        "orig_name": [
+            "Phrygia"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/912816",
         "canonical": "Babylonia",
         "description": "An ancient Akkadian region in Mesopotamia.",
@@ -6671,11 +9034,21 @@
         ],
         "urns": [
             "pta0001.pta061.pta-grc1:l9",
-            "pta0037.pta001.pta-grc1:l111"
+            "pta0037.pta001.pta-grc1:l111",
+            "pta0200.pta001.pta-com1:l179",
+            "pta0200.pta001.pta-com1:l417",
+            "pta0200.pta001.pta-com1:l421",
+            "pta0200.pta001.pta-com1:l428",
+            "pta0200.pta001.pta-com1:l458"
         ],
         "orig_name": [
             "Εὐφράτην",
-            "Εὐφράτῃ"
+            "Εὐφράτῃ",
+            "Euphrates",
+            "Euphrates",
+            "Euphrates",
+            "Euphrates",
+            "Euphrates"
         ],
         "other_ids": [
             {
@@ -7014,7 +9387,51 @@
             "pta0037.pta001.pta-grc1:l194",
             "pta0037.pta001.pta-grc1:l195",
             "pta0037.pta001.pta-grc1:l198",
-            "pta0037.pta001.pta-grc1:l201"
+            "pta0037.pta001.pta-grc1:l201",
+            "pta0200.pta001.pta-com1:l16",
+            "pta0200.pta001.pta-com1:l36",
+            "pta0200.pta001.pta-com1:l60",
+            "pta0200.pta001.pta-com1:l69",
+            "pta0200.pta001.pta-com1:l161",
+            "pta0200.pta001.pta-com1:l175",
+            "pta0200.pta001.pta-com1:l193",
+            "pta0200.pta001.pta-com1:l242",
+            "pta0200.pta001.pta-com1:l255",
+            "pta0200.pta001.pta-com1:l259",
+            "pta0200.pta001.pta-com1:l262",
+            "pta0200.pta001.pta-com1:l265",
+            "pta0200.pta001.pta-com1:l269",
+            "pta0200.pta001.pta-com1:l271",
+            "pta0200.pta001.pta-com1:l273",
+            "pta0200.pta001.pta-com1:l274",
+            "pta0200.pta001.pta-com1:l285",
+            "pta0200.pta001.pta-com1:l287",
+            "pta0200.pta001.pta-com1:l289",
+            "pta0200.pta001.pta-com1:l295",
+            "pta0200.pta001.pta-com1:l299",
+            "pta0200.pta001.pta-com1:l303",
+            "pta0200.pta001.pta-com1:l307",
+            "pta0200.pta001.pta-com1:l311",
+            "pta0200.pta001.pta-com1:l317",
+            "pta0200.pta001.pta-com1:l318",
+            "pta0200.pta001.pta-com1:l320",
+            "pta0200.pta001.pta-com1:l330",
+            "pta0200.pta001.pta-com1:l345",
+            "pta0200.pta001.pta-com1:l346",
+            "pta0200.pta001.pta-com1:l348",
+            "pta0200.pta001.pta-com1:l354",
+            "pta0200.pta001.pta-com1:l378",
+            "pta0200.pta001.pta-com1:l383",
+            "pta0200.pta001.pta-com1:l387",
+            "pta0200.pta001.pta-com1:l390",
+            "pta0200.pta001.pta-com1:l400",
+            "pta0200.pta001.pta-com1:l408",
+            "pta0200.pta001.pta-com1:l442",
+            "pta0200.pta001.pta-com1:l462",
+            "pta0200.pta001.pta-com1:l473",
+            "pta0200.pta001.pta-eng1:l42",
+            "pta0200.pta001.pta-eng1:l54",
+            "pta0200.pta001.pta-eng1:l67"
         ],
         "orig_name": [
             "Αἰγύπτῳ",
@@ -7200,7 +9617,51 @@
             "Αἰγύπτου",
             "Αἰγύπτου",
             "Αἰγύπτου",
-            "Αἰγύπτου"
+            "Αἰγύπτου",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt",
+            "Egypt"
         ],
         "other_ids": [
             {
@@ -7250,11 +9711,13 @@
         ],
         "urns": [
             "pta0001.pta026.pta-grc1:l5",
-            "pta0001.pta026.pta-grcBibex:l5"
+            "pta0001.pta026.pta-grcBibex:l5",
+            "pta0200.pta001.pta-com1:l99"
         ],
         "orig_name": [
             "Ἀσίας",
-            "Ἀσίας"
+            "Ἀσίας",
+            "Asia"
         ],
         "other_ids": [
             {
@@ -7277,10 +9740,12 @@
             40.0
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1:l29"
+            "pta0022.pta014.pta-grc1:l29",
+            "pta0200.pta001.pta-eng1:l37"
         ],
         "orig_name": [
-            "Κιλικίαν"
+            "Κιλικίαν",
+            "Cilicia"
         ],
         "other_ids": [
             {
@@ -7317,6 +9782,32 @@
         ]
     },
     {
+        "ID": "https://pleiades.stoa.org/places/981526",
+        "canonical": "Hellespontus (province)",
+        "description": "A Roman imperial province.",
+        "coordinates": [
+            26.699162,
+            40.346685
+        ],
+        "bbox": [
+            26.699162,
+            40.346685,
+            26.699162,
+            40.346685
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l270"
+        ],
+        "orig_name": [
+            "Hellespont"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q6514"
+            }
+        ]
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/981534",
         "canonical": "Mesopotamia",
         "description": "An ancient place, cited: BAtlas 100 P4 Mesopotamia",
@@ -7331,10 +9822,12 @@
             40.0
         ],
         "urns": [
-            "pta0022.pta014.pta-grc1:l30"
+            "pta0022.pta014.pta-grc1:l30",
+            "pta0200.pta001.pta-com1:l208"
         ],
         "orig_name": [
-            "Μεσοποταμίαν"
+            "Μεσοποταμίαν",
+            "Mesopotamia"
         ],
         "other_ids": []
     },
@@ -7382,6 +9875,28 @@
             "Λιβύας",
             "Λιβύης",
             "Λιβύης"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/991385",
+        "canonical": "Lydia (province)",
+        "description": "The Late Roman (post-Diocletianic) province of Lydia.",
+        "coordinates": [
+            27.5,
+            37.5
+        ],
+        "bbox": [
+            25.0,
+            35.0,
+            30.0,
+            40.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l100"
+        ],
+        "orig_name": [
+            "Lydia"
         ],
         "other_ids": []
     },
@@ -7480,6 +9995,33 @@
         "other_ids": []
     },
     {
+        "ID": "https://pleiades.stoa.org/places/992073",
+        "canonical": "Italia (Diocese)",
+        "description": "The post-Diocletianic diocese of Italia according to the Verona List (ca. AD 303-324). Italia was divided between the vicarius Italiae in the north and the vicarius of Rome in the south.",
+        "coordinates": [
+            "",
+            ""
+        ],
+        "bbox": null,
+        "urns": [
+            "pta0200.pta001.pta-com1:l355",
+            "pta0200.pta001.pta-com1:l360",
+            "pta0200.pta001.pta-com1:l361",
+            "pta0200.pta001.pta-com1:l368",
+            "pta0200.pta001.pta-com1:l371",
+            "pta0200.pta001.pta-com1:l475"
+        ],
+        "orig_name": [
+            "Italy",
+            "Italy",
+            "Italy",
+            "Italy",
+            "Italy",
+            "Italy"
+        ],
+        "other_ids": []
+    },
+    {
         "ID": "https://pleiades.stoa.org/places/992077",
         "canonical": "Moesiae",
         "description": "An ancient place, cited: BAtlas 101 L3 Moesiae",
@@ -7498,6 +10040,34 @@
         ],
         "orig_name": [
             "Μυσίας"
+        ],
+        "other_ids": []
+    },
+    {
+        "ID": "https://pleiades.stoa.org/places/992079",
+        "canonical": "Asiana (diocese)",
+        "description": "The late Roman (post-Diocletianic) diocese of Asiana. ",
+        "coordinates": [
+            27.5,
+            37.5
+        ],
+        "bbox": [
+            25.0,
+            35.0,
+            30.0,
+            40.0
+        ],
+        "urns": [
+            "pta0200.pta001.pta-com1:l72",
+            "pta0200.pta001.pta-com1:l93",
+            "pta0200.pta001.pta-com1:l106",
+            "pta0200.pta001.pta-com1:l124"
+        ],
+        "orig_name": [
+            "Asia",
+            "Asia",
+            "Asia",
+            "Asia"
         ],
         "other_ids": []
     },

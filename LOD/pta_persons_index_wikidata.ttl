@@ -188,6 +188,8 @@
 
 <https://www.wikidata.org/wiki/Q295530> rdfs:seeAlso <https://pta.bbaw.de/person/gnd_11902716X> .
 
+<https://www.wikidata.org/wiki/Q297855> rdfs:seeAlso <https://pta.bbaw.de/person/gnd_1017990549> .
+
 <https://www.wikidata.org/wiki/Q299428> rdfs:seeAlso <https://pta.bbaw.de/person/gnd_1238037372> .
 
 <https://www.wikidata.org/wiki/Q302> rdfs:seeAlso <https://pta.bbaw.de/person/Jesus_Mat.1.1> .

@@ -24,5 +24,7 @@
 
 <https://www.wikidata.org/wiki/Q638762> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0099> .
 
+<https://www.wikidata.org/wiki/Q718607> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0200> .
+
 <https://www.wikidata.org/wiki/Q722953> rdfs:seeAlso <https://pta.bbaw.de/text/urn:cts:pta:pta0001> .
 

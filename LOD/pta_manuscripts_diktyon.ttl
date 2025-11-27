@@ -1,5 +1,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<https://pinakes.irht.cnrs.fr/notices/cote/-> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00604>,
+        <https://pta.bbaw.de/manuscripts/PTAMS00605> .
+
 <https://pinakes.irht.cnrs.fr/notices/cote/10033> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00050> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/1091> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00003> .
@@ -1213,8 +1216,4 @@
 <https://pinakes.irht.cnrs.fr/notices/cote/9382> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00049> .
 
 <https://pinakes.irht.cnrs.fr/notices/cote/9727> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00544> .
-
-<https://pinakes.irht.cnrs.fr/notices/cote/L> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00604> .
-
-<https://pinakes.irht.cnrs.fr/notices/cote/V> rdfs:seeAlso <https://pta.bbaw.de/manuscripts/PTAMS00605> .
 
