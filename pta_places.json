@@ -181,6 +181,51 @@
         ]
     },
     {
+        "ID": "Gebal_Jos.13.5",
+        "canonical": "Gebal",
+        "description": "Gebal, also known as Byblos, was an important Phoenician city located on the Mediterranean coast, north of modern-day Beirut. The city is mentioned in several contexts in the Bible, highlighting its significance in the region. ¶In Ezekiel 27:9, Gebal is described as a source of skilled shipbuilders and wise men who helped repair the ships of Tyre, indicating the city's reputation for craftsmanship and maritime expertise. The \"elders\" and \"wise men\" of Gebal are specifically mentioned as being employed on Tyrian ships. ¶Gebal is also listed in Psalm 83:7 among the nations that formed a coalition against Israel, along with Edom, Moab, and others. This suggests that Gebal, at times, was hostile towards Israel and aligned with its enemies. ¶However, in 1 Kings 5:18, the Gebalites (people of Gebal) are mentioned alongside the Sidonians as skilled stonecutters who helped prepare the stones for the construction of Solomon's temple in Jerusalem. This indicates that Gebal also had a role in providing materials and labor for this important project. ¶The city of Gebal has a long history, with evidence of occupation dating back to the Bronze Age. It was an important center of trade and religion, particularly associated with the worship of the goddess Baalat Gebal. The city's strategic location and its valuable resources, such as cedar wood and skilled artisans, made it a significant player in the region's political and economic landscape.",
+        "coordinates": [
+            "35.6461419556213",
+            "34.11910360710159"
+        ],
+        "bbox": "",
+        "urns": [
+            "pta0001.pta028.pta-grcBibex:l1"
+        ],
+        "orig_name": [
+            "Γηβάλ"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q173532"
+            }
+        ]
+    },
+    {
+        "ID": "Gerizim_Mount_Deu.11.29",
+        "canonical": "Mount Gerizim",
+        "description": "Mount Gerizim is a mountain located in Samaria, near the ancient city of Shechem. It is mentioned in the Bible as a place of significant events and religious importance. ¶In Deuteronomy 11:29 and 27:12, Moses instructed the Israelites that when they crossed the Jordan River and entered the Promised Land, they were to pronounce blessings from Mount Gerizim and curses from Mount Ebal. This event took place under Joshua's leadership, as recorded in Joshua 8:33, where half of the tribes stood in front of Mount Gerizim and the other half in front of Mount Ebal, as the blessings and curses were read aloud. ¶Mount Gerizim is also associated with the parable of Jotham, son of Gideon, as recorded in Judges 9:7. After his brother Abimelech killed their seventy brothers and was made king by the men of Shechem, Jotham stood on top of Mount Gerizim and told a parable about the trees anointing a king over themselves. The parable was a warning against Abimelech's treachery and the folly of the men of Shechem in supporting him. ¶In later history, Mount Gerizim became a sacred site for the Samaritans, who built a temple there in the 5th century BC. They believed that Mount Gerizim, rather than Jerusalem, was the chosen place for worship. This led to tensions between the Samaritans and the Jews, as evident in the conversation between Jesus and the Samaritan woman at the well (John 4:20-21). ¶Today, Mount Gerizim, along with Mount Ebal, continues to be an important religious and archaeological site, with ruins of the Samaritan temple and other ancient structures still visible.",
+        "coordinates": [
+            "35.27285228460234",
+            "32.19956174365378"
+        ],
+        "bbox": "",
+        "urns": [
+            "pta0001.pta028.pta-grcBibex:l2"
+        ],
+        "orig_name": [
+            "Γαριζὶν ὄρος"
+        ],
+        "other_ids": [
+            {
+                "WIKIDATA": "http://www.wikidata.org/entity/Q1288751"
+            },
+            {
+                "PLEIADES": "https://pleiades.stoa.org/places/678147"
+            }
+        ]
+    },
+    {
         "ID": "Gihon_Gen.2.13",
         "canonical": "Gihon 2",
         "description": "Gihon is the name given to two different water sources in the Bible. First, it is mentioned as one of the four rivers that flowed from the Garden of Eden (Genesis 2:13). The exact location of this river is unknown, and there is no further information provided about it in the biblical text. Second, Gihon is the name of a spring located near Jerusalem, which played a significant role in the city's water supply and in the anointing of King Solomon. It was at the Gihon spring that Solomon was anointed as king by the priest Zadok and the prophet Nathan (1 Kings 1:33, 38, 45). King Hezekiah later directed the waters of the Gihon spring through a tunnel to the west side of the City of David, ensuring a reliable water supply for Jerusalem during times of siege (2 Chronicles 32:30). King Manasseh, Hezekiah's son, built a wall outside the City of David, extending it to the west of the Gihon spring (2 Chronicles 33:14). The Gihon spring's location and its importance for Jerusalem's water supply make it a significant site in the city's history and in the narratives of the Israelite monarchy.",
@@ -5042,10 +5087,24 @@
         ],
         "urns": [
             "pta0001.pta003.pta-grc1:l40",
+            "pta0001.pta028.pta-grcBibex:l5",
+            "pta0001.pta028.pta-grcBibex:l19",
+            "pta0001.pta028.pta-grcBibex:l20",
+            "pta0001.pta028.pta-grcBibex:l21",
+            "pta0001.pta028.pta-grcBibex:l22",
+            "pta0001.pta028.pta-grcBibex:l23",
+            "pta0001.pta028.pta-grcBibex:l25",
             "pta0001.pta052.pta-grc1:l4"
         ],
         "orig_name": [
             "Κάρμηλος",
+            "Καρμήλου",
+            "Καρμήλου",
+            "καρμήλου",
+            "Καρμήλῳ",
+            "Καρμήλου",
+            "κάρμηλον",
+            "Καρμήλου",
             "Καρμήλου"
         ],
         "other_ids": []
@@ -5282,12 +5341,28 @@
         ],
         "urns": [
             "pta0001.pta003.pta-grc1:l37",
+            "pta0001.pta028.pta-grcBibex:l4",
+            "pta0001.pta028.pta-grcBibex:l6",
+            "pta0001.pta028.pta-grcBibex:l8",
+            "pta0001.pta028.pta-grcBibex:l9",
+            "pta0001.pta028.pta-grcBibex:l12",
+            "pta0001.pta028.pta-grcBibex:l14",
+            "pta0001.pta028.pta-grcBibex:l18",
+            "pta0001.pta028.pta-grcBibex:l24",
             "pta0001.pta044.pta-grc1:l4",
             "pta0001.pta044.pta-grc1:l5",
             "pta0003.pta020.pta-grcBibex3:l209"
         ],
         "orig_name": [
             "Λίβανος",
+            "Λιβάνου",
+            "Λίβανον",
+            "Λίβανον",
+            "Λιβάνου",
+            "Λιβάνου",
+            "Λιβάνου",
+            "Λιβάνου",
+            "Λιβάνου",
             "Λιβάνου",
             "Λιβάνῳ",
             "Λιβάνῳ"
@@ -5908,6 +5983,9 @@
             "pta0001.pta026.pta-grc1:l1",
             "pta0001.pta026.pta-grcBibex:l1",
             "pta0001.pta027.pta-grc1:l5",
+            "pta0001.pta028.pta-grcBibex:l7",
+            "pta0001.pta028.pta-grcBibex:l15",
+            "pta0001.pta028.pta-grcBibex:l16",
             "pta0001.pta029.pta-grc1:l3",
             "pta0001.pta029.pta-grc1:l5",
             "pta0001.pta029.pta-grc1:l10",
@@ -6288,6 +6366,9 @@
             "Ἱερουσαλὴμ",
             "ἰερουσαλὴμ",
             "Σιὼν",
+            "Ἰερουσαλὴμ",
+            "Ἱεροσολύμων",
+            "Ἱεροσόλυμα",
             "Σιὼν",
             "Σιὼν",
             "Σιὼν",
@@ -6653,6 +6734,8 @@
             "pta0001.pta014.pta-grc1:l6",
             "pta0001.pta019.pta-grc1:l2",
             "pta0001.pta020.pta-grc1:l13",
+            "pta0001.pta028.pta-grcBibex:l3",
+            "pta0001.pta028.pta-grcBibex:l17",
             "pta0001.pta029.pta-grc1:l1",
             "pta0001.pta029.pta-grc1:l2",
             "pta0001.pta037.pta-grc1:l19",
@@ -6676,6 +6759,8 @@
             "Ἰορδάνου",
             "Ἰορδάνην",
             "Ἰορδάνῃ",
+            "Ἰορδάνου",
+            "Ἰορδάνου",
             "Ἰορδάνη",
             "Ἰορδάνη",
             "Ἰορδάνου",
@@ -8591,6 +8676,9 @@
             "pta0001.pta011.pta-grc1:l9",
             "pta0001.pta020.pta-grc1:l3",
             "pta0001.pta020.pta-grc1:l6",
+            "pta0001.pta028.pta-grcBibex:l10",
+            "pta0001.pta028.pta-grcBibex:l11",
+            "pta0001.pta028.pta-grcBibex:l13",
             "pta0001.pta029.pta-grc1:l7",
             "pta0001.pta029.pta-grc1:l8",
             "pta0001.pta029.pta-grc1:l9",
@@ -8752,6 +8840,9 @@
             "Βαβυλῶνι",
             "Βαβυλῶνα",
             "Βαβυλῶνι",
+            "Βαβυλῶνα",
+            "Βαβυλῶνα",
+            "Λιβάνου",
             "Βαβυλῶνα",
             "Βαβυλῶνι",
             "Βαβυλῶνος",
