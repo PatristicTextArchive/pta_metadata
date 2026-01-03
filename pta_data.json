@@ -432,10 +432,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-MsMr.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-MsMr.xml",
-                                "dc:date": "2024-12-08",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-MsMr.xml",
+                                "dc:date": "2026-01-02",
                                 "dct:dateCopyrighted": "2017",
-                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam (Ms Mr). Transcribed from Moskau, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 284 (PTAMS00241) by Annette von Stockhausen. Patristic Text Archive 2017. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-MsMr.",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam (Ms Mr). Transcribed from Moskau, Gosudarstvennyj Istoričeskij Musej (GIM), Sinod. gr. 284 (PTAMS00241) by Annette von Stockhausen. Patristic Text Archive 2017. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-MsMr.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -470,10 +470,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-MsSc.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-MsSc.xml",
-                                "dc:date": "2024-12-08",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-MsSc.xml",
+                                "dc:date": "2026-01-02",
                                 "dct:dateCopyrighted": "2017",
-                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam (Ms Sc). Transcribed from El Escorial, Real Biblioteca, Φ III 20 (PTAMS00061) by Annette von Stockhausen. Patristic Text Archive 2017. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-MsSc.",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam (Ms Sc). Transcribed from El Escorial, Real Biblioteca, Φ III 20 (PTAMS00061) by Annette von Stockhausen. Patristic Text Archive 2017. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-MsSc.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -508,10 +508,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-MsSi.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-MsSi.xml",
-                                "dc:date": "2024-12-08",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-MsSi.xml",
+                                "dc:date": "2026-01-02",
                                 "dct:dateCopyrighted": "2017",
-                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam (Ms Si). Transcribed from Sinai, Monê tês Hagias Aikaterinês, Sinaiticus gr. 491 (PTAMS00408) by Annette von Stockhausen. Patristic Text Archive 2017. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-MsSi.",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam (Ms Si). Transcribed from Sinai, Monê tês Hagias Aikaterinês, Sinaiticus gr. 491 (PTAMS00408) by Annette von Stockhausen. Patristic Text Archive 2017. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-MsSi.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         },
@@ -546,11 +546,11 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-chu1.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-chu1.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-chu1.xml",
                                 "dct:relation": "urn:cts:pta:pta0001.pta028.pta-grcBibex",
-                                "dc:date": "2024-12-08",
+                                "dc:date": "2026-01-02",
                                 "dct:dateCopyrighted": "1910",
-                                "dct:bibliographicCitation": "Severianus\n                        Gabalensis: In theophaniam, edited according to Макарии , Великие Минеи Четии. Январь. Выпуск 15. Тетрадь 1. Дни 1–6. Москва, 1910. Patristic Text Archive 2019. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-chu1.",
+                                "dct:bibliographicCitation": "Severianus\n                        Gabalensis: In theophaniam, edited according to Макарии , Великие Минеи Четии. Январь. Выпуск 15. Тетрадь 1. Дни 1–6. Москва, 1910. Patristic Text Archive 2019. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-chu1.",
                                 "dct:isPartOf": null
                             }
                         },
@@ -585,10 +585,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-grc1.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-grc1.xml",
-                                "dc:date": "2024-12-08",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-grc1.xml",
+                                "dc:date": "2026-01-02",
                                 "dct:dateCopyrighted": "1779",
-                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam, edited according to Christian Friedrich Matthaei, Lectiones Mosquenses. Volumen II. Leipzig, 1779, 1–6. Patristic Text Archive 2018. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-grc1.",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam, edited according to Christian Friedrich Matthaei, Lectiones Mosquenses. Volumen II. Leipzig, 1779, 1–6. Patristic Text Archive 2018. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-grc1.",
                                 "dct:isPartOf": null
                             }
                         },
@@ -623,10 +623,10 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-grc2.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-grc2.xml",
-                                "dc:date": "2024-12-08",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-grc2.xml",
+                                "dc:date": "2026-01-02",
                                 "dct:dateCopyrighted": "1864",
-                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam, edited according to Jean-Paul Migne (ed.), Patrologia graeca. 65. Paris 1864, 15–26. Patristic Text Archive 2018. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-grc2.",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: In theophaniam, edited according to Jean-Paul Migne (ed.), Patrologia graeca. 65. Paris 1864, 15–26. Patristic Text Archive 2018. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-grc2.",
                                 "dct:isPartOf": null
                             }
                         },
@@ -640,13 +640,13 @@
                             },
                             "ti:description": {
                                 "@xml:lang": "eng",
-                                "#text": "Annette von Stockhausen (Editor), Berlin-Brandenburgische Akademie der Wissenschaften"
+                                "#text": "Annette von Stockhausen (Editor), Berlin-Brandenburgische Akademie der\n                  Wissenschaften"
                             },
                             "cpt:structured-metadata": {
                                 "@xml:lang": "deu",
                                 "dc:title": "Severianus Gabalensis: In theophaniam",
                                 "dc:creator": "Severianus Gabalensis",
-                                "dct:source": "Annette von Stockhausen (Editor), Berlin-Brandenburgische Akademie der Wissenschaften",
+                                "dct:source": "Annette von Stockhausen (Editor), Berlin-Brandenburgische Akademie der\n                  Wissenschaften",
                                 "dc:contributor": "Annette von Stockhausen",
                                 "dc:publisher": [
                                     {
@@ -661,53 +661,209 @@
                                 "dc:format": "application/tei+xml",
                                 "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
                                 "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-grcBibex.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-grcBibex.xml",
-                                "dc:date": "2024-12-08",
-                                "dct:dateCopyrighted": "2018",
-                                "dct:bibliographicCitation": "Annette von Stockhausen (Editor), Berlin-Brandenburgische Akademie der Wissenschaften, Severianus Gabalensis: In theophaniam. Patristic Text Archive 2018. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-grcBibex.",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-grcBibex.xml",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2025",
+                                "dct:bibliographicCitation": "Annette von Stockhausen (Editor), Berlin-Brandenburgische Akademie der\n                  Wissenschaften, Severianus Gabalensis: In theophaniam. Patristic Text Archive 2025. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-grcBibex.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
+                            "@xml:lang": "lat",
+                            "@urn": "urn:cts:pta:pta0001.pta028.pta-lat1",
+                            "@workUrn": "urn:cts:pta:pta0001.pta028",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Severianus Gabalensis (Augustinus): In theophaniam"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Migne Jean-Paul, Sancti Aurelii Augustini Opera Omnia. Tomus Quintus. Pars Altera. Patrologia Latina. Volumen 39. Paris, 1865"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Severianus Gabalensis (Augustinus): In theophaniam",
+                                "dc:creator": "Severianus Gabalensis (Augustinus)",
+                                "dct:source": "Migne Jean-Paul, Sancti Aurelii Augustini Opera Omnia. Tomus Quintus. Pars Altera. Patrologia Latina. Volumen 39. Paris, 1865",
+                                "dc:contributor": "Migne Jean-Paul",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-lat1.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-lat1.xml",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "1865",
+                                "dct:bibliographicCitation": "Severianus Gabalensis (Augustinus): In theophaniam, edited according to Migne Jean-Paul, Sancti Aurelii Augustini Opera Omnia. Tomus Quintus. Pars Altera. Patrologia Latina. Volumen 39. Paris, 1865. Patristic Text Archive 2018. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-lat1.",
+                                "dct:isPartOf": null
+                            }
+                        },
+                        {
+                            "@xml:lang": "syc",
+                            "@urn": "urn:cts:pta:pta0001.pta028.pta-sycBibex",
+                            "@workUrn": "urn:cts:pta:pta0001.pta028",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Severianus Gabalensis: In theophaniam"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Severianus Gabalensis: In theophaniam",
+                                "dc:creator": "Severianus Gabalensis",
+                                "dct:source": "Nikolai Kiel (Editor)",
+                                "dc:contributor": "Nikolai Kiel",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-sycBibex.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-sycBibex.xml",
+                                "dct:relation": "urn:cts:pta:pta0001.pta028.pta-grcBibex",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2025",
+                                "dct:bibliographicCitation": "Nikolai Kiel (Editor), Severianus Gabalensis: In theophaniam. Patristic Text Archive 2025. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-sycBibex.",
                                 "dct:isPartOf": "Neueditionen"
                             }
                         }
                     ],
-                    "ti:translation": {
-                        "@xml:lang": "en",
-                        "@urn": "urn:cts:pta:pta0001.pta028.pta-eng2",
-                        "@workUrn": "urn:cts:pta:pta0001.pta028",
-                        "ti:label": {
-                            "@xml:lang": "eng",
-                            "#text": "In theophaniam"
-                        },
-                        "ti:description": {
-                            "@xml:lang": "eng",
-                            "#text": "Severianus\n                        Gabalensis ()"
-                        },
-                        "cpt:structured-metadata": {
+                    "ti:translation": [
+                        {
                             "@xml:lang": "deu",
-                            "dc:title": "In theophaniam",
-                            "dc:creator": "Severianus\n                        Gabalensis",
-                            "dct:source": "Severianus\n                        Gabalensis ()",
-                            "dc:contributor": "Severianus\n                        Gabalensis",
-                            "dc:publisher": [
-                                {
-                                    "@xml:lang": "eng",
-                                    "#text": "Patristic Text Archive (BBAW)"
-                                },
-                                {
-                                    "@xml:lang": "deu",
-                                    "#text": "Patristisches Textarchiv (BBAW)"
-                                }
-                            ],
-                            "dc:format": "application/tei+xml",
-                            "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-eng2.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/284a4693e222362ad249d7336cf3cce39c9f435b/data/pta0001/pta028/pta0001.pta028.pta-eng2.xml",
-                            "dct:relation": "urn:cts:pta:pta0001.pta028.pta-chu1",
-                            "dc:date": "2024-12-08",
-                            "dct:dateCopyrighted": "2019",
-                            "dct:bibliographicCitation": "Severianus\n                        Gabalensis (), In theophaniam. Patristic Text Archive 2019. Version: 284a4693, committed on 2024-12-08, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-eng2.",
-                            "dct:isPartOf": "Neueditionen"
+                            "@urn": "urn:cts:pta:pta0001.pta028.pta-deuBibex",
+                            "@workUrn": "urn:cts:pta:pta0001.pta028",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Homilie über die Gotteserscheinung"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Severian von Gabala"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Homilie über die Gotteserscheinung",
+                                "dc:creator": "Severian von Gabala",
+                                "dct:source": "Annette von Stockhausen (Translator)",
+                                "dc:contributor": "Annette von Stockhausen",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-deuBibex.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-deuBibex.xml",
+                                "dct:relation": "urn:cts:pta:pta0001.pta028.pta-grcBibex",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2018",
+                                "dct:bibliographicCitation": "Annette von Stockhausen (Translator), Severian von Gabala: Homilie über die Gotteserscheinung. Patristic Text Archive 2018. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-deuBibex.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
+                            "@xml:lang": "deu",
+                            "@urn": "urn:cts:pta:pta0001.pta028.pta-deuBibex2",
+                            "@workUrn": "urn:cts:pta:pta0001.pta028",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Homilie über die Gotteserscheinung"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Severian von Gabala"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Homilie über die Gotteserscheinung",
+                                "dc:creator": "Severian von Gabala",
+                                "dct:source": "Nikolai Kiel (Translator)",
+                                "dc:contributor": "Nikolai Kiel",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-deuBibex2.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-deuBibex2.xml",
+                                "dct:relation": "urn:cts:pta:pta0001.pta028.pta-sycBibex",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2025",
+                                "dct:bibliographicCitation": "Nikolai Kiel (Translator), Severian von Gabala: Homilie über die Gotteserscheinung. Patristic Text Archive 2025. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-deuBibex2.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
+                            "@xml:lang": "en",
+                            "@urn": "urn:cts:pta:pta0001.pta028.pta-eng2",
+                            "@workUrn": "urn:cts:pta:pta0001.pta028",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Severianus\n                        Gabalensis: In theophaniam"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Daria Coșcodan (Translator)"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Severianus\n                        Gabalensis: In theophaniam",
+                                "dc:creator": "Severianus\n                        Gabalensis",
+                                "dct:source": "Daria Coșcodan (Translator)",
+                                "dc:contributor": "Daria Coșcodan",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta028/pta0001.pta028.pta-eng2.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta028/pta0001.pta028.pta-eng2.xml",
+                                "dct:relation": "urn:cts:pta:pta0001.pta028.pta-chu1",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2019",
+                                "dct:bibliographicCitation": "Daria Coșcodan (Translator), Severianus\n                        Gabalensis: In theophaniam.. Patristic Text Archive 2019. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta028.pta-eng2.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
                         }
-                    }
+                    ]
                 }
             },
             {
@@ -8213,6 +8369,187 @@
                             "dct:dateCopyrighted": "1933",
                             "dct:bibliographicCitation": "Severianus Gabalensis: Fragmenta in epistulas Pauli, edited according to Karl Staab, Pauluskommentare aus der Griechischen Kirche aus\n        Katenenhandschriften gesammelt und herausgegeben. Neutestamentliche Abhandlungen 15. Münster i. W., 1933. Patristic Text Archive 2024. Version: e865211b, committed on 2024-12-13, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta072.pta-grc1.",
                             "dct:isPartOf": null
+                        }
+                    }
+                }
+            },
+            {
+                "ti:work": {
+                    "@xmlns:ti": "http://chs.harvard.edu/xmlns/cts",
+                    "@xmlns:dct": "http://purl.org/dc/terms/",
+                    "@xmlns:cpt": "http://purl.org/capitains/ns/1.0#",
+                    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                    "@groupUrn": "urn:cts:pta:pta0001",
+                    "@xml:lang": "",
+                    "@urn": "urn:cts:pta:pta0001.pta073",
+                    "ti:title": {
+                        "@xml:lang": "lat",
+                        "#text": "Homilia de nativitate"
+                    },
+                    "cpt:structured-metadata": {
+                        "dct:created": "0401–0404",
+                        "dct:spatial": "https://pleiades.stoa.org/places/77402394",
+                        "dct:type": [
+                            "Paraenetic",
+                            "Sermon"
+                        ],
+                        "dc:identifier": [
+                            "PTA:pta0001.pta073",
+                            "CPG:4260"
+                        ]
+                    },
+                    "ti:edition": [
+                        {
+                            "@xml:lang": "",
+                            "@urn": "urn:cts:pta:pta0001.pta073.pta-MsSyrB",
+                            "@workUrn": "urn:cts:pta:pta0001.pta073",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Severianus Gabalensis: Homilia de nativitate (Ms B)"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Vatican City, Biblioteca Apostolica Vaticana, Sir. 369 (PTAMS00630), transcribed by Nikolai Kiel"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Severianus Gabalensis: Homilia de nativitate (Ms B)",
+                                "dc:creator": "Severianus Gabalensis",
+                                "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00630",
+                                "dc:contributor": "Nikolai Kiel",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta073/pta0001.pta073.pta-MsSyrB.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta073/pta0001.pta073.pta-MsSyrB.xml",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2025",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: Homilia de nativitate (Ms B). Transcribed from Vatican City, Biblioteca Apostolica Vaticana, Sir. 369 (PTAMS00630) by Nikolai Kiel. Patristic Text Archive 2025. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta073.pta-MsSyrB.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
+                            "@xml:lang": "",
+                            "@urn": "urn:cts:pta:pta0001.pta073.pta-MsSyrL",
+                            "@workUrn": "urn:cts:pta:pta0001.pta073",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Severianus Gabalensis: Homilia de nativitate (Ms L)"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "London, British Library, Or. 8606 (PTAMS00631), transcribed by Nikolai Kiel"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Severianus Gabalensis: Homilia de nativitate (Ms L)",
+                                "dc:creator": "Severianus Gabalensis",
+                                "dct:source": "https://pta.bbaw.de/manuscripts/PTAMS00631",
+                                "dc:contributor": "Nikolai Kiel",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta073/pta0001.pta073.pta-MsSyrL.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta073/pta0001.pta073.pta-MsSyrL.xml",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": "2025",
+                                "dct:bibliographicCitation": "Severianus Gabalensis: Homilia de nativitate (Ms L). Transcribed from London, British Library, Or. 8606 (PTAMS00631) by Nikolai Kiel. Patristic Text Archive 2025. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta073.pta-MsSyrL.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        },
+                        {
+                            "@xml:lang": "syc",
+                            "@urn": "urn:cts:pta:pta0001.pta073.pta-sycBibex",
+                            "@workUrn": "urn:cts:pta:pta0001.pta073",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "Severianus Gabalensis: Homilia de nativitate"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "Severianus Gabalensis: Homilia de nativitate",
+                                "dc:creator": "Severianus Gabalensis",
+                                "dct:source": "Nikolai Kiel (Editor)",
+                                "dc:contributor": "Nikolai Kiel",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta073/pta0001.pta073.pta-sycBibex.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta073/pta0001.pta073.pta-sycBibex.xml",
+                                "dc:date": "2026-01-02",
+                                "dct:dateCopyrighted": null,
+                                "dct:bibliographicCitation": "Nikolai Kiel (Editor), Severianus Gabalensis: Homilia de nativitate. Patristic Text Archive . Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta073.pta-sycBibex.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
+                        }
+                    ],
+                    "ti:translation": {
+                        "@xml:lang": "deu",
+                        "@urn": "urn:cts:pta:pta0001.pta073.pta-deuBibex",
+                        "@workUrn": "urn:cts:pta:pta0001.pta073",
+                        "ti:label": {
+                            "@xml:lang": "eng",
+                            "#text": "Homilie über die Geburt"
+                        },
+                        "ti:description": {
+                            "@xml:lang": "eng",
+                            "#text": "Severian von Gabala ()"
+                        },
+                        "cpt:structured-metadata": {
+                            "@xml:lang": "deu",
+                            "dc:title": "Homilie über die Geburt",
+                            "dc:creator": "Severian von Gabala",
+                            "dct:source": "Nikolai Kiel (Translator)",
+                            "dc:contributor": "Nikolai Kiel",
+                            "dc:publisher": [
+                                {
+                                    "@xml:lang": "eng",
+                                    "#text": "Patristic Text Archive (BBAW)"
+                                },
+                                {
+                                    "@xml:lang": "deu",
+                                    "#text": "Patristisches Textarchiv (BBAW)"
+                                }
+                            ],
+                            "dc:format": "application/tei+xml",
+                            "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0001/pta073/pta0001.pta073.pta-deuBibex.xml",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/26d7efb238f4ad73466a50cd697c4af73da5a27a/data/pta0001/pta073/pta0001.pta073.pta-deuBibex.xml",
+                            "dct:relation": "urn:cts:pta:pta0001.pta073.pta-sycBibex",
+                            "dc:date": "2026-01-02",
+                            "dct:dateCopyrighted": "2025",
+                            "dct:bibliographicCitation": "Nikolai Kiel (Translator), Severian von Gabala: Homilie über die Geburt. Patristic Text Archive 2025. Version: 26d7efb2, committed on 2026-01-02, https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta073.pta-deuBibex.",
+                            "dct:isPartOf": "Neueditionen"
                         }
                     }
                 }
@@ -17375,85 +17712,7 @@
                             }
                         }
                     ],
-                    "ti:commentary": {
-                        "@xml:lang": "eng",
-                        "@urn": "urn:cts:pta:pta0200.pta001.pta-com1",
-                        "@workUrn": "urn:cts:pta:pta0200.pta001",
-                        "ti:label": {
-                            "@xml:lang": "eng",
-                            "#text": "Commentary to John of Ephesus Ecclesiastical History"
-                        },
-                        "ti:description": {
-                            "@xml:lang": "eng",
-                            "#text": "Silvio Roggo (Author), Goethe Universität Frankfurt am Main / Nikolai Kiel (Author), Goethe Universität Frankfurt am Main / Philip Michael Forness (Author), Katholieke Universiteit Leuven / Hartmut Leppin (Author), Goethe Universität Frankfurt am Main / Benjamin Fourlas (Contributor), Goethe Universität Frankfurt am Main"
-                        },
-                        "cpt:structured-metadata": {
-                            "@xml:lang": "deu",
-                            "dc:title": "Commentary to John of Ephesus Ecclesiastical History",
-                            "dc:creator": "Silvio Roggo / Nikolai Kiel / Philip Michael Forness / Hartmut Leppin / Benjamin Fourlas",
-                            "dct:source": "Silvio Roggo (Author), Goethe Universität Frankfurt am Main / Nikolai Kiel (Author), Goethe Universität Frankfurt am Main / Philip Michael Forness (Author), Katholieke Universiteit Leuven / Hartmut Leppin (Author), Goethe Universität Frankfurt am Main / Benjamin Fourlas (Contributor), Goethe Universität Frankfurt am Main",
-                            "dc:contributor": "Silvio Roggo / Nikolai Kiel / Philip Michael Forness / Hartmut Leppin / Benjamin Fourlas",
-                            "dc:publisher": [
-                                {
-                                    "@xml:lang": "eng",
-                                    "#text": "Patristic Text Archive (BBAW)"
-                                },
-                                {
-                                    "@xml:lang": "deu",
-                                    "#text": "Patristisches Textarchiv (BBAW)"
-                                }
-                            ],
-                            "dc:format": "application/tei+xml",
-                            "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0200/pta001/pta0200.pta001.pta-com1.xml",
-                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/676564b04a1fa0c54eb462867266be10127fdcd6/data/pta0200/pta001/pta0200.pta001.pta-com1.xml",
-                            "dct:relation": "urn:cts:pta:pta0200.pta001.pta-syc1",
-                            "dc:date": "2025-11-26",
-                            "dct:dateCopyrighted": "2025",
-                            "dct:bibliographicCitation": "Silvio Roggo (Author), Goethe Universität Frankfurt am Main / Nikolai Kiel (Author), Goethe Universität Frankfurt am Main / Philip Michael Forness (Author), Katholieke Universiteit Leuven / Hartmut Leppin (Author), Goethe Universität Frankfurt am Main / Benjamin Fourlas (Contributor), Goethe Universität Frankfurt am Main, Commentary to John of Ephesus Ecclesiastical History. Patristic Text Archive 2025. Version: 676564b0, committed on 2025-11-26, https://pta.bbaw.de/text/urn:cts:pta:pta0200.pta001.pta-com1.",
-                            "dct:isPartOf": "Neueditionen"
-                        }
-                    },
                     "ti:translation": [
-                        {
-                            "@xml:lang": "eng",
-                            "@urn": "urn:cts:pta:pta0200.pta001.pta-eng1",
-                            "@workUrn": "urn:cts:pta:pta0200.pta001",
-                            "ti:label": {
-                                "@xml:lang": "eng",
-                                "#text": "John of Ephesus: Ecclesiastical History"
-                            },
-                            "ti:description": {
-                                "@xml:lang": "eng",
-                                "#text": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main"
-                            },
-                            "cpt:structured-metadata": {
-                                "@xml:lang": "deu",
-                                "dc:title": "John of Ephesus: Ecclesiastical History",
-                                "dc:creator": "Philip Michael Forness / Silvio Roggo / Hartmut Leppin / Nikolai Kiel",
-                                "dct:source": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main",
-                                "dc:contributor": "Philip Michael Forness / Silvio Roggo / Hartmut Leppin / Nikolai Kiel",
-                                "dc:publisher": [
-                                    {
-                                        "@xml:lang": "eng",
-                                        "#text": "Patristic Text Archive (BBAW)"
-                                    },
-                                    {
-                                        "@xml:lang": "deu",
-                                        "#text": "Patristisches Textarchiv (BBAW)"
-                                    }
-                                ],
-                                "dc:format": "application/tei+xml",
-                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
-                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0200/pta001/pta0200.pta001.pta-eng1.xml",
-                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/676564b04a1fa0c54eb462867266be10127fdcd6/data/pta0200/pta001/pta0200.pta001.pta-eng1.xml",
-                                "dct:relation": "urn:cts:pta:pta0200.pta001.pta-syc1",
-                                "dc:date": "2025-11-26",
-                                "dct:dateCopyrighted": "2025",
-                                "dct:bibliographicCitation": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main, John of Ephesus: Ecclesiastical History. Patristic Text Archive 2025. Version: 676564b0, committed on 2025-11-26, https://pta.bbaw.de/text/urn:cts:pta:pta0200.pta001.pta-eng1.",
-                                "dct:isPartOf": "Neueditionen"
-                            }
-                        },
                         {
                             "@xml:lang": "eng",
                             "@urn": "urn:cts:pta:pta0200.pta001.pta-eng2",
@@ -17492,8 +17751,86 @@
                                 "dct:bibliographicCitation": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main, Testimonies to John of Ephesus's Ecclesiastical History, Part 3 from the Chronicle of Michael the Syrian. Patristic Text Archive 2025. Version: 676564b0, committed on 2025-11-26, https://pta.bbaw.de/text/urn:cts:pta:pta0200.pta001.pta-eng2.",
                                 "dct:isPartOf": "Neueditionen"
                             }
+                        },
+                        {
+                            "@xml:lang": "eng",
+                            "@urn": "urn:cts:pta:pta0200.pta001.pta-eng1",
+                            "@workUrn": "urn:cts:pta:pta0200.pta001",
+                            "ti:label": {
+                                "@xml:lang": "eng",
+                                "#text": "John of Ephesus: Ecclesiastical History"
+                            },
+                            "ti:description": {
+                                "@xml:lang": "eng",
+                                "#text": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main"
+                            },
+                            "cpt:structured-metadata": {
+                                "@xml:lang": "deu",
+                                "dc:title": "John of Ephesus: Ecclesiastical History",
+                                "dc:creator": "Philip Michael Forness / Silvio Roggo / Hartmut Leppin / Nikolai Kiel",
+                                "dct:source": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main",
+                                "dc:contributor": "Philip Michael Forness / Silvio Roggo / Hartmut Leppin / Nikolai Kiel",
+                                "dc:publisher": [
+                                    {
+                                        "@xml:lang": "eng",
+                                        "#text": "Patristic Text Archive (BBAW)"
+                                    },
+                                    {
+                                        "@xml:lang": "deu",
+                                        "#text": "Patristisches Textarchiv (BBAW)"
+                                    }
+                                ],
+                                "dc:format": "application/tei+xml",
+                                "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                                "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0200/pta001/pta0200.pta001.pta-eng1.xml",
+                                "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/676564b04a1fa0c54eb462867266be10127fdcd6/data/pta0200/pta001/pta0200.pta001.pta-eng1.xml",
+                                "dct:relation": "urn:cts:pta:pta0200.pta001.pta-syc1",
+                                "dc:date": "2025-11-26",
+                                "dct:dateCopyrighted": "2025",
+                                "dct:bibliographicCitation": "Philip Michael Forness (Translator), Katholieke Universiteit Leuven / Silvio Roggo (Contributor), Goethe Universität Frankfurt am Main / Hartmut Leppin (Contributor), Goethe Universität Frankfurt am Main / Nikolai Kiel (Contributor), Goethe Universität Frankfurt am Main, John of Ephesus: Ecclesiastical History. Patristic Text Archive 2025. Version: 676564b0, committed on 2025-11-26, https://pta.bbaw.de/text/urn:cts:pta:pta0200.pta001.pta-eng1.",
+                                "dct:isPartOf": "Neueditionen"
+                            }
                         }
-                    ]
+                    ],
+                    "ti:commentary": {
+                        "@xml:lang": "eng",
+                        "@urn": "urn:cts:pta:pta0200.pta001.pta-com1",
+                        "@workUrn": "urn:cts:pta:pta0200.pta001",
+                        "ti:label": {
+                            "@xml:lang": "eng",
+                            "#text": "Commentary to John of Ephesus Ecclesiastical History"
+                        },
+                        "ti:description": {
+                            "@xml:lang": "eng",
+                            "#text": "Silvio Roggo (Author), Goethe Universität Frankfurt am Main / Nikolai Kiel (Author), Goethe Universität Frankfurt am Main / Philip Michael Forness (Author), Katholieke Universiteit Leuven / Hartmut Leppin (Author), Goethe Universität Frankfurt am Main / Benjamin Fourlas (Contributor), Goethe Universität Frankfurt am Main"
+                        },
+                        "cpt:structured-metadata": {
+                            "@xml:lang": "deu",
+                            "dc:title": "Commentary to John of Ephesus Ecclesiastical History",
+                            "dc:creator": "Silvio Roggo / Nikolai Kiel / Philip Michael Forness / Hartmut Leppin / Benjamin Fourlas",
+                            "dct:source": "Silvio Roggo (Author), Goethe Universität Frankfurt am Main / Nikolai Kiel (Author), Goethe Universität Frankfurt am Main / Philip Michael Forness (Author), Katholieke Universiteit Leuven / Hartmut Leppin (Author), Goethe Universität Frankfurt am Main / Benjamin Fourlas (Contributor), Goethe Universität Frankfurt am Main",
+                            "dc:contributor": "Silvio Roggo / Nikolai Kiel / Philip Michael Forness / Hartmut Leppin / Benjamin Fourlas",
+                            "dc:publisher": [
+                                {
+                                    "@xml:lang": "eng",
+                                    "#text": "Patristic Text Archive (BBAW)"
+                                },
+                                {
+                                    "@xml:lang": "deu",
+                                    "#text": "Patristisches Textarchiv (BBAW)"
+                                }
+                            ],
+                            "dc:format": "application/tei+xml",
+                            "dc:rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "dct:isVersionOf": "https://github.com/PatristicTextArchive/pta_data/blob/public/data/pta0200/pta001/pta0200.pta001.pta-com1.xml",
+                            "dct:hasVersion": "https://github.com/PatristicTextArchive/pta_data/blob/676564b04a1fa0c54eb462867266be10127fdcd6/data/pta0200/pta001/pta0200.pta001.pta-com1.xml",
+                            "dct:relation": "urn:cts:pta:pta0200.pta001.pta-syc1",
+                            "dc:date": "2025-11-26",
+                            "dct:dateCopyrighted": "2025",
+                            "dct:bibliographicCitation": "Silvio Roggo (Author), Goethe Universität Frankfurt am Main / Nikolai Kiel (Author), Goethe Universität Frankfurt am Main / Philip Michael Forness (Author), Katholieke Universiteit Leuven / Hartmut Leppin (Author), Goethe Universität Frankfurt am Main / Benjamin Fourlas (Contributor), Goethe Universität Frankfurt am Main, Commentary to John of Ephesus Ecclesiastical History. Patristic Text Archive 2025. Version: 676564b0, committed on 2025-11-26, https://pta.bbaw.de/text/urn:cts:pta:pta0200.pta001.pta-com1.",
+                            "dct:isPartOf": "Neueditionen"
+                        }
+                    }
                 }
             }
         ]
