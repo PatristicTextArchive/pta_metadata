@@ -50,7 +50,7 @@ CPG no.,BHG no.,Pinakes-Oeuvre no.,URN,Author,Title
 4236a.4,,2164,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta050,Severian of Gabala,De caeco nato
 4236a.5,1191g,4823,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta051,Severian of Gabala,Encomium in sanctos martyres
 4236a.6,,2865,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta052,Severian of Gabala,In postremum iudicium
-4236a.7,809b,7575,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053,Severian of Gabala,In accensionem domini
+4236a.7,809b,7575,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta053,Severian of Gabala,In ascensionem domini
 4728; 4236a.8,414p-414s,2351,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta054,Severian of Gabala,De cruce et latrone
 4872; 4236a.9,415m; 415n,11169,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta055,Severian of Gabala,Oratio de exaltatione Crucis
 4236a.10,,8687,https://pta.bbaw.de/text/urn:cts:pta:pta0001.pta056,Severian of Gabala,In Temptationem Domini Nostri Iesu Christi
@@ -76,7 +76,8 @@ CPG no.,BHG no.,Pinakes-Oeuvre no.,URN,Author,Title
 3467,,1514,https://pta.bbaw.de/text/urn:cts:pta:pta0003.pta020,Eusebius of Caesarea,Commentarii in Psalmos
 6207,,8794,https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta001,Theodoret of Cyrrhus,Interpretatio in Danielem
 6222,,6825,https://pta.bbaw.de/text/urn:cts:pta:pta0004.pta003,Theodoret of Cyrrhus,Historia ecclesiastica
-5200,,1956,https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001,Cyrill of Alexandria,De adoratione et cultu in spiritu et ueritate
+5200,,1956,https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta001,Cyrill of Alexandria,"De adoratione et cultu in spiritu et
+     ueritate"
 5201,,6709,https://pta.bbaw.de/text/urn:cts:pta:pta0005.pta002,Cyrill of Alexandria,Glaphyra in Pentateuchum
 6554,,1552,https://pta.bbaw.de/text/urn:cts:pta:pta0006.pta001,Hesychius of Jerusalem,Commentarius magnus in Psalmos
 1475,,6377,https://pta.bbaw.de/text/urn:cts:pta:pta0007.pta007,Origen,Exhortatio ad martyrium
@@ -98,7 +99,7 @@ CPG no.,BHG no.,Pinakes-Oeuvre no.,URN,Author,Title
 2137,,11447,https://pta.bbaw.de/text/urn:cts:pta:pta0022.pta017,Athanasius of Alexandria,Petitiones Arianorum
 2800,,,https://pta.bbaw.de/text/urn:cts:pta:pta0023.pta001,Marcellus of Ancyra,Fragmenta
 2244,,3823,https://pta.bbaw.de/text/urn:cts:pta:pta0029.pta002,Ps.-Athanasius of Alexandria,De sabbatis et circumcisione
-5525,635c,12440,https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016,Eusebius (“Alexandrinus”),De die dominica
+5525,635d,12440,https://pta.bbaw.de/text/urn:cts:pta:pta0030.pta016,Eusebius (“Alexandrinus”),De die dominica
 6034,,6823,https://pta.bbaw.de/text/urn:cts:pta:pta0036.pta001,Anonymus of Cyzicus,Historia ecclesiastica
 1873,,1491,https://pta.bbaw.de/text/urn:cts:pta:pta0037.pta001,Hippolytus of Rome,Commentarii in Danielem
 1052,,11416,https://pta.bbaw.de/text/urn:cts:pta:pta0038.pta001,Hermas,Pastor

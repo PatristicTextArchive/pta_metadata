@@ -6,7 +6,7 @@
 #RELATION: http://www.w3.org/2000/01/rdf-schema#seeAlso
 #CONTACT: Dr. Annette von Stockhausen <annette.von_stockhausen@bbaw.de>
 #INSTITUTION: Berlin-Brandenburgische Akademie der Wissenschaften
-#TIMESTAMP: 2026-01-03T12:54:15.434170+00:00
+#TIMESTAMP: 2026-05-21T10:54:10.516448+00:00
 #UPDATE: monthly
 287|https://pta.bbaw.de/manuscripts/PTAMS00562
 344|https://pta.bbaw.de/manuscripts/PTAMS00002
@@ -31,6 +31,7 @@
 2649|https://pta.bbaw.de/manuscripts/PTAMS00020
 2718|https://pta.bbaw.de/manuscripts/PTAMS00021
 2721|https://pta.bbaw.de/manuscripts/PTAMS00022
+2724|https://pta.bbaw.de/manuscripts/PTAMS00633
 2751|https://pta.bbaw.de/manuscripts/PTAMS00023
 2752|https://pta.bbaw.de/manuscripts/PTAMS00024
 2753|https://pta.bbaw.de/manuscripts/PTAMS00025
@@ -105,6 +106,7 @@
 18182|https://pta.bbaw.de/manuscripts/PTAMS00080
 18327|https://pta.bbaw.de/manuscripts/PTAMS00081
 18373|https://pta.bbaw.de/manuscripts/PTAMS00082
+18380|https://pta.bbaw.de/manuscripts/PTAMS00632
 18462|https://pta.bbaw.de/manuscripts/PTAMS00083
 18566|https://pta.bbaw.de/manuscripts/PTAMS00084
 18584|https://pta.bbaw.de/manuscripts/PTAMS00085
@@ -154,7 +156,7 @@
 27363|https://pta.bbaw.de/manuscripts/PTAMS00126
 27388|https://pta.bbaw.de/manuscripts/PTAMS00127
 27395|https://pta.bbaw.de/manuscripts/PTAMS00128
-27588|https://pta.bbaw.de/manuscripts/PTAMS00129
+28406|https://pta.bbaw.de/manuscripts/PTAMS00129
 28406|https://pta.bbaw.de/manuscripts/PTAMS00130
 28629|https://pta.bbaw.de/manuscripts/PTAMS00131
 28647|https://pta.bbaw.de/manuscripts/PTAMS00132
@@ -412,8 +414,8 @@
 50396|https://pta.bbaw.de/manuscripts/PTAMS00353
 50570|https://pta.bbaw.de/manuscripts/PTAMS00354
 50577|https://pta.bbaw.de/manuscripts/PTAMS00355
-50627|https://pta.bbaw.de/manuscripts/PTAMS00622
 50627|https://pta.bbaw.de/manuscripts/PTAMS00617
+50627|https://pta.bbaw.de/manuscripts/PTAMS00622
 50643|https://pta.bbaw.de/manuscripts/PTAMS00555
 50765|https://pta.bbaw.de/manuscripts/PTAMS00356
 50771|https://pta.bbaw.de/manuscripts/PTAMS00357

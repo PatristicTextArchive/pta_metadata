@@ -1244,7 +1244,8 @@
         "iiif_manifest": "https://rbdigital.realbiblioteca.es/files/manifests/Phi-III-20.json",
         "contents": [
             "urn:cts:pta:pta0001.pta028",
-            "urn:cts:pta:pta0001.pta015"
+            "urn:cts:pta:pta0001.pta015",
+            "urn:cts:pta:pta0001.pta017"
         ]
     },
     {
@@ -1534,8 +1535,8 @@
         "origDate": "a. 1638–1639",
         "origDate_notbefore": "1638-01-01",
         "origDate_notafter": "1639-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/1e2d9269-5cc1-4f4a-97b3-b4e15f9067c4",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/1e2d9269-5cc1-4f4a-97b3-b4e15f9067c4",
         "contents": [
             "urn:cts:pta:pta0001.pta032"
         ]
@@ -1552,8 +1553,8 @@
         "origDate": "s. 17",
         "origDate_notbefore": "1601-01-01",
         "origDate_notafter": "1700-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/4b6c38af-04a9-42e5-9240-7e81cd24ade5",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/4b6c38af-04a9-42e5-9240-7e81cd24ade5",
         "contents": [
             "urn:cts:pta:pta0001.pta026",
             "urn:cts:pta:pta0001.pta004"
@@ -1571,8 +1572,8 @@
         "origDate": "s. 17",
         "origDate_notbefore": "1601-01-01",
         "origDate_notafter": "1700-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/65641d16-faac-44e6-81e5-d3633c701dc8",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/65641d16-faac-44e6-81e5-d3633c701dc8",
         "contents": [
             "urn:cts:pta:pta0001.pta016",
             "urn:cts:pta:pta0001.pta032"
@@ -1792,8 +1793,8 @@
         "origDate": "s. 19",
         "origDate_notbefore": "1801-01-01",
         "origDate_notafter": "1900-12-31",
-        "images": "http://hdl.handle.net/20.500.11957/128541",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/9e89f574-3f21-46bb-864b-b33734a401d6",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/9e89f574-3f21-46bb-864b-b33734a401d6",
         "contents": [
             "urn:cts:pta:pta0001.pta021"
         ]
@@ -2215,8 +2216,8 @@
         "origDate": "s. 13",
         "origDate_notbefore": "1201-01-01",
         "origDate_notafter": "1300-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/b55fe3a5-f2d8-42a9-97fb-98575882119b",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/b55fe3a5-f2d8-42a9-97fb-98575882119b",
         "contents": [
             "urn:cts:pta:pta0001.pta018",
             "urn:cts:pta:pta0001.pta016",
@@ -2244,8 +2245,8 @@
         "origDate": "s. 15",
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
-        "images": "http://hdl.handle.net/20.500.11957/129779",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/45797a05-0073-4443-9353-f75682fba563",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/45797a05-0073-4443-9353-f75682fba563",
         "contents": [
             "urn:cts:pta:pta0001.pta019",
             "urn:cts:pta:pta0001.pta020",
@@ -2522,7 +2523,7 @@
     {
         "id": "PTAMS00129",
         "status": "draft",
-        "diktyon": "27588",
+        "diktyon": "28406",
         "manuscript": "Hagion Oros, Monê Megistês Lauras, Mss. Κ 98 (Eustratiades 1385)",
         "settlement": "Hagion Oros",
         "repository": "Monê Megistês Lauras",
@@ -2531,7 +2532,7 @@
         "origDate": "s. 15",
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
-        "images": "https://www.loc.gov/item/00271051451-ma/",
+        "images": "",
         "iiif_manifest": "",
         "contents": [
             "urn:cts:pta:pta0001.pta050",
@@ -2832,8 +2833,8 @@
         "origDate": "s. 11",
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
-        "images": "http://ntvmr.uni-muenster.de/manuscript-workspace/?docid=42357",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/1b4e60d6-8e0e-4f07-b397-ffb20d003505",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/1b4e60d6-8e0e-4f07-b397-ffb20d003505",
         "contents": [
             "urn:cts:pta:pta0001.pta006",
             "urn:cts:pta:pta0001.pta004",
@@ -2852,8 +2853,8 @@
         "origDate": "s. 11",
         "origDate_notbefore": "1001-01-01",
         "origDate_notafter": "1100-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/102ca8ca-8bc8-4d9f-829c-6d8afb4a7473",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/102ca8ca-8bc8-4d9f-829c-6d8afb4a7473",
         "contents": [
             "urn:cts:pta:pta0001.pta006",
             "urn:cts:pta:pta0001.pta004",
@@ -2880,8 +2881,8 @@
         "origDate": "s. 16",
         "origDate_notbefore": "1501-01-01",
         "origDate_notafter": "1600-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/96b17eda-33f6-45a8-82fb-3f9f2ead0531",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/96b17eda-33f6-45a8-82fb-3f9f2ead0531",
         "contents": [
             "urn:cts:pta:pta0001.pta027"
         ]
@@ -2898,8 +2899,8 @@
         "origDate": "s. 15",
         "origDate_notbefore": "1401-01-01",
         "origDate_notafter": "1500-12-31",
-        "images": "http://hdl.handle.net/20.500.11957/101370",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/4ca79bbf-3d80-473a-a4c5-67fa27f4a363",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/4ca79bbf-3d80-473a-a4c5-67fa27f4a363",
         "contents": [
             "urn:cts:pta:pta0001.pta004"
         ]
@@ -6823,6 +6824,7 @@
         "images": "https://gallica.bnf.fr/ark:/12148/btv1b10723952m",
         "iiif_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10723952m/manifest.json",
         "contents": [
+            "urn:cts:pta:pta0001.pta044",
             "urn:cts:pta:pta0001.pta045"
         ]
     },
@@ -8364,13 +8366,45 @@
         "images": "",
         "iiif_manifest": "",
         "contents": [
+            "cpg:4329.07",
+            "cpg:4329.01",
+            "cpg:4329.02",
+            "cpg:4329.03",
+            "",
+            "cpg:4329.04",
+            "cpg:4329.05",
+            "cpg:4417.2",
+            "cpg:4417.3",
+            "cpg:4417.4",
+            "cpg:4417.5",
+            "cpg:4417.6",
+            "bhg:1108",
+            "cpg:4386",
+            "cpg:4332",
+            "cpg:4417.1",
+            "cpg:4527",
+            "cpg:4419",
+            "cpg:3194",
+            "cpg:3192",
+            "cpg:4420.2",
             "urn:cts:pta:pta0001.pta019",
+            "cpg:4393",
+            "cpg:4392",
+            "cpg:4528",
+            "cpg:4319",
+            "cpg:4204",
+            "cpg:4334",
+            "cpg:4194",
+            "cpg:4677",
             "urn:cts:pta:pta0001.pta008",
             "urn:cts:pta:pta0001.pta014",
+            "cpg:4400",
             "urn:cts:pta:pta0001.pta025",
+            "cpg:4328",
             "urn:cts:pta:pta0001.pta006",
             "urn:cts:pta:pta0001.pta004",
-            "urn:cts:pta:pta0001.pta001"
+            "urn:cts:pta:pta0001.pta001",
+            "cpg:4335"
         ]
     },
     {
@@ -9204,6 +9238,27 @@
         "images": "http://digi.vatlib.it/view/MSS_Vat.gr.450",
         "iiif_manifest": "https://digi.vatlib.it/iiif/MSS_Vat.gr.450/manifest.json",
         "contents": [
+            "bhg:1666-1666a",
+            "cpg:3170",
+            "cpg:3145",
+            "cpg:3163",
+            "cpg:4393",
+            "cpg:4392",
+            "cpg:4528",
+            "cpg:4383",
+            "cpg:4329",
+            "cpg:4972",
+            "cpg:5557",
+            "cpg:1764",
+            "cpg:4329.05",
+            "cpg:4386",
+            "cpg:4377",
+            "cpg:4378",
+            "cpg:4379",
+            "cpg:4332",
+            "cpg:4417.1",
+            "cpg:4417",
+            "cpg:4527",
             "urn:cts:pta:pta0001.pta019"
         ]
     },
@@ -12814,10 +12869,10 @@
         "status": "draft",
         "diktyon": "-",
         "manuscript": "Ljubljana, Narodna in univerzitetna knjižnica, Cod. Kop. 2 (Codex Suprasliensis)",
-        "settlement": "Ljubljana",
-        "repository": "Narodna in univerzitetna knjižnica",
-        "collection": "Cod. Kop.",
-        "idno": "2",
+        "settlement": "Narodna in univerzitetna knjižnica",
+        "repository": "Cod.",
+        "collection": "Kop. 2",
+        "idno": "",
         "origDate": "s. 9-10",
         "origDate_notbefore": "0801-01-01",
         "origDate_notafter": "1000-12-31",
@@ -12832,10 +12887,10 @@
         "status": "draft",
         "diktyon": "70252",
         "manuscript": "Venezia, Biblioteca Nazionale Marciana, gr. II. 90 (coll. 1259)",
-        "settlement": "Venezia",
-        "repository": "Biblioteca Nazionale Marciana",
-        "collection": "gr.",
-        "idno": "II. 90 (coll. 1259)",
+        "settlement": "Biblioteca Nazionale Marciana",
+        "repository": "gr.",
+        "collection": "II. 90 (coll. 1259)",
+        "idno": "",
         "origDate": "s. 16 in.",
         "origDate_notbefore": "1500-01-01",
         "origDate_notafter": "1510-12-31",
@@ -12983,8 +13038,8 @@
         "origDate": "s. 17",
         "origDate_notbefore": "1601-01-01",
         "origDate_notafter": "1700-12-31",
-        "images": "",
-        "iiif_manifest": "",
+        "images": "https://repo.mountathos.org/en/items/dbe17ab2-6113-4f2b-8158-4b910a1e903f",
+        "iiif_manifest": "https://dspace.mountathos.org/iiif/manifest/dbe17ab2-6113-4f2b-8158-4b910a1e903f",
         "contents": [
             "urn:cts:pta:pta0040.pta001"
         ]
@@ -13136,6 +13191,45 @@
         "iiif_manifest": "",
         "contents": [
             "urn:cts:pta:pta0001.pta073"
+        ]
+    },
+    {
+        "id": "PTAMS00632",
+        "status": "draft",
+        "diktyon": "18380",
+        "manuscript": "Hagion Oros, Monê Batopediou, Mss. 236",
+        "settlement": "Hagion Oros",
+        "repository": "Monê Batopediou",
+        "collection": "Mss.",
+        "idno": "236",
+        "origDate": "s. 12-13",
+        "origDate_notbefore": "1101-01-01",
+        "origDate_notafter": "1300-12-31",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            ""
+        ]
+    },
+    {
+        "id": "PTAMS00633",
+        "status": "draft",
+        "diktyon": "2724",
+        "manuscript": "Athêna, Ethnikê Bibliothêkê tês Hellados (EBE), Mss. 428",
+        "settlement": "Athêna",
+        "repository": "Ethnikê Bibliothêkê tês Hellados (EBE)",
+        "collection": "Mss.",
+        "idno": "428",
+        "origDate": "s. 14",
+        "origDate_notbefore": "1301-01-01",
+        "origDate_notafter": "1400-12-31",
+        "images": "",
+        "iiif_manifest": "",
+        "contents": [
+            "cpg:2093",
+            "cpg:2092",
+            "urn:cts:pta:pta0022.pta001",
+            "urn:cts:pta:pta0022.pta002"
         ]
     }
 ]
